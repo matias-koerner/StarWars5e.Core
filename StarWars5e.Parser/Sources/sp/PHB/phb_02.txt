@@ -43,7 +43,7 @@ En virtud de su especie, su personaje puede hablar, leer y escribir ciertos idio
 
 <img src='https://www.gmbinder.com/images/aGfQe3g.png' style='position:absolute;bottom:28px;right:3px;width:819px;z-index:1000;' />
 
-\pagebreak
+\pagebreakNum
 
 ___
 > ## Bith

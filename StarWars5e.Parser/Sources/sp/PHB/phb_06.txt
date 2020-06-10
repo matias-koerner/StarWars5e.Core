@@ -1,33 +1,33 @@
 
 
-# Chapter 6: Customization Options
+# Capítulo 6: Opciones de personalización
 
 <img src='https://www.gmbinder.com/images/PqYzVdr.png' style='position:absolute;top:90px;left:75px;width:29px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">he combination of ability scores, species, class, and</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; background defines your character's capabilities in the game, and the personal details you create set your character apart from every other character. Even within your class and species, you have options to fine-tune what your character can do. But this chapter is for players who—with the GM's permission—want to go a step further.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">la combinación de puntuaciones de habilidad, especie, clase, y</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el fondo define las capacidades de tu personaje en el juego, y los detalles personales que creas diferencian a tu personaje de todos los demás. Incluso dentro de tu clase y especie, tienes opciones para afinar lo que tu personaje puede hacer. Pero este capítulo es para los jugadores que, con el permiso del GM, quieren ir un paso más allá.
 
-This chapter defines two optional sets of rules for customizing your character: multiclassing and feats. Multiclassing lets you combine classes together, and feats are special options you can choose instead of increasing your ability s cores as you gain levels. Your GM decides whether these options are available in a campaign.
+En este capítulo se definen dos conjuntos de reglas opcionales para personalizar tu personaje: la multiclasificación y las hazañas. La multiclasificación te permite combinar las clases entre sí, y las hazañas son opciones especiales que puedes elegir en lugar de aumentar tus núcleos de habilidad a medida que vas ganando niveles. Tu GM decide si estas opciones están disponibles en una campaña.
 
 ## Multiclassing
-Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
+La multiclasificación le permite ganar niveles en múltiples clases. Hacerlo te permite mezclar las habilidades de esas clases para realizar un concepto de personaje que podría no estar reflejado en una de las opciones de clase estándar.
 
-With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in consular and two in fighter, you're a 5th-level character.
+Con esta regla, tienes la opción de ganar un nivel en una nueva clase cada vez que avances en el nivel, en lugar de ganar un nivel en tu clase actual. Tus niveles en todas tus clases se suman para determinar el nivel de tu personaje. Por ejemplo, si tienes tres niveles en consular y dos en luchador, eres un personaje de 5º nivel.
 
-As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you'll sacrifice some focus in exchange for versatility.
+A medida que avanzas en los niveles, puedes permanecer principalmente como miembro de tu clase original con sólo unos pocos niveles en otra clase, o puedes cambiar de curso por completo, sin mirar nunca atrás a la clase que dejaste atrás. Incluso puedes empezar a progresar en una tercera o cuarta clase. Comparado con un personaje de una sola clase del mismo nivel, sacrificarás algo de concentración a cambio de versatilidad.
 
 ><br>
 >
-> #### Multiclassing Example
+> #### Ejemplo de Multiclassing
 > 
->Drew is playing a 4th-level fighter. When his character earns enough experience points to reach 5th level, Drew decides that his character will multiclass instead of continuing to progress as a fighter. Drew's fighter has been spending a lot of time with Rickey's scout, and has even been doing some jobs on the side for the Bounty Broker's Association as a bounty hunter. Drew decides that his character will multiclass into the operative class, and thus his character becomes a 4th-level fighter and 1st-level operative (written as fighter 4/operative 1).
+>Drew está jugando a ser un luchador de 4º nivel. Cuando su personaje gana suficientes puntos de experiencia para alcanzar el 5º nivel, Drew decide que su personaje será multiclase en lugar de seguir progresando como luchador. El luchador de Drew ha pasado mucho tiempo con el explorador de Rickey, e incluso ha estado haciendo algunos trabajos secundarios para la Asociación de Cazarrecompensas como cazarrecompensas. Drew decide que su personaje pasará a la clase operativa, y así su personaje se convierte en un luchador de 4º nivel y en un operativo de 1º nivel (escrito como luchador 4/operativo 1).
 > 
->When Drew's character earns enough experience to reach 6th level, he can decide whether to add another fighter level (becoming a fighter 5/operative 1), another operative level (becoming a fighter 4/operative 2), or a level in a third class, perhaps dabbling in the Force thanks to a Sith holocron he acquired (becoming a fighter 4/operative 1/consular 1).
+>Cuando el personaje de Drew gana suficiente experiencia para alcanzar el 6º nivel, puede decidir si añade otro nivel de luchador (convirtiéndose en un luchador 5/operativo 1), otro nivel operativo (convirtiéndose en un luchador 4/operativo 2), o un nivel en una tercera clase, quizás incursionando en la Fuerza gracias a un holocrón Sith que adquirió (convirtiéndose en un luchador 4/operativo 1/consular 1).
 <br><br>
 
 \columnbreak
 
-### Prerequisites
-To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a fighter who decides to multiclass into the consular class must have either Strength or Dexterity and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
+### Prerequisitos
+Para calificar para una nueva clase, debe cumplir los requisitos previos de puntuación de habilidades tanto para su clase actual como para la nueva, tal como se muestra en la tabla de Requisitos previos de multiclases. Por ejemplo, un combatiente que decida pasar a la clase consular en multiclase debe tener una puntuación de Fuerza o Destreza y Sabiduría de 13 o más. Sin el entrenamiento completo que recibe un personaje principiante, debe ser un estudiante rápido en su nueva clase, teniendo una aptitud natural que se refleje en puntuaciones de habilidad superiores a la media.
 
 ##### Multiclassing Prerequisites
 |Class|&nbsp;&nbsp;|Ability Score Minimum|
@@ -43,25 +43,25 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 |Sentinel||Dexterity 13, Wisdom or Charisma 13|
 |Scout||Strength or Dexterity 13, Intelligence 13|
 
-### Experience Points
-The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. So, if you are a consular 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a consular.
+### Puntos de experiencia
+El costo del punto de experiencia para ganar un nivel siempre se basa en el nivel total de tu personaje, como se muestra en la tabla de avance del personaje en el capítulo 1, no en tu nivel en una clase en particular. Así que, si eres un consular 6/peleador 1, debes ganar suficiente XP para alcanzar el 8º nivel antes de que puedas tomar tu segundo nivel como peleador o tu séptimo nivel como consular.
 
 ### Hit Points and Hit Dice
-You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
+Ganarás los puntos de golpe de tu nueva clase como se describe para los niveles posteriores al primero. Los puntos de golpe del primer nivel de una clase sólo se obtienen cuando eres un personaje de primer nivel.
 
-You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the guardian have a d10, so if you are a fighter 5/guardian 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a fighter 5/operative 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
+Suma los Dados de Golpe concedidos por todas tus clases para formar tu pool de Dados de Golpe. Si los Dados son del mismo tipo de dado, puedes simplemente juntarlos. Por ejemplo, tanto el luchador como el guardián tienen un d10, así que si eres un luchador 5/guardián 5, tienes diez dados de golpe d10. Si tus clases te dan dados de diferentes tipos, mantenlos en un registro separado. Si eres un luchador 5/operativo 5, por ejemplo, tienes cinco d10 y cinco d8.
 
 ### Proficiency Bonus
-Your proficiency bonus is always based on your total character level, as shown in the Character Advancement table in chapter 1, not your level in a particular class. For example, if you are a fighter 3/operative 2, you have the proficiency bonus of a 5th-level character, which is +3.
+Tu bono de competencia siempre se basa en el nivel total de tu personaje, como se muestra en la tabla de avance del personaje en el capítulo 1, no en tu nivel en una clase en particular. Por ejemplo, si eres un luchador 3/operativo 2, tienes el bono de habilidad de un personaje de 5º nivel, que es +3.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
-If a class feature or feat allows you to forgo your proficiency bonus, you may only do so once.
+Si una característica o hazaña de la clase te permite renunciar a tu bono de competencia, sólo puedes hacerlo una vez.
 
-### Proficiencies
-When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
+### Proficiency
+Cuando ganas un nivel en una clase que no es la primera, sólo ganas algunas de las competencias iniciales de esa clase, como se muestra en la tabla de Competencias de Multiclasificación.
 
 ##### Multiclassing Proficiencies
 |Class|&nbsp;&nbsp;|Proficiencies Gained|
@@ -77,41 +77,41 @@ When you gain a level in a class other than your first, you gain only some of th
 |Scholar||Light armor, one skill from the class's skill list|
 |Sentinel||Light armor, simple lightweapons|
 
-## Class Features
-When you gain a new level in a class, you get its features for that level. A few features, however, have additional rules when you're multiclassing: Extra Attack, Superiority Die, Unarmored Defense, and Force- or Tech-casting.
+## Características de la clase
+Cuando ganas un nuevo nivel en una clase, obtienes sus características para ese nivel. Algunas características, sin embargo, tienen reglas adicionales cuando estás en multiclase: Ataque extra, muerte por superioridad, defensa sin armadura y lanzamiento de fuerza o tecnología.
 
 ### Extra Attack
-If you gain the Extra Attack class feature from more than one class, the features don't add together. You can't make more than two attacks with this feature unless it says you do (as the fighter's version of Extra Attack does). 
+Si obtienes la característica de la clase Extra Ataque de más de una clase, las características no se suman. No puedes hacer más de dos ataques con esta característica a menos que te diga que lo hagas (como lo hace la versión de combate de Extra Attack). 
 
 ### Superiority Die
-If you gain superiority dice from another class, you instead gain one additional die to your existing pool of dice.
+Si ganas los dados de superioridad de otra clase, en su lugar ganas un dado adicional a tu actual reserva de dados.
 
 ### Unarmored Defense
-If you already have the Unarmored Defense feature, you can't gain it again from another class.
+Si ya tienes la función de Defensa sin Armadura, no puedes volver a obtenerla de otra clase.
 
 ### Force- and Tech-casting
-Your capacity for force- and tech-casting depends partly on your combined levels in all your force- or tech-casting classes and partly on your individual levels in those classes. Once you have the force- or tech-casting feature from more than one class, use the rules below. If you multiclass but have the force- or tech-casting feature from only one class, you follow the rules as described in that class.
+Su capacidad para la fuerza y la tecnología depende en parte de sus niveles combinados en todas sus clases de fuerza o tecnología y en parte de sus niveles individuales en esas clases. Una vez que tengas la característica de fuerza o tecnología de más de una clase, usa las reglas de abajo. Si tienes varias clases pero tienes la función de fuerza o tecnología de una sola clase, sigue las reglas descritas en esa clase.
 
 \columnbreak
 
 #### Powers Known 
-You determine what powers you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a scout 4/consular 3, for example, you know 6 tech powers of no higher than 1st-level. As a 3rd-level consular, you know 11 force powers of no higher than 2nd-level.
+Usted determina qué poderes conoce y puede preparar para cada clase individualmente, como si fuera un miembro de una sola clase de esa clase. Si eres un explorador 4/consular 3, por ejemplo, conoces 6 poderes tecnológicos de no más de 1er nivel. Si eres un consular de 3º nivel, conoces 11 poderes de fuerza no superiores a los de 2º nivel.
 
-Each power you know is associated with one of your classes, and you use the force- or tech-casting ability of that class when you cast the power. 
+Cada poder que conoces está asociado con una de tus clases, y usas la fuerza o la habilidad de proyección de tecnología de esa clase cuando lanzas el poder. 
 
 #### Force and Tech Points 
-You determine your available force or tech points by adding together the amount given by each class, but you only add your casting modifier once. 
+Se determina la fuerza disponible o los puntos técnicos sumando la cantidad dada por cada clase, pero sólo se añade el modificador de reparto una vez. 
 
-If you have both force and tech points, you keep your pools separate, and they can only be used to fuel force or tech powers, respectively.
+Si tienes ambos puntos de fuerza y tecnología, mantienes tus piscinas separadas, y sólo pueden ser usadas para alimentar la fuerza o la tecnología, respectivamente.
 
 #### Max Power Level
-You determine your max power level by adding together all your levels in consular or engineer, two-thirds of your levels (rounded up) in the sentinel class, half your levels (rounded down) in the scout or guardian class, and a third of your berserker, fighter, or operative levels (rounded down) if you have the Marauder Approach, Shield Specialist, or Saboteur Practice feature. Use this total to determine your max power level by consulting the Multiclass Max Power Level table.
+Determinas tu nivel de poder máximo sumando todos tus niveles en consular o de ingeniero, dos tercios de tus niveles (redondeados al alza) en la clase de centinela, la mitad de tus niveles (redondeados al alza) en la clase de explorador o guardián, y un tercio de tus niveles de berserker, luchador u operativo (redondeados al alza) si tienes la característica de Acercamiento al Marauder, Especialista en escudos o Práctica de saboteador. Utiliza este total para determinar tu nivel de potencia máxima consultando la tabla de Nivel de Potencia Máxima de Multiclase.
 
-If you have more than one force- or tech-casting class, this table might give you a higher max power level than the powers you know. You can cast powers at that level if they have an enhanced effect when cast at a higher level.
+Si tienes más de una clase de fuerza o tecnología, esta tabla puede darte un nivel de potencia máxima más alto que los poderes que conoces. Puedes lanzar poderes en ese nivel si tienen un efecto mejorado cuando se lanzan a un nivel más alto.
 
-For example, if you are the aforementioned consular 5/sentinel 3, you count as a 7th-level character when determining your max power level, which is 4. While you don't know any 4th-level force powers, you can cast powers at that level if they have an enhanced effect at a higher level.
+Por ejemplo, si eres el mencionado consular 5/sentinela 3, cuentas como un personaje de 7º nivel al determinar tu nivel de poder máximo, que es 4. Aunque no conoces ningún poder de fuerza de 4º nivel, puedes lanzar poderes de ese nivel si tienen un efecto mejorado en un nivel más alto.
 
-If you have both force- and tech-casting, you determine your max power levels separately, and they can only be used to cast force or tech powers, respectively.
+Si tienes ambos, fuerza y tecnología, determinas tus niveles máximos de potencia por separado, y sólo pueden ser usados para lanzar fuerza o tecnología, respectivamente.
 
 ##### Multiclass Max Power Level
 <div style='column-count:2'>
@@ -144,811 +144,811 @@ If you have both force- and tech-casting, you determine your max power levels se
 
 </div>
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
-## Fighting Styles
-Certain class features or feats offer your choice of Fighting Style. Choose from the following. You can't take a Fighting Style option more than once, even if you later get to choose again.
+## Estilos de lucha
+Ciertas características o hazañas de clase ofrecen la posibilidad de elegir el estilo de lucha. Elija entre los siguientes. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
 
 #### Brawling
-You are skilled at using your weight to your advantage. You gain the following benefits:
-- You are proficient with improvised weapons.
-- Your unarmed strike damage increases by one step (from 1 to d4, d4 to d6, or d6 to d8).
-- When you attempt to shove or grapple a creature, or make an attack against a creature with an unarmed strike or an improvised weapon wielded in one hand on your turn, you can use your bonus action to make an additional attack, grapple, or shove against the same creature.
+Eres hábil en usar tu peso a tu favor. Obtienes los siguientes beneficios:
+- Eres hábil con las armas improvisadas.
+- El daño de tu golpe sin armas aumenta un paso (de 1 a d4, de d4 a d6, o de d6 a d8).
+- Cuando intentas empujar o agarrar a una criatura, o hacer un ataque contra una criatura con un golpe sin armas o un arma improvisada que se empuña en una mano en tu turno, puedes usar tu acción extra para hacer un ataque adicional, agarrar o empujar a la misma criatura.
 
 #### Close Quarters Shooting
-You are skilled at getting up close and personal with blaster weapons. While you are wielding a blaster weapon with which you are proficient, you gain the following benefits:
-- When making a ranged weapon attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. 
-- Your ranged weapon attacks ignore half cover against targets within 15 feet of you. 
-- You gain a +1 bonus to attack rolls you make with blaster weapons.
+Eres hábil para acercarte y conocer personalmente las armas explosivas. Mientras maneje un arma explosiva con la que sea competente, obtendrá los siguientes beneficios:
+- Cuando se hace un ataque con un arma a distancia mientras se está a 5 pies de una criatura hostil, no se tiene una desventaja en la tirada de ataque. 
+- Sus ataques con armas a distancia ignoran la media cobertura contra objetivos a menos de 15 pies de usted. 
+- Ganarás un bono +1 por las tiradas de ataque que hagas con las armas explosivas.
 
-#### Defense
-You are skilled at the art of defending yourself. While you are wearing armor with which you are proficient, you gain the following benefits:
-- You gain a +1 bonus to AC.
-- You have advantage on ability checks and saving throws to avoid being moved.
+#### Defensa
+Eres hábil en el arte de defenderte. Mientras que llevas una armadura con la que eres competente, obtienes los siguientes beneficios:
+- Ganas un bono +1 a AC.
+- Tienes ventaja en los controles de habilidad y en los lanzamientos de ahorro para evitar ser movido.
 
-#### Dueling
-You are skilled in the art of fighting with a single melee weapon. While you are wielding a melee weapon in one hand with which you are proficient and no other weapons, you gain a +2 bonus to damage rolls.
+#### Duelos
+Eres hábil en el arte de luchar con un solo arma de combate cuerpo a cuerpo. Mientras estés empuñando un arma de combate cuerpo a cuerpo en una mano con la que eres experto y ninguna otra arma, ganas un bono +2 a las tiradas de daño.
 
 #### Great Weapon Fighting
-You are skilled at putting the weight of a weapon to your advantage. While you are wielding a melee weapon in two hands with which you are proficient, when you roll a 1 or 2 on a damage die for an attack, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. 
+Eres hábil en poner el peso de un arma a tu favor. Mientras estés empuñando un arma de combate cuerpo a cuerpo en dos manos con las que eres hábil, cuando saques un 1 o un 2 en un dado de daño para un ataque, puedes volver a tirar el dado y debes usar la nueva tirada, incluso si la nueva tirada es un 1 o un 2. 
 
-#### Equilibrium
-You are skilled at fighting while minimally armored. While you are wearing no armor and not wielding a medium or heavy shield, you gain the following benefits:
-- You gain a +1 bonus to AC.
-- You gain a +1 bonus to attack rolls you make with unarmed strikes and weapon attacks.
+#### Equilibrio
+Eres hábil en la lucha mientras estás mínimamente blindado. Mientras no lleves una armadura y no uses un escudo mediano o pesado, obtienes los siguientes beneficios:
+- Ganas un bono +1 a AC.
+- Ganarás un bono +1 por las tiradas de ataque que hagas con los ataques sin armas y los ataques con armas.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
 #### Sentinel
-You are skilled at techniques that take advantage of every drop in any enemy's guard. While you are wielding a melee weapon with which you are proficient, you can use a bonus action to enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make a number of opportunity attacks equal to your proficiency bonus without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+Eres hábil en las técnicas que aprovechan cada baja en la guardia de cualquier enemigo. Mientras manejas un arma de combate cuerpo a cuerpo con la que eres competente, puedes usar una acción de bonificación para entrar en una posición defensiva que dura hasta el comienzo de tu siguiente turno. Mientras estás en tu posición defensiva, puedes realizar un número de ataques de oportunidad igual a tu bonificación de habilidad sin usar tu reacción, y puedes usar tu reacción para realizar un ataque cuerpo a cuerpo contra una criatura que se mueva más de 5 pies mientras esté a tu alcance.
 
 #### Sharpshooting
-You are skilled with blaster weapons and can make shots that others find difficult. While you are wielding a blaster weapon with which you are proficient, gain a +2 bonus to ranged weapon attacks.
+Eres hábil con las armas blaster y puedes hacer disparos que otros encuentran difíciles. Mientras maneje un arma blaster con la que sea hábil, gane un bono +2 a los ataques con armas de distancia.
 
 #### Shielding
-You are skilled at using your shield to defend your allies as well as yourself. While you are wielding a shield with which you are proficient, you gain the following benefits:
-- When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll.
-- If you are wielding a heavy shield, you are no longer required to wield a weapon with the light property in the other hand.
+Eres hábil en usar tu escudo para defender a tus aliados así como a ti mismo. Mientras estés blandiendo un escudo con el que eres competente, obtienes los siguientes beneficios:
+- Cuando una criatura que puedes ver ataca a un objetivo que no eres tú y que está a menos de 5 pies de ti, puedes usar tu reacción para imponer una desventaja en la tirada de ataque.
+- Si usted está blandiendo un escudo pesado, ya no es necesario que empuñe un arma con la propiedad ligera en la otra mano.
 
 #### Throwing
-You are skilled with the techniques of throwing weapons. While you are wielding a weapon with the thrown property with which you are proficient, you gain the following benefits:
-- You gain a +1 bonus to ranged attack and damage rolls. 
-- Whenever you make a ranged attack with a thrown weapon, you can immediately draw another weapon as part of the attack.
+Eres hábil con las técnicas de lanzamiento de armas. Mientras manejas un arma con la propiedad de lanzamiento con la que eres hábil, obtienes los siguientes beneficios:
+- Ganas un bono +1 por las tiradas de ataque y daño a distancia. 
+- Cuando haces un ataque a distancia con un arma lanzada, puedes inmediatamente sacar otra arma como parte del ataque.
 
 #### Two-Weapon Fighting
-You are skilled at fighting with two weapons. While you are wielding separate weapons in each hand, or a weapon with the double property, with which you are proficient, you gain the following benefits:
-- When you engage in Two-Weapon Fighting, you can add your ability modifier to the damage of your Two-Weapon Fighting attack.
-- When you make an opportunity attack, you can attack with both of your weapons.
+Eres hábil en la lucha con dos armas. Mientras que manejas armas separadas en cada mano, o un arma con la doble propiedad, con la que eres hábil, obtienes los siguientes beneficios:
+- Cuando te enfrentas a la Lucha con Dos Armas, puedes añadir tu modificador de habilidad al daño de tu ataque de Lucha con Dos Armas.
+- Cuando haces un ataque de oportunidad, puedes atacar con tus dos armas.
 
 #### Versatile Fighting
-You are skilled at using weapons in different ways. While you are wielding a melee weapon with the versatile property with which you are proficient and no other weapons, you gain the following benefits:
-- You gain a +1 bonus to attack rolls while wielding a weapon in one hand.
-- You gain a +1 bonus to damage rolls while wielding a weapon in two hands.
+Eres hábil en el uso de las armas de diferentes maneras. Mientras manejas un arma de combate cuerpo a cuerpo con la versátil propiedad con la que eres competente y sin otras armas, obtienes los siguientes beneficios:
+- Ganas un bono +1 por atacar tiradas mientras empuñas un arma en una mano.
+- Ganas un bono +1 por tiradas de daño mientras empuñas un arma en dos manos.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ## Feats
-A feat represents a talent or an area of expertise that gives character special capabilities. It embodies training, experience, and abilities beyond what a class provides. At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
+Una hazaña representa un talento o un área de especialización que le da al personaje capacidades especiales. Encarna el entrenamiento, la experiencia y las habilidades más allá de lo que proporciona una clase. En ciertos niveles, tu clase te da la característica de Mejora de la Puntuación de Habilidad. Usando la regla de las hazañas opcionales, puedes renunciar a esa característica para realizar una hazaña de tu elección. Puedes realizar cada hazaña una sola vez, a menos que la descripción de la hazaña diga lo contrario.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Inspiring Leader feat requires you to have a Charisma of 13 or higher. If your Charisma is reduced below 13 somehow—perhaps by a withering curse—you can't benefit from the Inspiring Leader feat until your Charisma is restored.
+Debes cumplir con cualquier prerrequisito especificado en una hazaña para realizarla. Si alguna vez pierdes un prerrequisito de una hazaña, no puedes usar esa hazaña hasta que recuperes el prerrequisito. Por ejemplo, la hazaña del Líder Inspirador requiere que tengas un carisma de 13 o más. Si tu carisma se reduce por debajo de 13 de alguna manera, tal vez por una maldición que se marchita, no puedes beneficiarte de la hazaña del Líder Inspirador hasta que recuperes tu carisma.
 
 ### Ace Pilot 
-You're quite experienced both on land and in the air, be it from time in a navy, as a mercenary, or perhaps even piracy. You gain the following benefits:
-- Increase your Intelligence score by 1, to a maximum of 20.
-- You gain proficiency in the Piloting skill. If you are already proficient in it, you instead gain expertise in it. 
-- Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check related to vehicles or ships, you are considered to have expertise in the Investigation or Perception skill.
+Tienes bastante experiencia tanto en tierra como en el aire, ya sea en la marina, como mercenario, o tal vez incluso en la piratería. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de Inteligencia en 1, hasta un máximo de 20.
+- Se gana destreza en la habilidad de pilotaje. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Siempre que se hace un control de Inteligencia (Investigación) o de Sabiduría (Percepción) relacionado con vehículos o barcos, se considera que se tiene experiencia en la habilidad de Investigación o Percepción.
 
 ### Acrobat 
-You become more nimble, gaining the following benefits: 
-- Increase your Dexterity score by 1, to a maximum of<br> 20. 
-- You gain proficiency in the Acrobatics skill. If you are already proficient in it, you instead gain expertise in it. 
-- As a bonus action, you can make a DC 15 Dexterity (Acrobatics) check. If you succeed, difficult terrain doesn't cost you extra movement until the end of the current turn.
+Te vuelves más ágil, obteniendo los siguientes beneficios: 
+- Aumenta tu puntuación de destreza en 1, hasta un máximo de <br> 20. 
+- Se gana en destreza en la habilidad de la acrobacia. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Como acción extra, puedes hacer un cheque de Destreza (Acrobacia) del DC 15. Si lo logras, el terreno difícil no te costará un movimiento extra hasta el final del turno actual.
 
 ### Actor
-Skilled at mimicry and dramatics, you gain the following benefits:
-- Increase your Charisma score by 1, to a maximum of<br> 20.
-- You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.
-- You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.
+Hábil en la mímica y el dramatismo, obtienes los siguientes beneficios:
+- Aumenta tu puntuación de Carisma en 1, hasta un máximo de <br> 20.
+- Tienes ventaja en los controles de Carisma (Engaño) y Carisma (Rendimiento) cuando intentas hacerte pasar por otra persona.
+- Puedes imitar el habla de otra persona o los sonidos hechos por otras criaturas. Debes haber escuchado a la persona que habla, o haber escuchado a la criatura hacer el sonido, durante al menos 1 minuto. Un control exitoso de Sabiduría (Insight) disputado por su control de Carisma (Decepción) permite a un oyente determinar que el efecto es fingido.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Alert
-Always on the lookout for danger, you gain the following benefits:
-- You gain a +5 bonus to initiative.
-- You can't be surprised while you are conscious.
-- Other creatures don't gain advantage on attack rolls against you as a result of being hidden from you.
+### Alerta
+Siempre atento al peligro, obtienes los siguientes beneficios:
+- Ganas un bono de +5 a la iniciativa.
+- No puedes sorprenderte mientras estés consciente.
+- Otras criaturas no ganan ventaja en las tiradas de ataque contra ti como resultado de estar escondidas de ti.
 
 ### Animal Handler 
-You master the techniques needed to train and handle animals. You gain the following benefits:
-- Increase your Wisdom score by 1, to a maximum of 20. 
-- You gain proficiency in the Animal Handling skill. If you are already proficient in it, you instead gain expertise in it. 
-- You can use a bonus action on your turn to command one friendly beast within 60 feet of you that can hear you and that isn't currently following the command of someone else. You decide now what action the beast will take and where it will move during its next turn, or you issue a general command that lasts for 1 minute, such as to guard a particular area.
+Domina las técnicas necesarias para entrenar y manejar animales. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de Sabiduría en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad de manejo de animales. Si ya eres competente en ella, en cambio, ganas experiencia en ella. 
+- Puedes usar una acción extra en tu turno para comandar una bestia amiga a menos de 60 pies de ti que pueda oírte y que no esté siguiendo el comando de otra persona. Ahora decides qué acción realizará la bestia y dónde se moverá durante su próximo turno, o bien das una orden general que dura 1 minuto, como por ejemplo para vigilar un área en particular.
 
 ### Ashla Mastery
-_**Prerequisite:** The ability to cast force powers_<br>
-Your calmness in the face of adversity allow you to more adeptly channel the light side of the Force. You gain the following benefits:
-- You gain a +1 bonus to your force save DC and force attack modifier of your light side force powers.
-- You can add one light side power of your max power level or below to the list of powers you can cast. This does not count against your powers known. 
-- When you successfully cast a light side power, either your or the target's (your choice) hit point maximum and current hit points increase by an amount equal to the power's level. This effect lasts for 1 minute. You can only have one instance of this effect active at a time.
+Prerrequisito: La capacidad de lanzar poderes de fuerza...
+Tu calma ante la adversidad te permite canalizar más hábilmente el lado de la luz de la Fuerza. Obtienes los siguientes beneficios:
+- Ganas un bono +1 a tu fuerza salvo DC y modificador de ataque de fuerza de tus poderes de fuerza del lado de la luz.
+- Puedes añadir un lado de luz de tu nivel máximo de potencia o inferior a la lista de poderes que puedes emitir. Esto no cuenta contra tus poderes conocidos. 
+- Cuando lanzas con éxito un poder lateral ligero, el punto de golpe máximo de tu o del objetivo (a tu elección) y los puntos de golpe actuales aumentan en una cantidad igual al nivel del poder. Este efecto dura 1 minuto. Sólo puedes tener un ejemplo de este efecto activo a la vez.
 
 ### Athlete
-You have undergone extensive physical training to gain the following benefits:
-- Increase your Strength or Dexterity score by 1, to a maximum of 20.
-- When you are prone, standing up uses only 5 feet of your movement.
-- Climbing doesn't halve your speed.
-- You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
+Ha sido sometido a un extenso entrenamiento físico para obtener los siguientes beneficios:
+- Aumenta tu puntuación de Fuerza o Destreza en 1, hasta un máximo de 20.
+- Cuando se está propenso, al ponerse de pie sólo se utilizan 5 pies de su movimiento.
+- La escalada no reduce a la mitad la velocidad.
+- Puedes hacer un salto largo o un salto alto después de moverte sólo 5 pies a pie, en lugar de 10 pies.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Battle Scarred
-You've spent a lifetime fighting, with the scars to prove it. You gain the following benefits:
-- Increase your Constitution score by 1, to a maximum of 20.
-- When you roll a 19 or a 20 on the d20 for a death saving throw, you regain 1 hit point. 
-- When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. Once you've used this ability, you must complete a long rest before you can use it again.
+Has pasado toda una vida luchando, con las cicatrices que lo demuestran. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de la Constitución en 1, hasta un máximo de 20.
+- Cuando tiras un 19 o un 20 en el d20 para un tiro de salvamento de la muerte, recuperas 1 punto de golpe. 
+- Cuando se te reduce a 0 puntos de golpe pero no mueres en el acto, puedes bajar a 1 punto de golpe en su lugar. Una vez que hayas usado esta habilidad, debes completar un largo descanso antes de poder usarla de nuevo.
 
 ### Bendu Mastery
-_**Prerequisite:** The ability to cast force powers_<br>
-You stride the line between the light side and the dark, lending a strength to your universal powers. You gain the following benefits:
-- You gain a +1 bonus to your force save DC and force attack modifier of your universal force powers.
-- You can add one universal power of your max power level or below to the list of powers you can cast. This does not count against your powers known. 
-- A creature affected by a universal power you cast gains disadvantage on the next saving throw or ability check made to resist a power you cast. 
+Prerrequisito: La capacidad de lanzar poderes de fuerza...
+Se desliza por la línea entre el lado claro y el oscuro, dando una fuerza a sus poderes universales. Obtienes los siguientes beneficios:
+- Ganas un bono +1 a tu fuerza salvo DC y modificador de ataque de fuerza de tus poderes de fuerza universal.
+- Puedes añadir un poder universal de tu nivel máximo de potencia o inferior a la lista de poderes que puedes emitir. Esto no cuenta contra tus poderes conocidos. 
+- Una criatura afectada por un poder universal que lanzas, gana desventaja en el siguiente lanzamiento de salvamento o chequeo de habilidad hecho para resistir un poder que lanzas. 
 
 ### Biochemist 
-You have studied the secrets of chemistry and are an expert in its practice, gaining the following benefits: 
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency with the biochemist's kit. If you are already proficient with it, you instead gain expertise with it. 
-- As an action, you can identify one medpac, stimpac, or adrenal within 5 feet of you, as if you had tasted it. You must see the liquid for this benefit to work. 
-- Over the course of a short or long rest, you can temporarily improve the potency of one medpac. To use this benefit, you must have a biochemist's kit with you, and the medpac must be within reach. If the medpac is consumed before the end of your next short or long rest, when a creature uses this medpac, they take the maximum instead of rolling.
+Usted ha estudiado los secretos de la química y es un experto en su práctica, obteniendo los siguientes beneficios: 
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se gana en destreza con el kit del bioquímico. Si ya eres competente con él, en vez de eso ganas experiencia con él. 
+- Como acción, puedes identificar un medpac, stimpac o adrenal a menos de 5 pies de ti, como si lo hubieras probado. Debes ver el líquido para que este beneficio funcione. 
+- En el transcurso de un corto o largo descanso, puede mejorar temporalmente la potencia de un medpac. Para utilizar este beneficio, debe tener un kit de bioquímica con usted, y el medpac debe estar a su alcance. Si el medpac se consume antes de que termine su próximo descanso corto o largo, cuando una criatura usa este medpac, toma el máximo en lugar de rodar.
 
 ### Blade Mastery
-You master the doubleblade, doublesaber, doubleshoto, doublesword, hidden blade, lightdagger, lightfoil, lightsaber, martial lightsaber, shotosaber, techblade, vibroblade, vibrodagger, and vibrorapier. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-- You gain a +1 bonus to the weapon's attack rolls.
-- As a bonus action, you can take a parrying stance. Until the start of your next turn, you have a +1 bonus to AC unless you are disarmed.
-- When you make an opportunity attack with the weapon, you have advantage on the attack roll.
+Dominas la doble hoja, el sable doble, la doble fotografía, la doble espada, la cuchilla oculta, la daga láser, el papel de luz, el sable láser, el sable marcial, el sable fotográfico, la cuchilla técnica, la vibrodaga, la daga láser y el vibrador. Al empuñar cualquiera de estas armas, si se es experto en ellas, se obtienen los siguientes beneficios:
+- Ganas un bono +1 a las tiradas de ataque del arma.
+- Como una acción extra, puedes tomar una postura de evasión. Hasta el comienzo de tu próximo turno, tienes una bonificación +1 a AC a menos que estés desarmado.
+- Cuando haces un ataque de oportunidad con el arma, tienes ventaja en la tirada de ataque.
 
 \columnbreak
 
 ### Bloodthirsty
-You fight with reckless abandon, caring not of your own safety. You use your pain to fuel your attacks, causing your enemies even greater pain. You may die one day - but that day will come earlier for your enemies. You gain the following benefits:
-- When a creature within 5 feet of you misses you with a melee attack, you can use your reaction to cause the attack to hit you. If the attack hits and deals damage, you can immediately make a melee weapon attack with advantage against that creature.
-- When a creature scores a critical hit against you, you have advantage on the next attack you make against that creature, until the end of your next turn.
+Luchas con imprudente abandono, sin preocuparte por tu propia seguridad. Usas tu dolor para alimentar tus ataques, causando a tus enemigos un dolor aún mayor. Puede que mueras un día, pero ese día llegará antes para tus enemigos. Obtienes los siguientes beneficios:
+- Cuando una criatura a menos de 5 pies de ti te falla con un ataque cuerpo a cuerpo, puedes usar tu reacción para hacer que el ataque te golpee. Si el ataque golpea e inflige daño, puedes hacer inmediatamente un ataque cuerpo a cuerpo con ventaja contra esa criatura.
+- Cuando una criatura te da un golpe crítico, tienes ventaja en el siguiente ataque que hagas contra esa criatura, hasta el final de tu siguiente turno.
 
 ### Bogan Mastery
-_**Prerequisite:** The ability to cast force powers_<br>
-Your use of intense, raw emotion has improved your ability to harness the dark side of the Force. You gain the following benefits:
-- You gain a +1 bonus to your force save DC and force attack modifier of your dark side force powers.
-- You can add one dark side power of your max power level or below to the list of powers you can cast. This does not count against your powers known. 
-- When you roll a 1 or 2 on a damage die for a dark side power, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. 
+Prerrequisito: La capacidad de lanzar poderes de fuerza...
+El uso de emociones intensas y crudas ha mejorado su capacidad para aprovechar el lado oscuro de la Fuerza. Obtienes los siguientes beneficios:
+- Ganas un bono +1 a tu fuerza salvo DC y modificador de ataque de fuerza de tus poderes de fuerza del lado oscuro.
+- Puedes añadir un poder del lado oscuro de tu nivel de poder máximo o inferior a la lista de poderes que puedes emitir. Esto no cuenta contra tus poderes conocidos. 
+- Cuando sacas un 1 o 2 en un dado de daño para una potencia del lado oscuro, puedes volver a tirar el dado y debes usar la nueva tirada, incluso si la nueva tirada es un 1 o un 2. 
 
 ### Bountiful Luck
-_**Prerequisite:**_ Lucky _feat_<br>
-Your people have extraordinary luck, which you have learned to lend to your companions when you see them falter. You're not sure how you do it; you just wish it, and it happens. Surely a sign of fortune's favor!
+Pre-requisito:**_ Afortunado _feat_<br>
+Su gente tiene una suerte extraordinaria, que ha aprendido a prestar a sus compañeros cuando los ve vacilar. No estás seguro de cómo lo haces; sólo lo deseas, y sucede. ¡Seguramente una señal del favor de la fortuna!
 
-When an ally you can see within 30 feet of you rolls a 1 on the d20 for an attack roll, an ability check, or a saving throw, you can use your reaction and expend 1 luck point to let the ally reroll the die. The ally must use the new roll.
+Cuando un aliado que puedes ver a menos de 30 pies de ti tira un 1 en el d20 para una tirada de ataque, un chequeo de habilidad o una tirada de salvamento, puedes usar tu reacción y gastar 1 punto de suerte para que el aliado vuelva a tirar el dado. El aliado debe usar la nueva tirada.
 
-When you use this ability, you can't use luck points before the end of your next turn. 
+Cuando usas esta habilidad, no puedes usar puntos de suerte antes del final de tu próximo turno. 
 
 ### Brawling Mastery
-You've mastered using your weight to your advantage, easily wrangling targets around. You gain the following benefits:
-- Your improvised weapons use a d6 for damage and gain the versatile (2d4) property.
-- Your unarmed strike damage increases by one step (from 1 to d4, d4 to d6, or d6 to d8).
-- Your speed isn't halved by carrying a grappled creature who is the same size category as you or smaller. 
-- Once per turn, when you hit a creature with an unarmed strike or an improvised weapon, you can make an additional unarmed strike or improvised weapon attack against the same target without the aid of your proficiency bonus (no action required).
+Has dominado el uso de tu peso a tu favor, luchando fácilmente con los objetivos. Obtienes los siguientes beneficios:
+- Sus armas improvisadas usan un d6 para el daño y ganan la propiedad versátil (2d4).
+- El daño de tu golpe sin armas aumenta un paso (de 1 a d4, de d4 a d6, o de d6 a d8).
+- Su velocidad no se reduce a la mitad por llevar una criatura con garras de la misma categoría de tamaño que usted o más pequeña. 
+- Una vez por turno, cuando golpees a una criatura con un golpe sin armas o un arma improvisada, puedes hacer un golpe adicional sin armas o un ataque con arma improvisada contra el mismo objetivo sin la ayuda de tu bono de habilidad (no se requiere acción).
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Brawny 
-You become stronger, gaining the following benefits: 
-- Increase your Strength score by 1, to a maximum of 20. 
-- You gain proficiency in the Athletics skill. If you are already proficient in it, you instead gain expertise in it. 
-- You count as if you were one size larger for the purpose of determining your carrying capacity.
+Te haces más fuerte, obteniendo los siguientes beneficios: 
+- Aumenta tu puntuación de fuerza en 1, hasta un máximo de 20. 
+- Se gana en destreza en la habilidad de Atletismo. Si ya eres competente en ello, en cambio ganas experiencia en ello. 
+- Cuenta como si fuera una talla más grande con el fin de determinar su capacidad de carga.
 
 ### Bypasser
-You pride yourself on your quickness and your close study of certain clandestine activities. You gain the following benefits: 
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency with the security kit. If you are already proficient with it, you instead gain expertise with it.
-- Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check to detect the nature of a lock, you are considered to have expertise in the Investigation or Perception skill.
+Se enorgullece de su rapidez y su estudio cercano de ciertas actividades clandestinas. Obtienes los siguientes beneficios: 
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se gana en destreza con el equipo de seguridad. Si ya eres competente con él, en vez de eso ganas experiencia con él.
+- Cada vez que se hace un control de Inteligencia (Investigación) o de Sabiduría (Percepción) para detectar la naturaleza de una cerradura, se considera que se tiene experiencia en la habilidad de Investigación o Percepción.
 
 ### Charger
-You can take the Dash action as a bonus action.
+Puedes tomar la acción de Dash como una acción extra.
 
-If you move at least 10 feet in a straight line immediately after taking this bonus action, you either gain a +5 bonus to your next melee attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
+Si te mueves al menos 10 pies en línea recta inmediatamente después de realizar esta acción de bonificación, obtienes una bonificación de +5 a la tirada de daño de tu próximo ataque cuerpo a cuerpo (si eliges realizar un ataque y golpeo cuerpo a cuerpo) o empujas al objetivo hasta 10 pies de distancia (si eliges empujar y tienes éxito).
 
 ### Charmer 
-You've master the art of charming those around you, gaining the following benefits: 
-- Increase your Charisma score by 1, to a maximum of 20. 
-- You gain proficiency in the Persuasion skill. If you are already proficient in it, you instead gain expertise in it. 
-- If you spend 1 minute talking to someone who can understand what you say, you can make a Charisma (Persuasion) check contested by the creature's Wisdom (Insight) check. If you or your companions are fighting the creature, your check automatically fails. If your check succeeds, the target is charmed by you as long as it remains within 60 feet of you and for 1 minute thereafter. 
+Has dominado el arte de encantar a los que te rodean, obteniendo los siguientes beneficios: 
+- Aumenta tu puntuación de Carisma en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad de la Persuasión. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Si pasas 1 minuto hablando con alguien que puede entender lo que dices, puedes hacer un cheque de Carisma (Persuasión) disputado por el cheque de Sabiduría (Insight) de la criatura. Si tú o tus compañeros están luchando contra la criatura, tu cheque falla automáticamente. Si tu cheque tiene éxito, el objetivo es encantado por ti mientras permanezca a 60 pies de ti y durante 1 minuto después. 
 
 ### Climber
-You excel at scaling cliffsides, hills, trees, and general climbing. You gain the following benefits:
-- Increase your Strength score by 1, to a maximum of 20. 
-- You gain a climbing speed equal to your movement speed.
-- You have advantage on ability checks and saving throws to avoid falling off or down while climbing. 
+Sobresale en escalar acantilados, colinas, árboles y en la escalada en general. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de fuerza en 1, hasta un máximo de 20. 
+- Ganarás una velocidad de ascenso igual a tu velocidad de movimiento.
+- Tienes ventaja en los controles de habilidad y en los lanzamientos de salvamento para evitar caídas o caídas durante la escalada. 
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-- You can spend 5 minutes instructing, pointing out handholds, and guiding other creatures before making a climb. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you. Each creature can add a 1d6 to any ability check or saving throw they make for that climb.
+- Puedes pasar 5 minutos instruyendo, señalando asideros y guiando a otras criaturas antes de hacer una escalada. Cuando lo hagas, elige hasta seis criaturas amigas (que pueden incluirte a ti mismo) a menos de 30 pies de ti. Cada criatura puede añadir un 1d6 a cualquier chequeo de habilidad o lanzamiento de ahorro que hagan para esa subida.
 
 ### Close Quarters Caster
-_**Prerequisite:** The ability to cast force or tech powers_<br>
-You've practiced utilizing powers in close quarters, learning techniques that grant you the following benefits:
-- When making a ranged force or tech attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll.  
-- Your ranged force and tech attacks ignore half cover and three-quarters cover against targets within 30 feet of you. 
-- You learn one at-will power that requires an attack roll. Your casting ability for this at-will power depends on the power list you chose from: Wisdom or Charisma (depending on power alignment) for force powers or Intelligence for tech powers.
+Requisito previo: la capacidad de lanzar fuerza o poderes técnicos.
+Has practicado la utilización de los poderes de cerca, aprendiendo técnicas que te otorgan los siguientes beneficios:
+- Cuando se hace un ataque de fuerza o tecnología a distancia mientras se está a 5 pies de una criatura hostil, no se tiene desventaja en la tirada de ataque. 
+- Su fuerza de alcance y sus ataques técnicos ignoran la mitad de la cobertura y tres cuartos de la cobertura contra objetivos a menos de 30 pies de usted. 
+- Aprendes una potencia a voluntad que requiere una tirada de ataque. Tu capacidad de lanzar este poder a voluntad depende de la lista de poderes que hayas elegido: Sabiduría o Carisma (dependiendo de la alineación del poder) para los poderes de fuerza o Inteligencia para los poderes de tecnología.
 
 ### Close Quarters Shooting Mastery
-You've mastered getting up close and personal with blaster weapons, maintain both rate of fire and accuracy. While you are wielding a blaster weapon with which you are proficient, you gain the following benefits:
-- When you take the Attack action, you can choose to fire rapidly at the expense of accuracy. Your ranged weapon attacks are made without the aid of your proficiency bonus, but you use your bonus action to make an additional ranged weapon attack, also without your proficiency bonus.
-- Your ranged weapon attacks ignore half cover against targets within 30 feet of you.
-- Other creatures provoke an opportunity attack from you when they move to within 15 feet of you, and you can use blaster weapons when making opportunity attacks.
+Has dominado el acercamiento y la personalización de las armas explosivas, manteniendo tanto la velocidad de disparo como la precisión. Mientras manejas un arma explosiva con la que eres competente, obtienes los siguientes beneficios:
+- Cuando se toma la acción de Ataque, se puede elegir disparar rápidamente a expensas de la precisión. Tus ataques con armas de distancia se realizan sin la ayuda de tu bonificación de habilidad, pero utilizas tu acción de bonificación para realizar un ataque adicional con armas de distancia, también sin tu bonificación de habilidad.
+- Sus ataques con armas a distancia ignoran la media cobertura contra objetivos a menos de 30 pies de usted.
+- Otras criaturas provocan un ataque de oportunidad cuando se mueven a menos de 15 pies de ti, y puedes usar armas explosivas cuando haces ataques de oportunidad.
 
 ### Combat Caster
-_**Prerequisite:** The ability to cast force or tech powers_<br>
-You've practiced making your powers more difficult to avoid, learning techniques that grant you the following benefits:
-- When a creature rolls a 1 on the d20 roll of a saving throw against a power you cast that deals damage, they instead take the highest number possible for the damage die.
-- You learn one at-will power that requires a saving throw. Your casting ability for this at-will power depends on the power list you chose from: Wisdom or Charisma (depending on power alignment) for force powers or Intelligence for tech powers.
+Requisito previo: la capacidad de lanzar fuerza o poderes técnicos.
+Has practicado haciendo tus poderes más difíciles de evitar, aprendiendo técnicas que te otorgan los siguientes beneficios:
+- Cuando una criatura saca un 1 en la tirada d20 de un lanzamiento de salvación contra una potencia que le hace daño, en su lugar toma el número más alto posible para el dado de daño.
+- Aprendes una fuerza de voluntad que requiere un tiro de salvamento. Tu habilidad para lanzar este poder a voluntad depende de la lista de poderes que hayas elegido: Sabiduría o Carisma (dependiendo de la alineación del poder) para los poderes de fuerza o Inteligencia para los poderes de tecnología.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Crafter
-You have a knack for crafting; you work with greater efficiency and produce goods of higher quality. Select one type of artisan's tools. You gain the following benefits:
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency with the chosen tool. If you are already proficient with it, you instead gain expertise with it.
-- When you craft something with the tool you've selected, the total market value you can craft increases 50 cr per day. If you have expertise with it, the market value instead increases by 100 cr per day.
-- If you use the tool you've selected to practice a profession during downtime, you can support a lifestyle one higher than you would normally be able to.
+Tienes un don para la artesanía; trabajas con mayor eficiencia y produces bienes de mayor calidad. Selecciona un tipo de herramientas de artesano. Obtendrás los siguientes beneficios:
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se gana destreza con la herramienta elegida. Si ya eres competente con ella, en cambio ganas experiencia con ella.
+- Cuando haces algo con la herramienta que has seleccionado, el valor total de mercado que puedes hacer aumenta 50 cr por día. Si eres experto en ello, el valor de mercado aumenta en 100 millones de rupias por día.
+- Si utiliza la herramienta que ha seleccionado para practicar una profesión durante el tiempo de inactividad, podrá mantener un estilo de vida más alto de lo que normalmente podría.
 
-You can select this feat multiple times. Each time you do so, you must choose a different set of artisan's tools. 
+Puedes seleccionar esta hazaña varias veces. Cada vez que lo hagas, debes elegir un juego diferente de herramientas de artesano. 
 
 ### Crushing Weapon Mastery
-You master the greatsaber, techaxe, techstaff, vibroaxe, vibroknuckler, vibromace, and vibrosword. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-- You gain a +1 bonus to the weapon's attack rolls.
-- Whenever you have advantage on an attack roll and hit, and the lower of the two d20 rolls would also hit, you can attempt to knock the target prone. If the target is no more than one size larger than you (your size or smaller if your weapon has the light property), make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability). If you win the contest, the target is knocked prone.
-- You can ready your weapon to deliver a punishing blow against a foe that tries to advance on you. When you take the Ready action on your turn and make a melee attack as your reaction, you have advantage on your attack roll. 
+Dominas el sable, el techaxe, el techstaff, el vibroaxe, el vibroknuckler, el vibromace y el vibrosword. Obtienes los siguientes beneficios mientras manejas cualquiera de estas armas, si eres experto en ellas:
+- Ganas un bono +1 a las tiradas de ataque del arma.
+- Siempre que tengas ventaja en una tirada de ataque y golpe, y la menor de las dos tiradas de d20 también golpee, puedes intentar golpear al objetivo propenso. Si el objetivo no es más de una talla más grande que tú (tu talla o más pequeña si tu arma tiene la propiedad de ser liviana), haz un chequeo de Fuerza (Atletismo) disputado por el chequeo de Fuerza (Atletismo) o Destreza (Acrobacia) del objetivo (el objetivo elige la habilidad). Si ganas el concurso, el objetivo es noqueado.
+- Puedes preparar tu arma para dar un golpe de castigo contra un enemigo que intente avanzar sobre ti. Cuando tomas la acción de Ready en tu turno y haces un ataque cuerpo a cuerpo como reacción, tienes ventaja en tu tirada de ataque. 
 
 ### Defense Mastery
-You've mastered the art of defending yourself, treating your armor as a second skin. While you are wearing armor with which you are proficient, you gain the following benefits:
-- Critical hits made against you are treated as normal hits.
-- When a creature makes a melee attack against you and misses, you can use your reaction to attempt to shove that creature up to 10 feet directly away from you.
+Has dominado el arte de defenderte, tratando tu armadura como una segunda piel. Mientras usas una armadura con la que eres competente, obtienes los siguientes beneficios:
+- Los golpes críticos hechos contra ti son tratados como golpes normales.
+- Cuando una criatura hace un ataque cuerpo a cuerpo contra ti y falla, puedes usar tu reacción para intentar empujar a esa criatura hasta 10 pies directamente lejos de ti.
 
-### Demolitionist
-You have extensive experience with explosives, gaining the following benefits:
-- Increase an ability score of your choice by 1, to a maximum of 20.
+### Demoledor
+Tiene una amplia experiencia con explosivos, obteniendo los siguientes beneficios:
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-- You gain proficiency with the demolitions kit. If you are already proficient with it, you instead gain expertise with it.
-- Whenever you make an Intelligence (Demolitions Kit) check to disarm an explosive, you can treat a d20 roll of 9 or lower as a 10, as long as you spend at least one minute disarming it.
-- Over the course of a short rest, you can temporarily improve the potency of one grenade or mine. To use this benefit, you must have a demolitions kit, and the explosive must be within reach.  If the explosive is detonated before the end of your next short or long rest, its DC becomes 8 + your proficiency bonus + your Intelligence modifier, and it deals extra damage equal to your Intelligence modifier of the same type it would normally deal. 
+- Se gana en destreza con el equipo de demolición. Si ya eres competente, en cambio, ganas experiencia con él.
+- Cada vez que haces un chequeo de Inteligencia (Kit de Demolición) para desarmar un explosivo, puedes tratar un rollo de d20 de 9 o menos como un 10, siempre y cuando pases al menos un minuto desarmándolo.
+- En el transcurso de un breve descanso, puedes mejorar temporalmente la potencia de una granada o la mía. Para usar este beneficio, debes tener un equipo de demolición, y el explosivo debe estar al alcance de la mano. Si el explosivo se detona antes de que finalice tu próximo descanso corto o largo, su DC se convierte en 8 + tu bono de habilidad + tu modificador de Inteligencia, e inflige un daño extra igual al de tu modificador de Inteligencia del mismo tipo que normalmente infligiría. 
 
 ### Dual Focused Caster
-_**Prerequisite:** The ability to cast force or tech powers_<br>
-You have learned to bifurcate your attention while concentrating on powers, learning techniques that grant you the following benefits:
-- If you attempt to cast a power that requires concentration while already concentrating on an existing power, you can maintain concentration on both powers simultaneously. You must spend your action each subsequent round on maintaining this concentration, or lose concentration for both powers.                              
-- At the end of each of your turns where you have two powers you are concentrating on, you must make a Constitution saving throw (DC equals 10 + the number of complete rounds you've been concentrating on two powers). On a failure, you lose concentration for both powers. You can drop concentration on one of your powers during your turn as a free action to avoid this saving throw.
-- Any time you would be forced to make a Constitution saving throw to maintain concentration due to taking damage, the DC equals 10 + both powers' levels combined, or half the damage you take, whichever number is higher. On a failure, you lose concentration on both powers.
+Requisito previo: la capacidad de lanzar fuerza o poderes técnicos.
+Has aprendido a bifurcar tu atención mientras te concentras en los poderes, aprendiendo técnicas que te otorgan los siguientes beneficios:
+- Si intentas lanzar una potencia que requiere concentración mientras ya estás concentrado en una potencia existente, puedes mantener la concentración en ambas potencias simultáneamente. Debes gastar tu acción en cada ronda subsiguiente en mantener esta concentración, o perderás la concentración para ambas potencias.                              
+- Al final de cada uno de tus turnos en los que tengas dos potencias en las que te estés concentrando, debes hacer una tirada de salvamento de la Constitución (DC es igual a 10 + el número de rondas completas en las que te hayas concentrado en dos potencias). Al fallar, pierdes la concentración para ambas potencias. Puedes dejar de concentrarte en una de tus potencias durante tu turno como una acción libre para evitar esta tirada salvadora.
+- Cada vez que te veas obligado a hacer un lanzamiento de ahorro de la Constitución para mantener la concentración debido a la toma de daños, el DC es igual a 10 + los niveles de ambas potencias combinadas, o la mitad del daño que tomes, cualquiera que sea el número más alto. En un fallo, pierdes la concentración en ambos poderes.
 
 ### Dueling Mastery
-Your mastery of fighting with a single melee weapon is unsurpassed; you make one weapon feel like many. While you are wielding a melee weapon in one hand with which you are proficient and no other weapons, you gain the following benefits:
-- When you take the Attack action, you can decide to attack with haste at the expense of accuracy. Your melee weapon attacks are made without the aid of your proficiency bonus, but you use your reaction to make an additional melee weapon attack, also without your proficiency bonus. 
-- When a creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
+Tu maestría en la lucha con una sola arma de combate es insuperable; haces que un arma se sienta como muchas. Mientras manejas un arma de combate cuerpo a cuerpo en una mano con la que eres competente y ninguna otra arma, obtienes los siguientes beneficios:
+- Cuando se toma la acción de Ataque, se puede decidir atacar con rapidez a expensas de la precisión. Tus ataques con armas de combate cuerpo a cuerpo se realizan sin la ayuda de tu bonificación de habilidad, pero utilizas tu reacción para realizar un ataque adicional con armas de combate cuerpo a cuerpo, también sin tu bonificación de habilidad. 
+- Cuando una criatura te golpea con un ataque cuerpo a cuerpo, puedes usar tu reacción para añadir tu bono de habilidad a tu AC para ese ataque, causando potencialmente que el ataque no te alcance.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Dungeon Delver
-Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
-- Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
-- You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.
-- You have advantage on saving throws made to avoid or resist traps.
-- You have resistance to the damage dealt by traps. 
-- You can search for traps while traveling at a normal pace, instead of only at a slow pace.
+Alerta a las trampas ocultas y puertas secretas que se encuentran en muchas mazmorras, obtienes los siguientes beneficios:
+- Aumenta tu puntuación de Inteligencia o Sabiduría en 1, hasta un máximo de 20.
+- Tienes ventaja en los controles de Sabiduría (Percepción) e Inteligencia (Investigación) realizados para detectar la presencia de puertas secretas.
+- Tienes ventaja en los lanzamientos de salvamento hechos para evitar o resistir las trampas.
+- Tienes resistencia al daño causado por las trampas. 
+- Puedes buscar trampas mientras viajas a un ritmo normal, en lugar de sólo a un ritmo lento.
 
 ### Durable
-Hardy and resilient, you gain the following benefits:
-- Increase your Constitution score by 1, to a maximum of 20.
-- When you roll a Hit Die to regain hit points, the minimum number of hit points you can regain from the roll equals twice your Constitution modifier (minimum of 2).
-- Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
+Resistente y resistente, usted obtiene los siguientes beneficios:
+- Aumenta tu puntuación de la Constitución en 1, hasta un máximo de 20.
+- Cuando tiras un dado de impacto para recuperar los puntos de impacto, el número mínimo de puntos de impacto que puedes recuperar de la tirada es igual al doble de tu modificador de constitución (mínimo de 2).
+- Tu punto de golpe máximo aumenta en una cantidad igual al doble de tu nivel cuando obtienes esta hazaña. Cada vez que ganes un nivel a partir de entonces, tu punto de golpe máximo aumenta en 2 puntos de golpe adicionales.
 
 ### Empathic 
-You possess keen insight into how other people think and feel. You gain the following benefits: 
-- Increase your Wisdom score by 1, to a maximum of 20. 
-- You gain proficiency in the Insight skill. If you are already proficient in it, you instead gain expertise in it. 
-- You can use your action to try to get uncanny insight about one humanoid you can see within 30 feet of you. Make a Wisdom (Insight) check contested by the<br> target's Charisma (Deception) check. On a success, you<br> have advantage on attack rolls and ability checks<br> against the target until the end of your next turn.
+Usted posee una visión aguda de cómo piensan y sienten otras personas. Obtienes los siguientes beneficios: 
+- Aumenta tu puntuación de Sabiduría en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad de Insight. Si ya eres competente en ella, en su lugar ganas experiencia en ella. 
+- Puedes usar tu acción para tratar de obtener una visión extraña sobre un humanoide que puedes ver a menos de 30 pies de ti. Haz un chequeo de Sabiduría (Insight), que sea contestado por el chequeo de Carisma (Decepción) del objetivo. Si tienes éxito, tendrás ventaja en las tiradas de ataque y en los chequeos de habilidad contra el objetivo hasta el final de tu próximo turno.
 
 ### Entertainer
-You have a natural gift for performing and competing. Select one gaming set or musical instrument. You gain the following benefits:
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency in the chosen gaming set or musical instrument. If you are already proficient with it, you instead gain expertise with it.
-- While playing your chosen instrument or game, you can always readily read the emotions of those paying attention to you. During this time, and for up to one minute after completing, you have advantage on Wisdom (Insight) checks to read the emotions of those you performed for or competed against.
+Tienes un don natural para actuar y competir. Selecciona un juego o un instrumento musical. Obtienes los siguientes beneficios:
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se gana destreza en el juego o instrumento musical elegido. Si ya eres competente en él, en cambio ganas experiencia con él.
+- Mientras tocas el instrumento o juego que has elegido, siempre puedes leer fácilmente las emociones de aquellos que te prestan atención. Durante este tiempo, y hasta un minuto después de completarlo, tienes ventaja en los controles de Sabiduría (Insight) para leer las emociones de aquellos a los que has actuado o contra los que has competido.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-&emsp;You can select this feat multiple times. Each time you do so, you must choose a different gaming set or musical instrument.
+Puedes seleccionar esta hazaña varias veces. Cada vez que lo hagas, debes elegir un juego o instrumento musical diferente.
 
 ### Equilibrium Mastery
-You've mastered the art of fighting while minimally armored, treating combat as an elegant dance. While you are wearing no armor and not wielding a medium or heavy shield, you gain the following benefits:
-- You gain a +1 bonus to damage rolls you make with unarmed strikes and weapon attacks.
-- When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on the roll. You can choose to use this feature after the creature makes its attack roll, but before the GM determines whether the attack hits. 
+Has dominado el arte de la lucha con mínima armadura, tratando el combate como una danza elegante. Mientras no lleves ninguna armadura y no esgrimas un escudo mediano o pesado, obtienes los siguientes beneficios:
+- Ganarás un bono +1 por las tiradas de daño que hagas con los golpes sin armas y los ataques con armas.
+- Cuando una criatura hace una tirada de ataque contra ti, puedes usar tu reacción para imponer una desventaja en la tirada. Puedes elegir usar esta característica después de que la criatura haga su tirada de ataque, pero antes de que el GM determine si el ataque impacta. 
 
 ### Fanatic
-Every blow that hits your enemies make you feel closer to victory, making you shake in excitement. You gain the following benefits:
-- When you score a critical hit with an attack roll or reduce a creature to 0 hit points, you can make one weapon attack as a bonus action.
-- Whenever a creature you can see within 30 feet is reduce to 0 hit points, you go into a fervor gaining temporary hit points equal to 1d4 + your Constitution modifier. 
+Cada golpe que golpea a tus enemigos te hace sentir más cerca de la victoria, haciéndote temblar de emoción. Obtienes los siguientes beneficios:
+- Cuando consigues un golpe crítico con una tirada de ataque o reduces una criatura a 0 puntos de golpe, puedes hacer un ataque con un arma como acción extra.
+- Cada vez que una criatura que puedas ver a menos de 30 pies se reduce a 0 puntos de golpe, te pones en fervor ganando puntos de golpe temporales iguales a 1d4 + tu modificador de Constitución. 
 
 ### Fighting Stylist
-You adopt a particular style of fighting as your specialty, gaining the following benefits:
-- Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
-- Choose one of the Fighting Style options, detailed above. 
+Adopta un estilo particular de lucha como su especialidad, obteniendo los siguientes beneficios:
+- Aumenta tu puntuación de Fuerza, Destreza o Constitución en 1, hasta un máximo de 20.
+- Elija una de las opciones de estilo de lucha, detalladas arriba. 
 
-You can select this feat multiple times. You can't take a Fighting Style option more than once, even if you later get to choose again.
+Puedes seleccionar esta hazaña varias veces. No puedes tomar una opción de estilo de lucha más de una vez, aunque luego puedas elegir de nuevo.
 
 ### Force of Personality
-Rooms never go unalerted to your presence, and the strength of your personality make others lose focus on their own social game. Powers and other effects infrequently override your force of will. You gain the following benefits:
-- Your Charisma score increase by 1, to a maximum of 20.
-- You can use your Charisma modifier instead of your Wisdom modifier when making Insight checks.
-- When you would make a Wisdom saving throw, you can instead make a Charisma saving throw. You can use this feature a number of times equal to your Charisma modifier. You regain all expended uses of this feature when you complete a long rest.
+Las habitaciones nunca se quedan sin alertar a tu presencia, y la fuerza de tu personalidad hace que los demás pierdan la atención en su propio juego social. Los poderes y otros efectos raramente anulan tu fuerza de voluntad. Obtienes los siguientes beneficios:
+- Su puntuación de Carisma aumenta en 1, hasta un máximo de 20.
+- Puedes usar tu modificador de Carisma en lugar de tu modificador de Sabiduría al hacer las comprobaciones de Insight.
+- Cuando haces un tiro de ahorro de Sabiduría, puedes hacer un tiro de ahorro de Carisma. Puedes usar esta característica un número de veces igual a tu modificador Carisma. Recuperarás todos los usos de esta característica cuando completes un largo descanso.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Force Sensitive
-_**Prerequisite:** Creature type humanoid_<br>
-You learn two at-will force powers, and one 1st-level force power, which you cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again. Your forcecasting ability is Wisdom or Charisma (depending on power alignment). Additionally, you lose the Force-Insensitive special trait if you have it.
+_**Pre-requisito:** Tipo de criatura humanoide.
+Aprendes dos poderes de fuerza a voluntad, y un poder de fuerza de primer nivel, que lo lanzas en su nivel más bajo. Una vez que lo lanzas, debes terminar un largo descanso antes de poder volver a lanzarlo. Tu capacidad de previsión es la Sabiduría o el Carisma (dependiendo de la alineación del poder). Además, pierdes el rasgo especial de insensibilidad a la fuerza si lo tienes.
 
 ### Forceful Vigor
-Your strength and virility rarely go unnoticed, often to the point of distraction. You gain the following benefits:
-- Increase your Strength score by 1, to a maximum of 20.
-- You can use your Strength modifier instead of your Constitution modifier when making Constitution checks.
-- When you would make a Constitution saving throw, you can instead make a Strength saving throw. You can use this feature a number of times equal to your Strength modifier. You regain all expended uses of this feature when you complete a long rest.
+Su fuerza y virilidad rara vez pasan desapercibidas, a menudo hasta el punto de la distracción. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de fuerza en 1, hasta un máximo de 20.
+- Puedes usar tu modificador de fuerza en lugar de tu modificador de constitución cuando hagas las comprobaciones de constitución.
+- Cuando haces un tiro de ahorro de la Constitución, puedes hacer un tiro de ahorro de fuerza. Puedes usar esta característica un número de veces igual a tu modificador de fuerza. Recuperarás todos los usos de esta característica cuando completes un largo descanso.
 
 ### Forger 
-You've learned to identify and create peerless physical forgeries, granting the following benefits: 
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency with the forgery kit. If you are already proficient with it, you instead gain expertise with it.
-- Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check to determine the nature of a forgery, you are considered to have expertise in the Investigation or Perception skill.
+Has aprendido a identificar y crear falsificaciones físicas sin igual, otorgando los siguientes beneficios: 
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se gana destreza con el equipo de falsificación. Si ya eres experto en él, en cambio, ganas experiencia con él.
+- Cada vez que se hace una comprobación de Inteligencia (Investigación) o de Sabiduría (Percepción) para determinar la naturaleza de una falsificación, se considera que se tiene experiencia en la habilidad de Investigación o Percepción.
 
-### Galvanizing Presence
-Your presence on the battlefield is a source of inspiration. You gain the following benefits:
-- Increase your Charisma score by 1, to a maximum of 20.
-- As a bonus action, you let out a rallying war cry, ending the frightened or charmed condition on yourself and a number of allies that can hear you equal to your Charisma modifier (minimum of one). Once you've used this ability, you must complete a short or long rest before you can use it again.
+### Galvanizando la presencia
+Su presencia en el campo de batalla es una fuente de inspiración. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de Carisma en 1, hasta un máximo de 20.
+- Como acción extra, lanzas un grito de guerra, terminando con la condición de asustado o encantado en ti mismo y en un número de aliados que pueden oírte igual que tu modificador Carisma (mínimo de uno). Una vez que hayas usado esta habilidad, debes completar un corto o largo descanso antes de poder usarla de nuevo.
 
 ### Genius Mechanic
-You have spent prolonged use with a mechanic's kit, gaining the following benefits:
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency with the mechanic's kit. If you are already proficient with it, you instead gain expertise with it.
+Ha pasado un uso prolongado con un kit de mecánico, obteniendo los siguientes beneficios:
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se gana en destreza con el equipo de mecánico. Si ya eres competente con él, en vez de eso ganas experiencia con él.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-- Whenever you make an Intelligence (Mechanic's Kit) check to make a repair, you can treat a d20 roll of 9 or lower as a 10, as long as you spend at least ten minutes repairing it.
-- Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check to find a construct's weakness, you are considered to have expertise in the Investigation or Perception skill.
+- Cada vez que haces un chequeo de Inteligencia (Kit del mecánico) para hacer una reparación, puedes tratar un rollo de d20 de 9 o menos como un 10, siempre y cuando pases al menos diez minutos reparándolo.
+- Cada vez que se hace una comprobación de Inteligencia (Investigación) o Sabiduría (Percepción) para encontrar la debilidad de un constructo, se considera que se tiene experiencia en la habilidad de Investigación o Percepción.
 
 ### Gourmand 
-You have mastered a variety of special recipes, allowing you to prepare exotic dishes with useful effects. You gain the following benefits: 
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency with the chef's kit. If you are already proficient with it, you instead gain expertise with it. 
-- As an action, you can inspect a drink or plate of food within 5 feet of you and determine whether it is poisoned, provided that you can see and smell it. 
-- During a long rest, you can prepare and serve a meal that helps you and your allies recover from the rigors of adventuring, provided you have suitable food, chef's kit, and other supplies on hand. The meal serves up to six people, and each person who eats it regains two additional Hit Dice at the end of the long rest. In addition, those who partake of the meal have advantage on Constitution saving throws against disease for the next 24 hours.
+Ha dominado una variedad de recetas especiales, que le permiten preparar platos exóticos con efectos útiles. Obtienes los siguientes beneficios: 
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se gana en destreza con el kit del chef. Si ya eres competente con él, en cambio ganas experiencia con él. 
+- Como acción, puedes inspeccionar una bebida o un plato de comida a menos de 5 pies de ti y determinar si está envenenada, siempre que puedas verla y olerla. 
+- Durante un largo descanso, puede preparar y servir una comida que le ayude a usted y a sus aliados a recuperarse de los rigores de la aventura, siempre y cuando tenga a mano comida adecuada, un kit de cocina y otros suministros. La comida sirve hasta seis personas, y cada persona que la come recupera dos Dados de Golpe adicionales al final del largo descanso. Además, los que participan de la comida tienen ventaja en la Constitución ahorrando tiros contra la enfermedad durante las próximas 24 horas.
 
 ### Great Weapon Mastery
-You've mastered putting the weight of a weapon to your advantage, letting its momentum empower your strikes. While you are wielding a melee weapon in two hands with which you are proficient, you gain the following benefits:
-- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
-- Before you make a melee attack with a weapon that you are wielding in two-hands with which you are proficient with, you can choose to forgo your proficiency bonus. If the attack hits, you add double your proficiency bonus to the attack's damage.
+Has dominado el poner el peso de un arma a tu favor, dejando que su impulso potencie tus golpes. Mientras manejas un arma de combate cuerpo a cuerpo en dos manos con las que eres competente, obtienes los siguientes beneficios:
+- En tu turno, cuando consigas un golpe crítico con un arma de combate cuerpo a cuerpo o reduzcas una criatura a 0 puntos de golpe con una, podrás hacer un ataque con un arma de combate cuerpo a cuerpo como acción extra.
+- Antes de realizar un ataque cuerpo a cuerpo con un arma que se empuña a dos manos con la que eres competente, puedes elegir renunciar a tu bono de habilidad. Si el ataque golpea, añades el doble de tu bonificación de habilidad al daño del ataque.
 
 ### Haggler
-Your skills at bartering have granted you the following benefits:
-- Increase your Charisma score by 1 up to a maximum of 20. 
-- You have advantage on Charisma (Persuasion) and Charisma (Deception) checks when attempting to barter or trade. 
-- You are always aware of the current monetary value for any unenhanced or common enhanced item. Whenever you identify an item, you gain a rough estimate of its current monetary value.
+Sus habilidades en el trueque le han otorgado los siguientes beneficios:
+- Aumenta tu puntuación de Carisma en 1 hasta un máximo de 20. 
+- Tienes ventaja en los controles de Carisma (Persuasión) y Carisma (Engaño) cuando intentas hacer un trueque o comercio. 
+- Siempre está al tanto del valor monetario actual de cualquier artículo mejorado común o no mejorado. Siempre que identifica un artículo, obtiene una estimación aproximada de su valor monetario actual.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Healer
-You are an able medic, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
-- Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
-- When you use a traumakit to stabilize a dying creature, that creature also regains 1 hit point.
-- As an action, you can spend one use of a medkit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points again in this way until it finishes a short or long rest.
+Eres un médico capaz, lo que te permite curar las heridas rápidamente y hacer que tus aliados vuelvan a la lucha. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de Inteligencia o Sabiduría en 1, hasta un máximo de 20.
+- Cuando usas un traumakit para estabilizar una criatura moribunda, esa criatura también recupera 1 punto de golpe.
+- Como acción, puedes gastar un uso de un kit médico para atender a una criatura y devolverle 1d6 + 4 puntos de golpe, más puntos de golpe adicionales iguales al número máximo de dados de golpe de la criatura. La criatura no puede recuperar los puntos de golpe de esta manera hasta que termine un descanso corto o largo.
 
 ### Heavily Armored
-_**Prerequisite:** Proficiency with medium armor_<br>
-You have trained to master the use of heavy armor, gaining the following benefits:
-- Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
-- You gain proficiency with heavy armor. If you are already proficient with heavy armor, instead while you are wearing heavy armor, kinetic and energy damage that you take from unenhanced weapons is reduced by an amount equal to your proficiency bonus.
+Requisito previo: dominio de la armadura media.
+Se ha entrenado para dominar el uso de la armadura pesada, obteniendo los siguientes beneficios:
+- Aumenta tu puntuación de Fuerza, Destreza o Constitución en 1, hasta un máximo de 20.
+- Se gana destreza con una armadura pesada. Si ya eres experto en armaduras pesadas, mientras lleves una armadura pesada, el daño cinético y energético que recibas de las armas no mejoradas se reducirá en una cantidad igual a tu bono de habilidad.
 
-You can take this feat twice. 
+Puedes hacer esta hazaña dos veces. 
 
 ### Heavy Weapons Mastery
-You master the assault cannon, bowcaster, scattergun, and shotgun. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-- You gain a +1 bonus to the weapon's attack rolls.
-- When a creature rolls a 1 on the saving throw against one of these weapons, it takes damage as if suffering a critical hit.
-- Whenever you score a critical hit against a creature that is holding an object, you can attempt to disarm the target. If the target is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Strength saving throw (DC = 8 + your proficiency bonus + your Dexterity modifier) or it drops an object of your choice at its feet. 
+Domina el cañón de asalto, el cañón de proa, la escopeta de dispersión y la escopeta. Obtienes los siguientes beneficios mientras manejas cualquiera de estas armas, si eres experto en ellas:
+- Ganas un bono +1 a las tiradas de ataque del arma.
+- Cuando una criatura saca un 1 en el tiro salvador contra una de estas armas, recibe daño como si sufriera un golpe crítico.
+- Cada vez que se anota un golpe crítico contra una criatura que sostiene un objeto, se puede intentar desarmar el objetivo. Si el objetivo no es más de un tamaño más grande que tú (tu tamaño o más pequeño si tu arma tiene la propiedad de ser liviana), debe tener éxito en un lanzamiento de ahorro de fuerza (DC = 8 + tu bono de habilidad + tu modificador de Destreza) o deja caer un objeto de tu elección a sus pies. 
 
 ### Inspiring Leader
-_**Prerequisite:** Charisma 13_<br>
-You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
+_**Pre-requisito:** Carisma 13.
+Puedes pasar 10 minutos inspirando a tus compañeros, apuntalando su resolución de luchar. Cuando lo hagas, elige hasta seis criaturas amigas (que pueden incluirte a ti mismo) a 30 pies de ti que puedan verte u oírte y que puedan entenderte. Cada criatura puede ganar puntos de golpe temporales iguales a tu nivel + tu modificador de Carisma. Una criatura no puede ganar puntos de golpe temporal de esta hazaña de nuevo hasta que haya terminado un descanso corto o largo.
 
 \columnbreak
 
-### Investigator 
-You have an eye for detail and can pick out the smallest clues. You gain the following benefits: 
-- Increase your Intelligence score by 1, to a maximum of 20. 
-- You gain proficiency in the Investigation skill. If you are already proficient in it, you instead gain expertise in it. 
-- You can take the Search action as a bonus action. 	
+### Investigador 
+Tienes un ojo para los detalles y puedes escoger las pistas más pequeñas. Obtienes los siguientes beneficios: 
+- Aumenta tu puntuación de Inteligencia en 1, hasta un máximo de 20. 
+- Se gana en destreza en la habilidad de investigación. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Puedes tomar la acción de búsqueda como una acción de bonificación. 	
 
 ### Jedi Slayer
-You have practiced techniques useful in melee combat against forcewielders, gaining the following benefits:
-- When a creature within 5 feet of you casts a force power, you can use your reaction to make a melee weapon attack against that creature.
-- When you damage a creature that is concentrating on a power, that creature has disadvantage on the saving throw it makes to maintain its concentration.
-- You have advantage on saving throws against force powers cast by creatures within 5 feet of you.
+Ha practicado técnicas útiles en el combate cuerpo a cuerpo contra los que ejercen la fuerza, obteniendo los siguientes beneficios:
+- Cuando una criatura a menos de 5 pies de ti lanza un poder de fuerza, puedes usar tu reacción para hacer que un arma de combate cuerpo a cuerpo ataque contra esa criatura.
+- Cuando se daña a una criatura que está concentrada en un poder, esa criatura tiene la desventaja del tiro salvador que hace para mantener su concentración.
+- Tienes ventaja en los lanzamientos de salvamento contra los poderes de fuerza lanzados por criaturas a menos de 5 pies de ti.
 
 ### Keen Mind
-You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits.
-- Increase your Intelligence score by 1, to a maximum of 20.
-- You always know which way is north.
-- You always know the number of hours left before the next sunrise or sunset.
-- You can accurately recall anything you have seen or heard within the past month.
+Tienes una mente que puede rastrear el tiempo, la dirección y los detalles con una precisión asombrosa. Obtienes los siguientes beneficios.
+- Aumenta tu puntuación de Inteligencia en 1, hasta un máximo de 20.
+- Siempre sabes qué camino es el norte.
+- Siempre sabes el número de horas que quedan antes del próximo amanecer o atardecer.
+- Puedes recordar con precisión cualquier cosa que hayas visto u oído en el último mes.
 
 ### Lightly Armored
-You have trained to master the use of light armor, gaining the following benefits:
-- Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
-- You gain proficiency with light armor. If you are already proficient with light armor, instead while you are wearing light armor, your speed increases by 5 feet.
+Se ha entrenado para dominar el uso de la armadura ligera, obteniendo los siguientes beneficios:
+- Aumenta tu puntuación de Fuerza, Destreza o Constitución en 1, hasta un máximo de 20.
+- Se gana destreza con la armadura ligera. Si ya eres competente con la armadura ligera, en cambio, mientras estás usando la armadura ligera, tu velocidad aumenta en 5 pies.
 
-You can take this feat twice. 
+Puedes hacer esta hazaña dos veces. 
 
 ### Linguist
-You have studied languages and codes, gaining the following benefits:
-- Increase your Intelligence score by 1, to a maximum of 20.
-- You learn three languages of your choice.
-- You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use a power to decipher it.
+Ha estudiado idiomas y códigos, obteniendo los siguientes beneficios:
+- Aumenta tu puntuación de Inteligencia en 1, hasta un máximo de 20.
+- Aprendes tres idiomas de tu elección.
+- Puedes crear hábilmente cifrados escritos. Otros no pueden descifrar un código creado por ti a menos que les enseñes, que tengan éxito en un chequeo de Inteligencia (DC igual a tu puntuación de Inteligencia + tu bono de habilidad), o que usen un poder para descifrarlo.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Loremaster 
-Your study of history rewards you with the following benefits: 
-- Increase your Intelligence score by 1, to a maximum of 20. 
-- You gain proficiency in the Lore skill. If you are already proficient in it, you instead gain expertise in it. 
-- When you take the Help action to aid another creature's ability check, you can make a DC 15 Intelligence (Lore) check. On a success, that creature's check gains a bonus equal to your proficiency bonus, as you share pertinent advice and historical examples. To receive this bonus, the creature must be able to understand what you're saying.
+Su estudio de la historia le recompensa con los siguientes beneficios: 
+- Aumenta tu puntuación de Inteligencia en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad de Lore. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Cuando haces la acción de ayuda para ayudar a otra criatura a comprobar su habilidad, puedes hacer un chequeo de Inteligencia DC 15 (Lore). Si tiene éxito, el cheque de esa criatura gana una bonificación igual a tu bonificación de habilidad, al compartir consejos pertinentes y ejemplos históricos. Para recibir esta bonificación, la criatura debe ser capaz de entender lo que dices.
 
 ### Lucky
-You have inexplicable luck that seems to kick in at just the right moment.
+Tienes una suerte inexplicable que parece surgir en el momento justo.
 
-You have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.
+Tienes 3 puntos de suerte. Cada vez que hagas una tirada de ataque, un chequeo de habilidad o un lanzamiento de salvamento, puedes gastar un punto de suerte para tirar un d20 adicional. Puedes elegir gastar uno de tus puntos de suerte después de lanzar el dado, pero antes de que se determine el resultado. Eliges cuál de los d20 se usa para la tirada de ataque, el chequeo de habilidad o el lanzamiento de salvamento.
 
-You can also spend one luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome o f a roll, the points cancel each other out; no additional dice are rolled.
+También puedes gastar un punto de suerte cuando se hace una tirada de ataque contra ti. Tira un d20, y luego elige si el ataque utiliza la tirada del atacante o la tuya. Si más de una criatura gasta un punto de suerte para influir en el resultado de una tirada, los puntos se anulan entre sí; no se tiran más dados.
 
-You regain your expended luck points when you finish a long rest.
+Recuperas tus puntos de suerte gastados cuando terminas un largo descanso.
 
-### Maneuverable
-You've learned that you are at your best when you're on the move. 
-- Your speed increases by 5 feet.
-- When you hit a creature with a melee attack, you can move 5 feet at no movement cost as part of the attack.
-- When you hit a creature with a melee attack that you have not already attacked on your current turn, you gain a +2 bonus to the damage roll.
+### Maniobrable
+Has aprendido que estás en tu mejor momento cuando estás en movimiento. 
+- Su velocidad aumenta en un metro y medio.
+- Cuando golpeas a una criatura con un ataque cuerpo a cuerpo, puedes moverte 1,5 metros sin costo de movimiento como parte del ataque.
+- Cuando golpeas a una criatura con un ataque cuerpo a cuerpo que no hayas atacado ya en tu turno actual, obtienes una bonificación +2 a la tirada de daño.
 
 ### Mariner
-You've spent an exorbitant amount of time in water. You gain the following benefits:
-- Increase your Constitution by 1, to a maximum of 20.
-- You gain a swimming speed equal to your movement speed.
-- You have advantage on a ability checks and saving throws related to swimming.
-- You can hold your breath for a number of minutes equal to 1 + twice your Constitution modifier.
+Has pasado una cantidad exorbitante de tiempo en el agua. Obtienes los siguientes beneficios:
+- Aumente su Constitución en 1, hasta un máximo de 20.
+- Se gana una velocidad de natación igual a la velocidad de movimiento.
+- Tienes ventaja en los chequeos de habilidad y en los lanzamientos de salvamento relacionados con la natación.
+- Puedes aguantar la respiración durante un número de minutos igual a 1 + dos veces tu modificador de constitución.
 
 \columnbreak
 
 ### Martial Adept
-You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:
-- You learn two maneuvers of your choice from among those available to the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).
-- If you already have superiority dice, you gain one more; otherwise, you have two superiority dice, which are d4s. These dice are used to fuel your maneuvers. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest.
+Tienes un entrenamiento marcial que te permite realizar maniobras especiales de combate. Obtienes los siguientes beneficios:
+- Aprendes dos maniobras de tu elección de entre las disponibles en la clase de combate. Si una maniobra que utilizas requiere que tu objetivo haga un tiro de salvamento para resistir los efectos de la maniobra, el tiro de salvamento DC es igual a 8 + tu bono de habilidad + tu modificador de Fuerza o Destreza (a tu elección).
+- Si ya tienes dados de superioridad, ganas uno más; si no, tienes dos dados de superioridad, que son d4s. Estos dados se utilizan para alimentar tus maniobras. Un dado de superioridad se gasta cuando lo usas. Recuperas todos tus dados de superioridad gastados cuando terminas un descanso corto o largo.
 
 ### Master of Disguise 
-You have honed your ability to shape your personality and to read the personalities of others. You gain the following benefits: 
-- Increase your Charisma score by 1, to a maximum of 20. 
-- You gain proficiency with the disguise kit. If you are already proficient with it, you instead gain expertise with it.
-- If you spend 1 hour observing a creature, you can then spend 8 hours crafting a disguise you can quickly don to mimic that creature. Making the disguise requires a disguise kit. You must make checks as normal to disguise yourself, but you can assume the disguise as an action.
+Has perfeccionado tu habilidad para moldear tu personalidad y para leer las personalidades de los demás. Obtienes los siguientes beneficios: 
+- Aumenta tu puntuación de Carisma en 1, hasta un máximo de 20. 
+- Se gana en destreza con el equipo de disfraces. Si ya eres competente con él, en vez de eso ganas experiencia con él.
+- Si pasas una hora observando a una criatura, puedes pasar 8 horas creando un disfraz que puedes usar rápidamente para imitar a esa criatura. Hacer el disfraz requiere un kit de disfraz. Debes hacer las comprobaciones normales para disfrazarte, pero puedes asumir el disfraz como una acción.
 
 ### Medic 
-You master the physician's arts, gaining the following benefits: 
-- Increase your Wisdom score by 1, to a maximum of 20. 
-- You gain proficiency in the Medicine skill. If you are already proficient in it, you instead gain expertise in it. 
-- During a short rest, you can clean and bind the wounds of up to six willing beasts and humanoids. Make a DC 15 Wisdom (Medicine) check for each creature. On a success, if a creature spends a Hit Die during this rest, that creature can forgo the roll and instead regain the maximum number of hit points the die can restore. A creature can do so only once per rest, regardless of how many Hit Dice it spends.
+Domina las artes del médico, obteniendo los siguientes beneficios: 
+- Aumenta tu puntuación de Sabiduría en 1, hasta un máximo de 20. 
+- Se gana competencia en la habilidad de la medicina. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Durante un breve descanso, puede limpiar y vendar las heridas de hasta seis bestias y humanoides dispuestos. Haga un chequeo DC 15 Wisdom (Medicina) para cada criatura. Si una criatura gasta un dado de impacto durante este descanso, puede renunciar a la tirada y en su lugar recuperar el máximo número de puntos de impacto que el dado puede restaurar. Una criatura sólo puede hacerlo una vez por cada descanso, independientemente de cuántos dados de impacto gaste.
 
 ### Mobile
-You are exceptionally speedy and agile. You gain the following benefits:
-- Your speed increases by 10 feet.
-- When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
-- When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+Eres excepcionalmente rápido y ágil. Obtienes los siguientes beneficios:
+- Su velocidad aumenta en 3 metros.
+- Cuando usas la acción Dash, el terreno difícil no te cuesta movimiento extra en ese giro.
+- Cuando haces un ataque cuerpo a cuerpo contra una criatura, no provocas ataques de oportunidad de esa criatura durante el resto del turno, tanto si golpeas como si no.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Moderately Armored
-_**Prerequisite:** Proficiency with light armor_<br>
-You have trained to master the use of medium armor, gaining the following benefits: 
-- Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
-- You gain proficiency with medium armor. If you are already proficient with medium armor, instead while you are wearing medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher, and you ignore the bulky property of medium armor.
+Requisito previo: dominio de las armaduras ligeras.
+Te has entrenado para dominar el uso de la armadura media, obteniendo los siguientes beneficios: 
+- Aumenta tu puntuación de Fuerza, Destreza o Constitución en 1, hasta un máximo de 20.
+- Se gana destreza con una armadura media. Si ya eres competente con la armadura media, en su lugar, mientras estás usando la armadura media, puedes añadir 3, en lugar de 2, a tu AC si tienes una destreza de 16 o más, e ignoras la voluminosa propiedad de la armadura media.
 
-You can take this feat twice. 
+Puedes hacer esta hazaña dos veces. 
 
 ### Mounted Caster
-_**Prerequisite:** The ability to cast force or tech powers_<br>
-You are trained in the use of powers while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
-- When you cast a power targeting yourself, you can also affect your mount with the power.
-- You have advantage on melee force or tech attack rolls against any unmounted creature that is smaller than your mount.
-- If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Requisito previo: la capacidad de lanzar fuerza o poderes técnicos.
+Se le entrena en el uso de los poderes mientras está montado. Mientras estés montado y no estés incapacitado, obtienes los siguientes beneficios:
+- Cuando lanzas un poder apuntando a ti mismo, también puedes afectar tu montura con el poder.
+- Tienes ventaja en la fuerza de combate cuerpo a cuerpo o en las tiradas de ataque técnico contra cualquier criatura sin montar que sea más pequeña que tu montura.
+- Si tu montura está sujeta a un efecto que le permite hacer un tiro de ahorro de destreza para recibir sólo la mitad del daño, no recibe ningún daño si tiene éxito en el tiro de ahorro, y sólo la mitad del daño si falla.
 
 ### Mounted Combatant
-You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:
-- You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
-- You can force an attack targeted at your mount to target you instead.
-- If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Eres un enemigo peligroso al que hay que enfrentarse mientras se monta. Mientras estés montado y no estés incapacitado, obtienes los siguientes beneficios:
+- Tienes ventaja en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura sin montar que sea más pequeña que tu montura.
+- Puedes forzar un ataque dirigido a tu montura para que se dirija a ti en su lugar.
+- Si tu montura está sujeta a un efecto que le permite hacer un tiro de ahorro de destreza para recibir sólo la mitad del daño, no recibe ningún daño si tiene éxito en el tiro de ahorro, y sólo la mitad del daño si falla.
 
 ### Naturalist 
-Your extensive study of nature rewards you with the following benefits: 
-- Increase your Intelligence score by 1, to a maximum of 20. 
-- You gain proficiency in the Nature skill. If you are already proficient in it, you instead gain expertise in it. 
-- You learn the *toxin scan* tech power. You can cast it once, using supplies scavenged around you, without the use of a wristpad and without spending tech points, and you regain the ability to do so when you finish a long rest.
+Su extenso estudio de la naturaleza le recompensa con los siguientes beneficios: 
+- Aumenta tu puntuación de Inteligencia en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad de la naturaleza. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Aprendes el poder de la tecnología del *escáner de toxinas*. Puedes lanzarlo una vez, usando los suministros que se encuentran a tu alrededor, sin usar una almohadilla de muñeca y sin gastar puntos técnicos, y recuperas la habilidad de hacerlo cuando terminas un largo descanso.
 
 \columnbreak
 
 ### Observant
-Quick to notice details of your environment, you gain the following benefits:
-- Increase your Intelligence or Wisdom score by 1, to a maximum of 20.
-- If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.
-- You are considered to have advantage when determining your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
+Rápidamente al notar los detalles de su entorno, usted obtiene los siguientes beneficios:
+- Aumenta tu puntuación de Inteligencia o Sabiduría en 1, hasta un máximo de 20.
+- Si puedes ver la boca de una criatura mientras habla un idioma que entiendes, puedes interpretar lo que dice leyendo sus labios.
+- Se considera que usted tiene ventaja al determinar sus puntuaciones de Sabiduría (Percepción) e Inteligencia (Investigación) pasivas.
 
 ### Perceptive 
-You hone your senses until they become razor sharp. You gain the following benefits: 
-- Increase your Wisdom score by 1, to a maximum of 20. 
-- You gain proficiency in the Perception skill. If you are already proficient in it, you instead gain expertise in it. 
-- Being in a lightly obscured area doesn't impose disadvantage on your Wisdom (Perception) checks if you can both see and hear.
+Perfeccionas tus sentidos hasta que se vuelven muy afilados. Obtienes los siguientes beneficios: 
+- Aumenta tu puntuación de Sabiduría en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad de Percepción. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- El hecho de estar en una zona ligeramente oscurecida no supone una desventaja para sus comprobaciones de Sabiduría (Percepción) si puede ver y oír a la vez.
 
 ### Performer 
-You master performance so that you can command any stage. You gain the following benefits: 
-- Increase your Charisma score by 1, to a maximum of 20. 
-- You gain proficiency in the Performance skill. If you are already proficient in it, you instead gain expertise in it. 
-- While performing, you can try to distract one humanoid you can see who can see and hear you. Make a Charisma (Performance) check contested by the humanoid's Wisdom (Insight) check. If your check succeeds, you grab the humanoid's attention enough that it makes Wisdom (Perception) and Intelligence (Investigation) checks with disadvantage until you stop performing.
+Domina la actuación para que pueda dominar cualquier escenario. Obtienes los siguientes beneficios: 
+- Aumenta tu puntuación de Carisma en 1, hasta un máximo de 20. 
+- Se gana en destreza en la habilidad de la actuación. Si ya eres competente en ella, en su lugar ganas experiencia en ella. 
+- Mientras actúa, puede intentar distraer a un humanoide que puede ver y oír. Haz un chequeo de Carisma (Actuación) disputado por el chequeo de Sabiduría (Insight) del humanoide. Si tu control tiene éxito, captas la atención del humanoide lo suficiente como para que haga los controles de Sabiduría (Percepción) e Inteligencia (Investigación) con desventaja hasta que dejes de actuar.
 
 ### Poisoner
-You have studied the secrets of poisons and toxins, gaining the following benefits:
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency with the poisoner's kit. If you are already proficient with it, you instead gain expertise with it.
-- As an action, you can identify one poison within 5 feet of you. You must see the poison for this benefit to work.
-- Over the course of a short rest, you can temporarily improve the potency of one dose of poison. To use this benefit, you must have a poisoner's kit, and the poison must be within reach. If the poison is applied before the end of your next short or long rest, its DC becomes 8 + your proficiency bonus + your Intelligence modifier, and it deals extra poison damage equal to your Intelligence modifier.
+Ha estudiado los secretos de los venenos y toxinas, obteniendo los siguientes beneficios:
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se gana destreza con el kit del envenenador. Si ya eres competente con él, en vez de eso ganas experiencia con él.
+- Como acción, puedes identificar un veneno a menos de 5 pies de ti. Debes ver el veneno para que este beneficio funcione.
+- En el transcurso de un breve descanso, puede mejorar temporalmente la potencia de una dosis de veneno. Para utilizar este beneficio, debe tener un kit de envenenamiento, y el veneno debe estar al alcance de la mano. Si el veneno se aplica antes de que termine tu próximo descanso corto o largo, su DC se convierte en 8 + tu bono de habilidad + tu modificador de Inteligencia, y causa un daño extra por el veneno igual al de tu modificador de Inteligencia.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Polearm Mastery
-You master the lightsaber pike, saberspear, vibrolance, vibropike, and vibrospear. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-- You gain a +1 bonus to the weapon's attack rolls.
-- When you take the Attack action, you can use a bonus action to make a melee attack with the opposite end of the weapon. The weapon's damage die for this attack is a d4, and the attack deals kinetic damage. If the weapon has the reach property, the bonus action attack does not benefit from this property.
-- Other creatures provoke an opportunity attack from you when they enter your reach. 
+Dominas el sable láser, el sable, la vibrolancia, el vibropique y el vibrospárrago. Obtienes los siguientes beneficios mientras manejas cualquiera de estas armas, si eres experto en ellas:
+- Ganas un bono +1 a las tiradas de ataque del arma.
+- Al realizar la acción de Ataque, puedes usar una acción de bonificación para hacer un ataque cuerpo a cuerpo con el extremo opuesto del arma. El dado de daño del arma para este ataque es un d4, y el ataque causa daño cinético. Si el arma tiene la propiedad de alcanzar, la acción de bonificación de ataque no se beneficia de esta propiedad.
+- Otras criaturas provocan un ataque de oportunidad cuando entran a tu alcance. 
 
 ### Power Adept
-_**Prerequisite:** The ability to cast force or tech powers_<br>
-When you gain this feat, choose one of the following damage types: acid, cold, fire, force, lightning, or necrotic. Powers you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a power you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
+Requisito previo: la capacidad de lanzar fuerza o poderes técnicos.
+Cuando consigas esta hazaña, elige uno de los siguientes tipos de daño: ácido, frío, fuego, fuerza, relámpago o necrótico. Los poderes que lances ignoran la resistencia al daño del tipo elegido. Además, cuando lanzas daño para una potencia que hace daño de ese tipo, puedes tratar cualquier 1 en un dado de daño como un 2.
 
-You can select this feat multiple times. Each time you do so, you must choose a different damage type.
+Puedes seleccionar esta hazaña varias veces. Cada vez que lo hagas, debes elegir un tipo de daño diferente.
 
-### Practiced
-You have acquired skills over your career, gaining the following benefits: 
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency in any combination of two skills or tools of your choice.
+### Practicado
+Usted ha adquirido habilidades a lo largo de su carrera, obteniendo los siguientes beneficios: 
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se adquiere competencia en cualquier combinación de dos habilidades o herramientas de su elección.
 
 ### Promising Commander
-You've trained relentless to lead your allies on the field of battle, gaining the following benefits:
-- Increase your Charisma score by 1, to a maximum of 20.
-- As an action, you can gain tactical insight. For one minute, once per turn you can can utter a special command or warning whenever an ally you can see within 30 feet makes an attack roll or saving throw. This creature can add a d4 to the roll provided it can hear and understand you. A creature can only benefit from one such die at a time. Once you've used this feature, you must complete a short or long rest before you can use it again.
+Te has entrenado implacablemente para liderar a tus aliados en el campo de batalla, obteniendo los siguientes beneficios:
+- Aumenta tu puntuación de Carisma en 1, hasta un máximo de 20.
+- Como una acción, puedes obtener una visión táctica. Durante un minuto, una vez por turno puedes pronunciar una orden especial o un aviso cuando un aliado que puedas ver a menos de 30 pies haga una tirada de ataque o un lanzamiento de salvamento. Esta criatura puede agregar un d4 a la tirada siempre y cuando pueda oírte y entenderte. Una criatura sólo puede beneficiarse de un dado de este tipo a la vez. Una vez que ha usado esta característica, debe completar un corto o largo descanso antes de poder usarla de nuevo.
 
 ### Prone Combatant
-You've practiced fighting while prone, gaining the following benefits:
-- Increase your Dexterity score by 1, to a maximum of 20.
-- You gain a crawling speed equal to your movement speed.
-- You no longer have disadvantage on ranged attack rolls against targets within 30 feet.
+Has practicado la lucha mientras estabas en posición de combate, obteniendo los siguientes beneficios:
+- Aumenta tu puntuación de Destreza en 1, hasta un máximo de 20.
+- Ganarás una velocidad de arrastre igual a tu velocidad de movimiento.
+- Ya no tienes desventaja en las tiradas de ataque a distancia contra objetivos a menos de 30 pies.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-- When you attempt to hide on your turn while prone, you can opt to not move on that turn. If you avoid moving, you are considered lightly obscured. You lose this benefit if you move or stand up, either voluntarily or because of some external effect. You are still automatically detected if any effect or action causes you to no longer be hidden. If you are still hidden on your next turn, you can continue to remain motionless and gain this benefit until you are detected.
+- Cuando intentas esconderte en tu turno mientras estás boca abajo, puedes optar por no moverte en ese turno. Si evitas moverte, se te considera ligeramente oscurecido. Pierdes este beneficio si te mueves o te levantas, ya sea voluntariamente o por algún efecto externo. Se le sigue detectando automáticamente si algún efecto o acción hace que ya no esté oculto. Si en el siguiente turno sigue oculto, puede seguir permaneciendo inmóvil y obtener este beneficio hasta que se le detecte.
 
 ### Quick-Fingered 
-Your nimble fingers and agility let you perform sleight of hand. You gain the following benefits: 
-- Increase your Dexterity score by 1, to a maximum of 20. 
-- You gain proficiency in the Sleight of Hand skill. If you are already proficient in it, you instead gain expertise in it. 
-- As a bonus action, you can make a Dexterity (Sleight of Hand) check to plant something on someone else, conceal an object on a creature, lift a purse, or take something from a pocket. 
+Tus dedos ágiles y tu agilidad te permiten realizar juegos de manos. Obtienes los siguientes beneficios: 
+- Aumenta tu puntuación de Destreza en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad del Juego de la Mano. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Como acción extra, puedes hacer un cheque de Destreza (Dexterity of Hand) para plantar algo en otra persona, ocultar un objeto en una criatura, levantar un bolso o sacar algo de un bolsillo. 
 
 ### Quick-Witted
-Great ideas come to you naturally, often when your life depends on it. You always have a plan, or at least parts of it. You gain the following benefits:
-- Increase your Intelligence score by 1, to a maximum of 20.
-- You can use your Intelligence modifier instead of your Dexterity modifier when making initiative checks.
-- When you would make a Dexterity saving throw, you can instead make an Intelligence saving throw. You can use this feature a number of times equal to your Intelligence modifier. You regain all expended uses of this feature when you complete a long rest.
+Las grandes ideas te llegan naturalmente, a menudo cuando tu vida depende de ellas. Siempre tienes un plan, o al menos partes de él. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de Inteligencia en 1, hasta un máximo de 20.
+- Puedes usar tu modificador de Inteligencia en lugar de tu modificador de Destreza cuando hagas comprobaciones de iniciativa.
+- Cuando haces un tiro de ahorro de Destreza, puedes hacer un tiro de ahorro de Inteligencia. Puedes usar esta característica un número de veces igual al de tu modificador de Inteligencia. Recuperarás todos los usos de esta característica cuando completes un largo descanso.
 
 ### Quick Caster
-_**Prerequisite:** The ability to cast force or tech powers_<br>
-You've practiced casting powers in quick succession, learning techniques that grant you the following benefits:
-- When you cast a power with a casting time of a bonus action, you may use your action to cast a power with a power level no higher than half your proficiency bonus (rounded down).
-- When you cast a power with a casting time of a bonus action, you can cast it without expending force or tech points as long as it is no higher level than your proficiency bonus. Once you've used this feature, you must complete a long rest before you can use it again.
+Requisito previo: la capacidad de lanzar fuerza o poderes técnicos.
+Has practicado los poderes de casting en rápida sucesión, aprendiendo técnicas que te otorgan los siguientes beneficios:
+- Cuando lanzas una potencia con un tiempo de lanzamiento de una acción de bonificación, puedes usar tu acción para lanzar una potencia con un nivel de potencia no superior a la mitad de tu bonificación de habilidad (redondeado hacia abajo).
+- Cuando lanzas una potencia con un tiempo de lanzamiento de una acción de bonificación, puedes lanzarla sin gastar fuerza o puntos técnicos siempre y cuando no sea de un nivel superior al de tu bonificación de habilidad. Una vez que hayas usado esta característica, debes completar un largo descanso antes de poder usarla de nuevo.
 
-### Resilient
-Choose one ability score. You gain the following benefits:
-- Increase the chosen ability score by 1, to a maximum of 20.
-- You gain proficiency in saving throws using the chosen ability.
+### Resistente
+Elija una puntuación de habilidad. Obtendrá los siguientes beneficios:
+- Aumenta la puntuación de la habilidad elegida en 1, hasta un máximo de 20.
+- Se gana destreza en el ahorro de lanzamientos usando la habilidad elegida.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Rifle Mastery
-You master the use of blaster carbine, blaster rifle, ion rifle, sniper rifle, and slugthrower. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-- You gain a +1 bonus to the weapon's attack rolls.
-- Whenever you have advantage on an attack roll and hit, and the lower of the two d20 rolls would also hit, you can attempt to snare the target. If the target is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Dexterity saving throw (DC = 8 + your proficiency bonus + your Dexterity modifier) or its movement speed is halved until the end of your next turn. 
-- When a creature you can see misses you with an attack roll, you can use your reaction to Disengage and move up to half your speed. You must end this movement further away from the creature than you started. 
+Domina el uso de la carabina de combate, el rifle de combate, el rifle de iones, el rifle de francotirador y el lanzador de bala. Obtienes los siguientes beneficios mientras manejas cualquiera de estas armas, si eres experto en ellas:
+- Ganas un bono +1 a las tiradas de ataque del arma.
+- Siempre que tengas ventaja en una tirada de ataque y golpe, y la menor de las dos tiradas de d20 también golpee, puedes intentar atrapar al objetivo. Si el objetivo no es más de un tamaño más grande que tú (tu tamaño o más pequeño si tu arma tiene la propiedad de ser ligera), debe tener éxito en una tirada de ahorro de Destreza (DC = 8 + tu bono de habilidad + tu modificador de Destreza) o su velocidad de movimiento se reducirá a la mitad hasta el final de tu próximo turno. 
+- Cuando una criatura que puedes ver te falla con una tirada de ataque, puedes usar tu reacción para Desengancharte y moverte hasta la mitad de tu velocidad. Debes terminar este movimiento más lejos de la criatura de lo que empezaste. 
 
 ### Sentinel Mastery
-You've mastered techniques to take advantage of every drop in any enemy's guard; in tight spaces you are indomitable. While you are wielding a melee weapon with which you are proficient, you gain the following benefits:
-- When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
-- Creatures within 5 feet of you provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
+Has dominado las técnicas para aprovechar cada caída de la guardia de cualquier enemigo; en espacios reducidos eres indomable. Mientras manejas un arma de combate cuerpo a cuerpo con la que eres competente, obtienes los siguientes beneficios:
+- Cuando golpeas a una criatura con un ataque de oportunidad, la velocidad de la criatura se convierte en 0 durante el resto del turno.
+- Las criaturas que se encuentran a menos de 5 pies de ti provocan ataques de oportunidad de tu parte, incluso si toman la acción de Desacoplamiento antes de dejar tu alcance.
 
 ### Sharpshooting Mastery
-You have mastered blaster weapons and can easily make shots that others find impossible. While you are wielding a blaster weapon with which you are proficient, you gain the following benefits:
-- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
-- Your ranged weapon attacks ignore half cover and three-quarters cover.
-- Before you make an attack with a blaster weapon that you are proficient with, you can choose to forgo your proficiency bonus. If the attack hits, you add double your proficiency bonus to the attack's damage.
+Usted ha dominado las armas blaster y puede hacer fácilmente disparos que otros consideran imposibles. Mientras maneje un arma blaster con la que sea competente, obtendrá los siguientes beneficios:
+- Atacar a larga distancia no impone una desventaja en las tiradas de ataque de las armas a distancia.
+- Sus ataques con armas a distancia ignoran la mitad de la cobertura y tres cuartos de la cobertura.
+- Antes de hacer un ataque con un arma explosiva con la que eres competente, puedes elegir renunciar a tu bono de competencia. Si el ataque golpea, añades el doble de tu bonificación de habilidad al daño del ataque.
 
 ### Shielding Mastery
-You've mastered using a shield to defend your allies as well as yourself, and you understand that shields are not just for protection but also for offense. While you are wielding a shield with which you are proficient, you gain the following benefits:
-- If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
-- If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a power or other harmful effect.
+Has dominado el uso de un escudo para defender a tus aliados así como a ti mismo, y entiendes que los escudos no son sólo para proteger sino también para ofender. Mientras estés usando un escudo con el que eres competente, obtienes los siguientes beneficios:
+- Si realizas la acción de Ataque en tu turno, puedes usar una acción de bonificación para intentar empujar a una criatura a menos de 5 pies de ti con tu escudo.
+- Si no estás incapacitado, puedes añadir la bonificación de CA de tu escudo a cualquier lanzamiento de ahorro de destreza que hagas contra un poder u otro efecto dañino.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-- If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
+- Si se le somete a un efecto que le permite hacer un tiro de ahorro de destreza para recibir sólo la mitad del daño, puede usar su reacción para no recibir ningún daño si tiene éxito en el tiro de ahorro, interponiendo su escudo entre usted y la fuente del efecto.
 
 ### Sidearm Mastery
-You master the blaster pistol, heavy pistol, hold out, ion blaster, light pistol, and wrist launcher. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-- You gain a +1 bonus to the weapon's attack rolls.
-- You learn to load and fire your weapon more efficiently. You can now reload these weapons using your reaction. You must have one free hand to reload.
-- Whenever you score a critical hit against a living creature that has a head, you can attempt to daze the target. If the target is no more than one size larger than you (your size or smaller if your weapon has the light property), it must succeed on a Constitution saving throw (DC = 8 + your proficiency bonus + your Dexterity modifier) or be stunned until the end of its next turn. 
+Domina la pistola de chorro, la pistola pesada, la de aguante, la de iones, la ligera y la de muñeca. Obtienes los siguientes beneficios mientras manejas cualquiera de estas armas, si eres experto en ellas:
+- Ganas un bono +1 a las tiradas de ataque del arma.
+- Aprendes a cargar y a disparar tu arma más eficientemente. Ahora puedes recargar estas armas usando tu reacción. Debes tener una mano libre para recargar.
+- Cada vez que se da un golpe crítico contra un ser vivo que tiene cabeza, se puede intentar aturdir al objetivo. Si el objetivo no es más de un tamaño más grande que tú (tu tamaño o más pequeño si tu arma tiene la propiedad de ser liviana), debe tener éxito en un lanzamiento de ahorro de la Constitución (DC = 8 + tu bono de habilidad + tu modificador de Destreza) o ser aturdido hasta el final de su próximo turno. 
 
 ### Silver-Tongued 
-You develop your conversational skill to better deceive others. You gain the following benefits: 
-- Increase your Charisma score by 1, to a maximum of 20. 
-- You gain proficiency in the Deception skill. If you are already proficient in it, you instead gain expertise in it. 
-- When you take the Attack action, you can replace one attack with an attempt to deceive one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Deception) check contested by the target's Wisdom (Insight) check. If your check succeeds, your movement doesn't provoke opportunity attacks from the target and your attack rolls against it have advantage; both benefits last until the end of your next turn or until you use this ability on a different target. If your check fails, the target can't be deceived by you in this way for 1 hour.
+Desarrolla su habilidad de conversación para engañar mejor a los demás. Obtienes los siguientes beneficios: 
+- Aumenta tu puntuación de Carisma en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad de Engaño. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Cuando tomas la acción de Ataque, puedes reemplazar un ataque con un intento de engañar a un humanoide que pueda ver a menos de 30 pies de ti y que pueda verte y oírte. Haz un chequeo de Carisma (Decepción) disputado por el chequeo de Sabiduría (Insight) del objetivo. Si tu chequeo tiene éxito, tu movimiento no provoca ataques de oportunidad del objetivo y tus tiradas de ataque contra él tienen ventaja; ambos beneficios duran hasta el final de tu próximo turno o hasta que uses esta habilidad en un objetivo diferente. Si tu chequeo falla, el objetivo no puede ser engañado por ti de esta manera durante 1 hora.
 
 ### Skulker
-_**Prerequisite:** Dexterity 13_<br>
-You are expert at slinking through shadows. You gain the following benefits:
-- You can try to hide when you are lightly obscured from the creature from which you are hiding.
-- When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
-- Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
+_**Pre-requisito:** Destreza 13.
+Eres experto en escabullirte a través de las sombras. Obtienes los siguientes beneficios:
+- Puedes intentar esconderte cuando estés ligeramente oculto de la criatura de la que te escondes.
+- Cuando te escondes de una criatura y la pierdes con un ataque de arma a distancia, hacer el ataque no revela tu posición.
+- La luz tenue no impone una desventaja en sus controles de Sabiduría (Percepción) confiando en la vista.
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Slicer
-You are an expert at finding things in computers you shouldn't. You gain the following benefits: 
-- Increase an ability score of your choice by 1, to a maximum of 20.
-- You gain proficiency with the slicer's kit. If you are already proficient with it, you instead gain expertise with it.
-- Whenever you make an Intelligence (Investigation) or Wisdom (Perception) check to detect the nature of computer software, you are considered to have expertise in the Investigation or Perception skill.
+Eres un experto en encontrar cosas en los ordenadores que no deberías. Obtienes los siguientes beneficios: 
+- Aumenta la puntuación de una habilidad de tu elección en 1, hasta un máximo de 20.
+- Se gana en destreza con el kit del cortador. Si ya eres competente con él, en vez de eso ganas experiencia con él.
+- Cada vez que se realiza una comprobación de Inteligencia (Investigación) o Sabiduría (Percepción) para detectar la naturaleza de un software de ordenador, se considera que se tiene experiencia en la habilidad de Investigación o Percepción.
 
 ### Snappy Interjection
-You've mastered a quick tongue to aid your allies. You gain the following benefits:
-- Increase your Charisma score by 1, to a maximum of 20.
-- When an ally makes an attack roll, an ability check or a saving throw, you may spend your reaction to give them advantage on the roll. Once you use this ability, you can't use it again until you finish a short or long rest.
+Has dominado una lengua rápida para ayudar a tus aliados. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de Carisma en 1, hasta un máximo de 20.
+- Cuando un aliado hace una tirada de ataque, un chequeo de habilidad o una tirada de salvamento, puede gastar su reacción para darle ventaja en la tirada. Una vez que usas esta habilidad, no puedes usarla de nuevo hasta que termines un descanso corto o largo.
 
 ### Sniping Caster
-_**Prerequisite:** The ability to cast force or tech powers_<br>
-You've practiced casting powers more accurately from long range, learning techniques that give you the following benefits:
-- When you cast a power that requires you to make an attack roll, the power's range is doubled.
-- Your ranged force and tech attacks ignore half cover and three-quarters cover.
-- You learn one at-will power that requires an attack roll. Your casting ability for this at-will power depends on the power list you chose from: Wisdom or Charisma (depending on power alignment) for force powers or Intelligence for tech powers.
+Requisito previo: la capacidad de lanzar fuerza o poderes técnicos.
+Has practicado los poderes de lanzamiento con más precisión desde lejos, aprendiendo técnicas que te dan los siguientes beneficios:
+- Cuando lanzas una potencia que requiere que hagas una tirada de ataque, el alcance de la potencia se duplica.
+- Su fuerza de alcance y sus ataques técnicos ignoran la mitad de la cobertura y tres cuartos de la cobertura.
+- Aprendes una potencia a voluntad que requiere una tirada de ataque. Tu capacidad de lanzar este poder a voluntad depende de la lista de poderes que hayas elegido: Sabiduría o Carisma (dependiendo de la alineación del poder) para los poderes de fuerza o Inteligencia para los poderes de tecnología.
 
 ### Stealthy 
-You know how best to hide. You gain the following benefits: 
-- Increase your Dexterity score by 1, to a maximum of 20. 
-- You gain proficiency in the Stealth skill. If you are already proficient in it, you instead gain expertise in it. 
-- If you are hidden, you can move up to 10 feet in the open without revealing yourself if you end the move in a position where you're not clearly visible. 
+Sabes cómo esconderte mejor. Obtienes los siguientes beneficios: 
+- Aumenta tu puntuación de Destreza en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad del Sigilo. Si ya eres competente en ella, en su lugar ganas experiencia en ella. 
+- Si estás escondido, puedes moverte hasta 3 metros al aire libre sin revelarte si terminas el movimiento en una posición en la que no eres claramente visible. 
 
 ### Supreme Accuracy
-_**Prerequisite:** Dexterity, Intelligence, Wisdom, or Charisma 13_<br>
-You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
+_**Pre-requisito:** Destreza, inteligencia, sabiduría o carisma.
+Tienes una puntería asombrosa con ataques que dependen de la precisión en lugar de la fuerza bruta. Obtienes los siguientes beneficios:
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-- Increase your Dexterity, Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.
-- Whenever you have advantage on an attack roll using Dexterity, Intelligence, Wisdom, or Charisma you can reroll one of the dice once. 
+- Aumenta tu puntuación de Destreza, Inteligencia, Sabiduría o Carisma en 1, hasta un máximo de 20.
+- Siempre que tengas ventaja en una tirada de ataque usando Destreza, Inteligencia, Sabiduría o Carisma puedes volver a tirar uno de los dados una vez. 
 
 ### Survivalist 
-You master wilderness lore, gaining the following benefits: 
-- Increase your Wisdom score by 1, to a maximum of 20. 
-- You gain proficiency in the Survival skill. If you are already proficient in it, you instead gain expertise in it. 
-- You learn the *alarm* tech power. You can cast it once, using supplies scavenged around you, without the use of a wristpad and without spending tech points, and you regain the ability to do so when you finish a long rest. 
+Usted domina la tradición de la vida salvaje, obteniendo los siguientes beneficios: 
+- Aumenta tu puntuación de Sabiduría en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad de supervivencia. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Aprendes el poder de la tecnología de las alarmas. Puedes lanzarlo una vez, usando los suministros que hay a tu alrededor, sin usar una almohadilla de muñeca y sin gastar puntos técnicos, y recuperas la habilidad de hacerlo cuando terminas un largo descanso. 
 
 ### Techie
-You master the theory and practice of technology, gaining the following benefits: 
-- Increase your Intelligence score by 1, to a maximum of 20. 
-- You gain proficiency in the Technology skill. If you are already proficient in it, you instead gain expertise in it. 
-- You learn the *repair droid* tech power. You can cast it once, using supplies scavenged around you, without the use of a wristpad and without spending tech points, and you regain the ability to do so when you finish a long rest.  
+Domina la teoría y la práctica de la tecnología, obteniendo los siguientes beneficios: 
+- Aumenta tu puntuación de Inteligencia en 1, hasta un máximo de 20. 
+- Se gana en destreza en la habilidad de la tecnología. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Aprendes el poder de la tecnología de los droides reparadores. Puedes lanzarlo una vez, usando los suministros que hay a tu alrededor, sin usar una almohadilla de muñeca y sin gastar puntos técnicos, y recuperas la habilidad de hacerlo cuando terminas un largo descanso. 
 
 ### Tech Dabbler
-You learn two at-will tech powers, and one 1st-level tech power, which you cast it at its lowest level. Once you cast it, you must finish a long rest before you can cast it again. Intelligence is your techcasting ability for these powers. You do not require use of a wristpad for these powers.
+Aprendes dos poderes tecnológicos a voluntad, y un poder tecnológico de primer nivel, que lo lanzas a su nivel más bajo. Una vez que lo lanzas, debes terminar un largo descanso antes de poder volver a lanzarlo. La inteligencia es tu habilidad para lanzar estos poderes. No se requiere el uso de una muñequera para estos poderes.
 
 ### Threatening 
-You become fearsome to others, gaining the following benefits: 
-- Increase your Charisma score by 1, to a maximum of 20. 
-- You gain proficiency in the Intimidation skill. If you are already proficient in it, you instead gain expertise in it. 
-- When you take the Attack action, you can replace one attack with an attempt to demoralize one humanoid you can see within 30 feet of you that can see and hear you. Make a Charisma (Intimidation) check contested by the target's Wisdom (Insight) check. If your check succeeds, the target is frightened until the end of your next turn. If your check fails, the target can't be frightened by you in this way for 1 hour. 
+Te vuelves temible para los demás, obteniendo los siguientes beneficios: 
+- Aumenta tu puntuación de Carisma en 1, hasta un máximo de 20. 
+- Se gana destreza en la habilidad de Intimidación. Si ya eres competente en ella, en cambio ganas experiencia en ella. 
+- Cuando tomas la acción de Ataque, puedes reemplazar un ataque con un intento de desmoralizar a un humanoide que puedas ver a menos de 30 pies de ti que pueda verte y oírte. Haz un chequeo de Carisma (Intimidación) disputado por el chequeo de Sabiduría (Insight) del objetivo. Si tu cheque tiene éxito, el objetivo se asusta hasta el final de tu próximo turno. Si tu cheque falla, el objetivo no puede ser asustado por ti de esta manera durante 1 hora. 
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum
 
 ### Throwing Mastery
-You've mastered the techniques of throwing weapons, readily blending the weapons with your movements. While you are wielding a weapon with the thrown property with which you are proficient, you gain the following benefits:
-- You gain a +1 bonus to ranged attack rolls you make with thrown weapons.
-- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls with thrown weapons.
-- When you hit a creature with a ranged weapon attack with a thrown weapon, you have advantage on your next melee weapon attack against that creature before the end of your next turn.
-- You can use Two-Weapon Fighting even when the melee weapons you are wielding in one hand aren't light, if at least one of them has the thrown property.
+Has dominado las técnicas de lanzamiento de armas, mezclando fácilmente las armas con tus movimientos. Mientras manejas un arma con la propiedad de lanzamiento que dominas, obtienes los siguientes beneficios:
+- Ganas un bono +1 a las tiradas de ataque a distancia que haces con las armas lanzadas.
+- Atacar a larga distancia no impone una desventaja en las tiradas de ataque de las armas a distancia con armas lanzadas.
+- Cuando golpeas a una criatura con un arma a distancia, atacas con un arma lanzada, tienes ventaja en tu siguiente ataque cuerpo a cuerpo contra esa criatura antes del final de tu siguiente turno.
+- Puedes usar la Lucha con Dos Armas incluso cuando las armas de combate cuerpo a cuerpo que tienes en una mano no son livianas, si al menos una de ellas tiene la propiedad de ser lanzada.
 
 ### Tough
-_**Prerequisite:**_ Durable _feat_<br>
-You have the blood of heroes flowing through your veins. You gain the following benefits:
-- Increase your Constitution score by 1, to a maximum of 20.
-- Whenever you take the Dodge action in combat, you can spend one Hit Die to heal yourself. Roll the die, add your Constitution modifier, and regain a number of hit points equal to the total (minimum of one). 
+Pre-requisito:**_ Duradero _feat_<br>
+Tienes la sangre de los héroes fluyendo por tus venas. Obtienes los siguientes beneficios:
+- Aumenta tu puntuación de la Constitución en 1, hasta un máximo de 20.
+- Cada vez que tomes la acción de Dodge en combate, puedes gastar un Hit Die para curarte. Lanza el dado, añade tu modificador de Constitución y recupera un número de puntos de impacto igual al total (mínimo de uno). 
 
 ### Trip Weapon Mastery
-You master the chakram, light ring, net, saberwhip, vibrobaton, vibrostaff, and vibrowhip. You gain the following benefits while wielding any of these weapons, if you are proficient with it:
-- You gain a +1 bonus to the weapon's attack rolls.
-- As a bonus action on your turn, you can extend your weapon to sweep around and pull down an opponent's shield. Until the end of that creature's next turn, it gains no benefit to armor class from its shield.
-- When you score a critical hit with the weapon or hit with an opportunity attack using the weapon, you can attempt to trip the opponent as well. If the target is no more than one size larger (your size or smaller if your weapon has the light property), it must succeed on a Strength saving throw (DC = 8 + your proficiency bonus + your choice of either your Strength or Dexterity modifier) or be knocked prone.
+Dominas el chakram, el anillo de luz, la red, el látigo de sable, el vibro-robot, el vibrostaff y el vibro-látigo. Obtienes los siguientes beneficios mientras manejas cualquiera de estas armas, si eres experto en ellas:
+- Ganas un bono +1 a las tiradas de ataque del arma.
+- Como acción extra en tu turno, puedes extender tu arma para barrer y derribar el escudo de tu oponente. Hasta el final del siguiente turno de esa criatura, no obtiene ningún beneficio para la clase de armadura de su escudo.
+- Cuando se obtiene un golpe crítico con el arma o un golpe de oportunidad con el arma, se puede intentar tropezar con el oponente también. Si el objetivo no es más de una talla más grande (tu talla o más pequeña si tu arma tiene la propiedad de ser liviana), debe tener éxito en un lanzamiento de ahorro de fuerza (DC = 8 + tu bono de habilidad + tu elección de tu modificador de Fuerza o Destreza) o ser derribado propenso.
 
 ### Two-Weapon Mastery
-You've mastered fighting with two weapons, becoming a flurry of motion. While you are wielding separate weapons in each hand, or a weapon with the double property, with which you are proficient, you gain the following benefits:
-- While wielding separate weapons in each hand, you gain a +1 bonus to AC.
-- While wielding a double weapon, when you roll a 1 on a weapon damage die, you can reroll the die and must use the new roll, even if the new roll is a 1.
+Has dominado la lucha con dos armas, convirtiéndote en una ráfaga de movimiento. Mientras manejas armas separadas en cada mano, o un arma con la doble propiedad, con la que eres competente, obtienes los siguientes beneficios:
+- Mientras manejas armas separadas en cada mano, ganas un bono +1 a AC.
+- Mientras se empuña un arma doble, cuando se saca un 1 en un dado de daño por arma, se puede volver a tirar el dado y se debe usar la nueva tirada, incluso si la nueva tirada es un 1.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-- You can engage in Two-Weapon Fighting even when the weapons you are wielding lack the light property.
-- You can draw or stow two weapons when you would normally be able to draw or stow only one.
-- When you engage in Two-Weapon Fighting, you can choose to forgo your proficiency bonus. If you do so, you can make an additional Two-Weapon Fighting attack, also without your proficiency bonus.
+- Puedes participar en la lucha con dos armas, incluso cuando las armas que manejas carecen de la propiedad de la luz.
+- Puedes desenfundar o guardar dos armas cuando normalmente sólo podrías desenfundar o guardar una.
+- Cuando te involucras en la lucha con dos armas, puedes optar por renunciar a tu bono de competencia. Si lo haces, puedes hacer un ataque adicional de Lucha con Dos Armas, también sin tu bono de habilidad.
 
 ### Versatile Mastery
-You've mastered the art of using weapons in different ways, altering your attack patterns mid-swing. While you are wielding a melee weapon with the versatile property with which you are proficient and no other weapons, you gain the following benefits:
-- When you are the target of a melee weapon attack, you can immediately use your reaction to make a melee weapon attack against the target without your proficiency bonus. On a hit, you impose disadvantage on the attack roll made against you.
-- If you miss an attack while wielding a weapon in two hands, you can immediately make an attack roll against the same target using one hand. You can only make this attack once per turn. If the two-handed attack was made with disadvantage or without your proficiency bonus, this attack is made the same way.
-- If you miss an attack while wielding a weapon in one hand, you can immediately attempt to shove that creature up to 5 feet directly away from you. You can only make this attempt once per turn. If the one-handed attack was made with disadvantage or without your proficiency bonus, this ability check is made the same way.
+Has dominado el arte de usar las armas de diferentes maneras, alterando tus patrones de ataque a medio camino. Mientras manejas un arma de combate cuerpo a cuerpo con la versátil propiedad con la que eres competente y sin otras armas, obtienes los siguientes beneficios:
+- Cuando eres el objetivo de un ataque con arma de cuerpo entero, puedes usar inmediatamente tu reacción para hacer un ataque con arma de cuerpo entero contra el objetivo sin tu bono de habilidad. En un golpe, impones una desventaja en la tirada de ataque hecha contra ti.
+- Si fallas un ataque mientras manejas un arma en dos manos, puedes hacer inmediatamente una tirada de ataque contra el mismo objetivo usando una mano. Sólo puedes hacer este ataque una vez por turno. Si el ataque a dos manos se hizo con desventaja o sin tu bono de habilidad, este ataque se hace de la misma manera.
+- Si fallas un ataque mientras empuñas un arma en una mano, puedes intentar inmediatamente empujar a esa criatura hasta 5 pies de distancia directamente de ti. Sólo puedes hacer este intento una vez por turno. Si el ataque con una mano se hizo con desventaja o sin tu bono de habilidad, este chequeo de habilidad se hace de la misma manera.
 
 ### War Caster
-_**Prerequisite:** The ability to cast force or tech powers_<br>
-You've practiced casting powers in the midst of combat, learning techniques that grant you the following benefits:
-- You have advantage on Constitution saving throws that you make to maintain your concentration on a power when you take damage.
-- When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a power at the creature, rather than making an opportunity attack. The power must have a casting time of 1 action and must target only that creature.
+Requisito previo: la capacidad de lanzar fuerza o poderes técnicos.
+Has practicado los poderes de casting en medio del combate, aprendiendo técnicas que te otorgan los siguientes beneficios:
+- Tienes ventaja en los lanzamientos de ahorro de la Constitución que haces para mantener tu concentración en un poder cuando sufres un daño.
+- Cuando el movimiento de una criatura hostil provoca un ataque de oportunidad de tu parte, puedes usar tu reacción para lanzar un poder a la criatura, en lugar de hacer un ataque de oportunidad. El poder debe tener un tiempo de lanzamiento de 1 acción y debe apuntar sólo a esa criatura.
 
 ### Weapon Expert
-You have practiced extensively with a variety of weapons, gaining the following benefits:
-- Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
-- You gain proficiency with all blasters, lightweapons, and vibroweapons. If you are already proficient with them, instead once per turn when you roll damage for a weapon attack using a weapon with which you are proficient, you can reroll the weapon's damage dice and use either total.
+Ha practicado extensamente con una variedad de armas, obteniendo los siguientes beneficios:
+- Aumenta tu puntuación de Fuerza, Destreza o Constitución en 1, hasta un máximo de 20.
+- Se gana destreza con todos los blasters, armas ligeras y vibroarmas. Si ya eres experto con ellas, en su lugar, una vez por turno cuando tiras el daño para un ataque con un arma con la que eres experto, puedes volver a tirar los dados de daño del arma y usar cualquier total.
 
-You can take this feat twice. 
+Puedes hacer esta hazaña dos veces. 
 
-<div class='footnote'>CHAPTER 6 | CUSTOMIZATION OPTIONS</div>
+<div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
 \pagebreakNum

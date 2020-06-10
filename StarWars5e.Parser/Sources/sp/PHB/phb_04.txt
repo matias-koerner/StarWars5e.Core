@@ -1,79 +1,79 @@
 
 
-# Chapter 4: Personality and Backgrounds
+# Capítulo 4: Personalidad y antecedentes
 
 <img src='https://www.gmbinder.com/images/4mYR4C0.png' style='position:absolute;top:90px;left:75px;width:30px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">haracters are defined by much more than their species</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  and class. They're individuals with their own stories, interests, connections, and capabilities beyond those that class and species define. This section expounds on the details that distinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and the finer points of personality and alignment.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">caracteres se definen por mucho más que su especie</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y clase. Son individuos con sus propias historias, intereses, conexiones y capacidades más allá de las que definen la clase y la especie. Esta sección expone los detalles que distinguen a los personajes entre sí, incluyendo los fundamentos del nombre y la descripción física, las reglas de los fondos y los idiomas, y los puntos más sutiles de la personalidad y la alineación.
 
-## Character Details
-Your character's name and physical description might be the first things that the other players at the table learn about you. It's worth thinking about how these characteristics reflect the character you have in mind.
+## Detalles del personaje
+El nombre y la descripción física de tu personaje puede ser lo primero que los demás jugadores de la mesa aprendan de ti. Vale la pena pensar en cómo estas características reflejan el personaje que tienes en mente.
 
 ### Name
-Your character's species description includes sample names for members of that species. Put some thought into your name even if you're just picking one from a list.
+La descripción de la especie de tu personaje incluye ejemplos de nombres de miembros de esa especie. Piensa un poco en tu nombre, incluso si sólo estás eligiendo uno de una lista.
 
 ### Sex
-You can play a male or female character without gaining any special benefits or hindrances. Think about how your character does or does not conform to the broader culture's expectations of sex, gender, and sexual behavior.
+Puedes interpretar a un personaje masculino o femenino sin obtener ningún beneficio u obstáculo especial. Piensa en cómo tu personaje se ajusta o no a las expectativas de la cultura más amplia en cuanto a sexo, género y comportamiento sexual.
 
-You don't need to be confined to binary notions of sex and gender. Some species believe in companionship that doesn't take into account gender. You could also play a female character who presents herself as a man or a man who feels trapped in a female body. Likewise, your character's sexual orientation is for you to decide.
+No necesitas estar confinado a las nociones binarias de sexo y género. Algunas especies creen en el compañerismo que no tiene en cuenta el género. También puedes interpretar un personaje femenino que se presenta como un hombre o un hombre que se siente atrapado en un cuerpo femenino. De la misma manera, la orientación sexual de tu personaje es algo que debes decidir tú.
 
 ### Height and Weight
-You can decide your character's height and weight, using the information provided in your species description. Think about what your character's ability scores might say about his or her height and weight. A weak but agile character might be thin. A strong and Durable character might be tall or heavy.
+Puedes decidir la altura y el peso de tu personaje, usando la información proporcionada en la descripción de tu especie. Piensa en lo que las puntuaciones de habilidad de tu personaje podrían decir sobre su altura y peso. Un personaje débil pero ágil podría ser delgado. Un personaje fuerte y duradero podría ser alto o pesado.
 
-You can also roll randomly for your character's height and weight using that species's Physical Characteristics table, as shown above. The first dice roll given in the second column determines the character's extra height (in inches) beyond the base height. That same number multiplied by the second dice roll or quantity given in the second column determines the character's extra weight (in pounds) beyond the base weight.
+También puedes rodar al azar por la altura y el peso de tu personaje usando la tabla de Características Físicas de esa especie, como se muestra arriba. La primera tirada de dados dada en la segunda columna determina la altura extra del personaje (en pulgadas) más allá de la altura base. Ese mismo número multiplicado por la segunda tirada de dados o la cantidad dada en la segunda columna determina el peso extra del personaje (en libras) más allá del peso base.
 
-For example, as a human, Obi-Wan has a height of 4 feet 8 inches plus 2d10 inches. We roll 2d10 and gets a total of 12, so Obi-Wan stands 5 feet 8 inches tall. Then we use that same roll of 12 and multiplies it by 2d4 pounds. His 2d4 roll is 3, so Obi-Wan weighs an extra 36 pounds (12x3) on top of his base 110 pounds, for a total of 146 pounds.
+Por ejemplo, como humano, Obi-Wan tiene una altura de 4 pies y 8 pulgadas más 2d10 pulgadas. Rodamos 2d10 y obtenemos un total de 12, así que Obi-Wan mide 1,5 metros de altura. Luego usamos el mismo rollo de 12 y lo multiplicamos por 2d4 libras. Su rollo de 2d4 es 3, así que Obi-Wan pesa 36 libras (12x3) extra sobre su base 110 libras, para un total de 146 libras.
 
 \columnbreak
 
 <br>
 
 ___
-> ## Human
+> ## Humano
 > ___
-> #### Physical Characteristics
+> #### Características físicas
 > |||||
 > |:--|:--|:--:|:--:|
-> |***Height***|&nbsp;&nbsp;|4'8"|+2d10"|
-> |***Weight***|&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
+> |***Altura***|&nbsp;&nbsp;|4'8"|+2d10"|
+> |***Peso***||&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
 
 ### Other Physical Characteristics
-You choose your character's age and the color of his or her hair, eyes, and skin. To add a touch of distinctiveness, you might want to give your character an unusual or memorable physical characteristic, such as a scar, a limp, or a tattoo.
+Usted elige la edad de su personaje y el color de su pelo, ojos y piel. Para añadir un toque de distinción, puede que quieras darle a tu personaje una característica física inusual o memorable, como una cicatriz, una cojera o un tatuaje.
 
-### Alignment
-A typical creature in the galaxy has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality, and is typically defined in terms of the Force: (light, dark, or balanced), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
+### Alineación
+Una criatura típica de la galaxia tiene una alineación, que describe ampliamente sus actitudes morales y personales. El alineamiento es una combinación de dos factores: uno identifica la moralidad, y se define típicamente en términos de la Fuerza: (claro, oscuro o equilibrado), y el otro describe las actitudes hacia la sociedad y el orden (legal, caótico o neutral). Así pues, nueve alineaciones distintas definen las posibles combinaciones.
 
-These brief summaries describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment. 
+Estos breves resúmenes describen el comportamiento típico de una criatura con esa alineación. Los individuos pueden variar significativamente de ese comportamiento típico, y pocas personas son perfecta y consistentemente fieles a los preceptos de su alineación. 
 
-You can pick your alignment or roll to determine it randomly. Roll separately for Morality and Society.
+Puedes elegir tu alineación o rodar para determinarla al azar. Rodar por separado para la moral y la sociedad.
 
-|d6|Morality|
+|d6|Moralidad|
 |:--:|:--|
 |1-2|**Light:** Usually the needs of others outweigh my own, (...)|
 |3-4|**Dark:** Usually my needs outweigh others', (...)|
 |5-6|**Balanced:** Usually circumstances dictate whose needs are more important, (...)
 
-|d6|Society|
+|d6|Sociedad|
 |:--:|:--|
 |1-2|**Lawful:** (...) but the means are as important as the end.|
 |3-4|**Chaotic:** (...) but the ends justify the means.|
 |5-6|**Neutral:** (...) but either the ends or the means may be more important, depending.|
 
-#### Alignment in the Galaxy
-For many thinking creatures, alignment is a moral choice. Humans and ugnaughts can choose whether to follow the paths of darkness or light, of law or chaos. Lanniks tend to follow the light side, while sith purebloods tend toward the dark. Chiss are lawful, while aqualish are often chaotic.
+#### Alineación en la Galaxia
+Para muchas criaturas pensantes, la alineación es una elección moral. Los humanos y los ugnaughts pueden elegir entre seguir los caminos de la oscuridad o de la luz, de la ley o del caos. Los Lanniks tienden a seguir el lado de la luz, mientras que los Sith puros tienden hacia la oscuridad. Los chiss son legales, mientras que los aqualish son a menudo caóticos.
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
-### Languages
-Your species indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
+### Idiomas
+Tu especie indica los idiomas que tu personaje puede hablar por defecto, y tus antecedentes pueden darte acceso a uno o más idiomas adicionales de tu elección. Anota estos idiomas en tu hoja de personaje.
 
-Choose your languages based on the species you commonly interact with. If you have a wookiee sidekick, you might understand-if not speak-Shyriiwook. Alternatively, if you commonly trade with Jawas, you might speak Jawaese.
+Elija sus idiomas en función de las especies con las que suele interactuar. Si tienes un compañero wookiee, podrías entender, si no hablar, el idioma de los sirios. Alternativamente, si comúnmente comercias con Jawas, podrías hablar Jawaese.
 
-A list of the most commonly spoken languages of *Star Wars* can be found below in the Common Languages table.
+Una lista de los idiomas más comúnmente hablados de *Guerra de las Galaxias* se puede encontrar más abajo en la tabla de Idiomas Comunes.
 
-##### Common Languages
+##### Lenguas comunes
 
 <div style='column-count:2'>
 
@@ -102,104 +102,104 @@ A list of the most commonly spoken languages of *Star Wars* can be found below i
 </div>
 
 ### Personal Characteristics
-Fleshing out your character's personality—the array of traits, mannerisms, habits, beliefs, and flaws that give a person a unique identity—will help you bring him or her to life as you play the game. Four categories of characteristics are presented here: personality traits, ideals, bonds, and flaws. Beyond those categories, think about your character's favorite words or phrases, tics and habitual gestures, vices and pet peeves, and whatever else you can imagine.
+Desplegar la personalidad de tu personaje, el conjunto de rasgos, manierismos, hábitos, creencias y defectos que dan a una persona una identidad única, te ayudará a darle vida mientras juegas el juego. Aquí se presentan cuatro categorías de características: rasgos de personalidad, ideales, vínculos y defectos. Más allá de esas categorías, piensa en las palabras o frases favoritas de tu personaje, tics y gestos habituales, vicios y manías de mascotas, y cualquier otra cosa que puedas imaginar.
 
-Each background presented later in this chapter includes suggested characteristics that you can use to spark your imagination. You're not bound to those options, but they're a good starting point.
+Cada uno de los antecedentes presentados más adelante en este capítulo incluye sugerencias de características que puede utilizar para estimular su imaginación. No estás obligado a esas opciones, pero son un buen punto de partida.
 
-#### Personality Traits
-Give your character two personality traits. Personality traits are small, simple ways to help you set your character apart from every other character. Your personality traits should tell you something interesting and fun about your character. They should be self-descriptions that are specific about what makes your character stand out. "I'm smart" is not a good trait, because it describes a lot of characters. "I've read every book I can get my hands on" tells you something specific about your character's interests and disposition.
+#### Rasgos de Personalidad
+Dale a tu personaje dos rasgos de personalidad. Los rasgos de personalidad son formas pequeñas y simples de ayudarte a diferenciar tu personaje de los demás. Los rasgos de personalidad deberían decirte algo interesante y divertido sobre tu personaje. Deben ser autodescripciones que sean específicas sobre lo que hace que tu personaje se destaque. "Soy inteligente" no es un buen rasgo, porque describe muchos personajes. "He leído todos los libros que he podido conseguir" te dice algo específico sobre los intereses y la disposición de tu personaje.
 
-Personality traits might describe the things your character likes, his or her past accomplishments, things your character dislikes or fears, your character's self-attitude or mannerisms, or the influence of his or her ability scores.
+Los rasgos de personalidad pueden describir las cosas que le gustan a su personaje, sus logros pasados, las cosas que le disgustan o temen, la auto-actitud o los manierismos de su personaje, o la influencia de sus puntuaciones de habilidad.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-A useful place to start thinking about personality traits is to look at your highest and lowest ability scores and define one trait related to each. Either one could be positive or negative: you might work hard to overcome a low score, for example, or be cocky about your high score.
+Un lugar útil para empezar a pensar en los rasgos de personalidad es mirar las puntuaciones de habilidad más altas y más bajas y definir un rasgo relacionado con cada una. Cualquiera de los dos puede ser positivo o negativo: puede trabajar duro para superar una puntuación baja, por ejemplo, o ser arrogante con respecto a su puntuación alta.
 
-#### Ideals
-Describe one ideal that drives your character. Your ideals are the things that you believe in most strongly, the fundamental moral and ethical principles that compel you to act as you do. Ideals encompass everything from your life goals to your core belief system.
+#### Ideales
+Describe un ideal que impulse tu personaje. Tus ideales son las cosas en las que crees más firmemente, los principios morales y éticos fundamentales que te obligan a actuar como lo haces. Los ideales abarcan todo, desde tus objetivos de vida hasta tu sistema de creencias.
 
-Ideals might answer any of these questions: What are the principles that you will never betray? What would prompt you to make sacrifices? What drives you to act and guides your goals and ambitions? What is the single most important thing you strive for?
+Los ideales podrían responder a cualquiera de estas preguntas: ¿Cuáles son los principios que nunca traicionarán? ¿Qué te impulsaría a hacer sacrificios? ¿Qué te impulsa a actuar y guía tus metas y ambiciones? ¿Qué es lo más importante por lo que te esfuerzas?
 
-You can choose any ideals you like, but your character's alignment is a good place to start defining them. Each background in this chapter includes six suggested ideals. Five of them are linked to aspects of alignment: dark, light, or neutral. The last one has more to do with the particular background than with moral or ethical perspectives.
+Puedes elegir los ideales que quieras, pero la alineación de tu personaje es un buen lugar para empezar a definirlos. Cada fondo de este capítulo incluye seis ideales sugeridos. Cinco de ellos están vinculados a aspectos de la alineación: oscuro, claro o neutro. El último tiene más que ver con el fondo particular que con perspectivas morales o éticas.
 
 #### Bonds
-Create one bond for your character. Bonds represent a character's connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character's motivations and goals.
+Crea un vínculo para tu personaje. Los vínculos representan las conexiones de un personaje con la gente, los lugares y los eventos del mundo. Te atan a cosas de tu pasado. Pueden inspirarte a alturas de heroísmo, o llevarte a actuar en contra de tus propios intereses si se ven amenazados. Pueden trabajar muy parecido a los ideales, impulsando las motivaciones y objetivos de un personaje.
 
-Bonds might answer any of these questions: Whom do you care most about? To what place do you feel a special connection? What is your most treasured possession?
+Los bonos podrían responder a cualquiera de estas preguntas: ¿Por quién te preocupas más? ¿A qué lugar sientes una conexión especial? ¿Cuál es su posesión más preciada?
 
-Your bonds might be tied to your class, your background, your species, or some other aspect of your character's history or personality. You might also gain new bonds over the course of your adventures.
+Sus vínculos pueden estar ligados a su clase, su origen, su especie, o algún otro aspecto de la historia o personalidad de su personaje. También puedes ganar nuevos lazos en el curso de tus aventuras.
 
-#### Flaws
-Finally, choose a flaw for your character. Your character's flaw represents some vice, compulsion, fear, or weakness—in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. More significant than negative personality traits, a flaw might answer any of these questions: What enrages you? What's the one person, concept, or event that you are terrified of? What are your vices?
+#### Defectos
+Finalmente, elige un defecto para tu personaje. El defecto de tu personaje representa algún vicio, compulsión, miedo o debilidad, en particular, cualquier cosa que otra persona pueda explotar para arruinarte o hacerte actuar en contra de tus mejores intereses. Más significativo que los rasgos de personalidad negativos, un defecto podría responder a cualquiera de estas preguntas: ¿Qué te enfurece? ¿Cuál es la persona, concepto o evento que te aterroriza? ¿Cuáles son tus vicios?
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
-## Inspiration
-Inspiration is a rule the game master can use to reward you for playing your character in a way that's true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a power that has been laid on you.
+## Inspiración
+La inspiración es una regla que el maestro del juego puede utilizar para recompensarte por jugar con tu personaje de una forma que sea fiel a sus rasgos de personalidad, ideal, vínculo y defecto. Al usar la inspiración, puedes recurrir a tu rasgo de personalidad de compasión por los oprimidos para darte una ventaja en la negociación con el Príncipe Mendigo. O la inspiración puede permitirte recurrir a tu vínculo con la defensa de tu pueblo natal para superar el efecto de un poder que se te ha impuesto.
 
 ### Gaining Inspiration
-Your GM can choose to give you inspiration for a variety of reasons. Typically, GMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your GM will tell you how you can earn inspiration in the game.
+Tu GM puede elegir darte inspiración por una variedad de razones. Típicamente, los GMs lo premian cuando juegas tus rasgos de personalidad, cedes a los inconvenientes que presenta un defecto o un vínculo, y por lo demás retratas tu personaje de una manera convincente. El GM te dirá cómo puedes inspirarte en el juego.
 
-You either have inspiration or you don't - you can't stockpile multiple "inspirations" for later use.
+O tienes inspiración o no la tienes - no puedes almacenar múltiples "inspiraciones" para usarlas más tarde.
 
 ### Using Inspiration
-If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.
+Si tienes inspiración, puedes gastarla cuando hagas una tirada de ataque, un lanzamiento de salvamento o un chequeo de habilidad. Gastar tu inspiración te da ventaja en esa tirada.
 
-Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
+Además, si tienes inspiración, puedes recompensar a otro jugador por su buen juego de rol, su pensamiento inteligente o simplemente por hacer algo emocionante en el juego. Cuando el personaje de otro jugador hace algo que realmente contribuye a la historia de una forma divertida e interesante, puedes renunciar a tu inspiración para darle inspiración a ese personaje.
 
 ## Backgrounds
-Every story has a beginning. Your character's background reveals where you came from, how you became an adventurer, and your place in the world. Your fighter might have been a pit fighter or a grizzled soldier. Your consular could have been a student or an envoy. Your operative might have gotten by as a government agent or commanded audiences as an entertainer.
+Cada historia tiene un principio. Los antecedentes de tu personaje revelan de dónde vienes, cómo te convertiste en aventurero y tu lugar en el mundo. Tu luchador podría haber sido un luchador de la mina o un soldado canoso. Tu consular podría haber sido un estudiante o un enviado. Tu operativo podría haber sobrevivido como agente del gobierno o haber comandado audiencias como animador.
 
-Choosing a background provides you with important story cues about your character's identity. The most important question to ask about your background is what changed? Why did you stop doing whatever your background describes and start adventuring? Where did you get the money to purchase your starting gear, or, if you come from a wealthy background, why don't you have more money? How did you learn the skills of your class? What sets you apart from ordinary people who share your background?
+Elegir un fondo te proporciona importantes pistas de historia sobre la identidad de tu personaje. La pregunta más importante que debes hacerte sobre tu trasfondo es ¿qué ha cambiado? ¿Por qué dejaste de hacer lo que sea que describe tu pasado y empezaste a aventurarte? ¿De dónde sacaste el dinero para comprar tu equipo de arranque, o, si vienes de un entorno rico, por qué no tienes más dinero? ¿Cómo aprendiste las habilidades de tu clase? ¿Qué te diferencia de la gente común y corriente que comparte tus antecedentes?
 
-The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
+Los ejemplos de antecedentes de este capítulo ofrecen tanto beneficios concretos (características, aptitudes e idiomas) como sugerencias para la realización de juegos de rol.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-#### Proficiencies
-Each background gives a character proficiency in two skills. Skills are described in chapter 7.
+#### Proficiency
+Cada fondo le da a un personaje el dominio de dos habilidades. Las habilidades se describen en el capítulo 7.
 
-In addition, most backgrounds give a character proficiency with one or more tools. Tools and tool proficiencies are detailed in chapter 5.
+Además, la mayoría de los fondos dan a un personaje competencia con una o más herramientas. Las herramientas y el dominio de las mismas se detallan en el capítulo 5.
 
-If a character would gain the same proficiency from two different sources, he or she can choose a different proficiency of the same kind (skill or tool) instead.
+Si un personaje obtendría la misma competencia de dos fuentes diferentes, puede elegir una competencia diferente del mismo tipo (habilidad o herramienta) en su lugar.
 
-#### Languages
-Some backgrounds also allow characters to learn additional languages beyond those given by species. See "Languages" earlier in this chapter.
+#### Idiomas
+Algunos fondos también permiten que los personajes aprendan idiomas adicionales a los dados por las especies. Véase el apartado "Lenguas", más arriba en este capítulo.
 
-#### Equipment
-Each background provides a package of starting equipment. If you use the optional rule from chapter 5 to spend coin on gear, you do not receive the starting equipment from your background.
+#### Equipo
+Cada fondo proporciona un paquete de equipo de arranque. Si utiliza la regla opcional del capítulo 5 para gastar monedas en equipo, no recibirá el equipo de arranque de su fondo.
 
 #### Background Feat
-Each background gives a character a starting feat. Feats are described in chapter 6. 
+Cada fondo le da a un personaje una hazaña inicial. Las hazañas se describen en el capítulo 6. 
 
-#### Suggested Characteristics
-A background contains suggested personal characteristics based on your background. You can pick characteristics, roll dice to determine them randomly, or use the suggestions as inspiration for characteristics of your own creation.
+#### Características sugeridas
+Un fondo contiene características personales sugeridas basadas en sus antecedentes. Puedes elegir características, tirar los dados para determinarlas al azar, o usar las sugerencias como inspiración para las características de tu propia creación.
 
-### Customizing a Background
-You might want to tweak some of the features of a background so it better fits your character or the campaign setting. To customize a background, you can replace one feature with any other one, choose any two skills, and choose a total of two tool proficiencies or languages from the sample backgrounds. You can either use the equipment package from your background or spend coin on gear as described in chapter 5. (If you spend credits, you can't also take the equipment package suggested for your class.) Finally, choose two personality traits,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; one ideal, one bond, and one flaw. If you can't find a&nbsp;&nbsp;&nbsp; feature that matches your desired background, work&nbsp;&nbsp; with your GM to create<br> one.
+### Personalizar un fondo
+Puede que quieras retocar algunas de las características de un fondo para que se ajuste mejor a tu personaje o al escenario de la campaña. Para personalizar un fondo, puedes reemplazar una característica por cualquier otra, elegir dos habilidades cualesquiera y elegir un total de dos habilidades o idiomas de las herramientas de los fondos de muestra. Puede utilizar el paquete de equipo de su fondo o gastar monedas en equipo como se describe en el capítulo 5. (Si gasta créditos, no puede llevar también el paquete de equipo sugerido para su clase). Por último, elija dos rasgos de personalidad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; un ideal, un vínculo y un defecto. Si no puede encontrar una&nbsp;&nbsp;&nbsp; característica que coincida con su fondo deseado, trabaje&nbsp;&nbsp; con su GM para crear<br> uno.
 
 <img src='https://www.gmbinder.com/images/fCleZ2B.png' style='position:absolute;bottom:-30px;right:0px;width:855px;transform:scaleX(-1);z-index:1000;' />
 
-\pagebreak
+\pagebreakNum
 
-## Agent
-Many organizations active in the galaxy aren't bound by strictures of geography. These factions pursue their agendas without regard for political boundaries, and their members operate anywhere the organization deems necessary. These groups employ listeners, rumormongers, smugglers, mercenaries, cache-holders (people who guard caches of wealth or items for use by the faction's operatives), haven keepers, and message drop minders, to name a few. At the core of every faction are those who don't merely fulfill a small function for that organization, but who serve as its hands, head, and heart. As a prelude to your adventuring career (and in preparation for it), you served as an agent of a particular faction. You might have operated openly or secretly, depending on the faction and its goals, as well as how those goals mesh with your own. Becoming an adventurer doesn't necessarily require you to relinquish membership in your faction (though you can choose to do so), and it might enhance your status in the faction.
+## Agente
+Muchas organizaciones activas en la galaxia no están sujetas a las restricciones de la geografía. Estas facciones llevan a cabo sus programas sin tener en cuenta las fronteras políticas, y sus miembros operan en cualquier lugar que la organización considere necesario. Estos grupos emplean a oyentes, rumiantes, contrabandistas, mercenarios, guardianes de alijos (personas que custodian alijos de riqueza o artículos para uso de los operativos de la facción), guardianes de refugios, y cuidadores de mensajes, por nombrar algunos. En el centro de cada facción están aquellos que no sólo cumplen una pequeña función para esa organización, sino que sirven como sus manos, cabeza y corazón. Como preludio a su carrera aventurera (y en preparación para ella), usted sirvió como agente de una facción en particular. Podrías haber operado abiertamente o en secreto, dependiendo de la facción y sus objetivos, así como de cómo esos objetivos encajan con los tuyos. Convertirse en un aventurero no requiere necesariamente que renuncies a ser miembro de tu facción (aunque puedes elegir hacerlo), y puede mejorar tu estatus en la facción.
 ___
-- **Skill Proficiencies:** Choose two from Deception, Investigation, Lore, and Persuasion
-- **Languages:** Two of your choice
-- **Equipment:** Badge or emblem of your faction, a copy of a seminal faction text (or a code-book for a covert faction), a set of common clothes, and a pouch containing 150 cr
+- **Skill Proficiencies:** Elija dos de Decepción, Investigación, Conocimiento y Persuasión
+- **Idiomas:** Dos de tu elección
+- **Equipamiento:** Placa o emblema de su facción, una copia de un texto seminal de la facción (o un libro de códigos para una facción encubierta), un conjunto de ropa común, y una bolsa que contiene 150 cr
 
-### Feature: Safe Haven
-As a faction agent, you have access to a secret network of supporters and operatives who can provide assistance on your adventures. You know a set of secret signs and passwords you can use to identify such operatives, who can provide you with access to a hidden safe house, free room and board, or assistance in finding information. These agents never risk their lives for you or risk revealing their true identities.
+### Feature: Refugio seguro
+Como agente de una facción, tienes acceso a una red secreta de partidarios y operativos que pueden ayudarte en tus aventuras. Conoces un conjunto de señales y contraseñas secretas que puedes usar para identificar a dichos operativos, que pueden proporcionarte acceso a una casa segura oculta, alojamiento y comida gratis, o ayuda para encontrar información. Estos agentes nunca arriesgan sus vidas por ti o se arriesgan a revelar sus verdaderas identidades.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -219,8 +219,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Agents are shaped by their experience in their faction's communities. Their study of the history and tenets of their faction and their relationships to it affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
+#### Características sugeridas
+Los agentes están formados por su experiencia en las comunidades de su facción. Su estudio de la historia y los principios de su facción y sus relaciones con ella afectan a sus manierismos e ideales. Sus defectos pueden ser una hipocresía oculta o una idea herética, o un ideal o un vínculo llevado al extremo.
 
 \columnbreak
 
@@ -264,25 +264,25 @@ Agents are shaped by their experience in their faction's communities. Their stud
 |5|I am suspicious of strangers and expect the worst of them.|
 |6|Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
-## Bounty Hunter 
-Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You're involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.
+## Cazador de recompensas 
+Antes de convertirse en aventurero, su vida ya estaba llena de conflictos y emociones, porque se ganaba la vida rastreando gente por dinero. A diferencia de algunas personas que recogen recompensas, sin embargo, no eres un salvaje que sigue a la cantera en o a través de la naturaleza. Estás involucrado en un lucrativo negocio, en el lugar donde vives, que rutinariamente pone a prueba tus habilidades e instintos de supervivencia. Además, no estás solo, como lo estaría un cazarrecompensas en la naturaleza: interactúas rutinariamente tanto con la subcultura criminal como con otros cazarrecompensas, manteniendo contactos en ambas áreas para ayudarte a tener éxito.
 
-You might be a cunning thief-catcher, prowling the rooftops to catch one of the myriad burglars of the city. Perhaps you are someone who has your ear to the street, aware of the doings of street gangs. You might be a "velvet mask" bounty hunter, one who blends in with high society and noble circles in order to catch the criminals that prey on the rich, whether pickpockets or con artists. As a member of an adventuring party, you might find it more difficult to pursue a personal agenda that doesn't fit with the group's objectives - but on the other hand, you can take down much more formidable targets with the help of your companions.
+Podrías ser un astuto cazador de ladrones, merodeando por los tejados para atrapar a uno de los innumerables ladrones de la ciudad. Quizás eres alguien que tiene el oído en la calle, consciente de las acciones de las bandas callejeras. Puede que seas un cazarrecompensas de "máscara de terciopelo", uno que se mezcla con la alta sociedad y los círculos nobles para atrapar a los criminales que se aprovechan de los ricos, ya sean carteristas o estafadores. Como miembro de un grupo de aventureros, puede que le resulte más difícil seguir una agenda personal que no encaje con los objetivos del grupo, pero por otro lado, puede derribar objetivos mucho más formidables con la ayuda de sus compañeros.
 ___
 - **Skill Proficiencies:** Choose two from Deception, Insight, Persuasion, and Stealth
 - **Tool Proficiencies:** Your choice of demolitions kit, security kit, or slicer's kit
 - **Languages:** One of your choice
 - **Equipment:** A set of clothes appropriate to your duties, a set of binders, and a pouch containing 200 cr
 
-### Feature: Ear to the Ground
-You are in frequent contact with people in the segment of society that your chosen quarries move through. These people might be associated with the criminal underworld, the rough-and-tumble folk of the streets, or members of high society. This connection comes in the form of a contact in any city you visit, a person who provides information about the people and places of the local area.
+### Feature: Oído a la tierra
+Usted está en contacto frecuente con la gente del segmento de la sociedad por el que se mueven sus canteras elegidas. Estas personas pueden estar asociadas con el submundo criminal, la gente tosca de las calles, o miembros de la alta sociedad. Esta conexión viene en forma de un contacto en cualquier ciudad que visites, una persona que provee información sobre la gente y los lugares del área local.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -302,8 +302,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Your bond might involve other bounty hunters or the organizations or individuals that employ you. Your ideal could be associated with your determination always to catch your quarry or your desire to maintain your reputation for being dependable.
+#### Características sugeridas
+Su vínculo puede involucrar a otros cazadores de recompensas o a las organizaciones o individuos que lo emplean. Tu ideal podría estar asociado con tu determinación de atrapar siempre a tu presa o tu deseo de mantener tu reputación de ser confiable.
 
 \columnbreak
 
@@ -347,19 +347,19 @@ Your bond might involve other bounty hunters or the organizations or individuals
 |5|I turn tail and run when things look bad.|
 |6|An innocent person is in prison for a crime that I committed. I'm okay with that.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
 ## Criminal
-You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You're far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.
+Usted es un criminal experimentado con un historial de violación de la ley. Has pasado mucho tiempo entre otros criminales y aún tienes contactos dentro del submundo criminal. Estás mucho más cerca que la mayoría de la gente del mundo del asesinato, el robo y la violencia que impregna los bajos fondos de la civilización, y has sobrevivido hasta este punto burlándote de las reglas y regulaciones de la sociedad.
 ___
 - **Skill Proficiencies:** Choose two from Deception, Intimidation, Sleight of Hand, and Stealth
 - **Tool Proficiencies:** One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit
 - **Equipment:** A set of common clothes with a hood, a gaming set (one of your choice), and a belt pouch containing 150 cr
 
-#### Criminal Specialty
-Individual criminals often have particular specialties, whether a part of an organization or a solo endeavor. Choose the role you played in your criminal life, or roll on the table below.
+#### Especialidad Criminal
+Los delincuentes individuales suelen tener especialidades particulares, ya sea como parte de una organización o en solitario. Elija el papel que desempeñó en su vida criminal, o pase a la siguiente tabla.
 
 <div style='column-count:2'>
 
@@ -379,11 +379,11 @@ Individual criminals often have particular specialties, whether a part of an org
 
 </div>
 
-### Feature: Criminal Contact
-You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.
+### Feature: Contacto criminal
+Tiene un contacto fiable y de confianza que actúa como su enlace con una red de otros criminales. Usted sabe cómo hacer llegar los mensajes a y desde su contacto, incluso a grandes distancias; específicamente, usted conoce a los mensajeros locales, a los jefes de caravana corruptos y a los marineros sórdidos que pueden entregar los mensajes por usted.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -403,8 +403,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority. 
+#### Características sugeridas
+Los criminales pueden parecer villanos en la superficie, y muchos de ellos son villanos hasta la médula. Pero algunos tienen una abundancia de características entrañables, si no redentoras. Puede que haya honor entre los ladrones, pero los criminales raramente muestran respeto por la ley o la autoridad. 
 
 \columnbreak
 
@@ -448,19 +448,19 @@ Criminals might seem like villains on the surface, and many of them are villaino
 |5|I turn tail and run when things look bad.|
 |6|An innocent person is in prison for a crime that I committed. I'm okay with that.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
 ## Entertainer
-You thrive in front of an audience, knowing how to entrance them, entertain them, and even inspire them. Your poetics can stir the hearts of those who hear you, awakening grief or joy, laughter or anger. Your music raises their spirits or captures their sorrow. Your dance steps captivate, your humor cuts to the quick. Whatever techniques you use, your art is your life.
+Uno prospera frente a un público, sabiendo cómo entrar en él, entretenerlo e incluso inspirarlo. Tu poética puede conmover los corazones de los que te escuchan, despertando la pena o la alegría, la risa o la ira. Tu música eleva sus espíritus o captura su dolor. Tus pasos de baile cautivan, tu humor corta a lo rápido. Cualquiera que sea la técnica que uses, tu arte es tu vida.
 ___
 - **Skill Proficiencies:** Choose two from Acrobatics, Insight, Performance, and Sleight of Hand
 - **Tool Proficiencies:** Disguise kit, one type of musical instrument
 - **Equipment:** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing 150 cr
 
 #### Entertainer Routines
-A good entertainer is versatile, spicing up every performance with a variety of different routines. Choose one to three routines or roll on the table below to define your expertise as an entertainer.
+Un buen animador es versátil, condimentando cada actuación con una variedad de rutinas diferentes. Elija de una a tres rutinas o ruede en la tabla de abajo para definir su experiencia como animador.
 
 <div style='column-count:2'>
 
@@ -482,11 +482,11 @@ A good entertainer is versatile, spicing up every performance with a variety of 
 
 </div>
 
-### Feature: By Popular Demand
-You can always find a place to perform, usually in an inn or cantina but possibly with a circus, at a theater, or even in a noble's court. At such a place, you receive free lodging and food of a modest or comfortable standard (depending on the quality of the establishment), as long as you perform each night. In addition, your performance makes you something of a local figure. When strangers recognize you in a town where you have performed, they typically take a liking to you.
+### Feature: Por demanda popular
+Siempre se puede encontrar un lugar para actuar, normalmente en una posada o cantina pero posiblemente con un circo, en un teatro, o incluso en una corte nobiliaria. En tal lugar, usted recibe alojamiento y comida gratis de un nivel modesto o confortable (dependiendo de la calidad del establecimiento), siempre que actúe cada noche. Además, su actuación le convierte en una especie de figura local. Cuando los extraños te reconocen en un pueblo donde has actuado, normalmente se aficionan a ti.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -506,8 +506,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Successful entertainers have to be able to capture and hold an audience's attention, so they tend to have flamboyant or forceful personalities. They're inclined toward the romantic and often cling to high-minded ideals about the practice of art and the appreciation of beauty.
+#### Características sugeridas
+Los artistas de éxito tienen que ser capaces de captar y mantener la atención del público, por lo que tienden a tener personalidades extravagantes o enérgicas. Se inclinan por lo romántico y a menudo se aferran a ideales elevados sobre la práctica del arte y la apreciación de la belleza.
 
 \columnbreak
 
@@ -551,22 +551,22 @@ Successful entertainers have to be able to capture and hold an audience's attent
 |5|I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.|
 |6|Despite my best efforts, I am unreliable to my friends.
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
 ## Gambler
-You are a skilled gambler who spends most of your time in casinos, bar rooms, and gambling dens. Are your activities legal, or do you break the law? Have you ever cheated in a game, or do you play by the rules? No matter what, your life has been one of excitement, chance, and danger.
+Eres un hábil jugador que pasa la mayor parte de su tiempo en casinos, bares y salas de juego. ¿Sus actividades son legales, o infringe la ley? ¿Alguna vez has hecho trampa en un juego, o juegas según las reglas? No importa lo que pase, su vida ha sido una de excitación, azar y peligro.
 ___
-- **Skill Proficiencies:** Choose two from Deception, Insight, Intimidation, and Sleight of Hand
-- **Tool Proficiencies:** Two types of gaming sets
-- **Equipment:** A set of common clothes, a set of dice, a deck of playing cards, a lucky charm, and a belt pouch containing 100 cr.
+- **Skill Proficiencies:** Elija dos de Decepción, Insight, Intimidación y Sleight of Hand
+- **Conocimientos de herramientas:** Dos tipos de juegos de azar
+- **Equipamiento:** Un conjunto de ropa común, un juego de dados, una baraja de cartas, un amuleto de la suerte, y una bolsa de cinturón que contiene 100 cr.
 
-### Feature: Let's Make It Interesting
-You can convince nearly anyone to put up something they aren't normally willing to part with (property or information) in a game of chance. Your GM might rule that they will only agree to a game of their choosing, and they may only agree if they feel the odds are in their favor.
+### Feature: Hagámoslo interesante
+Puedes convencer a casi todos de que pongan algo de lo que normalmente no están dispuestos a desprenderse (propiedad o información) en un juego de azar. Tu GM puede decidir que sólo aceptará un juego de su elección, y sólo puede aceptar si siente que las probabilidades están a su favor.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -586,8 +586,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Gambling is your passion, for better or for worse. Most gamblers see their vices as virtues, and overlook things in their pursuit of the rush.
+#### Características sugeridas
+El juego es tu pasión, para bien o para mal. La mayoría de los jugadores ven sus vicios como virtudes, y pasan por alto las cosas en su búsqueda de la prisa.
 
 \columnbreak
 
@@ -631,12 +631,12 @@ Gambling is your passion, for better or for worse. Most gamblers see their vices
 |5|I tend to value money more than people.|
 |6|I like to think I could drink anyone under the table, but I'm really a lightweight.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
 ## Jedi
-You are a devout follower of the Jedi Order: an ancient, monastic peacekeeping organization united in its observance of the light side of the Force. A noble order of protectors noted for their ability to tap into the power of the Force, the Jedi serve as guardians of peace and justice in the Galactic Republic. You follow the Jedi Code:
+Eres un devoto seguidor de la Orden Jedi: una antigua organización monástica de mantenimiento de la paz unida en su observancia del lado de la luz de la Fuerza. Una noble orden de protectores conocidos por su habilidad para aprovechar el poder de la Fuerza, los Jedi sirven como guardianes de la paz y la justicia en la República Galáctica. Siguen el Código Jedi:
 
 <div align="center">
 
@@ -649,25 +649,25 @@ There is no death, there is the Force."*
 </div>
 
 ___
-- **Skill Proficiencies:** Choose two from Insight, Investigation, Lore, and Persuasion
-- **Tool Proficiencies:** Artificer's tools
-- **Languages:** One of your choice
-- **Equipment:** A copy of the Jedi code, a set of common clothes including a robe, and a belt pouch containing 150 cr
+- **Skill Proficiencies:** Elija dos de Insight, Investigation, Lore, and Persuasion
+- **Herramientas de competencia:** Herramientas de artificio
+- **Idiomas:** Uno de tu elección
+- **Equipamiento:** Una copia del código Jedi, un conjunto de ropa común incluyendo una bata, y una bolsa de cinturón que contiene 150 cr
 
-### Feature: Shelter of the Faithful
-As a Jedi, you command the respect of those who are loyal to the Jedi Order. You and your adventuring companions can expect to receive free healing and care at any Jedi temple, and those who support your religion will support you (but only you) at a modest lifestyle.
+### Feature: Refugio de los Fieles
+Como Jedi, tienes el respeto de los que son leales a la Orden Jedi. Tú y tus compañeros de aventuras pueden esperar recibir curación y cuidados gratuitos en cualquier templo Jedi, y aquellos que apoyan tu religión te apoyarán (pero sólo a ti) con un estilo de vida modesto.
 
-You might also have ties to a specific Jedi temple and have a residence there. This could be the temple where you trained, or a temple where you have found a new home. While near your temple, you can call upon the Jedi for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
+También podrías tener lazos con un templo Jedi específico y tener una residencia allí. Este podría ser el templo donde te entrenaste, o un templo donde has encontrado un nuevo hogar. Mientras estés cerca de tu templo, puedes pedir ayuda a los Jedi, siempre y cuando la ayuda que pidas no sea peligrosa y permanezcas en buena posición con tu templo.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
 |d8|Feat|
 |:--:|:--:|
-|1|Empathic|
-|2|Investigator|
+|1|Empático|
+|2|Investigador|
 |3|Loremaster|
 |4|Charmer|
 
@@ -680,8 +680,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Jedi are shaped by their experience in their temple. Their study of the history and tenets of the Jedi Order and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
+#### Características sugeridas
+Los Jedi se forman por su experiencia en su templo. Su estudio de la historia y los principios de la Orden Jedi y sus relaciones con los templos, santuarios o jerarquías afectan sus manierismos e ideales. Sus defectos pueden ser una hipocresía oculta o una idea herética, o un ideal o un vínculo llevado al extremo.
 
 \columnbreak
 
@@ -725,20 +725,20 @@ Jedi are shaped by their experience in their temple. Their study of the history 
 |5|I am suspicious of strangers and expect the worst of them.|
 |6|Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
 ## Mandalorian
-You are a child of Mandalore. As a member of the most renowned warrior culture in history, your people are known for being strong and hardy. Mandalorian culture is built around the honor and glory that come from victory in battle.
+Eres un hijo de Mandalore. Como miembro de la cultura guerrera más renombrada de la historia, tu pueblo es conocido por ser fuerte y resistente. La cultura mandaloriana se construye alrededor del honor y la gloria que se obtienen de la victoria en la batalla.
 ___
-- **Skill Proficiencies:** Choose two from Athletics, Intimidation, Piloting, and Survival
-- **Tool Proficiencies:** One set of artisan's tools
-- **Languages:** Mando'a 
-- **Equipment:** A set of traveler's clothes, a trophy from a previous victory, and a pouch containing 200 cr
+- **Skill Proficiency:** Elija dos de Atletismo, Intimidación, Pilotaje y Supervivencia
+- Un juego de herramientas de artesanos...
+- **Idiomas:** Mando'a 
+- **Equipamiento:** Un juego de ropa de viajero, un trofeo de una victoria anterior, y una bolsa que contiene 200 cr
 
-#### Mandalorian Clan
-Mandalorian culture is built on the backbone of various clans. The clan you are a part of has it's own history, allegiances, and fueds which shape your persepctive. Choose an option or roll on the table below to determine your clan.
+#### Clan Mandaloriano
+La cultura mandaloriana está construida sobre la columna vertebral de varios clanes. El clan del que formas parte tiene su propia historia, lealtades, y fuentes que dan forma a tu personalidad. Elige una opción o rueda en la tabla de abajo para determinar tu clan.
 
 <div style='column-count:2'>
 
@@ -758,11 +758,11 @@ Mandalorian culture is built on the backbone of various clans. The clan you are 
 
 </div>
 
-### Feature: Child of Mandalore
-Other Mandalorians know, and will look out for you. If you're ever in need of a place to stay, or a meal to eat, other Mandalorians  will help you as long as your clans aren't feuding. This could be in the form of shelters, meals, even healing. If the Mandalorians are of your clan or a clan friendly to you, they may be willing to help you even at cost to themselves.
+### Feature: El hijo de Mandalore
+Otros mandalorianos lo saben y te cuidarán. Si alguna vez necesitas un lugar donde quedarte, o una comida para comer, los otros mandalorianos te ayudarán mientras tus clanes no se peleen. Esto podría ser en forma de refugios, comidas, incluso curación. Si los mandorrianos son de tu clan o de un clan amigo tuyo, pueden estar dispuestos a ayudarte incluso a costa de ellos mismos.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -782,8 +782,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Mandalorians are a meritocracy where birthplace, rank, status, and citizenship mean nothing. You are what you do. Mandalorians live by the Resol'nare (the "Six Actions"). As a true Mandalorian you should strive to live by this code as much as possible by remaining honorable. Your flaw(s) might consist of any dishonor you've committed, or even being too honorable.
+#### Características sugeridas
+Los mandalorianos son una meritocracia donde el lugar de nacimiento, el rango, el estatus y la ciudadanía no significan nada. Tú eres lo que haces. Los mandalorientales viven según el Resol'nare (las "Seis Acciones"). Como un verdadero mandaloriano debes esforzarte por vivir según este código tanto como sea posible permaneciendo honorable. Tus defectos pueden consistir en cualquier deshonra que hayas cometido, o incluso en ser demasiado honorable.
 
 \columnbreak
 
@@ -828,25 +828,25 @@ Mandalorians are a meritocracy where birthplace, rank, status, and citizenship m
 | 5 | I retreated once, and I've regretted it ever since. |
 | 6 | I value a victory regardless of the ethics behind the victory.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
-## Mercenary
-As a sell-sword who fought battles for coin, you're well acquainted with risking life and limb for a chance at a share of treasure. Now, you look forward to fighting foes and reaping even greater rewards as an adventurer. Your experience makes you familiar with the ins and outs of mercenary life, and you likely have harrowing stories of events on the battlefield. You might have served with a large outfit or a smaller band of sell-swords, maybe even more than one. 
+## Mercenario
+Como un vendedor de espadas que luchó en batallas por monedas, estás bien familiarizado con arriesgar la vida y la integridad física por una oportunidad de compartir un tesoro. Ahora, espera luchar contra los enemigos y cosechar mayores recompensas como aventurero. Tu experiencia te hace familiar con los entresijos de la vida de mercenario, y probablemente tengas historias horribles de eventos en el campo de batalla. Puede que hayas servido con un gran equipo o con un grupo más pequeño de espadas de venta, tal vez incluso más de uno. 
 
-Now you're looking for something else, perhaps greater reward for the risks you take, or the freedom to choose your own activities. For whatever reason, you're leaving behind the life of a soldier for hire, but your skills are undeniably suited for battle, so now you fight on in a different way.
+Ahora estás buscando algo más, quizás una mayor recompensa por los riesgos que tomas, o la libertad de elegir tus propias actividades. Por cualquier razón, estás dejando atrás la vida de un soldado de alquiler, pero tus habilidades son innegablemente adecuadas para la batalla, así que ahora luchas de una manera diferente.
 ___
-- **Skill Proficiencies:** Choose two from Athletics, Investigation, Persuasion, and Piloting
-- **Tool Proficiencies:** One type of gaming set
-- **Languages:** One of your choice
-- **Equipment:** A uniform of your company (traveler's clothes in quality), an insignia of your rank, a gaming set (one of your choice), and a pouch containing the remainder of your last wages (100 cr)
+- **Skill Proficiencies:** Elija dos de Atletismo, Investigación, Persuasión y Pilotaje
+- **Conocimiento de herramientas:** Un tipo de juego
+- **Idiomas:** Uno de tu elección
+- **Equipamiento:** Un uniforme de su compañía (ropa de viaje de calidad), una insignia de su rango, un juego de azar (uno de su elección), y una bolsa con el resto de su último salario (100 cr)
 
-### Feature: Mercenary Life
-You know the mercenary life as only someone who has experienced it can. You are able to identify mercenary companies by their emblems, and you know a little about any such company, including the names and reputations of its commanders and leaders, and who has hired them recently. You can find the cantinas and feasthalls where mercenaries abide in any area, as long as you speak the language, and if you spend at least an hour in such a location you can come across one of the following bits of information: a job offer, significant rumor, referal to a skilled merchant, blacksmith, etc., or a hint towards the pursuit of your current quest. Additionally, you can find mercenary work between adventures sufficient to maintain a comfortable lifestyle (see "Practicing a Profession" under "Downtime Activities" in chapter 8 of the Player's Handbook).
+### Feature: Vida Mercenaria
+Conoces la vida de los mercenarios como sólo puede hacerlo alguien que la ha experimentado. Eres capaz de identificar las compañías de mercenarios por sus emblemas, y sabes un poco sobre cualquier compañía de este tipo, incluyendo los nombres y reputaciones de sus comandantes y líderes, y quién los ha contratado recientemente. Puedes encontrar las cantinas y fiestas donde los mercenarios habitan en cualquier área, siempre y cuando hables el idioma, y si pasas al menos una hora en tal lugar puedes encontrar uno de los siguientes datos: una oferta de trabajo, un rumor significativo, una referencia a un comerciante experto, un herrero, etc., o un indicio hacia la continuación de tu búsqueda actual. Además, puedes encontrar trabajo de mercenario entre aventuras suficiente para mantener un estilo de vida confortable (ver "Practicando una profesión" en "Actividades de ocio" en el capítulo 8 del Manual del Jugador).
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -866,8 +866,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Mercenaries are shaped by their lively nature, for the better and the worse. They tend to be driven by either their commitment to money or something more valuable.
+#### Características sugeridas
+Los mercenarios están formados por su naturaleza vivaz, para bien y para mal. Tienden a ser impulsados por su compromiso con el dinero o algo más valioso.
 
 \columnbreak
 
@@ -911,33 +911,33 @@ Mercenaries are shaped by their lively nature, for the better and the worse. The
 |5|I believe that I am the only skilled person of the group and am even open about it.|
 |6|I will never let a comrade stand alone, even if it gets me killed.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
 ## Noble
-You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with manual labor, a former merchant just elevated to the nobility, or an honest, hard-working landowner who cares deeply about the people who live and work on your land.
+Entiendes la riqueza, el poder y los privilegios. Tienes un título de nobleza, y tu familia posee tierras, recauda impuestos y ejerce una importante influencia política. Puedes ser un aristócrata mimado que no está familiarizado con el trabajo manual, un antiguo comerciante recién elevado a la nobleza, o un honesto y trabajador terrateniente que se preocupa profundamente por la gente que vive y trabaja en tu tierra.
 
-Work with your GM to come up with an appropriate title and determine how much authority that title carries, as well as your family and their influence on you. Is your family old and established, or was your title only recently bestowed? How much influence do they wield, how do people regard them?
+Trabaja con tu GM para conseguir un título apropiado y determinar cuánta autoridad tiene ese título, así como tu familia y su influencia sobre ti. ¿Es tu familia vieja y establecida, o tu título fue otorgado recientemente? ¿Cuánta influencia ejercen, cómo los considera la gente?
 
-What's your position in the family? Are you the heir to the head of the family or the head itself? Are you far down the line of succession? How does the head of your family feel about your adventuring career? Are you in your family's good graces? 
+¿Cuál es su posición en la familia? ¿Eres el heredero del jefe de la familia o el jefe mismo? ¿Estás en la línea de sucesión? ¿Cómo se siente el jefe de su familia sobre su carrera aventurera? ¿Está usted en la buena voluntad de su familia? 
 
-Does your family have a coat of arms you might wear, a signet ring, or particular colors? 
+¿Tiene su familia un escudo de armas que pueda usar, un anillo de sello, o colores particulares? 
 
-These details help establish your family and your title as features of the world of the campaign.
+Estos detalles ayudan a establecer su familia y su título como características del mundo de la campaña.
 
 ___
 
-- **Skill Proficiencies:** Choose two from Deception, Insight, Lore, and Persuasion
-- **Tool Proficiencies:** One type of gaming set
-- **Languages:** One of your choice
-- **Equipment:** A set of fine clothes, a signet ring, a letter of pedigree, and a purse containing 250 cr
+- **Skill Proficiencies:** Escoge dos de Decepción, Insight, Lore, y Persuasión
+- **Conocimiento de herramientas:** Un tipo de juego
+- **Idiomas:** Uno de tu elección
+- Un juego de ropa fina, un anillo de sello, una carta de pedigrí, y un bolso que contiene 250 cr.
 
-### Feature: Position of Privilege
-Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.
+### Feature: Posición de privilegio
+Gracias a tu noble nacimiento, la gente se inclina a pensar lo mejor de ti. Eres bienvenido en la alta sociedad, y la gente asume que tienes el derecho de estar donde quiera que estés. La gente común hace todos los esfuerzos para acomodarte y evitar tu disgusto, y otras personas de alta cuna te tratan como un miembro de la misma esfera social. Puedes asegurarte una audiencia con un noble local si lo necesitas.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -957,8 +957,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds—responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
+#### Características sugeridas
+Los nobles nacen y se crían con un estilo de vida muy diferente al que la mayoría de la gente nunca ha experimentado, y sus personalidades reflejan esa educación. Un título nobiliario viene con una plétora de vínculos-responsabilidades con la familia, con otros nobles (incluido el soberano), con las personas confiadas al cuidado de la familia, o incluso con el propio título. Pero esta responsabilidad es a menudo una buena manera de socavar a un noble.
 
 \columnbreak
 
@@ -1002,23 +1002,23 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 |5|In fact, the world does revolve around me.|
 |6|By my words and actions, I often bring shame to my family.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
-## Scientist
-Nothing excites you more than pushing the boundaries of scientific knowledge. Most of your time is spent in a lab performing experiments to further your interests. Few people understand the work you do. You can solve complex problems most people can't begin to wrap their heads around, and can solve simple problems in unexpected ways that surprise most people. 
+## Científico
+Nada te excita más que empujar los límites del conocimiento científico. La mayor parte del tiempo se pasa en un laboratorio realizando experimentos para fomentar sus intereses. Pocas personas entienden el trabajo que haces. Puedes resolver problemas complejos que la mayoría de la gente no puede empezar a entender, y puedes resolver problemas simples de maneras inesperadas que sorprenden a la mayoría de la gente. 
 
-What is your scientific field of interest? Is it your insatiable curiousity, or a personal goal that drives you? Did you leave your lab voluntarily, or were you kicked out? One thing is for sure - there are too many interesting research ideas, and too little time.
+¿Cuál es su campo científico de interés? ¿Es su insaciable curiosidad, o una meta personal lo que le impulsa? ¿Dejaste tu laboratorio voluntariamente, o te echaron? Una cosa es segura - hay demasiadas ideas de investigación interesantes, y muy poco tiempo.
 
 ___
-- **Skill Proficiencies:** Choose two from Lore, Medicine, Nature, and Technology
-- **Tool Proficiencies:** One of your choice
-- **Languages:** One of your choice
-- **Equipment:** A set of common clothes, a datapad, a book on your field of research, a pouch containing 100 cr
+- **Skill Proficiencies:** Elija dos de Lore, Medicina, Naturaleza y Tecnología
+- **Herramientas de alto rendimiento:** Una de su elección
+- **Idiomas:** Uno de tu elección
+- Equipo: Un conjunto de ropa común, un bloc de datos, un libro sobre su campo de investigación, una bolsa que contiene 100 cr...
 
-#### Field of Research
-While scientist's are widely knowledgeable, they also choose a focus for their studies. Choose an option or roll on the table below to define your field of research.
+#### Campo de Investigación
+Mientras que los científicos están ampliamente informados, también eligen un enfoque para sus estudios. Elija una opción o ruede en la tabla de abajo para definir su campo de investigación.
 
 <div style='column-count:2'>
 
@@ -1038,11 +1038,11 @@ While scientist's are widely knowledgeable, they also choose a focus for their s
 
 </div>
 
-### Feature: Scientific Method
-You are well acquainted with your field of research from having read numerous journals or having attended scientific conferences. Concepts that are complicated, involving technical jargon that usually goes over most people's heads, are simple to you. You fully understand concepts, can recall key information, and know how to use equipment related to your field, unless the research was hidden from the public, in which you may only partially understand. You also recognize well-known figures in your field.
+### Feature: Método científico
+Usted conoce bien su campo de investigación por haber leído numerosas revistas o haber asistido a conferencias científicas. Los conceptos que son complicados, que implican una jerga técnica que normalmente pasa por encima de la cabeza de la mayoría de la gente, son sencillos para usted. Usted comprende plenamente los conceptos, puede recordar información clave y sabe cómo utilizar el equipo relacionado con su campo, a menos que la investigación se haya ocultado al público, en el que puede que sólo comprenda parcialmente. También reconoces a figuras conocidas en tu campo.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -1062,8 +1062,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Scientist are interested in things most don't care about. Their research is their life, and drives their personality traits. Their flaws, ideals, and bond are a result of their hours spent researching.
+#### Características sugeridas
+Los científicos se interesan por cosas que a la mayoría no les importan. Su investigación es su vida, y dirige sus rasgos de personalidad. Sus defectos, ideales y vínculos son el resultado de sus horas de investigación.
 
 \columnbreak
 
@@ -1107,21 +1107,21 @@ Scientist are interested in things most don't care about. Their research is thei
 | 5 | I believe I work better when under the influence of intoxicants. |
 | 6 | I work on my research to the point where I ignore my own bodily needs. |
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
-## Scoundrel
-You have always had a way with people. You can tease out their heart's desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage. You know what people want and you promise to deliver, coaxing people into otherwise foolish decisions. You make the improbable sound plausible, and come ahead on every deal.
+## Sinvergüenza
+Siempre has tenido una forma de tratar a la gente. Puedes sacar los deseos de su corazón después de unos minutos de conversación, y con unas cuantas preguntas guía puedes leerlos como si fueran libros para niños. Es un talento útil, y uno que estás perfectamente dispuesto a usar para tu beneficio. Sabes lo que la gente quiere y prometes cumplirlo, persuadiendo a la gente para que tome decisiones tontas. Haces que lo improbable suene plausible, y te adelantas a cada trato.
 
 ___
 
-- **Skill Proficiencies:** Choose two from Deception, Insight, Performance, and Sleight of Hand
-- **Tool Proficiencies:** Disguise Kit, Forgery Kit
-- **Equipment:** A set of fine clothes, a disguise kit, a memento of a former con, and a belt pouch containing 150 cr
+- **Skill Proficiencies:** Escoge dos de Decepción, Insight, Performance, y Sleight of Hand
+- **Herramientas: Kit de disfraces, kit de falsificación...
+- Equipo: Un juego de ropa fina, un kit de disfraces, un recuerdo de una antigua estafa, y una bolsa de cinturón que contiene 150 cr.
 
-#### Favorite Schemes
-Every scoundrel has an angle they use in preference to other schemes. Choose a favorite scam or roll on the table below.
+#### Esquemas favoritos
+Cada sinvergüenza tiene un ángulo que utiliza en preferencia a otros esquemas. Elija una estafa favorita o ruede en la tabla de abajo.
 
 |d6|Scam|
 |:--:|:--:|
@@ -1132,13 +1132,13 @@ Every scoundrel has an angle they use in preference to other schemes. Choose a f
 |5|I run sleight-of-hand cons on street corners.|
 |6|I convince people that worthless junk is worth their hard-earned money.|
 
-### Feature: False Identity 
-You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona.
+### Feature: Identidad falsa 
+Ha creado una segunda identidad que incluye documentación, conocidos establecidos y disfraces que le permiten asumir esa persona.
 
-Additionally, you can forge documents including official papers and personal letters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.
+Además, puede falsificar documentos, incluyendo papeles oficiales y cartas personales, siempre y cuando haya visto un ejemplo del tipo de documento o de la letra que está tratando de copiar.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -1158,8 +1158,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics 
-Scoundrels are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
+#### Características sugeridas 
+Los sinvergüenzas son personajes coloridos que ocultan su verdadero ser detrás de las máscaras que construyen. Reflejan lo que la gente quiere ver, lo que quieren creer y cómo ven el mundo. Pero su verdadero ser está a veces plagado de una conciencia intranquila, un viejo enemigo, o problemas de confianza profundamente arraigados.
 
 \columnbreak
 
@@ -1203,12 +1203,12 @@ Scoundrels are colorful characters who conceal their true selves behind the mask
 |5|I can't resist swindling people who are more powerful than me.|
 |6|I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
 ## Sith
-You are an acolyte of the Sith Order: an ancient order of Force-wielders devoted to the dark side of the Force. Emerging as a divergent faction to the Jedi Order, the Sith are mortal enemies of the Jedi and fight against them. Driven by emotions such as hate, anger, and greed, the Sith are deceptive and ultimately obsessed with amassing power no matter the cost. You follow the Sith Code:
+Eres un acólito de la Orden Sith: una antigua orden de guerreros dedicados al lado oscuro de la Fuerza. Emergiendo como una facción divergente de la Orden Jedi, los Sith son enemigos mortales de los Jedi y luchan contra ellos. Impulsados por emociones como el odio, la ira y la codicia, los Sith son engañosos y están obsesionados con acumular poder a cualquier precio. Sigues el Código Sith:
 
 <div align="center">
 
@@ -1222,18 +1222,18 @@ The Force shall free me."*
 </div>
 
 ___
-- **Skill Proficiencies:** Choose two from Deception, Insight, Intimidation, and Lore
-- **Tool Proficiencies:** Artificer's tools
-- **Languages:** One of your choice
-- **Equipment:** A copy of the Sith code, a set of common clothes including a robe, and a belt pouch containing 150 cr
+- **Skill Proficiencies:** Escoge dos de Decepción, Entendimiento, Intimidación y Tradición
+- **Herramientas de competencia:** Herramientas de artificio
+- **Idiomas:** Uno de tu elección
+- **Equipamiento:** Una copia del código Sith, un conjunto de ropa común incluyendo una bata, y una bolsa de cinturón que contiene 150 cr
 
-### Feature: Asylum by the Fearful
-As a Sith, you instill fear in those who are aware of your standing. You and your adventuring companions can expect to receive free healing and care at any Sith temple, and those who are aware of your nature will support you (but only you) at a modest lifestyle.
+### Feature: Asilo de los Temerosos
+Como Sith, infundes miedo a aquellos que son conscientes de tu posición. Usted y sus compañeros de aventura pueden esperar recibir curación y cuidados gratuitos en cualquier templo Sith, y aquellos que son conscientes de su naturaleza le apoyarán (pero sólo a usted) en un estilo de vida modesto.
 
-You might also have ties to a specific Sith temple and have a residence there. This could be the temple where you trained, or a temple where you have found a new home. While near your temple, you can call upon the Sith for assistance, provided the assistance you ask for benefits them and you remain in good standing with your temple.
+También puede tener vínculos con un templo Sith específico y tener una residencia allí. Este podría ser el templo en el que te has entrenado, o un templo en el que has encontrado un nuevo hogar. Mientras estés cerca de tu templo, puedes pedir ayuda a los Sith, siempre y cuando les pidas beneficios y te mantengas en buena posición con tu templo.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -1253,8 +1253,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Sith are shaped by their training. They study the Sith code and use it to oppress the weak and quell resistance. Their study of the Sith code affects their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
+#### Características sugeridas
+Los Sith están formados por su entrenamiento. Estudian el código Sith y lo usan para oprimir a los débiles y sofocar la resistencia. Su estudio del código Sith afecta a sus manierismos e ideales. Sus defectos pueden ser una hipocresía oculta o una idea herética, o un ideal o un vínculo llevado al extremo.
 
 \columnbreak
 
@@ -1298,22 +1298,22 @@ Sith are shaped by their training. They study the Sith code and use it to oppres
 |5|I am suspicious of strangers and expect the worst of them.|
 |6|Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
-## Smuggler
-You have spent your life hiding in the darkness, making shady deals behind closed doors. What led you to engage in a life of crime? Do you crave the thrill of lawbreaking, or did you enter the profession to pay off a debt, risking your hide on behalf of a less than honorable noble? A smuggler is an individual trained in the art of acquisition, a professional thug who can deliver anything... for a price. Smugglers tend to be more bolder criminals than most, preferring bribery or distraction over subterfuge and stealth.
+## Contrabandista
+Has pasado tu vida escondiéndote en la oscuridad, haciendo tratos turbios a puerta cerrada. ¿Qué te llevó a comprometerte en una vida de crimen? ¿Anhela la emoción de violar la ley, o entró en la profesión para pagar una deuda, arriesgando su pellejo en nombre de un noble menos honorable? Un contrabandista es un individuo entrenado en el arte de la adquisición, un matón profesional que puede entregar cualquier cosa... por un precio. Los contrabandistas tienden a ser criminales más audaces que la mayoría, prefiriendo el soborno o la distracción al subterfugio y el sigilo.
 ___
 - **Skill Proficiencies:** Choose two from Deception, Piloting, Sleight of Hand, and Stealth
 - **Tool Proficiencies:** One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit
 - **Equipment:** A fusion cutter, a set of dark common clothes including a hood, and a belt pouch containing 150 cr
 
-### Feature: Careful Selection
-Some close brushes with the law have taught you that not every city guard can be bribed, and some people are simply too keen to miss minute discrepancies. This feature allows you to study a person and gain insight into whether or not they would accept a bribe, or to pick up on whether they are exceptionally more perceptive than you. It does not reveal how expensive a bribe may be for a given situation, however.
+### Feature: Selección cuidadosa
+Algunos roces con la ley le han enseñado que no todos los guardias de la ciudad pueden ser sobornados, y algunas personas son simplemente demasiado entusiastas para perderse las diminutas discrepancias. Esta característica te permite estudiar a una persona y comprender si aceptaría o no un soborno, o captar si es excepcionalmente más perspicaz que tú. Sin embargo, no revela lo caro que puede ser un soborno para una situación determinada.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -1333,8 +1333,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Smugglers might seem like villains on the surface, and many of them are nefarious to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but spies rarely show any respect for law or authority. 
+#### Características sugeridas
+Los contrabandistas pueden parecer villanos en la superficie, y muchos de ellos son nefastos hasta la médula. Pero algunos tienen una abundancia de características entrañables, si no redentoras. Puede haber honor entre los ladrones, pero los espías rara vez muestran respeto por la ley o la autoridad. 
 
 \columnbreak
 
@@ -1378,24 +1378,24 @@ Smugglers might seem like villains on the surface, and many of them are nefariou
 |5|I detach myself from the results of my actions in order to sleep better at night.|
 |6|Someone who knows me well might call me "two-faced" but those who don't have no idea what hit 'em.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
-## Soldier
-War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army, a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.
+## Soldado
+La guerra ha sido tu vida desde que te preocupas por recordar. Te entrenaste de joven, estudiaste el uso de armas y armaduras, aprendiste técnicas básicas de supervivencia, incluyendo cómo mantenerte vivo en el campo de batalla. Puede que hayas formado parte de un ejército nacional permanente, una compañía de mercenarios, o quizás un miembro de una milicia local que se hizo famosa durante una guerra reciente.
 
-When you choose this background, work with your GM to determine which military organization you were a part of, how far through its ranks you progressed, and what kind of experiences you had during your military career. Was it a standing army, a town guard, a village militia, or perhaps a private company.
+Cuando elijas estos antecedentes, trabaja con tu GM para determinar de qué organización militar formaste parte, cuánto progresaste en sus filas y qué tipo de experiencias tuviste durante tu carrera militar. ¿Fue un ejército permanente, una guardia de pueblo, una milicia de pueblo, o tal vez una empresa privada.
 
 ___
 
-- **Skill Proficiencies:** Choose two from Athletics, Intimidation, Persuasion, and Piloting
-- **Tool Proficiencies:** One type of gaming set
-- **Languages:** One of your choice
-- **Equipment:** An insignia of rank, a trophy taken from a fallen enemy, a gaming set (one of your choice), a set of common clothes, and a belt pouch containing 100 cr
+- **Skill Proficiencies:** Elija dos de Atletismo, Intimidación, Persuasión y Pilotaje
+- **Conocimiento de herramientas:** Un tipo de juego
+- **Idiomas:** Uno de tu elección
+- **Equipamiento:** Una insignia de rango, un trofeo tomado de un enemigo caído, un juego de azar (uno de su elección), un conjunto de ropa común, y una bolsa de cinturón que contiene 100 cr
 
-#### Specialty
-During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:
+#### Especialidad
+Durante su tiempo como soldado, tuvo un papel específico que desempeñar en su unidad o ejército. Lanza un d8 o elige entre las opciones de la tabla de abajo para determinar tu papel:
 
 <div style='column-count:2'>
 
@@ -1415,11 +1415,11 @@ During your time as a soldier, you had a specific role to play in your unit or a
 
 </div>
 
-### Feature: Military Rank
-You have a military rank from your career as a soldier. Soldiers loyal to your former military organization still recognize your authority and influence, and they defer to you if they are of a lower rank. You can invoke your rank to exert influence over other soldiers and requisition simple equipment for temporary use. You can also usually gain access to friendly military encampments where your rank is recognized.
+### Feature: Rango militar
+Tienes un rango militar de tu carrera como soldado. Los soldados leales a su antigua organización militar aún reconocen su autoridad e influencia, y le dan preferencia si son de un rango inferior. Puedes invocar tu rango para ejercer influencia sobre otros soldados y requisar equipo simple para uso temporal. También puedes acceder a campamentos militares amigos donde se reconoce tu rango.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -1439,8 +1439,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and mentally vulnerable.
+#### Características sugeridas
+Los horrores de la guerra combinados con la rígida disciplina del servicio militar dejan su huella en todos los soldados, dando forma a sus ideales, creando fuertes lazos y a menudo dejándolos marcados y mentalmente vulnerables.
 
 \columnbreak
 
@@ -1484,20 +1484,20 @@ The horrors of war combined with the rigid discipline of military service leave 
 |5|I obey the law, even if the law causes misery.|
 |6|I'd rather eat my armor than admit when I'm wrong.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum
 
 ## Spacer
-Aboard a star ship in the cold vacuum of space is where you feel most at home. You've spent the majority of your life travelling the stars. Life aboard ships has given you a good understanding of their inner workings. You might be especially skilled as a ship mechanic, a pilot, or support staff.
+A bordo de una nave estelar en el frío vacío del espacio es donde te sientes más a gusto. Has pasado la mayor parte de tu vida viajando por las estrellas. La vida a bordo de las naves te ha dado una buena comprensión de su funcionamiento interno. Puede ser especialmente hábil como mecánico de naves, piloto o personal de apoyo.
 ___
-- **Skill Proficiencies:** Choose two from Insight, Investigation, Piloting, and Technology
-- **Tool Proficiencies:** Your choice of chef's kit, mechanic's kit, or one type of gaming set
-- **Languages:** One of your choice
-- **Equipment:** A set of tools or a gaming set (one of your choice), a set of common clothes, a small souvenir from your travels, and a belt pouch containing 100 cr
+- **Skill Proficiencies:** Elija dos de Insight, Investigación, Pilotaje y Tecnología
+- **Conocimientos de herramientas:** Su elección de kit de cocina, kit de mecánico, o un tipo de juego.
+- **Idiomas:** Uno de tu elección
+- **Equipamiento:** Un juego de herramientas o un juego de juegos (uno de su elección), un juego de ropa común, un pequeño recuerdo de sus viajes, y una bolsa para el cinturón que contiene 100 cr
 
-#### Specialty
-During your time as a spacer, you had a specific role to play aboard the ship. Roll a d8 or choose from the options in the table below to determine your role:
+#### Especialidad
+Durante tu tiempo como espaciador, tuviste un papel específico que desempeñar a bordo de la nave. Lanza un d8 o elige entre las opciones de la tabla de abajo para determinar tu papel:
 
 <div style='column-count:2'>
 
@@ -1517,11 +1517,11 @@ During your time as a spacer, you had a specific role to play aboard the ship. R
 
 </div>
 
-### Feature: Well-Traveled
-As a spacer, you've been from one end of the galaxy to the other. You've traveled along many of the trade routes, and know the safest routes. You have expert knowledge of the various hyperlanes. In addition to this, you know a large number of the models and designs of common space ships that are found in the galaxy.
+### Feature: Bien viajado
+Como espaciador, has estado de un extremo a otro de la galaxia. Has viajado a lo largo de muchas de las rutas comerciales, y conoces las rutas más seguras. Tienes un conocimiento experto de los diversos hiperlanes. Además, conoces un gran número de los modelos y diseños de naves espaciales comunes que se encuentran en la galaxia.
 
 ### Background Feat
-As a further embodiment of the experience and training of your background, you can choose from the following feats:
+Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
@@ -1541,8 +1541,8 @@ As a further embodiment of the experience and training of your background, you c
 
 </div>
 
-#### Suggested Characteristics
-Spacers come from all walks of life, and the responsibilities of life aboard a ship make them generally reliable as well. Spending so much time on their ship shapes their outlook and forms their most important attachments.
+#### Características sugeridas
+Los espaciadores provienen de todas las clases sociales, y las responsabilidades de la vida a bordo de una nave los hacen generalmente confiables también. Pasar tanto tiempo en su nave da forma a su perspectiva y forma sus accesorios más importantes.
 
 \columnbreak
 
@@ -1586,6 +1586,6 @@ Spacers come from all walks of life, and the responsibilities of life aboard a s
 |5|	I can't help but pocket loose coins and other trinkets I come across.|
 |6|My pride will probably lead to my destruction.|
 
-<div class='footnote'>CHAPTER 4 | PERSONALITY AND BACKGROUND</div>
+<div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
 \pagebreakNum

@@ -56,7 +56,7 @@ Elija entre las siguientes opciones de clase:
 
 <img src='https://www.gmbinder.com/images/XQCbhQJ.png' style='position:absolute;bottom:28px;right:-30px;width:190px;z-index:1000;' />
 
-\pagebreak
+\pagebreakNum
 
 ## Berserker
 <span style="font-variant: small-caps">Un enorme cazador de wookiee merodea por el bosque, hefting</span> su vibroaxe. Con un rugido ataca a la pareja de trandoshans que se atrevió a cazar a sus parientes. 
@@ -3096,7 +3096,7 @@ At 17th level, you become a<br> master of instant<br> death. When you<br> deal w
 
 <img src='https://www.gmbinder.com/images/QPI1hht.jpg' class='cover-image' style="position:absolute; left:0px; width:900px;" />
 
-\pagebreak
+\pagebreakNum
 
 ## Sharpshooter Practice
 Those operatives who choose the Sharpshooter Practice are bringers of death. Striking from a safe distance, the Sharpshooter uses precision shooting to control the battlefield and bring targets down quickly.
@@ -3151,7 +3151,7 @@ At 17th level, you've learned to capitalize when you have the advantage. When yo
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
-\pagebreak
+\pagebreakNum
 
 ## Scholar
 <span style="font-variant: small-caps">An overwhelming horde of tusken raiders bears down on a</span> chiss and her fellow adventurers. She gives the order and her allies unleash a single coordinated attack cutting deep into their lines. Under her command the enemy is quickly routed against all odds, all according to plan.

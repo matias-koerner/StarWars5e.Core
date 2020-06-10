@@ -1,12 +1,12 @@
 
 
-# Chapter 5: Equipment
+# Capítulo 5: Equipo
 
 <img src='https://www.gmbinder.com/images/PqYzVdr.png' style='position:absolute;top:90px;left:75px;width:29px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">he marketplace of a large city teems with buyers and</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sellers of many sorts: Jawas peddling refurbished wares (or trying to steal from careless travelers), Ugnauts selling various technology scrap, Twi'lek armstechs and Mirialan synthweavers. In the largest cities, almost anything imaginable is offered for sale, from exotic spices and luxurious clothing to speeders and spaceships.		
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">el mercado de una gran ciudad está lleno de compradores y</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vendedores de muchos tipos: Jawas vendiendo productos restaurados (o tratando de robar a viajeros descuidados), Ugnauts vendiendo chatarra tecnológica, Twi'lek armstechs y sintetizadores Mirialan. En las ciudades más grandes, se ofrece a la venta casi cualquier cosa imaginable, desde especias exóticas y ropa lujosa hasta velocípedos y naves espaciales.		
 
-For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a stronghold or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
+Para un aventurero, la disponibilidad de armaduras, armas, mochilas, cuerdas y bienes similares es de suma importancia, ya que un equipo adecuado puede significar la diferencia entre la vida y la muerte en una fortaleza o en los salvajes indómitos. Este capítulo detalla las mercancías mundanas y exóticas que los aventureros suelen encontrar útiles ante las amenazas que presentan los mundos de D&D.
 
 ##### Variant: Starting Wealth by Class
 |	Class		|	Funds	|
@@ -22,148 +22,148 @@ For an adventurer, the availability of armor, weapons, backpacks, rope, and simi
 |	Scout       |	1,000 + 5d4 x 100 cr	|
 |	Sentinel    |	1,000 + 3d4 x 100 cr	|
 
-## Wealth
-Wealth generally appears in the form of credits. The Galactic Republic and Sith Empire have their own mints, but in most worlds, the chits are interchangeable. Other trade goods, gemstones, artifacts, and property can reflect your character's financial well-being. Members of the lower class trade in goods, bartering for what they need and paying taxes in raw materials. Members of the nobility trade either in legal rights, such as the rights to a mine, a port, or a company, or in high denomination credits. Only merchants, adventurers, and those offering professional services for hire commonly deal in credits.
+## Riqueza
+La riqueza aparece generalmente en forma de créditos. La República Galáctica y el Imperio Sith tienen sus propias cecas, pero en la mayoría de los mundos, los créditos son intercambiables. Otros bienes comerciales, piedras preciosas, artefactos y propiedades pueden reflejar el bienestar financiero de su personaje. Los miembros de la clase baja comercian con bienes, haciendo trueque por lo que necesitan y pagando impuestos en materias primas. Los miembros de la nobleza comercian ya sea con derechos legales, como los derechos de una mina, un puerto o una compañía, o con créditos de alta denominación. Sólo los comerciantes, aventureros y los que ofrecen servicios profesionales por encargo suelen comerciar con créditos.
 
 ### Currency
-Credits come in a variety of denominations: from a single chit to cards loaded with<br> incredible value. While the<br> Republic and Empire have<br> their own currencies, in<br> most worlds they can be<br> used interchangeably.
+Los créditos vienen en una variedad de denominaciones: desde un solo crédito hasta tarjetas cargadas con un valor increíble. Mientras que la <br> República y el Imperio tienen <br> sus propias monedas, en <br> la mayoría de los mundos pueden ser <br> usadas indistintamente.
 
 \columnbreak
  
-With ten credits, a character can buy a power cell, a stylus, or a glowrod. A skilled (but not exceptional) artisan can earn ten credits a day. The credit is the standard unit of measure for wealth, even if the chit itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of credits, the transactions don't usually involve the exchange of individual chits. Rather, the credit is a standard measure of value, and the actual exchange is in credit cards, letters of credit, or valuable goods.			
+Con diez créditos, un personaje puede comprar una célula de poder, un lápiz óptico o una varilla de luz. Un hábil (pero no excepcional) artesano puede ganar diez créditos al día. El crédito es la unidad de medida estándar de la riqueza, incluso si el crédito en sí no se utiliza comúnmente. Cuando los comerciantes discuten tratos que implican bienes o servicios por valor de cientos o miles de créditos, las transacciones no suelen implicar el intercambio de fichas individuales. Más bien, el crédito es una medida estándar de valor, y el intercambio real es en tarjetas de crédito, cartas de crédito o bienes de valor.			
  
-A standard chit weighs about a third of an ounce, so fifty chits weigh a pound.	
+Una ficha estándar pesa alrededor de un tercio de una onza, así que cincuenta fichas pesan una libra.	
 
-> The listed cost of lightweapons is equal to twice their vibroweapon counterpart. If you use the **Variant: Starting Wealth** rule, you should consider letting players use the value of the vibroweapon counterpart as their purchase price.
+> El costo de las armas ligeras es igual al doble del costo de las armas vibratorias. Si usas la **Variante: Riqueza Inicial**, deberías considerar dejar que los jugadores usen el valor de la contraparte del vibroarmas como su precio de compra.
 >
-> Additionally, lightweapons are a scarce and restricted resource. Finding a buyer for a salvaged lightweapon is often difficult due to their clandestine nature.
+> Además, las armas ligeras son un recurso escaso y restringido. Encontrar un comprador para un arma ligera recuperada suele ser difícil debido a su naturaleza clandestina.
 
 ### Selling Treasure										
-Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
+Las oportunidades abundan para encontrar tesoros, equipos, armas, armaduras y más en las mazmorras que exploras. Normalmente, puedes vender tus tesoros y baratijas cuando regreses a un pueblo u otro asentamiento, siempre que puedas encontrar compradores y comerciantes interesados en tu botín.
 
 #### Arms, Armor, and Other Equipment
-As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Used weapons and armor aren't always in good enough condition to sell.										
-    
+Por regla general, las armas, armaduras y otros equipos no dañados cuestan la mitad de lo que cuestan cuando se venden en un mercado. Las armas y armaduras usadas no siempre están en condiciones de ser vendidas.										
+     
 #### Enhanced Items
-Selling enhanced items can be problematic. Finding someone to find an overtuned blaster isn't hard, but the most unique of items are beyond all but the wealthiest denizens. Likewise, aside from a few common enhanced items, you won't normally come across enhanced items to purchase. The value of special equipment is far beyond simple credits and should always be treated as such.
+La venta de artículos mejorados puede ser problemática. Encontrar a alguien para encontrar un explosivo no es difícil, pero los objetos más singulares están más allá de los habitantes más ricos. De la misma manera, aparte de unos pocos objetos mejorados comunes, normalmente no encontrarás objetos mejorados para comprar. El valor de los equipos especiales va más allá de los simples créditos y siempre debe ser tratado como tal.
 
-#### Gems, Jewelry, and Art Objects
-These items retain their full value in the marketplace, and you can either trade them in for credits or use them as currency for other transactions. For exceptionally valuable treasures, the GM might require you to find a buyer in a large city or even another planet.
+#### Gemas, Joyas y Objetos de Arte
+Estos artículos conservan todo su valor en el mercado, y puede cambiarlos por créditos o usarlos como moneda para otras transacciones. Para los tesoros de valor excepcional, el GM puede requerir que encuentres un comprador en una gran ciudad o incluso en otro planeta.
 
 #### Trade Goods
-In the Outer Rim, many people conduct transactions through barter. Like gems and art objects, trade goods—raw materials like bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
+En el Borde Exterior, mucha gente realiza transacciones a través del trueque. Al igual que las gemas y los objetos de arte, el comercio de bienes -materias primas como bolsas de sal, ganado, etc.- conserva todo su valor en el mercado y puede ser utilizado como moneda.
 
 <img src='https://vignette.wikia.nocookie.net/starwars/images/e/e6/Uprising_Icon_Currency_FactionNobleCourt_03.png/revision/latest?cb=20151004065115' style='position:absolute;bottom:18px;left:200px;width:230px' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>		
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>		
 
 \pagebreakNum
 
-## Armor and Shields
-The different worlds of *Star Wars* are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from basic combat suits to heavy battle armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
+## Armadura y escudos
+Los diferentes mundos de la *Guerra de las Galaxias* son un vasto tapiz formado por muchas culturas diferentes, cada una con su propio nivel de tecnología. Por esta razón, los aventureros tienen acceso a una variedad de tipos de armadura, que van desde los trajes de combate básicos hasta las armaduras de batalla pesada, con varios otros tipos de armadura en medio. La tabla de armadura recoge los tipos de armadura más comunes que se encuentran en el juego y los separa en tres categorías: armadura ligera, armadura media y armadura pesada. Muchos guerreros complementan su armadura con un escudo.
 
-The Armor table shows the cost, weight, and other properties of the common types of armor worn in the worlds of *Star Wars*.
+La tabla de armaduras muestra el coste, el peso y otras propiedades de los tipos comunes de armaduras que se usan en los mundos de *Guerra de las Galaxias*.
 
-> ##### Variant: Equipment Sizes
-> In most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, a burly wookiee won't fit in a jawa's combat suit, and an ugnaught would be swallowed up in a gamorrean's hooded cloak. 
+> ##### Variante: Tamaños del equipo
+> En la mayoría de las campañas, puedes usar o llevar cualquier equipo que encuentres en tus aventuras, dentro de los límites del sentido común. Por ejemplo, un wookiee corpulento no cabrá en un traje de combate de un jawa, y un ugnaught se tragaría una capa con capucha de un gamorreano. 
 >
-> The GM can impose more realism. For example, a suit of armor made for one human might not fit another one without significant alterations, and a guard's uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
+> El GM puede imponer más realismo. Por ejemplo, un traje de armadura hecho para un humano puede no encajar en otro sin alteraciones significativas, y el uniforme de un guardia puede ser visiblemente inadecuado cuando un aventurero trata de usarlo como disfraz.
 >
-> Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit an armormech, synthweaver, or similar expert to make the item wearable. The cost for such work varies from 10 to 40 percent of the market price of the item. The GM can either roll 1d4x100 or determine the increase in cost based on the extent of the alterations required.
+> Usando esta variante, cuando los aventureros encuentran armaduras, ropa y artículos similares hechos para ser usados, pueden necesitar visitar a un armero, tejedor de sintetizador o a un experto similar para hacer que el artículo se pueda usar. El costo de este trabajo varía entre el 10 y el 40 por ciento del precio de mercado del artículo. El GM puede rodar 1d4x100 o determinar el aumento del costo basado en la extensión de las alteraciones requeridas.
 
 ### Armor and Shield Proficiency
-Anyone can put on a suit of armor or wield a shield. Only those proficient in the armor's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't force- or tech-cast.
+Cualquiera puede ponerse una armadura o usar un escudo. Sin embargo, sólo los que dominan el uso de la armadura saben cómo usarla eficazmente. Tu clase te da competencia con ciertos tipos de armadura. Si usas una armadura con la que no tienes competencia, tienes desventajas en cualquier chequeo de habilidad, lanzamiento de salvamento o lanzamiento de ataque que implique fuerza o destreza, y no puedes forzar o lanzar técnicamente.
 
-If you have proficiency in armor, you have proficiency in the appropriate shield as well.
+Si tienes habilidad en la armadura, tienes habilidad en el escudo apropiado también.
 
 ### Armor Class (AC)
-Armor protects its wearer from attacks. The armor (and shield) you wear determines your Armor Class.
+La armadura protege a su portador de los ataques. La armadura (y el escudo) que lleva determina su clase de armadura.
 
 ### Armor Properties
-Many armors and shield have special properties related to their use, as shown in the Armor table.
+Muchas armaduras y escudos tienen propiedades especiales relacionadas con su uso, como se muestra en la tabla de armaduras.
 
 #### Bulky
-While wearing armor with the bulky property, you have disadvantage on Dexterity (Stealth) checks that rely on sound.
+Mientras se usa la armadura con la propiedad voluminosa, tienes la desventaja de los controles de Destreza (Stealth) que dependen del sonido.
 
-#### Obtrusive
-While wielding a shield with the obtrusive property, you have disadvantage on Dexterity (Stealth) checks that rely on sight.
+#### Obstáculo
+Mientras se lleva un escudo con la propiedad molesta, tienes la desventaja de los controles de Destreza (Stealth) que dependen de la vista.
 
 \columnbreak
 
 <div style='margin-top:28px'></div>
 
-#### Strength
-While wearing armor or wielding a shield with the strength property, your speed is reduced by 10 unless you meet the strength requirement. 
+#### Fuerza
+Mientras usas una armadura o un escudo con la propiedad de fuerza, tu velocidad se reduce en 10 a menos que cumplas con el requisito de fuerza. 
 
 <img src='https://www.gmbinder.com/images/KulkaIH.png' style='position:absolute;bottom:15px;right:-294px;width:940px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
 ### Light Armor
-Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
+Fabricada con materiales flexibles y delgados, la armadura ligera favorece a los aventureros ágiles ya que ofrece cierta protección sin sacrificar la movilidad. Si usas una armadura ligera, añades tu modificador de destreza al número base de tu tipo de armadura para determinar tu clase de armadura.
 
-#### Combat Suit
-Combat suits are seen all over the galaxy, and can be found for sale by almost any merchant who dealt in weapons and armor. Many such suits are used by military organizations, such as the Galactic Republic's military, as well as by mercenaries, criminals, bounty hunters and even some Jedi.
+#### Traje de combate
+Los trajes de combate se ven en toda la galaxia, y pueden ser encontrados a la venta por casi cualquier comerciante que comercie con armas y armaduras. Muchos de estos trajes son usados por organizaciones militares, como el ejército de la República Galáctica, así como por mercenarios, criminales, cazarrecompensas e incluso algunos Jedi.
 
-The suit itself offers decent protection from most types of attacks while maintaining maximum flexibility and minimum weight. However this armor is only recommended for light skirmishes.
+El traje en sí ofrece una protección decente contra la mayoría de los tipos de ataques, manteniendo la máxima flexibilidad y el mínimo peso. Sin embargo, esta armadura sólo se recomienda para escaramuzas ligeras.
 
 #### Fiber Armor
-Fiber armor is a type of armor that offers more protection than the lighter combat suit. Fiber armor is heavier overall than combat suits, and not quite as flexible, but many consider the trade-offs worthwhile. It is a good source of defense from physical attacks and light blaster fire.
+La armadura de fibra es un tipo de armadura que ofrece más protección que el traje de combate más ligero. La armadura de fibra es más pesada en general que los trajes de combate, y no es tan flexible, pero muchos consideran que las compensaciones valen la pena. Es una buena fuente de defensa contra ataques físicos y fuego ligero.
 
 ### Medium Armor
-Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
+La armadura media ofrece más protección que la ligera, pero también perjudica más el movimiento. Si usas una armadura mediana, agregas tu modificador de Destreza, hasta un máximo de +2, al número base de tu tipo de armadura para determinar tu Clase de Armadura.
 
 #### Mesh armor
-Providing solid protection for a minimal cost, mesh armor is considered excellent protection for entrenched troops or guards. However, this protection comes at a cost of mobility, limiting its uses by rapidly advancing infantry. Still, it provides more mobility than battle armor.
+Proporcionando una protección sólida a un costo mínimo, la malla de armadura se considera una excelente protección para las tropas o guardias atrincherados. Sin embargo, esta protección tiene un costo de movilidad, limitando sus usos por el rápido avance de la infantería. Aún así, proporciona más movilidad que la armadura de batalla.
 
 #### Weave Armor
-Weave armor was constructed<br> from a mesh of metal or<br> composite plates and a<br> padded jumpsuit. Variants<br> of the armor included less<br> plates and more padding for<br> a lighter, though less protect-<br>ive armor, and heavier plating<br> with molded pieces to fit the<br> wearer. Though the armor was<br> available unmodified, most users<br> personalized their armor.
+La armadura de tejido fue construida con una malla de metal o placas compuestas y un traje acolchado. Las variantes<br> de la armadura incluían menos<br> placas y más acolchado para<br> una armadura más ligera, aunque menos protectora-<br>, y un enchapado más pesado<br> con piezas moldeadas para adaptarse al<br> portador. Aunque la armadura estaba <br> disponible sin modificar, la mayoría de los usuarios <br> personalizaron su armadura.
 
 #### Composite Armor
-Composite armor is a type of armored suit that offers a good balance of mobility and protection against most types of weapons. The micro-hydraulics of this type of powered armor provide the operator with protection, but are more bulky than mesh or weave armors. This type of armor is rarely seen outside of professional mercenaries' and soldiers' use.
+La armadura compuesta es un tipo de traje blindado que ofrece un buen equilibrio de movilidad y protección contra la mayoría de los tipos de armas. Los microhidráulicos de este tipo de armadura motorizada proporcionan protección al operador, pero son más voluminosos que las armaduras de malla o tejido. Este tipo de armadura rara vez se ve fuera del uso de mercenarios y soldados profesionales.
 
 \columnbreak
 
 ### Heavy Armor
-Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk. Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but it also doesn't penalize you if your Dexterity modifier is negative.
+De todas las categorías de armadura, la armadura pesada ofrece la mejor protección. Estos trajes de armadura cubren todo el cuerpo y están diseñados para detener una amplia gama de ataques. Sólo los guerreros competentes pueden manejar su peso y volumen. La armadura pesada no te permite añadir tu modificador de destreza a tu clase de armadura, pero tampoco te penaliza si tu modificador de destreza es negativo.
 
 #### Battle Armor
-Battle armor is an armor that reduced weight, but restricts movement. The armor is commonly used by mercenaries, bounty hunters, soldiers, and civilians that live in dangerous areas.
+La armadura de batalla es una armadura que reduce el peso, pero restringe el movimiento. La armadura es usada comúnmente por mercenarios, cazarrecompensas, soldados y civiles que viven en zonas peligrosas.
 
 #### Assault Armor
-Assault armor improved on battle armor, with the benefit of micro-hydraulics that boost the efficacy of the operator. It offers better protection, but increased weight.
+La armadura de asalto mejoró la armadura de batalla, con el beneficio de la microhidráulica que aumenta la eficacia del operador. Ofrece una mejor protección, pero un mayor peso.
 
 #### Heavy Exoskeleton
-Heavy exoskeletons are virtually the heaviest armor acquirable during the Galactic War. It is ideal for extreme combat situations that involved direct damage and also offers a very good level of protection in sacrifice of dexterity. Some consider it claustrophobic but that was the trade-off for safety.
+Los exoesqueletos pesados son virtualmente la armadura más pesada que se puede adquirir durante la Guerra Galáctica. Es ideal para situaciones de combate extremo que impliquen daño directo y también ofrece un muy buen nivel de protección en el sacrificio de la destreza. Algunos lo consideran claustrofóbico, pero esa era la compensación por la seguridad.
 
-### Shields
-Shields come in varying weights, sizes, and materials. Light shields are smaller and mounted to the forearm, while medium and large shields are held in hand.
+### Escudos
+Los escudos vienen en varios pesos, tamaños y materiales. Los escudos ligeros son más pequeños y están montados en el antebrazo, mientras que los escudos medianos y grandes se mantienen en la mano.
 
-***Physical Shields.*** Physical shields are made entirely of physical materials. They are cheaper than their generator counterparts, but heavier. Physical shields have varying functionality depending on the material from which they are made.
+***Escudos físicos. Los escudos físicos están hechos completamente de materiales físicos. Son más baratos que sus homólogos generadores, pero más pesados. Los escudos físicos tienen una funcionalidad variable dependiendo del material del que están hechos.
 
-***Shield Generators.*** Shield generators are made almost entirely of energy barriers. Medium and large shield generators have a physical handheld component from which the barrier emanates; medium shield generators are orbs that are slightly larger than a fist, while large shield generators project from a large cross.
+***Los generadores de escudo están hechos casi enteramente de barreras de energía. Los generadores de escudos medianos y grandes tienen un componente físico de mano del cual emana la barrera; los generadores de escudos medianos son orbes que son ligeramente más grandes que un puño, mientras que los generadores de escudos grandes se proyectan desde una gran cruz.
 
 #### Light Shields
-A light shield is generally affixed to the forearm. While a light shield does not fill the hand slot, you gain no benefit from it while the hand is full. You gain no benefit from a light shield while wielding a weapon with the heavy property.
+Generalmente se coloca un escudo de luz en el antebrazo. Mientras un escudo de luz no llene la ranura de la mano, no obtendrás ningún beneficio de él mientras la mano esté llena. No obtienes ningún beneficio de un escudo ligero mientras manejas un arma con la propiedad pesada.
 
 #### Medium Shields
-A medium shield was a common defensive technology that protect the user from blaster fire, the elements, or other hazards. Medium shields are used in conjunction with any one-handed weapon.
+Un escudo mediano era una tecnología defensiva común que protegía al usuario del fuego de las explosiones, los elementos u otros peligros. Los escudos medianos se usan en conjunto con cualquier arma de una sola mano.
 
 #### Heavy Shields
-Heavy shields are much larger and more cumbersome, but they offer more protection than their smaller counterparts. Their obtrusive size, however, makes them unwieldy, requiring the use of a one-handed weapon with the light property in the other hand.
+Los escudos pesados son mucho más grandes y más engorrosos, pero ofrecen más protección que sus homólogos más pequeños. Sin embargo, su molesto tamaño los hace poco manejables, requiriendo el uso de un arma con una mano y la propiedad ligera con la otra.
 
 <img src='https://www.gmbinder.com/images/YBBiqaE.jpg' style='position:absolute;top:645px;right:400px;width:200px;mix-blend-mode:darken' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
 <div class='classTable wide'>
 
-##### Armor and Shields
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Armor|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 
+##### Armaduras y escudos
+|Nombre&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Coste&nbsp;&nbsp;|Armadura|Peso&nbsp;&nbsp;|Propiedades&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| 
 |:---|---:|:---|-:|:---|
 |_Light Armor_	||||||
 |&emsp;Combat suit      		|	 100 cr&nbsp;&nbsp;|	11 + Dex modifier|10 lb&nbsp;&nbsp;|—|
@@ -187,16 +187,16 @@ Heavy shields are much larger and more cumbersome, but they offer more protectio
 </div>	
 
 ### Getting Into and Out of Armor
-The time it takes to don or doff armor depends on the armor's category. If you have help, you can reduce the time it takes to don or doff armor by half.
+El tiempo que toma ponerse o quitarse una armadura depende de la categoría de la misma. Si tienes ayuda, puedes reducir a la mitad el tiempo que lleva ponerse o quitarse una armadura.
 
-***Don.*** This is the time it takes to<br> put on armor or wield your shield.<br> You benefit from the armor only<br> if you take the full time to don<br> the suit of armor.
+***Don.*** Este es el tiempo que se tarda en ponerse la armadura o en usar el escudo. Sólo te beneficias de la armadura si te tomas todo el tiempo para ponerte la armadura.
 
-***Doff.*** This is the time it<br> takes to remove armor or<br> store your shield. 
+***Doff.*** Este es el tiempo que toma quitar la armadura o guardar el escudo. 
 
 \columnbreak
 
 ### Donning and Doffing Armor
-|Category| Don| Doff|
+| Categoría| Don| Doff|
 |:--|:--:|:--:|
 |Light armor| 1 minute| 1 minute|
 |Medium armor| 5 minutes| 1 minute|
@@ -207,64 +207,64 @@ The time it takes to don or doff armor depends on the armor's category. If you h
 
 <img src='https://www.gmbinder.com/images/yOuRSWV.png' style='position:absolute;bottom:0px;left:0px;width:840px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>		
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>		
 
 \pagebreakNum
 
-## Weapons
-Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a vibroweapon or a blaster, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring. The Weapons tables show the most common weapons used in the worlds of *Star Wars*, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as a blaster, lightweapon, or vibroweapon. A vibroweapon or lightweapon is used to attack a target within 5 feet of you, whereas a blaster is used to attack a target at a distance. Lightweapons are generally used in melee, but due to their nature require separate proficiency.
+## Armas
+Su clase otorga el dominio de ciertas armas, reflejando tanto el enfoque de la clase como las herramientas que es más probable que utilice. Ya sea que estés a favor de un vibro-arma o de un blaster, tu arma y tu habilidad para manejarla efectivamente puede significar la diferencia entre la vida y la muerte mientras te aventuras. Las tablas de armas muestran las armas más comunes usadas en los mundos de *Guerra de las Galaxias*, su precio y peso, el daño que causan cuando golpean, y cualquier propiedad especial que posean. Cada arma está clasificada como un blaster, un arma ligera, o un vibro-arma. Un vibro-arma o arma ligera se utiliza para atacar un objetivo a menos de 5 pies de ti, mientras que un blaster se utiliza para atacar un objetivo a distancia. Las armas ligeras se utilizan generalmente en el combate cuerpo a cuerpo, pero debido a su naturaleza requieren una competencia separada.
 
 ### Weapon Proficiency
-Your species, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are simple and martial. Most people can use simple weapons, which are commonly seen in the hands of the unspecialized, with proficiency. Martial weapons, such as vibroswords or sniper rifles, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use. Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
+Su especie, clase y hazañas pueden garantizarle el dominio de ciertas armas o categorías de armas. Las dos categorías son simple y marcial. La mayoría de la gente puede usar armas simples, que se ven comúnmente en las manos de los no especializados, con destreza. Las armas marciales, como las vibropalabras o los rifles de francotirador, requieren un entrenamiento más especializado para ser utilizadas con eficacia. La mayoría de los guerreros usan armas marciales porque estas armas dan el mejor uso a su estilo de lucha y entrenamiento. El dominio de un arma te permite añadir tu bono de dominio a la tirada de ataque para cualquier ataque que hagas con esa arma. Si haces una tirada de ataque con un arma con la que no tienes habilidad, no añades tu bonificación de habilidad a la tirada de ataque.
 
 ### Improvised Weapons
-Sometimes characters don't have their weapons and have to attack with whatever is close at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead jawa.
+A veces los personajes no tienen sus armas y tienen que atacar con lo que tienen a mano. Un arma improvisada incluye cualquier objeto que puedas blandir con una o dos manos, como cristales rotos, una pata de mesa, una sartén, una rueda de carro o un jawa muerto.
 
-In many cases, an improvised weapon is similar to an actual weapon and can be treated as such. At the GM's discretion, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
+En muchos casos, un arma improvisada es similar a un arma real y puede ser tratada como tal. A discreción del GM, un personaje que domine un arma puede utilizar un objeto similar como si fuera esa arma y utilizar su bono de competencia.
 
-An object that bears no resemblance to a weapon deals 1d4 kinetic damage. If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
+Un objeto que no se parece a un arma causa un daño cinético de 1d4. Si un personaje usa un arma de distancia para hacer un ataque cuerpo a cuerpo, o lanza un arma de cuerpo a cuerpo que no tiene la propiedad de ser lanzada, también causa 1d4 de daño. Un arma lanzada improvisada tiene un alcance normal de 20 pies y un largo alcance de 60 pies.
 
 ### Weapon Properties
-Many weapons have special properties related to their use, as shown in the Weapons table.
+Muchas armas tienen propiedades especiales relacionadas con su uso, como se muestra en la tabla de Armas.
 
-#### Ammunition
-You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. 
+#### Municiones
+Puedes usar un arma que tenga la propiedad de la munición para hacer un ataque a distancia sólo si tienes munición para disparar desde el arma. Cada vez que atacas con el arma, gastas una pieza de munición. Si utilizas un arma que tiene la propiedad de la munición para hacer un ataque cuerpo a cuerpo, tratas el arma como un arma improvisada. 
 
 \columnbreak
 
 <div style='margin-top:28px'></div>
 
 #### Burst
-When you would make a ranged weapon attack with a weapon with the burst property, you can instead spray a 10-foot-cube area within range with shots, consuming ammunition equal to the burst number. Each creature in the area must make a Dexterity saving throw (DC = 8 + your bonus to ranged weapon attacks) or take the weapon's normal damage. If the targeted area is beyond normal range but within long range, affected targets have advantage on the save.
+Cuando se hace un ataque a distancia con un arma con la propiedad de estallar, se puede en cambio rociar con disparos un área de 10 pies cúbicos dentro del alcance, consumiendo municiones iguales al número de estallido. Cada criatura en el área debe hacer un lanzamiento de ahorro de Destreza (DC = 8 + tu bono para los ataques con armas a distancia) o recibir el daño normal del arma. Si el área objetivo está fuera del alcance normal pero dentro de un largo alcance, los objetivos afectados tienen ventaja en la salvada.
 
-#### Dexterity
-A weapon with this special property requires more skill to control. While wielding it, you have disadvantage on attack rolls unless you meet the Dexterity requirement. 
+#### Destreza
+Un arma con esta propiedad especial requiere más habilidad para controlarla. Mientras la empuñas, tienes desventaja en las tiradas de ataque a menos que cumplas con el requisito de destreza. 
 
-#### Double
-A weapon with the double property is optimized for fighting with both ends. A damage value in parentheses appears with the property—the damage when the weapon is used with two-weapon fighting. See the rules for two-weapon fighting in chapter 9.
+#### Doble
+Un arma con la doble propiedad está optimizada para luchar con ambos extremos. Un valor de daño entre paréntesis aparece con la propiedad - el daño cuando el arma se utiliza con la lucha con dos armas. Ver las reglas para la lucha con dos armas en el capítulo 9.
 
 #### Finesse
-When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+Al hacer un ataque con un arma de delicadeza, usas tu elección de tu modificador de Fuerza o Destreza para las tiradas de ataque y daño. Debes usar el mismo modificador para ambas tiradas.
 
-#### Fixed
-A weapon with the fixed property does not fill the hand slot, but you can't use the weapon while the hand is full. Additionally, you have advantage on Strength ability checks and saving throws to avoid being disarmed of this weapon.
+#### Fijo
+Un arma con la propiedad fija no llena la ranura de la mano, pero no puedes usar el arma mientras la mano esté llena. Además, tienes ventaja en los controles de habilidad de fuerza y en los lanzamientos de salvamento para evitar ser desarmado de esta arma.
 
 #### Heavy
-When you hit with an attack roll using Strength with this weapon, you deal additional damage equal to half your Strength modifier (rounded up, minimum of +1).
+Cuando golpeas con una tirada de ataque usando la Fuerza con esta arma, infliges un daño adicional igual a la mitad de tu modificador de Fuerza (redondeado al alza, mínimo de +1).
 
 #### Hidden
-You have advantage on Dexterity (Sleight of Hand) checks made to conceal a hidden weapon.
+Tienes ventaja en los cheques de Destreza (Sleight of Hand) hechos para ocultar un arma escondida.
 
 #### Light
-A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. See the rules for two-weapon fighting in chapter 9.
+Un arma ligera es pequeña y fácil de manejar, lo que la hace ideal para usarla cuando se lucha con dos armas. Vea las reglas para la lucha con dos armas en el capítulo 9.
 
-#### Luminous
-A weapon with the luminous property sheds dim light in a 5-foot radius while activated. Additionally, Dexterity (Stealth) checks made while the weapon is activated have disadvantage.
+#### Luminoso
+Un arma con la propiedad luminosa arroja una luz tenue en un radio de 5 pies mientras está activada. Además, las comprobaciones de destreza (sigilo) hechas mientras el arma está activada tienen la desventaja.
 
 #### Range
-A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
+Un arma que puede ser usada para hacer un ataque a distancia tiene un rango que se muestra entre paréntesis después de la munición o propiedad lanzada. El rango muestra dos números. El primero es el alcance normal del arma en pies, y el segundo indica el alcance máximo del arma. Cuando se ataca a un objetivo más allá del alcance normal, se tiene una desventaja en la tirada de ataque. No puedes atacar a un objetivo más allá del alcance del arma.
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
@@ -274,48 +274,48 @@ A weapon that can be used to make a ranged attack has a range shown in parenthes
 
 <img src='https://cdn.discordapp.com/attachments/469499280994992128/594199212061753354/ad41f2ddd980e2bab07990795d965719.png' class='cover-image' style="position:absolute; left:-243px; width:1085px;" />
 
-\pagebreak
+\pagebreakNum
 
 #### Reach
-This weapon adds 5 feet to your reach with it.
+Esta arma añade 1,5 metros a su alcance con ella.
 
 #### Reload
-A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice). You must have one free hand to reload.
+Se puede hacer un número limitado de disparos con un arma que tenga la propiedad de recargar. Un personaje debe entonces recargarla usando una acción o una acción de bonificación (a elección del personaje). Debe tener una mano libre para recargar.
 
-#### Returning 
-When you throw a weapon with the returning property, it automatically returns to your hand after the attack is complete, whether you hit or miss.
+#### Retorno 
+Cuando lanzas un arma con la propiedad de retorno, vuelve automáticamente a tu mano después de que el ataque se completa, ya sea que golpees o falles.
 
-#### Special
-A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see "Special Weapons" later in this section).
+#### Especial
+Un arma con la propiedad especial tiene reglas inusuales que rigen su uso, explicadas en la descripción del arma (véase "Armas especiales" más adelante en esta sección).
 
-#### Strength
-A weapon with this special property has a heavy kickback. While wielding it, you have disadvantage on attack rolls unless you meet the Strength requirement. If the weapon has the burst property, you must meet the Strength requirement to use this feature.
+#### Fuerza
+Un arma con esta propiedad especial tiene un fuerte retroceso. Mientras la empuña, tiene desventaja en las tiradas de ataque a menos que cumpla con el requisito de fuerza. Si el arma tiene la propiedad de estallar, debes cumplir con el requisito de fuerza para usar esta característica.
 
 #### Thrown
-If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. 
+Si un arma tiene la propiedad de ser lanzada, puedes lanzar el arma para hacer un ataque a distancia. Si el arma es un arma de combate cuerpo a cuerpo, usas el mismo modificador de habilidad para esa tirada de ataque y daño que usarías para un ataque cuerpo a cuerpo con el arma. 
 
 #### Two-Handed
-This weapon requires two hands to use.
+Esta arma requiere de dos manos para su uso.
 
 \columnbreak
 
-#### Versatile
-This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.	
+#### Versátil
+Esta arma puede ser usada con una o dos manos. Un valor de daño entre paréntesis aparece con la propiedad - el daño cuando el arma se utiliza con dos manos para hacer un ataque cuerpo a cuerpo.	
 
 ### Special Weapons
-Weapons with special rules are described below.
+Las armas con reglas especiales se describen a continuación.
 
 #### Net
-A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on formless or Huge or larger creatures. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. The net has an AC of 10, 5 hit points, and immunity to all damage not dealt by melee weapons. Destroying the net frees the creature without harming it and immediately ends the net's effects. While a creature is restrained by a net, you can make no further attacks with it.
+Una criatura grande o pequeña golpeada por una red es retenida hasta que es liberada. Una red no tiene efecto sobre criaturas sin forma, enormes o más grandes. Una criatura puede usar su acción para hacer un chequeo de fuerza DC 13, liberándose a sí misma o a otra criatura a su alcance en caso de éxito. La red tiene un AC de 10, 5 puntos de golpe, e inmunidad a todos los daños no repartidos por las armas de combate cuerpo a cuerpo. Destruir la red libera a la criatura sin dañarla e inmediatamente termina los efectos de la red. Mientras la criatura esté restringida por la red, no podrá hacer más ataques con ella.
 
 #### Vibrodart
-Due to their diminutive size, vibrodarts make ineffective melee weapons. Melee attack rolls made with them are made at disadvantage.
+Debido a su diminuto tamaño, los vibrodardos son armas de combate cuerpo a cuerpo ineficaces. Las tiradas de ataque cuerpo a cuerpo hechas con ellas están en desventaja.
 
 #### Vibrolance
-You have disadvantage when you use a vibrolance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
+Tienes una desventaja cuando usas una vibrolancia para atacar un objetivo a menos de 5 pies de ti. Además, una lanza requiere dos manos para blandirla cuando no estás montado.
 
 #### Wrist Launcher
-Rather than traditional power cells, the wrist launcher fires specialized projectiles in the form of darts, small missiles, or specialized canisters. 
+En lugar de las células de energía tradicionales, el lanzador de muñeca dispara proyectiles especializados en forma de dardos, pequeños misiles o botes especializados. 
 
 <div class='classTable wide' style='position:absolute;bottom:20px;left:75px;width:687px'>
 
@@ -342,7 +342,7 @@ Rather than traditional power cells, the wrist launcher fires specialized projec
 
 </div>	
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
@@ -401,43 +401,43 @@ Rather than traditional power cells, the wrist launcher fires specialized projec
 
 <img src='https://www.gmbinder.com/images/khRas0M.png' style='position:absolute;bottom:361px;right:160px;width:500px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
 ## Adventuring Gear
-This section describes items that have special rules or require further explanation.
+En esta sección se describen los artículos que tienen normas especiales o que requieren una explicación más detallada.
 
 ### Equipment Packs
-The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
+El equipo de arranque que te dan en tu clase incluye una colección de útiles equipos de aventura, reunidos en un paquete. El contenido de estos paquetes se enumera aquí. Si estás comprando tu equipo de arranque, puedes comprar un paquete por el precio indicado, que puede ser más barato que comprar los artículos individualmente.
  
-#### Burglar's Pack
-Costs 290 credits. Includes a backpack, two glow rods, a hydrospanner, a fusion cutter, a chronometer, a grappling hook, 5 days of field rations, and a canteen.
+#### Pack de ladrones
+Cuesta 290 créditos. Incluye una mochila, dos barras de luz, una hidrospanner, un cortador de fusión, un cronómetro, un gancho de agarre, 5 días de raciones de campo y una cantimplora.
  
-#### Diplomat's Pack
-Costs 330 credits. Includes a chest, a set of fine clothes, a datapad, 5 datacards, a stylus, 5 days of field rations, and a canteen.
+#### Pack de Diplomáticos
+Cuesta 330 créditos. Incluye un cofre, un juego de ropa fina, un datapad, 5 tarjetas de datos, un lápiz óptico, 5 días de raciones de campo y una cantimplora.
 
 #### Dungeoneer's Pack
-Costs 320 credits. Includes a backpack, five glow rods, a fusion cutter, a grappling hook, a chronometer, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.
+Cuesta 320 créditos. Incluye una mochila, cinco barras de brillo, un cortador de fusión, un gancho de agarre, un cronómetro, 10 días de raciones de campo, una cantimplora, y 50 pies de cable de fibra atado a un lado.
 
-#### Entertainer's Pack
-Costs 420 credits. Includes a backpack, a bedroll, two costumes, two glowrods, 5 days of field rations, a canteen, and a disguise kit.
+#### Paquete de entretenimiento
+Cuesta 420 créditos. Incluye una mochila, un saco de dormir, dos trajes, dos barras de luz, 5 días de raciones de campo, una cantimplora y un kit de disfraces.
 
 #### Explorer's Pack
-Costs 250 credits. Includes a backpack, a bedroll, a blanket, a mess kit, two glowrods, a commlink, 10 days of field rations, a canteen, and 50 feet of fibercord cable strapped to the side of it.
+Cuesta 250 créditos. Incluye una mochila, un saco de dormir, una manta, un kit de cocina, dos barras de luz, un comunicador, 10 días de raciones de campo, una cantimplora y 15 metros de cable de fibra atado a un lado.
 
 #### Priest's Pack
-Costs 275 credits. Includes a<br> backpack, a blanket, two glowrods,<br> a datapad, a traumakit, 5 days of<br> field rations, and a canteen.
+Cuesta 275 créditos. Incluye una mochila, una manta, dos barras de luz, un datapad, un traumakit, 5 días de raciones de campo y una cantimplora.
 
 #### Scholar's Pack
-Costs 290 credits. Includes a<br> backpack, a datapad, 5 datacards,<br> a stylus, a holorecorder, 5 days<br> of field rations, and a canteen.
+Cuesta 290 créditos. Incluye una mochila, un panel de datos, 5 tarjetas de datos, un lápiz óptico, una holograbadora, 5 días de raciones de campo y una cantimplora.
 
-#### Technologist's Pack
-Costs 670 credits. Includes a<br> backpack, chronometer, respirator,<br> datapad, holocomm, commlink, bedroll, canteen, and 5 days of field rations.
+#### Pack del Tecnólogo
+Cuesta 670 créditos. Incluye una mochila, un cronómetro, un respirador, un datapad, un holocomm, un commlink, un saco de dormir, una cantimplora y 5 días de raciones de campo.
 
 ### Ammunition
 #### Dart
-This wrist launcher ammunition deals 1d6 kinetic damage on a hit.
+Esta munición lanzadora de muñeca causa un daño cinético de 1d6 en un golpe.
 
 \columnbreak
 
@@ -455,58 +455,58 @@ This wrist launcher ammunition deals 1d6 kinetic damage on a hit.
 
 </div>	
 
-#### Missile, Fragmentation
-This wrist launcher ammunition deals 1d6 kinetic damage on a hit. Additionally, hit or miss, the missile then explodes. The target and each creature within 5 feet must make a DC 13 Dexterity saving throw, taking 1d6 kinetic damage on a failed save or half as much on a successful one.
+#### Misil, Fragmentación
+Esta munición lanzadora de muñeca causa un daño cinético de 1d6 en un golpe. Además, con un golpe o un fallo, el misil explota. El objetivo y cada criatura dentro de 5 pies debe hacer un lanzamiento de ahorro de Destreza DC 13, recibiendo 1d6 de daño cinético en un salvamento fallido o la mitad de lo que recibe en uno exitoso.
 
 #### Power Cell
-Power cells fuel blaster weapons that deal energy or ion damage. Additionally, power cells are used to energize certain tools.
+Las células de energía alimentan las armas explosivas que reparten energía o daño de iones. Además, las células de energía se utilizan para energizar ciertas herramientas.
 
-#### Projector Canister, Carbonite
-When triggered, this wrist launcher ammunition produces a beam of carbonite energy in a line 15 feet long and 5 feet wide or a 15-foot cone. A single fuel canister holds enough fuel for three attacks in a line or a single attack in a cone. Each creature must make a DC 13 Constitution saving throw. On a failed save, a creature takes 1d4 cold damage and has its speed reduced by half until the end of your next turn. On a successful save, a creature takes half damage and isn't slowed. If this damage reduces a creature to 0 hit points, that creature is frozen in carbonite for 1 hour.
+#### Canister del proyector, Carbonita
+Cuando se dispara, esta munición lanzadora de muñeca produce un haz de energía de carbonita en una línea de 15 pies de largo y 5 pies de ancho o un cono de 15 pies. Un solo recipiente de combustible tiene suficiente combustible para tres ataques en una línea o un solo ataque en un cono. Cada criatura debe hacer un lanzamiento de ahorro de la Constitución DC 13. En una salvada fallida, una criatura recibe 1d4 de daño en frío y su velocidad se reduce a la mitad hasta el final de su siguiente turno. En una salvada exitosa, una criatura recibe la mitad del daño y no se reduce su velocidad. Si este daño reduce a una criatura a 0 puntos de golpe, esa criatura se congela en carbonita durante 1 hora.
 
 #### Projector Canister, Flame
-When triggered, this wrist launcher ammunition produces a burst of flame in a line 15 feet long and 5 feet wide or a 15-foot cone. A single fuel canister holds enough fuel for three attacks in a line or a single attack in a cone. Each creature must make a DC 13 Dexterity saving throw, taking 1d8 fire damage or half as much on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
+Cuando se dispara, esta munición lanzadora de muñeca produce un estallido de llamas en una línea de 15 pies de largo y 5 pies de ancho o un cono de 15 pies. Un solo recipiente de combustible tiene suficiente combustible para tres ataques en una línea o un solo ataque en un cono. Cada criatura debe hacer un lanzamiento de ahorro de Destreza DC 13, recibiendo 1d8 de daño de fuego o la mitad de uno exitoso. El fuego se extiende por las esquinas. Enciende los objetos inflamables en el área que no están siendo usados o llevados.
 
 #### Slug Cartridge
-Slug cartridges are ammunition for blaster weapons that deal kinetic damage. When you reload a weapon that uses cartridges, you can reload any number of cartridges up to the weapon's reload number as a part of the same action.
+Los cartuchos de bala son municiones para armas explosivas que causan daño cinético. Cuando recargas un arma que utiliza cartuchos, puedes recargar cualquier número de cartuchos hasta el número de recarga del arma como parte de la misma acción.
 
 <img src='https://www.gmbinder.com/images/yainsZs.png' style='position:absolute;top:467px;right:355px;width:320px;transform:scaleX(-1)' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
 ### Communications
 #### Commlink
-Commlinks are standard handheld communication devices, fitted with microphones and receivers. A standard, personal commlinks have a range of up to 30 miles, but are reduced in dense, urban areas or areas of high level interference.
+Los Commlinks son dispositivos de comunicación de mano estándar, equipados con micrófonos y receptores. Los commlinks personales estándar tienen un alcance de hasta 30 millas, pero se reducen en áreas densas, urbanas o de alto nivel de interferencia.
 
 #### Comm Jammer
-A comm jammer is a device used to scramble communications. A comm jammer can block transmissions from unenhanced communications devices in a 100 foot radius.
+Un bloqueador de comunicaciones es un dispositivo utilizado para codificar las comunicaciones. Un interferente de comunicaciones puede bloquear las transmisiones de dispositivos de comunicaciones no mejorados en un radio de 100 pies.
 
 #### Headcomm
-A headcomm can be installed in a helmet or worn independently. It functions as a hands-free commlink.
+Un auricular puede ser instalado en un casco o usado de forma independiente. Funciona como un comunicador de manos libres.
 
 #### Holocomm
-A holocomm is a communications unit that utilizes<br> the HoloNet. It enables users to send and receive<br> messages through holographic-based transmission<br> networks.
+Un holocomm es una unidad de comunicaciones que utiliza la HoloNet. Permite a los usuarios enviar y recibir mensajes <br> a través de redes de transmisión basadas en hologramas <br>.
 
-#### Holotrace Device
-A holotrace device is a wrist-worn gadget that can be used to trace a holographic transmission back to its source.
+#### Dispositivo Holotrace
+Un dispositivo de holotrazado es un aparato de muñeca que puede utilizarse para rastrear una transmisión holográfica hasta su origen.
 
 #### Pocket Scrambler
-A pocket scrambler is a simple add-on to any commlink that automatically encodes any messages sent out. The transmitted message can only be read by a device equipped with a matched scrambler.
+Un codificador de bolsillo es un simple complemento para cualquier enlace que codifica automáticamente los mensajes enviados. El mensaje transmitido sólo puede ser leído por un dispositivo equipado con un codificador compatible.
 
 ### Data Recording and Storage	
-#### Code Cylinder
-Code cylinders are security devices in the shape of short cylinders that contain coded information about their bearers and grant them access to secure areas.
+#### Cilindro de código
+Los cilindros de código son dispositivos de seguridad en forma de cilindros cortos que contienen información codificada sobre sus portadores y les dan acceso a zonas seguras.
 
 #### Datacard
-A datacard or data disk is a flat, hand-held device used in conjunction with a datapad to store information.
+Una tarjeta de datos o disco de datos es un dispositivo plano y portátil que se utiliza junto con un panel de datos para almacenar información.
 
 #### Datacron   
-A datacron is a type of holocron that can be accessed by non-Force-sensitives and are mainly used to store encrypted data. They are complete with an interactive projection<br> to access<br> the infor-<br>mation.
+Un datacrón es un tipo de holocrón al que pueden acceder personas no sensibles a la fuerza y que se utiliza principalmente para almacenar datos cifrados. Se completan con una proyección interactiva<br> para acceder<br> a la infor-<br>mación.
 
 #### Datapad
-A datapad is a<br> small electronic<br> device used for the<br> input, storage and<br> displaying of inform-<br>ation. It features a<br> holoprojective surface<br> for 3D viewing. 
+Un datapad es un pequeño dispositivo electrónico usado para la entrada, almacenamiento y visualización de información. Cuenta con una superficie holoprotectora <br> para la visualización en 3D. 
 
 \columnbreak
 
@@ -533,44 +533,44 @@ A datapad is a<br> small electronic<br> device used for the<br> input, storage a
 
 </div>	
 
-#### Holocron
-Holocrons are information-storage devices used by force wielders that contain ancient lessons or valuable information in holographic form. They appear as palm-sized, glowing polyhedrons of crystalline material and hardware, and can only be activated and used through the power of the Force.
+#### Holocrón
+Los holocrones son dispositivos de almacenamiento de información utilizados por los que ejercen la fuerza que contienen lecciones antiguas o información valiosa en forma holográfica. Aparecen como poliedros brillantes del tamaño de la palma de la mano, de material cristalino y hardware, y sólo pueden ser activados y utilizados a través del poder de la Fuerza.
 
 <div style='margin-top:224px'></div>
 
 #### Holorecorder
-A holorecorder is a device used to record and project holograms. Some droid models are equipped with internal holorecorders.
+Un holograma es un dispositivo utilizado para grabar y proyectar hologramas. Algunos modelos de droides están equipados con holorecorders internos.
 
 #### Stylus Pen
-A stylus pen is designed to write on both solid surfaces and touch screen interfaces.
+Un lápiz táctil está diseñado para escribir tanto en superficies sólidas como en interfaces de pantalla táctil.
 
 #### Wristpad
-A wristpad is a harness with an integrated datapad and holoprojector interface that fits on the forearm and includes self-charging battery packs.
+Una muñequera es un arnés con un panel de datos integrado y una interfaz de holoproyector que se ajusta al antebrazo e incluye paquetes de baterías autocargables.
 
 <img src='https://www.gmbinder.com/images/U4cHqYD.png' style='position:absolute;top:730px;left:135px;width:300px' />
 
 <img src='https://www.gmbinder.com/images/NIczKet.png' style='position:absolute;top:590px;left:470px;width:255px' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
 ### Explosives
-#### Breaching Charge
-A device used to blow holes in larger constructs, a breaching charge creates a devastating explosion. Installing a breaching charge takes 1 minute. The charge can be set with a 6-second timer, or detonated remotely using a remote detonator.
+#### Breaking Charge
+Un dispositivo usado para hacer agujeros en construcciones más grandes, una carga de ruptura crea una explosión devastadora. La instalación de una carga de ruptura toma un minuto. La carga puede ser ajustada con un temporizador de 6 segundos, o detonada remotamente usando un detonador remoto.
 
-Once detonated, the breaching charge destroys an unenhanced section of wall up to 10 feet wide, 10 feet tall, and 5 feet deep. Additionally, each creature within 20 feet of the charge must make a DC 13 Dexterity saving throw. A creature takes 3d6 fire damage and 3d6 kinetic damage on a failed save, or half as much on a successful one. A construct makes this save with disadvantage. If the breaching charge is installed on the construct, it automatically fails the saving throw.
+Una vez detonada, la carga de ruptura destruye una sección de pared no reforzada de hasta 3 metros de ancho, 3 metros de alto y 1 metro de profundidad. Además, cada criatura dentro de los 20 pies de la carga debe hacer un lanzamiento de ahorro de Destreza DC 13. Una criatura recibe 3d6 de daño por fuego y 3d6 de daño cinético en una salvada fallida, o la mitad de lo que recibe en una salvada exitosa. Una construcción hace esta salvada con desventaja. Si la carga de ruptura se instala en la construcción, automáticamente falla el tiro de salvamento.
 
-#### Grenade, Electrostun
-Electrostun grenades are usually used when the object of a mission is to detain, capture, or subdue rather than kill. Grenades have a range equal to 30 feet + your Strength modifier x 5. As an action, you can throw a grenade at a point you can see within range. Each creature within 10 feet must make a DC 13 Dexterity saving throw. A creature takes 1d6 lightning damage on a failed save, or half as much as on a successful one. Additionally, on a failed save, the creature is stunned until the end of its next turn. 
+#### Granada, Electrostun
+Las granadas de electrostun se utilizan normalmente cuando el objeto de una misión es detener, capturar o someter en lugar de matar. Las granadas tienen un alcance igual a 30 pies + tu modificador de fuerza x 5. Como acción, puedes lanzar una granada en un punto que puedas ver dentro del alcance. Cada criatura en un radio de 3 metros debe hacer un lanzamiento de ahorro de Destreza DC 13. Una criatura recibe 1d6 de daño por rayo en una salvada fallida, o la mitad de lo que recibe en una exitosa. Además, en una parada fallida, la criatura queda aturdida hasta el final de su siguiente turno. 
 
-#### Grenade, Fragmentation
-Frag grenades are cheap, low-damage grenades used mainly by military personnel, mercenaries, bounty hunters, and adventurers. Grenades can be set to detonate on impact or set with a timer that lasts several seconds before detonating.  Grenades have a range equal to 30 feet + your Strength modifier x 5. As an action, you can throw a grenade at a point you can see within range. Each creature within 10 feet must make a DC 13 Dexterity saving throw. A creature takes 2d6 kinetic damage on a failed save, or<br> half as much as on a successful one.
+#### Granada, Fragmentación
+Las granadas de fragmentación son baratas y de bajo daño, usadas principalmente por personal militar, mercenarios, cazarrecompensas y aventureros. Las granadas pueden ser configuradas para detonar en el momento del impacto o con un temporizador que dura varios segundos antes de detonar. Las granadas tienen un alcance igual a 30 pies + tu modificador de fuerza x 5. Como acción, puedes lanzar una granada en un punto que puedas ver dentro del alcance. Cada criatura en un radio de 3 metros debe hacer un lanzamiento de ahorro de Destreza DC 13. Una criatura recibe 2d6 de daño cinético en una salvada fallida, o la mitad de lo que recibe en una exitosa.
 
-#### Grenade, Gas
-Gas grenades are primarily used<br> to flush enemies out of cover and<br> other protected areas, though<br> there are of course other uses.<br> Grenades have a range equal to<br> 30 feet + your Strength modifier x 5.<br> As an action, you can throw a grenade at<br> a point you can see within range. The grenade explodes in a 15-foot-radius sphere of yellow-green fog centered on a point you choose within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for 1 minute or until a wind of at least 10 miles per hour disperses it.
+#### Granada, Gas
+Las granadas de gas se usan principalmente para sacar a los enemigos de su escondite y otras áreas protegidas, aunque hay otros usos. Las granadas tienen un alcance igual a 30 pies + tu modificador de fuerza x 5. Como acción, puedes lanzar una granada a un punto que puedas ver dentro del alcance. La granada explota en una esfera de 15 pies de radio de niebla amarilla-verde centrada en un punto que eliges dentro del rango. La esfera se extiende alrededor de las esquinas, y su área está fuertemente oscurecida. Dura un minuto o hasta que un viento de al menos 10 millas por hora la dispersa.
 
-When a creature enters the fog's area for the first time on a turn or starts its turn there, that creature must make a DC 13 Constitution saving throw. The creature takes 1d8 poison damage on a failed save, or half as much damage on a successful one. Additionally, on a failed save, the creature is poisoned while it is in the cloud. Droids, constructs and humanoids wearing appropriate protective equipment are unaffected.
+Cuando una criatura entra en el área de la niebla por primera vez en un turno o comienza su turno allí, esa criatura debe hacer un lanzamiento de ahorro de Constitución DC 13. La criatura recibe 1d8 de daño por veneno en una salvada fallida, o la mitad de daño en una exitosa. Además, en una parada fallida, la criatura es envenenada mientras está en la nube. Los droides, constructos y humanoides que llevan el equipo de protección adecuado no se ven afectados.
 
 \columnbreak
 
@@ -592,52 +592,52 @@ When a creature enters the fog's area for the first time on a turn or starts its
 
 <div style='margin-top:42px'></div>
 
-#### Grenade, Ion
-Ion grenades are hand-held explosive devices that release a blast of ion energy. Grenades have a range equal to 30 feet + your Strength modifier x 5. As an action, you can throw a grenade at a point you can see within range. Each creature within 10 feet must make a DC 13 Dexterity saving throw. A creature takes 2d4 ion damage on a failed save, or half as much as on a successful one. Any electronics within the blast radius are disabled until rebooted. 
+#### Granada, Ion
+Las granadas de iones son dispositivos explosivos de mano que liberan una explosión de energía iónica. Las granadas tienen un alcance igual a 30 pies + tu modificador de fuerza x 5. Como acción, puedes lanzar una granada a un punto que puedas ver dentro del alcance. Cada criatura en un radio de 3 metros debe hacer un lanzamiento de ahorro de energía DC 13. Una criatura recibe 2d4 de daño de iones en una salvada fallida, o la mitad de lo que recibe en una exitosa. Cualquier electrónica dentro del radio de la explosión se desactiva hasta que se reinicia. 
 
 #### Mine, Fragmentation
-When you use your action to set it, this mine sets an imperceptible laser line extending up to 15 feet. When the laser is tripped, the mine explodes, and each creature within 15 feet of it must make a DC 13 Dexterity saving throw. On a failed save, a creature takes 3d6 kinetic damage, or half as much on a successful one.	
+Cuando usas tu acción para fijarla, esta mina fija una línea láser imperceptible que se extiende hasta 15 pies. Cuando el láser se dispara, la mina explota, y cada criatura dentro de 15 pies de ella debe hacer un lanzamiento de ahorro de DC 13 Dexterity. En una salvada fallida, una criatura recibe 3d6 de daño cinético, o la mitad de lo que recibe en una salvada exitosa.	
 
 #### Mine, Plasma
-When you use your action to set it, this mine sets an imperceptible laser line extending up to 15 feet. When the laser is tripped, the mine explodes, coating the area in a 15-foot radius around it in fire that burns for 1 minute. When a creature enters the fire or starts its turn there it must make a DC 13 Dexterity saving throw. On a failed save, the creature takes 2d6 fire damage, or half as much on a successful one. A construct makes this save with disadvantage.
+Cuando usas tu acción para fijarla, esta mina fija una línea láser imperceptible que se extiende hasta 15 pies. Cuando el láser se dispara, la mina explota, cubriendo el área en un radio de 15 pies a su alrededor en un fuego que arde durante 1 minuto. Cuando una criatura entra en el fuego o comienza su turno allí debe hacer un lanzamiento de ahorro de Destreza DC 13. En una salvada fallida, la criatura recibe 2d6 de daño por el fuego, o la mitad de lo que recibe en una salvada exitosa. Una construcción hace esta salvada con desventaja.
 
-#### Thermal Detonator
-Thermal detonators are palm-sized, spherical, and extremely deadly explosive weapons. In addition to being surprisingly powerful for their size, they can only be turned off by whoever turned them on. Thermal detonators have a range equal to 30 feet + your Strength modifier x 5. As an action, you can throw a grenade at a point you can see within range. Each creature within 10 feet must make a DC 13 Dexterity saving throw. A creature takes 2d6 fire and 2d6 kinetic damage on a failed save, or half as much as on a successful one. Additionally, on a failed save, the creature is knocked prone. 
+#### Detonador térmico
+Los detonadores térmicos son armas explosivas del tamaño de la palma de la mano, esféricas y extremadamente mortales. Además de ser sorprendentemente poderosos para su tamaño, sólo pueden ser apagados por quien los haya encendido. Los detonadores térmicos tienen un alcance igual a 30 pies + tu modificador de fuerza x 5. Como acción, puedes lanzar una granada en un punto que puedas ver dentro del alcance. Cada criatura en un radio de 3 metros debe hacer un lanzamiento de ahorro de Destreza DC 13. Una criatura recibe 2d6 de fuego y 2d6 de daño cinético en una salvada fallida, o la mitad de lo que recibe en una exitosa. Además, en una parada fallida, la criatura es propensa a ser golpeada. 
 
 <img src='https://www.gmbinder.com/images/m2QdjNv.png' style='position:absolute;top:630px;right:395px;width:165px' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
 ### Life Support	
 #### Aquatic Rebreather
-Aquatic breathers are breath masks designed to operate underwater. While worn, the wearer can breathe both air and water.
+Los respiradores acuáticos son máscaras de respiración diseñadas para operar bajo el agua. Mientras se usan, el usuario puede respirar tanto aire como agua.
 
 #### Enviro-suit
-Environment suits, atmospheric suits, or EVA suits, are pressure suits that enabled wearers to survive and operate in zero gravity space and other dangerous conditions.
+Los trajes para el medio ambiente, los trajes atmosféricos o los trajes EVA son trajes a presión que permiten a los usuarios sobrevivir y operar en el espacio de gravedad cero y en otras condiciones peligrosas.
 
-#### Flight Suit
-Flight suits, or jumpsuits, are a type of outfit worn by pilots. They are worn in conjunction with flight helmets. They come in a variety of different colors and provide life support, and protect from hostile environments.
+#### Traje de Vuelo
+Los trajes de vuelo, o jumpsuits, son un tipo de traje usado por los pilotos. Se usan en conjunto con los cascos de vuelo. Vienen en una variedad de diferentes colores y proporcionan soporte vital, y protegen de ambientes hostiles.
 
-#### Respirator
-A respirator, or breath mask, is a portable device that allowed an oxygen-breather to survive in low-oxygen atmospheres. Although not suitable for use in outer-space, these hands-free masks were essential equipment for deep-space travel that might require activity outside of a starship.
+#### Respirador
+Un respirador, o máscara de respiración, es un dispositivo portátil que permite a un respirador de oxígeno sobrevivir en atmósferas de bajo oxígeno. Aunque no son adecuadas para su uso en el espacio exterior, estas máscaras de manos libres eran un equipo esencial para los viajes al espacio profundo que podían requerir actividad fuera de una nave estelar.
 
 ### Medical Supplies
 #### Antitoxkit 
-An antitoxkit contained a variety of wide-spectrum antidote hypospray injectors that were designed to neutralize all known poisons. A kit has five charges. As an action, you can administer a charge of the kit to cure a target of one poison affecting them or to give them advantage on saving throws against poison for 1 hour. It confers no benefit to droids or constructs.
+Un antikit contenía una variedad de inyectores de hipospray de antídoto de amplio espectro que estaban diseñados para neutralizar todos los venenos conocidos. Un kit tiene cinco cargas. Como acción, puede administrar una carga del kit para curar a un objetivo de un veneno que le afecte o para darle ventaja en el ahorro de lanzamientos contra el veneno durante 1 hora. No confiere ningún beneficio a los droides o a los constructos.
 
 #### Basic Poison
-As an action, you can use the poison in this vial to coat one vibroweapon, one slug cartridge, or one wrist launcher dart. A creature hit by the poisoned weapon must make a DC 13 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
+Como acción, puedes usar el veneno de este frasco para recubrir un vibro-arma, un cartucho de bala o un dardo lanzador de muñeca. Una criatura golpeada por el arma envenenada debe hacer un lanzamiento salvador DC 13 Constitution o recibir un daño de veneno de 1d4. Una vez aplicado, el veneno retiene su potencia durante 1 minuto antes de secarse.
 
-#### Emergency Battery
-All non-expendable droids need recharging as they are used. The battery has ten uses. As an action, you can expend one use of the kit to stabilize a droid that has 0 hit points, without needing to make an Intelligence (Technology) check.
+#### Batería de emergencia
+Todos los droides no fungibles necesitan recargarse a medida que se usan. La batería tiene diez usos. Como acción, puedes gastar un uso del kit para estabilizar un droide que tenga 0 puntos de impacto, sin necesidad de hacer un chequeo de Inteligencia (Tecnología).
 
 #### Traumakit
-A common traumakit can be stocked with bacta packs, and contains spray-bandages, bone stabilizers, antiseptics, and other essentials for the treatment of wounds. As an action, you can expend a use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check. A traumakit can be used to stabilize 5 times before it must be restocked at its original cost.
+Un traumakit común puede ser abastecido con paquetes de bacta, y contiene vendas de aerosol, estabilizadores óseos, antisépticos y otros elementos esenciales para el tratamiento de las heridas. Como acción, puedes utilizar el kit para estabilizar una criatura que tenga 0 puntos de golpe, sin necesidad de hacer un chequeo de Sabiduría (Medicina). Un traumakit puede ser usado para estabilizar 5 veces antes de que deba ser reabastecido a su costo original.
 
 #### Medpac
-A medpac is a quick-acting syringe filled with a concentrated dose of kolto. As an action, you can use this medpac to restore 2d4+2 hit points to a creature within 5 feet.
+Un medpac es una jeringa de acción rápida llena de una dosis concentrada de kolto. Como acción, puedes usar este medpac para restaurar 2d4+2 puntos de golpe a una criatura en un radio de 5 pies.
 
 \columnbreak
 
@@ -667,8 +667,8 @@ A medpac is a quick-acting syringe filled with a concentrated dose of kolto. As 
 
 <div style='margin-top:140px'></div>
 
-#### Repair Kit
-A repair kit included the basic tools needed to repair a droid after being damaged in combat. The kit has three uses. As an action, you can expend one use of the kit to restore 2d4+2 hit points to a droid or construct within 5 feet.
+#### Kit de reparación
+Un kit de reparación incluía las herramientas básicas necesarias para reparar un droide después de haber sido dañado en combate. El kit tiene tres usos. Como acción, puedes gastar un uso del kit para restaurar 2d4+2 puntos de golpe a un droide o construcción dentro de 5 pies.
 
 #### Storage Container Capacity				
 |	Container	|	Capacity	|
@@ -689,37 +689,37 @@ A repair kit included the basic tools needed to repair a droid after being damag
 
 <img src='https://www.gmbinder.com/images/GVHpzCM.png' style='position:absolute;bottom:430px;right:120px;width:230px;' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
 ### Utilities
 #### Binders
-These durasteel restraints can bind a Small or Medium creature. Escaping the binders requires a successful DC 20 Dexterity check. Breaking them requires a successful DC 20 Strength check. Each set of binders comes with one key. Without the key, a creature proficient with security kits can pick the binders' lock with a successful DC 15 Dexterity check. Binders have 15 hit points.
+Estas sujeciones durasteel pueden atar a una criatura pequeña o mediana. Escapar de las ataduras requiere un exitoso chequeo de destreza del DC 20. Romperlas requiere una exitosa revisión de la fuerza del DC 20. Cada juego de ataduras viene con una llave. Sin la llave, una criatura competente con los kits de seguridad puede abrir la cerradura de la carpeta con un control de Destreza DC 15 exitoso. Las carpetas tienen 15 puntos de golpe.
 
-#### Chronometer
-A chronometer is a device that measures and keeps linear time.
+#### Cronómetro
+Un cronómetro es un dispositivo que mide y mantiene el tiempo lineal.
 
-#### Field Rations (One day's)
-Ration packs consist of dry foods suitable for extended travel, and are used when other food is scarce. Each pack is divided into portions and can provide enough food for one person per day.
+#### Raciones de campo (Un día)
+Los paquetes de raciones consisten en alimentos secos adecuados para viajes largos, y se utilizan cuando otros alimentos son escasos. Cada paquete se divide en porciones y puede proporcionar suficiente comida para una persona por día.
 
 #### Fusion Cutter
-A fusion cutter is a handheld cutting tool popular among technicians. It cut through almost any reinforced material, given enough time. The internal power cell supplies an hour's worth of continuous operation.
+Un cortador de fusión es una herramienta de corte de mano popular entre los técnicos. Corta a través de casi cualquier material reforzado, con el tiempo suficiente. La célula de energía interna suministra una hora de funcionamiento continuo.
 
 #### Glowrod
-Glowrods create a beam of light illuminating the area around you in bright light for a 20-foot radius and dim light for an additional 20 feet. The glowrod lasts for 10 hours and can be recharged by connecting to a power source or by replacing the power cell. 
+Las barras de luz crean un rayo de luz que ilumina el área a tu alrededor en un radio de 20 pies y una luz tenue en otros 20 pies. La varilla de luz dura 10 horas y se puede recargar conectándola a una fuente de energía o reemplazando la célula de energía. 
 
 #### Grappling Hook
-A grappling hook allows<br> a user to climb or ascend<br> large objects. It can be<br> mounted to a blaster,<br> belt, or elsewhere. It has<br> a 50-foot length.
+Un gancho de agarre permite al usuario escalar o ascender objetos grandes. Puede ser <br> montado en una pistola,<br> cinturón, o en cualquier otro lugar. Tiene <br> una longitud de 50 pies.
 
-#### Heat Generator
-Heat generators are special devices typically worn on belts that function as a portable, personal heat supply. Activating or deactivating the generator requires a bonus action and, while active, you are adapted to cold climates, as described in chapter 5 of the Dungeon Master's Guide. The generator lasts for 10 minutes and can be recharged by a power source or replacing the power cell.
+#### Generador de calor
+Los generadores de calor son dispositivos especiales que se llevan normalmente en los cinturones y que funcionan como un suministro de calor personal portátil. La activación o desactivación del generador requiere una acción de bonificación y, mientras esté activo, se adapta a los climas fríos, como se describe en el capítulo 5 de la Guía del Maestro de la Mazmorra. El generador dura 10 minutos y puede ser recargado por una fuente de energía o reemplazando la celda de energía.
 
 #### Homing Beacon
-A homing beacon is a device used to track starships or any other entity being transported. Homing beacons transmit using non-mass HoloNet transceivers able to be tracked through hyperspace. Homing beacons are small enough that they can easily be hidden inside a ship, or tucked into some crevice on its exterior.
+Una baliza de localización es un dispositivo utilizado para rastrear naves estelares o cualquier otra entidad que se esté transportando. Las balizas de localización transmiten usando transceptores HoloNet no masivos que pueden ser rastreados a través del hiperespacio. Las balizas de localización son lo suficientemente pequeñas como para que puedan ser fácilmente ocultadas dentro de una nave, o escondidas en alguna grieta en su exterior.
 
-#### Macrobinoculars
-Macrobinoculars are handheld viewing devices that allow users to observe distant objects. Some models are able to see into space from the surface of a planet.
+#### Macrobinoculares
+Los macrobinoculares son dispositivos de visión de mano que permiten a los usuarios observar objetos distantes. Algunos modelos son capaces de ver en el espacio desde la superficie de un planeta.
 
 \columnbreak
 
@@ -753,39 +753,39 @@ Macrobinoculars are handheld viewing devices that allow users to observe distant
 <div style='margin-top:72px'></div>
 
 #### Mess Kit
-This box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.
+Esta caja contiene una taza y cubiertos simples. La caja se sujeta con abrazaderas, y un lado puede ser usado como una cacerola y el otro como un plato o tazón poco profundo.
 
 #### Ram, Portable
-You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
+Puedes usar un ariete portátil para derribar puertas. Al hacerlo, ganas un bono +4 en el chequeo de fuerza. Otro personaje puede ayudarte a usar el ariete, dándote ventaja en este chequeo.
 
-#### Restraining Bolt
-Restraining bolts are small, cylindrical devices that can be affixed to a droid in order to limit its functions and enforce its obedience. When inserted, a restraining bolt restricts the droid from any movement its master does not desire, and also forced it to respond to signals produced by a hand-held control unit. 
+#### Perno de sujeción
+Los pernos de sujeción son pequeños dispositivos cilíndricos que se pueden fijar a un droide para limitar sus funciones y hacer cumplir su obediencia. Cuando se insertan, un perno de sujeción restringe al droide de cualquier movimiento que su amo no desee, y también lo obliga a responder a las señales producidas por una unidad de control manual. 
 
-Installing a restraining bolt takes 1 minute. The droid must make a DC 13 Constitution saving throw. A hostile droid makes this save with advantage. On a successful save, the restraining bolt overloads and is rendered useless. On a failed save, the restraining bolt is correctly installed, and the control unit can be used to actively control the droid. While the control unit is inactive, the droid can act freely but it can not attempt to remove the restraining bolt. 
+Instalar un perno de sujeción lleva 1 minuto. El droide debe hacer un lanzamiento de ahorro de la Constitución DC 13. Un droide hostil hace esta salvada con ventaja. En una salvada exitosa, el perno de contención se sobrecarga y se vuelve inútil. En una parada fallida, el perno de sujeción está correctamente instalado, y la unidad de control puede usarse para controlar activamente al droide. Mientras la unidad de control está inactiva, el droide puede actuar libremente pero no puede intentar quitar el perno de sujeción. 
 
 <img src='https://www.gmbinder.com/images/Hpj5wBf.png' style='position:absolute;top:510px;right:410px;width:200px;transform:scaleX(-1)' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
 ### Weapon and Armor Accessories
-#### Bandolier
-A bandolier is worn across the chest. It has 12 slots that can each hold a single item that weighs less than 2 lb, such as a vibrodagger, a fragmentation grenade, or a power cell.
+#### Bandolera
+Se lleva una bandolera en el pecho. Tiene 12 ranuras que pueden contener cada una un solo artículo que pese menos de 2 libras, como una vibrodaga, una granada de fragmentación o una célula de poder.
 
-#### Bipod
-A bipod is a device mounted to a two-handed blaster weapon to offer increased stability while prone. As an action, you can deploy or collapse the bipod. While deployed, you ignore the Strength requirement on ranged weapons with the strength property while you are prone, and your speed is reduced to 0.
+#### Bípode
+Un bípode es un dispositivo montado en un arma explosiva de dos manos para ofrecer mayor estabilidad mientras se está propenso. Como acción, puedes desplegar o colapsar el bípode. Mientras está desplegado, ignoras el requisito de fuerza de las armas de distancia con la propiedad de fuerza mientras estás propenso, y tu velocidad se reduce a 0.
 
 #### Friction-Grip Gear
-A special set of gloves and boots that allow the wearer to stick to and climb surfaces. While wearing these items, you gain the ability to move along vertical surfaces and ceilings while leaving your hands free. You also gain a climbing speed equal your walking<br> speed.<br><br>
+Un juego especial de guantes y botas que permiten al portador adherirse y subir a las superficies. Al usar estos artículos, se obtiene la habilidad de moverse a lo largo de superficies verticales y techos dejando las manos libres. También se gana una velocidad de escalada igual a la velocidad al caminar.
 
 <div style='margin-top:233px'></div>
 
 #### Jetpack 
-Jetpacks are personal aerial transportation devices that allow the operator to fly into and through the air with great mobility. Activating or deactivating the jetpack requires a bonus action and, while active, you have a flying speed of 30 feet. The jetpack last for 1 minute per power cell (to a maximum<br> of 10 minutes) and can be<br> recharged by a power<br> source or replacing the<br> power cells.
+Los jetpacks son dispositivos personales de transporte aéreo que permiten al operador volar en y a través del aire con gran movilidad. Activar o desactivar el jetpack requiere una acción extra y, mientras está activo, tiene una velocidad de vuelo de 30 pies. El jetpack dura 1 minuto por cada celda de energía (hasta un máximo de 10 minutos) y puede ser recargado por una fuente de energía o reemplazando las celdas de energía.
 
-#### Remote Detonator 
-A small handhold device<br> with a single button, used<br> to activate explosives. Over<br> the course of 1 minute, you<br> can synchronize the deton-<br>ator with a single explosive<br> device, such as a breaching<br> charge, grenade, or mine. As an<br> action, you can remotely detonate<br> the paired explosive.
+#### Detonador remoto 
+Un pequeño dispositivo de mano con un solo botón, usado para activar explosivos. En el transcurso de 1 minuto, puede sincronizar el detonador con un único dispositivo explosivo, como una carga, una granada o una mina. Como una acción <br>, puede detonar remotamente <br> el explosivo emparejado.
 
 \columnbreak
 
@@ -808,16 +808,16 @@ A small handhold device<br> with a single button, used<br> to activate explosive
 
 
 #### Rocket Boots
-Rocket boots are a form of rocket propulsion system affixed to a pair of boots instead of being worn on the back like a standard jetpack. Activating or deactivating the boots requires a bonus action and, while active, you have a flying speed of 20 feet. The rocket boots last for 1 minute and can be recharged by a power source or replacing the power cell.	
+Las botas cohete son una forma de sistema de propulsión de cohetes que se coloca en un par de botas en lugar de llevarlas en la espalda como un jetpack estándar. Activar o desactivar las botas requiere una acción adicional y, mientras se activa, tienes una velocidad de vuelo de 20 pies. Las botas cohete duran 1 minuto y pueden ser recargadas por una fuente de energía o reemplazando la celda de energía.	
 
-#### Stealth Field Generator
-Stealth field generators are special devices typically worn on belts that function as a portable, personal cloaking device. Activating or deactivating the generator requires a bonus action and, while active, you have advantage on Dexterity (Stealth) ability checks that rely on sight. The generator lasts for 1 minute and can be recharged by a power source or replacing the power cell. This effect ends early if you make an attack or cast a force- or tech- power.
+#### Generador de campo de sigilo
+Los generadores de campo de sigilo son dispositivos especiales que suelen llevarse en los cinturones y que funcionan como un dispositivo de camuflaje personal portátil. La activación o desactivación del generador requiere una acción adicional y, mientras está activo, tiene ventaja en las comprobaciones de habilidad de Destreza (Stealth) que dependen de la vista. El generador dura 1 minuto y puede ser recargado por una fuente de energía o reemplazando la celda de energía. Este efecto termina pronto si haces un ataque o lanzas una fuerza o un poder técnico.
 
 #### Tracker Utility Vest
-A utility vest is a sleeveless item of clothing that includes several evenly-distributed pockets, popular among hunters, smugglers, and adventurers. The vest is made of leathery, hide material to resist rips, corrosion and water. The wearer can carry up to 10 light items (up to 1 lb each) without increasing<br> their total encumbrance.
+Un chaleco utilitario es una prenda de vestir sin mangas que incluye varios bolsillos distribuidos uniformemente, popular entre cazadores, contrabandistas y aventureros. El chaleco está hecho de material de cuero y piel para resistir los rasgones, la corrosión y el agua. El portador puede llevar hasta 10 artículos ligeros (hasta 1 lb cada uno) sin aumentar su carga total.
 
-#### Tripod
-A tripod is a device used<br> to mount a two-handed<br> blaster weapon to offer<br> increased stability. Over the course of 1<br> minute, you can deploy or collapse<br> the tripod. While deployed, you<br> ignore the Strength requirement on<br> ranged weapons with the strength<br> property, and your speed is<br> reduced to 0.
+#### Trípode
+Un trípode es un dispositivo usado para montar un arma explosiva a dos manos para ofrecer mayor estabilidad. En el transcurso de 1<br> minuto, puede desplegar o colapsar<br> el trípode. Mientras está desplegado, usted <br> ignora el requisito de fuerza en las armas de alcance con la propiedad de fuerza <br>, y su velocidad es <br> reducida a 0.
 
 <img src='https://www.gmbinder.com/images/cgGUzvl.png' style='position:absolute;top:341px;right:420px;width:340px;transform:scaleX(-1)' />
 
@@ -825,7 +825,7 @@ A tripod is a device used<br> to mount a two-handed<br> blaster weapon to offer<
 
 <img src='https://www.gmbinder.com/images/VVpqaIT.png' style='position:absolute;bottom:18px;right:-12px;width:280px;transform:scaleX(-1);z-index:1000' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
@@ -931,54 +931,54 @@ A tripod is a device used<br> to mount a two-handed<br> blaster weapon to offer<
 
 </div>	
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
-## Tools
-A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, pick a lock, or slice into a computer. Your species, class, background, or feats give you proficiency with certain tools, which lets you add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. 
+## Herramientas
+Una herramienta te ayuda a hacer algo que de otra manera no podrías hacer, como por ejemplo, hacer una artesanía o reparar un artículo, abrir una cerradura o cortar una computadora. Tu especie, clase, antecedentes o hazañas te dan competencia con ciertas herramientas, lo que te permite añadir tu bono de competencia a cualquier comprobación de habilidades que hagas con esa herramienta. El uso de las herramientas no está vinculado a una sola habilidad, ya que la competencia con una herramienta representa un conocimiento más amplio de su uso. 
 
-#### Artisan's Tools
-These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+#### Herramientas de artesanos
+Estas herramientas especiales incluyen los artículos necesarios para ejercer una artesanía o comercio. La tabla muestra ejemplos de los tipos de herramientas más comunes, cada una de las cuales proporciona artículos relacionados con una sola artesanía. El dominio de un conjunto de herramientas de artesano te permite añadir tu bonificación de dominio a cualquier comprobación de habilidades que realices con las herramientas de tu artesanía. Cada tipo de herramienta de artesano requiere una habilidad distinta.
 
-#### Biochemist's Kit
-This kit includes all of the necessary components to create and house standard adrenals, medpacs, and stimpacs. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify adrenals, medpacs, and stimpacs. Also, proficiency with this kit is required to create adrenals, medpacs, and stimpacs.
+#### Kit de Bioquímica
+Este kit incluye todos los componentes necesarios para crear y albergar suprarrenales estándar, medpacs y stimpacs. La competencia con este kit le permite añadir su bono de competencia a cualquier comprobación de habilidad que haga para identificar las glándulas suprarrenales, los medpacs y los estigmas. Además, la competencia con este kit es necesaria para crear adrenales, medpacs y estimpacs.
 
-#### Chef's Kit
-This kit includes all of the necessary implements to prepare and serve food to up to six people. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify food. Also, proficiency with this kit is required to create field rations.
+#### Kit del Chef
+Este kit incluye todos los implementos necesarios para preparar y servir alimentos a un máximo de seis personas. La competencia con este kit le permite agregar su bono de competencia a cualquier chequeo de habilidad que haga para identificar los alimentos. Además, el dominio de este kit es necesario para crear raciones de campo.
 
-#### Demolitions Kit
-This kit contains the appropriate equipment for disarming and setting explosives. It contains a plastic face guard and heavy duty gloves, as well as precision cutting and gripping tools, and various common components of grenades and mines. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to disarm or set an explosive.
+#### Kit de demolición
+Este kit contiene el equipo apropiado para el desarme y la colocación de explosivos. Contiene un protector de plástico para la cara y guantes de alta resistencia, así como herramientas de corte y agarre de precisión, y varios componentes comunes de granadas y minas. La habilidad con este kit te permite añadir tu bono de habilidad a cualquier chequeo de habilidad que hagas para desarmar o colocar un explosivo.
 
-#### Disguise Kit
-This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance, in addition to a tool that lets them holographically mimic clothing. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
+#### Disfraz Kit
+Esta bolsa de cosméticos, tintes para el cabello y pequeños accesorios le permite crear disfraces que cambian su apariencia física, además de una herramienta que les permite imitar holográficamente la ropa. La habilidad con este kit te permite añadir tu bono de habilidad a cualquier chequeo de habilidad que hagas para crear un disfraz visual.
 
 #### Forgery Kit
-This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.
+Esta pequeña caja contiene una variedad de papeles y pergaminos, plumas y tintas, sellos y cera para sellar, pan de oro y plata, y otros suministros necesarios para crear convincentes falsificaciones de documentos físicos. La habilidad con este kit le permite añadir su bono de habilidad a cualquier chequeo de habilidad que haga para crear una falsificación física de un documento.
 
 \columnbreak
 
 <div style='margin-top:26px'></div>
 
 #### Gaming Set
-This item encompasses a wide range of game pieces, including dice and/or decks of cards. A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
+Este artículo abarca una amplia gama de piezas de juego, incluyendo dados y/o mazos de cartas. Algunos ejemplos comunes aparecen en la tabla de herramientas, pero existen otros tipos de juegos. Si eres experto en un juego, puedes añadir tu bono de habilidad a las comprobaciones de habilidad que hagas para jugar con ese juego. Cada tipo de juego requiere una habilidad distinta.
 
 #### Mechanic's Kit
-This kit contains all of the commonly required tools to make repairs on constructs, such as ships, speeders, and turrets. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to perform repairs or install ship upgrades.
+Este kit contiene todas las herramientas comúnmente requeridas para hacer reparaciones en las construcciones, como naves, velocípedos y torretas. La competencia con este kit te permite añadir tu bono de competencia a cualquier chequeo de habilidad que hagas para realizar reparaciones o instalar mejoras en la nave.
 
-#### Musical Instrument
-Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.  Each type of musical instrument requires a separate proficiency.
+#### Instrumento musical
+Varios de los tipos más comunes de instrumentos musicales se muestran en la tabla como ejemplos. Si tienes conocimientos de un instrumento musical determinado, puedes añadir tu bono de conocimientos a cualquier comprobación de habilidades que hagas para tocar música con el instrumento. Cada tipo de instrumento musical requiere una habilidad distinta.
 
-#### Poisoner's Kit
-A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+#### Kit de envenenamiento
+Un kit de envenenamiento incluye los frascos, químicos y otros equipos necesarios para la creación de venenos. La competencia con este kit te permite añadir tu bono de competencia a cualquier comprobación de habilidad que hagas para crear o usar venenos.
 
-#### Security Kit
-A security kit includes the tools and electronic components necessary to bypass electronic and mechanical locks. It includes sensor devices, a specialized commlink designed to detect silent alarms, a small file, a set of lockpicks, a small mirror mounted to an elongated handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+#### Kit de seguridad
+Un kit de seguridad incluye las herramientas y los componentes electrónicos necesarios para evitar las cerraduras electrónicas y mecánicas. Incluye dispositivos sensores, un comunicador especializado diseñado para detectar alarmas silenciosas, un pequeño archivo, un juego de ganzúas, un pequeño espejo montado en un mango alargado, un juego de tijeras de hoja estrecha y un par de alicates. El dominio de estas herramientas te permite añadir tu bono de habilidad a cualquier control de habilidad que hagas para desarmar trampas o abrir cerraduras.
 
 #### Slicer's Kit
-Slicers used specialized computers and scramble keys, many built by the slicers themselves, to eke out a living in the digital world. These computers were carefully guarded and constantly modified and upgraded by the slicer, who rarely discussed its specs except with like-minded individuals. Complex access codes and even self-destruct mechanisms were often used to prevent a slicer's computer from falling into the wrong hands. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to hack into computers or bypass security.	
+Los cortadores usaban computadoras especializadas y teclas de codificación, muchas construidas por los mismos cortadores, para ganarse la vida en el mundo digital. Estos ordenadores fueron cuidadosamente custodiados y constantemente modificados y actualizados por el cortador, que rara vez discutió sus especificaciones excepto con personas de ideas afines. A menudo se utilizaban complejos códigos de acceso e incluso mecanismos de autodestrucción para evitar que la computadora de una rebanadora cayera en las manos equivocadas. La competencia con este kit le permite añadir su bono de competencia a cualquier comprobación de habilidad que haga para piratear ordenadores o burlar la seguridad.	
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
@@ -1035,9 +1035,9 @@ Slicers used specialized computers and scramble keys, many built by the slicers 
 \columnbreak
 
 ## Trade Goods
-Trade is an essential part of the galactic economy. Many spacers make their living buying and selling goods along hyperspace routes that connect the galaxy's major worlds.
+El comercio es una parte esencial de la economía galáctica. Muchos astronautas se ganan la vida comprando y vendiendo bienes a lo largo de las rutas hiperespaciales que conectan los principales mundos de la galaxia.
 
-A merchant may be chartered by an individual or a corporation to deliver goods to a certain port, or move goods along a specified route. During times of war, opportunities abound in the shipping of ammunition and medical supplies. Some traders, seeking to earn a quick profit, may resort to smuggling illegal or restricted cargo on behalf of one of the galaxy's many crime syndicates. The Trade Goods table shows the value of commonly exchanged goods.
+Un comerciante puede ser contratado por un individuo o una corporación para entregar mercancías en un puerto determinado o para transportarlas por una ruta específica. En tiempos de guerra, las oportunidades abundan en el envío de municiones y suministros médicos. Algunos comerciantes, con el fin de obtener un beneficio rápido, pueden recurrir al contrabando de cargas ilegales o restringidas en nombre de uno de los muchos sindicatos del crimen de la galaxia. El cuadro de mercancías comerciales muestra el valor de las mercancías que se intercambian comúnmente.
 
 ##### Trade Goods
 |	Cost	|&emsp;	| Goods	|
@@ -1066,12 +1066,12 @@ A merchant may be chartered by an individual or a corporation to deliver goods t
 
 <img src='https://www.gmbinder.com/images/mZ7inBg.png' style='position:absolute;bottom:32px;right:5px;width:430px' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
-## Droids
-One common way to spend wealth is to purchase droids. Some droids are built for scouting, while others offer advanced skillsets. Protocol droids help communicate with foreign bodies, and combat droids can help supplement a budding force. The Droids table offers some choices for purchase.
+## Droides
+Una forma común de gastar la riqueza es comprar droides. Algunos droides están construidos para la exploración, mientras que otros ofrecen habilidades avanzadas. Los droides de protocolo ayudan a comunicarse con cuerpos extraños, y los droides de combate pueden ayudar a complementar una fuerza en ciernes. La tabla de droides ofrece algunas opciones de compra.
 
 |Droid Designation|Cost|
 |:--|--:|
@@ -1085,23 +1085,23 @@ One common way to spend wealth is to purchase droids. Some droids are built for 
 |HK Series Assassin Droid|212,000 cr|
 |R2 Series Astromech Droid|2,800 cr|
 
-## Mounts and Vehicles
-Mounts and vehicles are the two most common types of on-planet transport. 
+## Monturas y vehículos
+Las monturas y los vehículos son los dos tipos más comunes de transporte en el planeta. 
 
 ### Mounts
-A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal's speed and base carrying capacity.
+Una buena montura puede ayudarte a moverte más rápido por el desierto, pero su propósito principal es llevar el equipo que de otra manera te haría ir más lento. La tabla de Montañas y Otros Animales muestra la velocidad y la capacidad de carga de cada animal.
 
-An animal pulling a cart or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
+Un animal que tira de un carro o una carreta puede mover el peso hasta cinco veces su capacidad de carga base, incluido el peso del vehículo. Si varios animales tiran del mismo vehículo, pueden sumar su capacidad de carga.
 
-Mounts other than those listed here are available in the worlds of *Star Wars*, but they are rare and not normally available for purchase, like aiwhas from Kamino. Acquiring such a mount is often an adventure in-and-of itself.
+Las monturas que no están en la lista están disponibles en los mundos de *Guerra de las Galaxias*, pero son raras y normalmente no están disponibles para su compra, como la aiwhas de Kamino. Adquirir una de estas monturas es a menudo una aventura en sí misma.
 
-Mounts are governed by Animal Handling proficiency.
+Las monturas se rigen por la competencia en el manejo de animales.
 
 #### Barding
-Barding is armor designed to protect an animal's head, neck, chest, and body. Any type of armor shown on the Armor table in this chapter can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
+El bardo es una armadura diseñada para proteger la cabeza, el cuello, el pecho y el cuerpo de un animal. Cualquier tipo de armadura que se muestra en la tabla de armaduras de este capítulo puede ser comprada como bardín. El costo es cuatro veces el de una armadura equivalente hecha para humanoides, y pesa el doble.
 
 #### Saddles
-A military saddle braces the rider,<br> helping you keep your seat on an<br> active mount in battle. It gives you<br> advantage on any check you make<br> to remain mounted. An exotic sad-<br>dle is required for riding an exotic<br> mount.
+Una silla militar sujeta al jinete, ayudándole a mantener su asiento en una montura activa en la batalla. Te da <br> ventaja en cualquier chequeo que hagas <br> para permanecer montado. Para montar una exótica montura se requiere un exótico <br>dle.
 
 \columnbreak
 
@@ -1135,7 +1135,7 @@ A military saddle braces the rider,<br> helping you keep your seat on an<br> act
 |	Wagon		                |	350 cr	|	400 lb	|	
 
 ### Vehicles
-Vehicles are more common on civilized planets than animal mounts. Vehicles do not have access to barding and do not require saddles. Vehicles vary greatly based on price, speed, carrying capacity, personnel capacity, and armaments (if any). Below are some base costs for standard types of speeders.	
+Los vehículos son más comunes en los planetas civilizados que las monturas de animales. Los vehículos no tienen acceso a los bardos y no requieren de monturas. Los vehículos varían enormemente en función del precio, la velocidad, la capacidad de carga, la capacidad de personal y los armamentos (si los hay). A continuación figuran algunos costos básicos de los tipos estándar de velocímetro.	
 
 ##### Vehicles											
 |	Item	    	|	Cost	    |	Speed	|
@@ -1146,19 +1146,19 @@ Vehicles are more common on civilized planets than animal mounts. Vehicles do no
 
 <img src='https://www.gmbinder.com/images/xMlAJr5.png' style='position:absolute;bottom:-130px;right:10px;width:550px;transform:scaleX(-1)' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
-## Expenses					
-When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
+## Gastos					
+Cuando no se desciende a las profundidades de la tierra, se exploran las ruinas en busca de tesoros perdidos, o se hace la guerra contra la oscuridad invasora, los aventureros se enfrentan a realidades más mundanas. Incluso en un mundo fantástico, la gente requiere necesidades básicas como refugio, sustento y ropa. Estas cosas cuestan dinero, aunque algunos estilos de vida cuestan más que otros.
 
 ### Lifestyle Expenses					
-Lifestyle expenses provide you with a simple way to account for the cost of living in a fantasy world. They cover your accommodations, food and drink, and all your other necessities. Furthermore, expenses cover the cost of maintaining your equipment so you can be ready when adventure next calls.
+Los gastos de estilo de vida le proporcionan una forma sencilla de contabilizar el costo de la vida en un mundo de fantasía. Cubren tu alojamiento, comida y bebida, y todas tus otras necesidades. Además, los gastos cubren el costo de mantenimiento de su equipo para que pueda estar listo cuando la aventura llame.
 
-At the start of each week or month (your choice), choose a lifestyle from the Expenses table and pay the price to sustain that lifestyle. The prices listed are per day, so if you wish to calculate the cost of your chosen lifestyle over a thirty-day period, multiply the listed price by 30. Your lifestyle might change from one period to the next, based on the funds you have at your disposal, or you might maintain the same lifestyle throughout your character's career.
+Al comienzo de cada semana o mes (a su elección), elija un estilo de vida de la tabla de gastos y pague el precio para mantener ese estilo de vida. Los precios listados son por día, así que si desea calcular el costo de su estilo de vida elegido en un período de treinta días, multiplique el precio listado por 30. Su estilo de vida puede cambiar de un período a otro, en función de los fondos de que disponga, o puede mantener el mismo estilo de vida a lo largo de la carrera de su personaje.
 
-Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle might help you make contacts with the rich and powerful, though you run the risk of attracting thieves. Likewise, living frugally might help you avoid criminals, but you are unlikely to make powerful connections.
+La elección de tu estilo de vida puede tener consecuencias. Mantener un estilo de vida rico puede ayudarte a hacer contactos con los ricos y poderosos, aunque corres el riesgo de atraer a los ladrones. Del mismo modo, vivir frugalmente puede ayudarte a evitar a los criminales, pero es poco probable que hagas conexiones poderosas.
 
 ##### Lifestyle Expenses					
 |	Lifestyle		|	Price/Day	|
@@ -1171,39 +1171,39 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 |	Wealthy		|	40 cr	|
 |	Aristocratic		|	at least 100 cr 	|
 
-#### Wretched
-You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
+#### Miserable
+Vives en condiciones inhumanas. Sin un lugar al que llamar hogar, te refugias donde puedes, escabulléndote en graneros, acurrucándote en viejas cajas, y confiando en la buena voluntad de gente mejor que tú. Un estilo de vida miserable presenta abundantes peligros. La violencia, la enfermedad y el hambre te siguen dondequiera que vayas. Otros miserables codician tus armaduras, armas y equipo de aventura, que representan una fortuna para sus estándares. Estás por debajo de la atención de la mayoría de la gente.
 
 #### Squalid
-You live in a leaky stable, a mud-floored hut just outside town, or a vermin-infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and
+Vives en un establo con goteras, una cabaña con suelo de barro a las afueras de la ciudad, o una pensión infestada de bichos en la peor parte de la ciudad. Tienes refugio de los elementos, pero vives en un ambiente desesperado y a menudo violento, en lugares llenos de enfermedades, hambre y...
 
 \columnbreak
 
 <div style='margin-top:26px'></div> 
 
-misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible setback. They might be disturbed diseased.
+...desgracia. Usted está por debajo de la atención de la mayoría de la gente, y tiene pocas protecciones legales. La mayoría de la gente a este nivel de vida ha sufrido un terrible revés. Podrían estar perturbados enfermos.
 
 #### Poor
-A poor lifestyle means going without the comforts available in a stable community. Simple food and lodgings, threadbare clothing, and unpredictable conditions result in a sufficient, though probably unpleasant, experience. Your accommodations might be a room in a flophouse or in the common room above a cantina. You benefit from some legal protections, but you still have to contend with violence, crime, and disease. People at this lifestyle level tend to be unskilled laborers, peddlers, thieves, mercenaries, and other disreputable types.
+Un estilo de vida pobre significa no tener las comodidades disponibles en una comunidad estable. La comida y el alojamiento sencillos, la ropa desgastada y las condiciones impredecibles dan como resultado una experiencia suficiente, aunque probablemente desagradable. Su alojamiento puede ser una habitación en un albergue o en la sala común encima de una cantina. Usted se beneficia de algunas protecciones legales, pero aún así tiene que hacer frente a la violencia, el crimen y la enfermedad. Las personas en este nivel de vida tienden a ser obreros no calificados, vendedores ambulantes, ladrones, mercenarios y otros tipos de mala reputación.
 
-#### Modest
-A modest lifestyle keeps you out of the slums and ensures that you can maintain your equipment. You live in an older part of town, renting a room in a boarding house, inn, or temple. You don't go hungry or thirsty, and your living conditions are clean, if simple. Ordinary people living modest lifestyles include soldiers with families, laborers, students, and the like.
+#### Modesto
+Un estilo de vida modesto te mantiene fuera de los barrios bajos y asegura que puedas mantener tu equipo. Vives en una parte antigua de la ciudad, alquilando una habitación en una pensión, posada o templo. No pasas hambre ni sed, y tus condiciones de vida son limpias, aunque simples. La gente común que vive modestamente incluye soldados con familia, trabajadores, estudiantes y similares.
 
-#### Comfortable
-Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small domicile in a middle-class neighborhood or in a private room at a fine establishment. You associate with merchants, skilled tradespeople, and military officers.
+#### Cómodo
+Elegir un estilo de vida cómodo significa que puede permitirse una ropa más bonita y que puede mantener fácilmente su equipo. Vives en un pequeño domicilio en un vecindario de clase media o en una habitación privada en un establecimiento fino. Te asocias con comerciantes, comerciantes especializados y oficiales militares.
 
 #### Wealthy
-Choosing a wealthy lifestyle means living a life of luxury, though you might not have achieved the social status associated with the old money of nobility or royalty. You live a lifestyle comparable to that of a highly successful merchant, a favored servant of the royalty, or the owner of a few small businesses. You have respectable lodgings, usually a spacious home in a good part of town or a comfortable suite at a fine inn. You likely have a small staff of servants.
+Elegir un estilo de vida rico significa vivir una vida de lujo, aunque no se haya alcanzado el estatus social asociado al viejo dinero de la nobleza o la realeza. Vives un estilo de vida comparable al de un comerciante de gran éxito, un sirviente favorecido de la realeza, o el dueño de algunos pequeños negocios. Tienes alojamientos respetables, normalmente una casa espaciosa en una buena parte de la ciudad o una suite cómoda en una posada fina. Es probable que tenga una pequeña plantilla de sirvientes.
 
-#### Aristocratic
-You live a life of plenty and comfort. You move in circles populated by the most powerful people in the community. You have excellent lodgings, perhaps a townhouse in the nicest part of town or rooms in the finest inn. You dine at the best restaurants, retain the most skilled and fashionable tailor, and have servants attending to your every need. You receive invitations to the social gatherings of the rich and powerful, and spend evenings in the company of the affluent. You must also contend with the highest levels of deceit and treachery. The wealthier you are, the greater the chance you will be drawn into political intrigue as a pawn or participant.	
+#### Aristocrático
+Vives una vida de abundancia y comodidad. Te mueves en círculos poblados por la gente más poderosa de la comunidad. Tienes excelentes alojamientos, tal vez una casa en la parte más bonita de la ciudad o habitaciones en la mejor posada. Cenas en los mejores restaurantes, tienes el sastre más hábil y moderno, y tienes sirvientes que atienden todas tus necesidades. Recibe invitaciones a las reuniones sociales de los ricos y poderosos, y pasa las noches en compañía de los ricos. También debes luchar contra los más altos niveles de engaño y traición. Cuanto más rico seas, mayor será la posibilidad de que te metas en intrigas políticas como peón o participante.	
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
 
 ### Food, Drink, and Lodging					
-The Food, Drink, and Lodging table gives prices for individual food items and a single night's lodging. These prices are included in your total lifestyle expenses.
+La mesa de comida, bebida y alojamiento da los precios de los alimentos individuales y de una sola noche de alojamiento. Estos precios están incluidos en los gastos totales de su estilo de vida.
 
 ##### Food, Drink, and Lodging					
 |	Item		|	Cost	|
@@ -1236,19 +1236,19 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 |	&emsp;	Common (pitcher)|	 2 cr	|
 |	&emsp;	Fine (bottle)	|  100 cr	|
 
-> ##### Self-Sufficiency
-> The expenses and lifestyles described in this chapter assume that you are spending your time between adventures in cities, availing yourself of whatever services you can afford— paying for food and shelter, paying townspeople to repair your equipment, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
+> ##### Autosuficiencia
+> Los gastos y estilos de vida descritos en este capítulo asumen que estás pasando tu tiempo entre aventuras en las ciudades, aprovechando cualquier servicio que puedas pagar - pagar por comida y refugio, pagar a la gente del pueblo para reparar tu equipo, y así sucesivamente. Algunos personajes, sin embargo, pueden preferir pasar su tiempo lejos de la civilización, manteniéndose en la naturaleza cazando, buscando comida y reparando su propio equipo.
 > 
-> Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, as described in chapter 8, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.
+> Mantener este tipo de estilo de vida no requiere gastar ninguna moneda, pero consume mucho tiempo. Si pasas tu tiempo entre aventuras practicando una profesión, como se describe en el capítulo 8, puedes conseguir el equivalente a un estilo de vida pobre. El dominio de la habilidad de supervivencia le permite vivir el equivalente a un estilo de vida cómodo.
 
 \columnbreak
 
 ### Services
-Adventurers can pay nonplayer characters to assist them or act on their behalf in a variety of circumstances. Most such hirelings have fairly ordinary skills, while others are masters of a craft or art, and a few are experts with specialized adventuring skills.
+Los aventureros pueden pagar a personajes no jugadores para que les ayuden o actúen en su nombre en una variedad de circunstancias. La mayoría de esos asalariados tienen habilidades bastante ordinarias, mientras que otros son maestros de un oficio o arte, y unos pocos son expertos con habilidades aventureras especializadas.
 
-Some of the most basic types of hirelings appear on the Services table. Other common hirelings include any of the wide variety of people who inhabit a typical town or city, when the adventurers pay them to perform a specific task. For example, a fighter might commission an armstech to craft a special vibroblade, while a scholar might pay a tailor to make exquisite clothing for an upcoming meeting with a senator. 
+Algunos de los tipos más básicos de contratados aparecen en la tabla de Servicios. Otros asalariados comunes incluyen a cualquiera de la amplia variedad de personas que habitan en un pueblo o ciudad típica, cuando los aventureros les pagan para realizar una tarea específica. Por ejemplo, un luchador puede encargar a un técnico en armamento la fabricación de una vibroblade especial, mientras que un erudito puede pagar a un sastre para que haga ropa exquisita para una próxima reunión con un senador. 
 
-Other hirelings provide more expert or dangerous services. Mercenary soldiers paid to help the adventurers take on a trandoshan army are hirelings, as are sages hired to research ancient or esoteric lore. If a high-level adventurer establishes a stronghold of some kind, he or she might hire a whole staff of servants and agents to run the place, from a castellan or steward to menial laborers to keep the facilities clean. These hirelings often enjoy a long-term contract that includes a place to live within the stronghold as part of the offered compensation.
+Otros asalariados proporcionan servicios más expertos o peligrosos. Los soldados mercenarios pagados para ayudar a los aventureros a enfrentarse a un ejército trandoshan son mercenarios, así como los sabios contratados para investigar las tradiciones antiguas o esotéricas. Si un aventurero de alto nivel establece una fortaleza de algún tipo, puede contratar a todo un equipo de sirvientes y agentes para dirigir el lugar, desde un castellano o un mayordomo hasta trabajadores serviles para mantener las instalaciones limpias. Estos contratados a menudo disfrutan de un contrato a largo plazo que incluye un lugar para vivir dentro de la fortaleza como parte de la compensación ofrecida.
 
 ##### Services
 |	Service		|	Cost	|
@@ -1265,6 +1265,6 @@ Other hirelings provide more expert or dangerous services. Mercenary soldiers pa
 
 <img src='https://www.gmbinder.com/images/9zusebj.png' style='position:absolute;bottom:21px;right:3px;width:425px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 5 | EQUIPMENT</div>
+<div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
 \pagebreakNum
