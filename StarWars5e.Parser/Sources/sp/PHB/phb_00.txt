@@ -1,50 +1,51 @@
 
 
-# Introduction
+# Introducción
+
 
 <img src='https://www.gmbinder.com/images/PqYzVdr.png' style='position:absolute;top:90px;left:75px;width:29px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">he Dungeons and Dragons roleplaying game is about</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; storytelling in worlds of swords and sorcery. It shares elements with childhood games of make-believe. Like those games, D&D is driven by imagination. It's about picturing the towering castle beneath the stormy night sky and imagining how a fantasy adventurer might react to the challenges that scene presents.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">el juego de rol Calabozos y Dragones se trata about</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; narración de historias en mundos de espadas y hechicería. Comparte elementos con los juegos infantiles de fantasía. Como esos juegos, el D&D es impulsado por la imaginación. Se trata de imaginar el imponente castillo bajo el tormentoso cielo nocturno e imaginar cómo un aventurero de fantasía podría reaccionar a los desafíos que presenta esa escena.
 
-This overhaul is designed as a *Star Wars* reskinning of the core <span style="font-variant: small-caps">Dungeons and Dragons</span> experience. The rules are generally the same, and so an experienced player of 5th Edition should have no trouble jumping right in to a *Star Wars* themed campaign. For the less experienced player, this Introduction will cover the basics of the 5th Edition of <span style="font-variant: small-caps">Dungeons and Dragons</span>, appropriately reskinned for the setting.
+Esta revisión está diseñada como una experiencia de *Guerra de las Galaxias* reskinning del núcleo <span style="font-variant: small-caps">Mazmorras y Dragones</span>. Las reglas son generalmente las mismas, por lo que un jugador experimentado de la 5ª edición no debería tener problemas para saltar directamente a una campaña temática de *Guerra de las Galaxias*. Para el jugador menos experimentado, esta Introducción cubrirá los fundamentos de la 5ª Edición de <span style="font-variant: small-caps">Mazmorras y Dragones</span>, debidamente resintonizados para el escenario.
 
 <div class='descriptive'>
 
 <br>
 
-**Game Master (GM):** After traveling the streets of Nar Shaddaa, you find yourself at the entrance to the Black Sun compound. Security cameras scan the surrounding area, and a cadre of bored looking guardsmen wait impatiently by the door. Two twi'lek urchins plead for handouts from the Black Sun mercenaries, only to be yelled at and pushed away. A shimmering barrier covers the entrance to the compound, with a manned security console on its left side.
+**Game Master (GM):** Después de viajar por las calles de Nar Shaddaa, te encuentras en la entrada del complejo del Sol Negro. Las cámaras de seguridad escudriñan los alrededores, y un grupo de guardias aburridos esperan impacientes en la puerta. Dos erizos twi'lek piden limosna a los mercenarios del Sol Negro, sólo para ser gritados y empujados. Una brillante barrera cubre la entrada del complejo, con una consola de seguridad tripulada a la izquierda.
 
-**Rickey (playing Vinto):** I want to talk my way into the compound. I approach the guards.
+**Rickey (jugando al Vinto):** Quiero hablar para entrar en el recinto. Me acerco a los guardias.
 
-**Drew (playing Dash):** I want to throw a grenade and then shoot them all.
+**Drew (jugando a Dash):** Quiero lanzar una granada y luego dispararles a todos.
 
-**Erik (playing Kodo):** ...
+**Erik (jugando al Kodo):** ...
 
 </div>
 
-Unlike a game of make-believe, D&D gives structure to the stories, a way of determining the consequences of the adventurers' action. Players roll dice to resolve whether their attacks hit or miss or whether their adventurers can scale a cliff, roll away from the strike
+A diferencia de un juego de fantasía, D&D da estructura a las historias, una forma de determinar las consecuencias de la acción de los aventureros. Los jugadores tiran los dados para resolver si sus ataques golpean o fallan o si sus aventureros pueden escalar un acantilado, tirar lejos del golpe
 
 <div class='descriptive'>
 
 <br>
 
-**Game Master (GM):** OK, one at a time. Rickey, you're approaching the guardsmen?
+**Game Master (GM):** OK, uno a la vez. Rickey, ¿te acercas a los guardias?
 
-**Rickey:** Yeah. Do they seem to be doing anything?
+**Rickey:** Sí. ¿Parece que están haciendo algo?
 
-**GM:** Make a Wisdom check.
+**GM:** Haz una comprobación de la sabiduría.
 
-**Rickey:** Does my Perception skill apply?
+**Rickey:** ¿Se aplica mi habilidad de percepción?
 
-**GM:** Sure!
+**GM:** ¡Claro!
 
-**Rickey (rolling a d20):** Ugh. Seven.
+**Rickey (rodando un d20):** Ugh. Siete.
 
-**GM:** You can see a couple of them crouching over the ground but you can't make out what they're doing. And Drew, Dash is prepping a grenade?
+**Puedes ver a un par de ellos agazapados en el suelo pero no puedes ver lo que están haciendo. Y Drew, ¿Dash está preparando una granada?
 
-**Drew:** Yup!
+**Drew:** ¡Sip!
 
-**GM:** Okay. Eric, what's Kodo doing?
+**GM:** De acuerdo. Eric, ¿qué está haciendo Kodo?
 
 **Eric:** ...
 
@@ -52,143 +53,143 @@ Unlike a game of make-believe, D&D gives structure to the stories, a way of dete
 
 \columnbreak
 
-of a Force-wielder's shock, or pull off some other dangerous task. Anything is possible, but the dice make some outcomes more probable than others.
+de la conmoción de un forzudo, o realizar alguna otra tarea peligrosa. Todo es posible, pero los dados hacen que algunos resultados sean más probables que otros.
 
-In the *Star Wars* <span style="font-variant: small-caps">Dungeons and Dragons</span> game, each player creates an adventurer (also called a character) and teams up with other adventurers (played by friends). Working together, the group might explore a planet-encompassing city like Coruscant, the wilds of Kashyyyk, or the war-torn expanse of Oricon. The adventurers can solve puzzles, talk with other characters, battle the legendary Jedi or Sith, and discover special modified items and other treasure.
+En el juego *Star Wars* <span style="font-variant: small-caps">Mazmorras y Dragones</span>, cada jugador crea un aventurero (también llamado personaje) y se une a otros aventureros (jugados por amigos). Trabajando juntos, el grupo puede explorar una ciudad que abarca todo el planeta como Coruscant, las tierras salvajes de Kashyyyk o la extensión de Oricon, devastada por la guerra. Los aventureros pueden resolver rompecabezas, hablar con otros personajes, luchar contra los legendarios Jedi o Sith, y descubrir objetos especiales modificados y otros tesoros.
 
-One player, however, takes on the role of the Game Master (GM), the game's lead storyteller and referee. The GM creates adventures for the characters, who navigate its hazards and decide which paths to explore. The GM might describe the entrance to a Black Sun commpound, and the players decide what they want their adventurers to do. Will they charge in, guns blazing? Convince the guardsmen they belong there? Or use other means to find an entrance?
+Un jugador, sin embargo, asume el papel de Game Master (GM), el narrador y árbitro principal del juego. El GM crea aventuras para los personajes, que navegan por sus peligros y deciden qué caminos explorar. El GM puede describir la entrada a un complejo de Sol Negro, y los jugadores deciden lo que quieren que hagan sus aventureros. ¿Correrán a la carga, con las armas ardiendo? ¿Convencerán a los guardias de que pertenecen allí? ¿O usarán otros medios para encontrar una entrada?
 
-Then the GM determines the results of the adventurers' actions and narrates what they experience. Because the GM can improvise to react to anything the players attempt, D&D is infinitely flexible, and each adventure can be exciting and unexpected.
+Luego el GM determina los resultados de las acciones de los aventureros y narra lo que experimentan. Debido a que el GM puede improvisar para reaccionar a cualquier cosa que los jugadores intenten, el D&D es infinitamente flexible, y cada aventura puede ser emocionante e inesperada.
 
-The game has no real end; when one story or quest wraps up, another one can begin, creating an ongoing story called a **campaign**. Many people who play the game keep their campaigns going for months or years, meeting with their friends every week or so to pick up the story where they left off. The adventurers grow in might as the campaign continues. Each force defeated, each adventure completed, and each relic recovered not only adds to the continuing story, but also earns the adventurers new capabilities. This increase in power is reflected by an adventurer's level.
+El juego no tiene un final real; cuando una historia o una búsqueda termina, otra puede comenzar, creando una historia continua llamada **campaña**. Muchas personas que juegan el juego mantienen sus campañas durante meses o años, reuniéndose con sus amigos cada semana o así para retomar la historia donde la dejaron. Los aventureros crecen en fuerza a medida que la campaña continúa. Cada fuerza derrotada, cada aventura completada, y cada reliquia recuperada no sólo se añade a la historia continua, sino que también gana a los aventureros nuevas capacidades. Este aumento de poder se refleja en el nivel de los aventureros.
 
-There's no winning and losing in *any* <span style="font-variant: small-caps">Dungeons and Dragons</span> game—at least, not the way those terms are usually understood. Together, the GM and the players create an exciting story of bold adventurers who confront deadly perils. Sometimes an adventurer might come to a grisly end, torn apart by ferocious monsters or done in by a nefarious villain. Even so, the other adventurers can beseech a powerful Jedi to revive their fallen comrade, or the player might choose to create a new character to carry on. The group might fail to complete an adventure successfully, but if everyone had a good time and created a memorable story, they all win.
+No hay victoria ni derrota en el juego de *any* <span style="font-variant: small-caps">Mazmorras y Dragones</span>, al menos no de la forma en que esos términos se entienden normalmente. Juntos, el GM y los jugadores crean una emocionante historia de aventureros audaces que se enfrentan a peligros mortales. A veces un aventurero puede llegar a un final espeluznante, despedazado por feroces monstruos o acabado por un villano nefasto. Aún así, los otros aventureros pueden suplicar a un poderoso Jedi que reviva a su camarada caído, o el jugador puede elegir crear un nuevo personaje para continuar. El grupo puede fracasar en completar una aventura con éxito, pero si todos se divierten y crean una historia memorable, todos ganan.
 
-## Worlds of Adventure
-The many worlds of the *Star Wars* <span style="font-variant: small-caps">Dungeons and Dragons</span> game are places of mysticism and monsters, of brave warriors and spectacular adventures. They begin with a foundation of science fiction and fantasy and then add the creatures, places, and mystery that make these worlds unique.
+## Mundos de Aventura
+Los muchos mundos del juego *Star Wars* <span style="font-variant: small-caps">Mazmorras y Dragones</span> son lugares de misticismo y monstruos, de guerreros valientes y aventuras espectaculares. Comienzan con una base de ciencia ficción y fantasía y luego añaden las criaturas, los lugares y el misterio que hacen que estos mundos sean únicos.
 
-<div class='footnote'>INTRODUCTION</div>
+<div class='footnote'>INTRODUCCIÓN</div>
 
 \pagebreakNum
 
-Naturally, this conversion is designed to explore the myriad worlds of the *Star Wars* universe. I personally designed it to be used in the Old Republic era as characterized by the **Knights of the Old Republic** games and **The Old Republic** MMORPG. Utilizing this timeframe allows greater justification for a prevalence of force-wielders.
+Naturalmente, esta conversión está diseñada para explorar la miríada de mundos del universo de *Star Wars*. Yo personalmente lo diseñé para ser usado en la era de la Antigua República, caracterizada por los juegos de **Knights of the Old Republic** y **The Old Republic** MMORPG. La utilización de este marco de tiempo permite una mayor justificación para el predominio de los que ejercen la fuerza.
 
-All these worlds share characteristics, but each world is set apart by its own history and cultures, distinctive monsters and species, fantastic geography, ancient ruins, and scheming villains. Some worlds are dominated by one great story, like the Separatists' war on Ord Mantell. Ultimately they're all *Star Wars* worlds, and you can use the rules in this book to create a character and play in any one of them.
+Todos estos mundos comparten características, pero cada mundo se distingue por su propia historia y culturas, monstruos y especies distintivas, geografía fantástica, ruinas antiguas y villanos intrigantes. Algunos mundos están dominados por una gran historia, como la guerra de los separatistas contra Ord Mantell. En última instancia, todos son mundos de *Guerra de las Galaxias*, y puedes usar las reglas de este libro para crear un personaje y jugar en cualquiera de ellos.
 
-Your GM might set the campaign on one of these worlds or on one that he or she created. Because there is so much diversity among the worlds of *Star Wars*, you should check with your GM about any house rules that will affect your play of the game. Ultimately, the Game Master is the authority on the campaign and its setting, even if the setting is a canon world.
+Su director general podría poner la campaña en uno de estos mundos o en uno que él o ella haya creado. Debido a que hay tanta diversidad entre los mundos de *Star Wars*, deberías consultar con tu GM sobre cualquier regla interna que afecte a tu juego. En última instancia, el Game Master es la autoridad en la campaña y su entorno, incluso si el entorno es un mundo canónico.
 
-## Using This Book
-The *Player's Handbook* is divided into twelve chapters.
+## Usando este libro
+El *Manual del Jugador* está dividido en doce capítulos.
 
-**Chapters 1-6** are about creating a character, providing the rules and guidance you need to make the character you'll play in the game. It includes information on the various species, classes, backgrounds, equipment, and other customization options that you can choose from. Many of the rules in these chapters rely on material found later in the book. If you come across a game concept that you don't understand, consult the book's table of contents. 
+**Los capítulos 1-6** tratan sobre la creación de un personaje, proporcionando las reglas y la guía que necesitas para hacer el personaje que jugarás en el juego. Incluye información sobre las diversas especies, clases, fondos, equipo y otras opciones de personalización que puedes elegir. Muchas de las reglas de estos capítulos se basan en material que se encuentra más adelante en el libro. Si te encuentras con un concepto de juego que no entiendes, consulta la tabla de contenidos del libro. 
 
-**Chapters 7-9** details the rules of how to play the game, beyond the basics described in this introduction. It covers the kinds of die rolls you make to determine success or failure at the tasks your character attempts, and describes the three broad categories of activity in the game: exploration, interaction, and combat.
+**Capítulos 7-9** detalla las reglas de cómo jugar el juego, más allá de lo básico descrito en esta introducción. Cubre los tipos de tiradas que haces para determinar el éxito o el fracaso en las tareas que tu personaje intenta, y describe las tres grandes categorías de actividad en el juego: exploración, interacción y combate.
 
-**Chapters 10-12** is all about the Force and technology. It covers the nature of casting in the worlds of *Star Wars*, the rules for them, and the huge variety of powers available to characters in the game.
+**Capítulos 10-12** es todo sobre la Fuerza y la tecnología. Cubre la naturaleza del casting en los mundos de *Star Wars*, las reglas para ellos, y la enorme variedad de poderes disponibles para los personajes del juego.
 
 ## How to Play
-The play of the <span style="font-variant: small-caps">Dungeons and Dragons</span> game unfolds according to this basic pattern.
+El juego de las <span style="font-variant: small-caps">Mazmorras y Dragones</span> se desarrolla según este patrón básico.
 
-**1. The GM describes the environment.** The GM tells the players where their adventurers are and what's around them, presenting the basic scope of options that present themselves (how many doors lead out of a room, what's on a table, who's in the cantina, and so on).
+**1. El GM describe el entorno.** El GM le dice a los jugadores dónde están sus aventureros y lo que les rodea, presentando el alcance básico de las opciones que se presentan (cuántas puertas salen de una habitación, qué hay en una mesa, quién está en la cantina, y así sucesivamente).
 
-**2. The players describe what they want to do.** Sometimes one player speaks for the whole party, saying, "We'll take the east door," for example. Other times, different adventurers do different things: one adventurer might search a container while a second examines a symbol engraved on a wall and a third keeps watch for enemies. The players don't need to take turns, but the GM listens to every player and decides how to resolve those actions.
+**2. Los jugadores describen lo que quieren hacer.** A veces un jugador habla en nombre de todo el partido, diciendo, "Tomaremos la puerta este", por ejemplo. Otras veces, diferentes aventureros hacen cosas diferentes: un aventurero puede buscar un contenedor mientras que un segundo examina un símbolo grabado en una pared y un tercero vigila a los enemigos. Los jugadores no necesitan tomar turnos, pero el GM escucha a cada jugador y decide cómo resolver esas acciones.
 
 \columnbreak
 
-Sometimes, resolving a task is easy. If an adventurer wants to walk across a room and open a door, the GM might just say that the door opens and describe what lies beyond. But the door might be locked, the floor might hide a deadly trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the GM decides what happens, often relying on the roll of a die to determine the results of an action.
+A veces, resolver una tarea es fácil. Si un aventurero quiere atravesar una habitación y abrir una puerta, el GM podría decir que la puerta se abre y describir lo que hay más allá. Pero la puerta podría estar cerrada, el suelo podría esconder una trampa mortal, o alguna otra circunstancia podría hacer difícil para un aventurero completar una tarea. En esos casos, el GM decide lo que sucede, a menudo confiando en la tirada de un dado para determinar los resultados de una acción.
 
-**3. The GM narrates the results of the adventurers' actions.** Describing the results often leads to another decision point, which brings the flow of the game right back to step 1.
+**3. El GM narra los resultados de las acciones de los aventureros.** Describir los resultados a menudo lleva a otro punto de decisión, lo que devuelve el flujo del juego al paso 1.
 
-This pattern holds whether the adventurers are cautiously exploring a ruin, talking to a devious noble, or locked in mortal combat against a mighty rancor. In certain situations, particularly combat, the action is more structured and the players (and GM) do take turns choosing and resolving actions. But most of the time, play is fluid and flexible, adapting to the circumstances of the adventure.
+Este patrón se mantiene tanto si los aventureros están explorando cautelosamente una ruina, hablando con un noble retorcido, o encerrados en un combate mortal contra un poderoso rencor. En ciertas situaciones, particularmente en el combate, la acción es más estructurada y los jugadores (y GM) se turnan para elegir y resolver las acciones. Pero la mayoría de las veces, el juego es fluido y flexible, adaptándose a las circunstancias de la aventura.
 
-Often the action of an adventure takes place in the imagination of the players and GM, relying on the GM's verbal descriptions to set the scene. Some GMs like to use music, art, or recorded sound effects to help set the mood, and many players and GMs alike adopt different voices for the various adventurers, monsters, and other characters they play in the game. Sometimes, a GM might lay out a map and use tokens or miniature figures to represent each creature involved in a scene to help the players keep track of where everyone is.
+A menudo la acción de una aventura tiene lugar en la imaginación de los jugadores y del GM, confiando en las descripciones verbales del GM para establecer la escena. A algunos GM les gusta utilizar música, arte o efectos de sonido grabados para ayudar a establecer el ambiente, y muchos jugadores y GM adoptan diferentes voces para los diversos aventureros, monstruos y otros personajes que juegan en el juego. A veces, un GM puede trazar un mapa y utilizar fichas o figuras en miniatura para representar a cada criatura involucrada en una escena para ayudar a los jugadores a seguir la pista de dónde está cada uno.
 
 ### Game Dice
-The game uses polyhedral dice with different numbers of sides. You can find dice like these in game stores and in many bookstores.
+El juego utiliza dados poliédricos con diferentes números de lados. Puedes encontrar dados como estos en tiendas de juegos y en muchas librerías.
 
-In these rules, the different dice are referred to by the letter d followed by the number of sides: d4, d6, d8, d 10, d12, and d20. For instance, a d6 is a six-sided die (the typical cube that many games use).
+En estas reglas, los diferentes dados se mencionan con la letra d seguida del número de lados: d4, d6, d8, d 10, d12 y d20. Por ejemplo, un d6 es un dado de seis caras (el típico cubo que muchos juegos utilizan).
 
-Percentile dice, or d100, work a little differently. You generate a number between 1 and 100 by rolling two different ten-sided dice numbered from 0 to 9. One die (designated before you roll) gives the tens digit, and the other gives the ones digit. If you roll a 7 and a 1, for example, the number rolled is 71. Two 0s represent 100. Some ten-sided dice are numbered in tens (00, 10, 20, and so on), making it easier to distinguish the tens digit from the ones digit. In this case, a roll of 70 and 1 is 71, and 00 and 0 is 100.
+Los dados percentiles, o d100, funcionan de forma un poco diferente. Se genera un número entre el 1 y el 100 tirando dos dados de diez caras diferentes numerados del 0 al 9. Un dado (designado antes de tirar) da el dígito de las decenas, y el otro da el dígito de las unidades. Si tiras un 7 y un 1, por ejemplo, el número obtenido es 71. Dos ceros representan el 100. Algunos dados de diez caras están numerados en decenas (00, 10, 20, y así sucesivamente), lo que facilita la distinción del dígito de las decenas del dígito de las unidades. En este caso, una tirada de 70 y 1 es 71, y 00 y 0 es 100.
 
-When you need to roll dice, the rules tell you how many dice to roll of a certain type, as well as what modifiers to add. For example, "3d8 + 5" means you roll three eight-sided dice, add them together, and add 5 to the total.
+Cuando necesitas tirar los dados, las reglas te dicen cuántos dados tirar de un determinado tipo, así como qué modificadores añadir. Por ejemplo, "3d8 + 5" significa que tiras tres dados de ocho caras, los sumas y sumas 5 al total.
 
-The same d notation appears in the expressions "1d3" and "1d2." To simulate the roll of 1d3, roll a d6 and divide the number rolled by 2 (round up). To simulate the roll of 1d2, roll any die and assign a 1 or 2 to the roll depending on whether it was odd or even. (Alternatively, if the number rolled is more than half the number of sides on the die, it's a 2.)
+La misma notación d aparece en las expresiones "1d3" y "1d2". Para simular el rollo de 1d3, ruede un d6 y divida el número rodado por 2 (redondee hacia arriba). Para simular la tirada de 1d2, tira cualquier dado y asigna un 1 o un 2 a la tirada según sea par o impar. (Alternativamente, si el número rodado es más de la mitad del número de lados del dado, es un 2).
 
-<div class='footnote'>INTRODUCTION</div>
+<div class='footnote'>INTRODUCCIÓN</div>
 
 \pagebreakNum
 
 ### The D20
-Does an adventurer's vibroblade swing hurt a rancor or just bounce off its leathery hide? Will the guard believe an outrageous bluff? Can a character swim across a raging river? Can a character avoid the main blast of a Sith's *force storm*, or does he or she take full damage from the tempest? In cases where the outcome of an action is uncertain, the <span style="font-variant: small-caps">Dungeons and Dragons</span> game relies on rolls of a 20-sided die, a d20, to determine success or failure. 
+¿El columpio de un aventurero con vibroblas duele un rencor o sólo rebota en su piel curtida? ¿Creerá el guardia un escandaloso farol? ¿Puede un personaje nadar a través de un río embravecido? ¿Puede un personaje evitar el estallido principal de una *tormenta de fuerza* Sith, o recibe todo el daño de la tormenta? En los casos en que el resultado de una acción es incierto, el juego <span style="font-variant: small-caps">Mazmorras y Dragones</span> se basa en tiradas de un dado de 20 caras, un d20, para determinar el éxito o el fracaso. 
 
-Every character and monster in the game has capabilities defined by six **ability scores**. The abilities are Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma, and they typically range from 3 to 18 for most adventurers. (Monsters might have scores as low as 1 or as high as 30.) These ability scores, and the **ability modifiers** derived from them, are the basis for almost every d20 roll that a player makes on a character's or monster's behalf.
+Cada personaje y monstruo del juego tiene capacidades definidas por seis **puntuaciones de capacidad**. Las habilidades son Fuerza, Destreza, Constitución, Inteligencia, Sabiduría y Carisma, y normalmente van de 3 a 18 para la mayoría de los aventureros. (Los monstruos pueden tener puntuaciones tan bajas como 1 o tan altas como 30.) Estas puntuaciones de habilidad, y los **modificadores de habilidad** derivados de ellas, son la base de casi todas las tiradas de d20 que un jugador hace en nombre de un personaje o de un monstruo.
 
-Ability checks, attack rolls, and saving throws are the three main kinds of d20 rolls, forming the core of the rules of the game. All three follow these simple steps.
+Los chequeos de habilidad, las tiradas de ataque y las tiradas de salvamento son los tres tipos principales de tiradas de d20, formando el núcleo de las reglas del juego. Los tres siguen estos simples pasos.
 
-**1. Roll the die and add a modifier.** Roll a d20 and add the relevant modifier. This is typically the modifier derived from one of the six ability scores, and it sometimes includes a proficiency bonus to reflect a character's particular skill. (See chapter 1 for details on each ability and how to determine an ability's modifier.)
+**1. Lanza el dado y añade un modificador.** Lanza un d20 y añade el modificador correspondiente. Este es típicamente el modificador derivado de una de las seis puntuaciones de habilidad, y a veces incluye un bono de habilidad para reflejar la habilidad particular de un personaje. (Véase el capítulo 1 para obtener detalles sobre cada habilidad y cómo determinar el modificador de una habilidad).
 
-**2. Apply circumstantial bonuses and penalties.** A class feature, a power, a particular circumstance, or some other effect might give a bonus or penalty to the check.
+**2. Aplicar bonificaciones y penalizaciones circunstanciales.** Una característica de la clase, un poder, una circunstancia particular, o algún otro efecto podría dar una bonificación o penalización al cheque.
 
-**3. Compare the total to a target number.** If the total equals or exceeds the target number, the ability check, attack roll, or saving throw is a success. Otherwise, it's a failure. The GM is usually the one who determines target numbers and tells players whether their ability checks, attack rolls, and saving throws succeed or fail.
+**3. Compara el total con un número de objetivo.** Si el total es igual o superior al número de objetivo, el chequeo de habilidad, la tirada de ataque o el lanzamiento de salvamento es un éxito. De lo contrario, es un fracaso. El GM suele ser el que determina los números objetivo y le dice a los jugadores si sus chequeos de habilidad, tiradas de ataque y lanzamientos de salvamento tienen éxito o no.
 
-The target number for an ability check or a saving throw is called a **Difficulty Class** (DC). The target number for an attack roll is called an **Armor Class** (AC).
+El número de objetivo para un chequeo de habilidad o un tiro de salvamento se llama **Clase de Dificultad** (DC). El número de objetivo para una tirada de ataque se llama una **Clase de Armadura** (AC).
 
-Chapter 7 provides more detailed rules for using the d20 in the game.
+El capítulo 7 proporciona reglas más detalladas para usar el d20 en el juego.
 
-### Advantage and Disadvantage
-Sometimes an ability check, attack roll, or saving throw is modified by special situations called **advantage** and **disadvantage**. Advantage reflects the positive circumstances surrounding a d20 roll, while disadvantage reflects the opposite. When you have either advantage or disadvantage, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17. More detailed rules for advantage and disadvantage are presented in chapter 7. This simple rule governs the resolution of most tasks in D&D play. 
+### Ventaja y desventaja
+A veces un chequeo de habilidad, una tirada de ataque o un tiro de salvamento se modifica por situaciones especiales llamadas **ventaja** y **desventaja**. La ventaja refleja las circunstancias positivas que rodean a una tirada de d20, mientras que la desventaja refleja lo contrario. Cuando tienes una ventaja o una desventaja, tiras un segundo d20 cuando haces la tirada. Usa la mayor de las dos tiradas si tienes ventaja, y usa la menor si tienes desventaja. Por ejemplo, si tienes desventaja y sacas un 17 y un 5, usas el 5. Si en cambio tienes ventaja y sacas esos números, usas el 17. En el capítulo 7 se presentan reglas más detalladas para la ventaja y la desventaja. Esta simple regla rige la resolución de la mayoría de las tareas en el juego de D&D. 
 
 \columnbreak
 
 ### Specific Beats General
-This book contains rules, especially in parts 2 and 3, that govern how the game plays. That said, many special traits, class features, powers, unique items, monster abilities, and other game elements break the general rules in some way, creating an exception to how the rest of the game works. Remember this: If a specific rule contradicts a general rule, the specific rule wins.
+Este libro contiene reglas, especialmente en las partes 2 y 3, que rigen el juego. Dicho esto, muchos rasgos especiales, características de clase, poderes, objetos únicos, habilidades de monstruos y otros elementos del juego rompen las reglas generales de alguna manera, creando una excepción a cómo funciona el resto del juego. Recuerda esto: Si una regla específica contradice una regla general, la regla específica gana.
 
-Exceptions to the rules are often minor. For instance, many adventurers don't have proficiency with sniper rifles, but every Chiss does because of a special trait. That trait creates a minor exception in the game. Other examples of rule-breaking are more conspicuous. For instance, an adventurer can't normally leap 30 feet, but some powers make that possible. The Force and technology account for most of the major exceptions to the rules.
+Las excepciones a las reglas suelen ser menores. Por ejemplo, muchos aventureros no tienen habilidad con los rifles de francotirador, pero todos los Chiss la tienen por un rasgo especial. Ese rasgo crea una pequeña excepción en el juego. Otros ejemplos de rompimiento de reglas son más conspicuos. Por ejemplo, un aventurero no puede saltar normalmente 30 pies, pero algunos poderes lo hacen posible. La Fuerza y la tecnología representan la mayoría de las principales excepciones a las reglas.
 
 ### Round Down
-There's one more general rule you need to know at the outset. Whenever you divide a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater, unless the feature says otherwise.
+Hay una regla general más que debes saber desde el principio. Siempre que dividas un número en el juego, redondea hacia abajo si terminas con una fracción, incluso si la fracción es la mitad o más, a menos que la característica diga lo contrario.
 
-## Adventures
-The <span style="font-variant: small-caps">Dungeons and Dragons</span> game consists of a group of characters embarking on an adventure that the Game Master presents to them. Each character brings particular capabilities to the adventure in the form of ability scores and skills, class features, special traits, equipment, and special items. Every character is different, with various strengths and weaknesses, so the best party of adventurers is one in which the characters complement each other and cover the weaknesses of their companions. The adventurers must cooperate to successfully complete the adventure.
+## Aventuras
+El juego <span style="font-variant: small-caps">Mazmorras y Dragones</span> consiste en un grupo de personajes que se embarcan en una aventura que el Game Master les presenta. Cada personaje aporta capacidades particulares a la aventura en forma de puntuaciones de habilidad y destrezas, características de clase, rasgos especiales, equipamiento y objetos especiales. Cada personaje es diferente, con varios puntos fuertes y débiles, por lo que el mejor grupo de aventureros es aquel en el que los personajes se complementan entre sí y cubren las debilidades de sus compañeros. Los aventureros deben cooperar para completar con éxito la aventura.
 
-The adventure is the heart of the game, a story with a beginning, a middle, and an end. An adventure might be created by the Game Master or purchased off the shelf, tweaked and modified to suit the GM's needs and desires. In either case, an adventure features a wonderous setting, whether it's an underground enclave, a crumbling temple, a stretch of wilderness, or a bustling city. It features a rich cast of characters: the adventurers created and played by the other players at the table, as well as nonplayer characters (NPCs). Those characters might be patrons, allies, enemies, hirelings, or just background extras in an adventure. Often, one of the NPCs is a villain whose agenda drives much of an adventure's action.
+La aventura es el corazón del juego, una historia con un principio, un medio y un final. Una aventura puede ser creada por el Game Master o comprada en la estantería, ajustada y modificada para satisfacer las necesidades y deseos del GM. En cualquier caso, una aventura presenta un escenario maravilloso, ya sea un enclave subterráneo, un templo que se desmorona, un tramo de desierto o una ciudad bulliciosa. Cuenta con un rico elenco de personajes: los aventureros creados y jugados por los otros jugadores de la mesa, así como los personajes no jugadores (PNJ). Estos personajes pueden ser patrocinadores, aliados, enemigos, asalariados o simplemente extras de fondo en una aventura. A menudo, uno de los PNJ es un villano cuya agenda impulsa gran parte de la acción de una aventura.
 
-<div class='footnote'>INTRODUCTION</div>
+<div class='footnote'>INTRODUCCIÓN</div>
 
 \pagebreakNum
 
 <div style='margin-top:23px'></div>
 
-Over the course of their adventures, the characters are confronted by a variety of creatures, objects, and situations that they must deal with in some way. Sometimes the adventurers and other creatures do their best to kill or capture each other in combat. At other times, the adventurers talk to another creature (or even a mystical object) with a goal in mind. And often, the adventurers spend time trying to solve a puzzle, bypass an obstacle, find something hidden, or unravel the current situation. Meanwhile, the adventurers explore the world, making decisions about which way to travel and what they'll try to do next.
+En el curso de sus aventuras, los personajes se enfrentan a una gran variedad de criaturas, objetos y situaciones que deben afrontar de alguna manera. A veces los aventureros y otras criaturas hacen lo posible por matarse o capturarse en combate. Otras veces, los aventureros hablan con otra criatura (o incluso con un objeto místico) con un objetivo en mente. Y a menudo, los aventureros pasan el tiempo tratando de resolver un rompecabezas, sortear un obstáculo, encontrar algo escondido o desentrañar la situación actual. Mientras tanto, los aventureros exploran el mundo, tomando decisiones sobre el camino a seguir y lo que intentarán hacer a continuación.
 
-Adventures vary in length and complexity. A short adventure might present only a few challenges, and it might take no more than a single game session to complete. A long adventure can involve hundreds of combats, interactions, and other challenges, and take dozens of sessions to play through, stretching over weeks or months of real time. Usually, the end of an adventure is marked by the adventurers heading back to safety to rest and enjoy the spoils of their labors.
+Las aventuras varían en duración y complejidad. Una aventura corta puede presentar sólo unos pocos desafíos, y no puede tomar más de una sola sesión de juego para completarla. Una aventura larga puede implicar cientos de combates, interacciones y otros desafíos, y tomar docenas de sesiones de juego, que se extienden durante semanas o meses de tiempo real. Por lo general, el final de una aventura está marcado por el regreso de los aventureros a la seguridad para descansar y disfrutar del botín de sus labores.
 
-But that's not the end of the story. You can think of an adventure as a single episode of a TV series, made up of multiple exciting scenes. A campaign is the whole series—a string of adventures joined together, with a consistent group of adventurers following the narrative from start to finish.
+Pero ese no es el final de la historia. Puedes pensar en una aventura como un solo episodio de una serie de televisión, compuesto de múltiples escenas emocionantes. Una campaña es toda la serie, una cadena de aventuras unidas, con un grupo consistente de aventureros siguiendo la narración de principio a fin.
 
 ### The Force and Technology
-Few *Star Wars* adventures end without interacting with a force- or tech-caster. Whether helpful or harmful, powers appear frequently in the life of an adventurer, and it is the focus of chapters 10 and 11.
+Pocas aventuras de la Guerra de las Galaxias terminan sin interactuar con una fuerza o tecnología. Ya sea útil o dañino, los poderes aparecen frecuentemente en la vida de un aventurero, y es el foco de los capítulos 10 y 11.
 
-In the worlds of *Star Wars*, practitioners of the Force are uncommon, set apart from the masses of people by their extraordinary talent. 
+En los mundos de la *Guerra de las Galaxias*, los practicantes de la Fuerza son poco comunes, separados de las masas de gente por su extraordinario talento. 
 
-For adventurers, though, the Force and technology are key to their survival. Without the healing prowess of a Jedi or a sawbones, adventurers would quickly succumb to their wounds. Without the uplifting support of a scholar, soldiers might be overwhelmed by powerful foes. Without the sheer power and versatility of a consular, every threat would be magnified tenfold.
+Para los aventureros, sin embargo, la Fuerza y la tecnología son claves para su supervivencia. Sin la destreza curativa de un Jedi o de una serpiente, los aventureros sucumbirían rápidamente a sus heridas. Sin el apoyo edificante de un erudito, los soldados podrían verse abrumados por poderosos enemigos. Sin el poder y la versatilidad de un consulado, cada amenaza se magnificaría diez veces.
 
-The Force and technology are also a favored tool of villains. Many adventures are driven by the machinations of casters who are hell-bent on using power for some ill end. A mercenary leader subjugates the surrounding community, a renegade Sith saps the life from their victims, a vindictive droid takes over a space station with the intent of destroying its oppressors—these are just a few of the threats that adventurers might face. With power of their own, in the form of the Force and special items, the adventurers might prevail!
+La Fuerza y la tecnología son también una herramienta favorita de los villanos. Muchas aventuras son impulsadas por las maquinaciones de los lanzadores que están empeñados en usar el poder para algún mal fin. Un líder mercenario subyuga a la comunidad circundante, un Sith renegado le quita la vida a sus víctimas, un droide vengativo se apodera de una estación espacial con la intención de destruir a sus opresores, estas son sólo algunas de las amenazas que los aventureros pueden enfrentar. Con su propio poder, en la forma de la Fuerza y artículos especiales, los aventureros podrían prevalecer!
 
 \columnbreak
 
 ### The Three Pillars of Adventuring 
-Adventurers can try to do anything their players can imagine, but it can be helpful to talk about their activities in three broad categories: exploration, social interaction, and combat.
+Los aventureros pueden intentar hacer cualquier cosa que sus jugadores puedan imaginar, pero puede ser útil hablar de sus actividades en tres grandes categorías: exploración, interacción social y combate.
 
-#### Exploration
-Exploration includes both the adventurers' movement through the world and their interaction with objects and situations that require their attention. Exploration is the give-and-take of the players describing what they want their characters to do, and the Game Master telling the players what happens as a result. On a large scale, that might involve the characters spending a day crossing the deserts of Tatooine or an hour making their way through the winding passages of an abandoned base. On the smallest scale, it could mean one character flipping a switch in a room to see what happens.
+#### Exploración
+La exploración incluye tanto el movimiento de los aventureros a través del mundo como su interacción con objetos y situaciones que requieren su atención. La exploración es el toma y daca de los jugadores que describen lo que quieren que hagan sus personajes, y el Game Master le dice a los jugadores lo que sucede como resultado. A gran escala, esto puede implicar que los personajes pasen un día cruzando los desiertos de Tatooine o una hora abriéndose camino por los sinuosos pasajes de una base abandonada. En la escala más pequeña, podría significar que un personaje accione un interruptor en una habitación para ver qué sucede.
 
 #### Social Interaction
-Social interaction features the adventurers talking to someone (or something) else. It might mean demanding that a captured scout reveal the least well guarded entrance to the mercenary base, getting information from a rescued prisoner, pleading for mercy from the leader of a group of criminals, or persuading an informant to garner information about a distant location.
+La interacción social muestra a los aventureros hablando con alguien (o algo) más. Puede significar exigir que un explorador capturado revele la entrada menos vigilada a la base de mercenarios, obtener información de un prisionero rescatado, pedir misericordia al líder de un grupo de criminales, o persuadir a un informante para obtener información sobre un lugar distante.
 
-The rules in chapters 7 and 8 support exploration and social interaction, as do many class features in chapter 3 and personality traits in chapter 4.
+Las reglas de los capítulos 7 y 8 apoyan la exploración y la interacción social, así como muchos rasgos de clase en el capítulo 3 y los rasgos de personalidad en el capítulo 4.
 
-#### Combat
-Combat, the focus of chapter 9, involves characters and other creatures swinging weapons, casting powers, maneuvering for position, and so on—all in an effort to defeat their opponents, whether that means killing every enemy, taking captives, or forcing a rout. Combat is the most structured element of a D&D session, with creatures taking turns to make sure that everyone gets a chance to act. Even in the context of a pitched battle, there's still plenty of opportunity for adventurers to attempt wacky stunts like surfing down a flight of stairs on a shield, to examine the environment (perhaps by flipping a mysterious switch), and to interact with other creatures, including allies, enemies, and neutral parties.
+#### Combate
+El combate, el tema central del capítulo 9, implica que los personajes y otras criaturas balanceen sus armas, lancen sus poderes, maniobren para posicionarse, etc., todo en un esfuerzo por derrotar a sus oponentes, ya sea matando a todos los enemigos, tomando prisioneros o forzando una derrota. El combate es el elemento más estructurado de una sesión de D&D, con criaturas que se turnan para asegurarse de que todo el mundo tenga la oportunidad de actuar. Incluso en el contexto de una batalla campal, los aventureros tienen muchas oportunidades de hacer locuras como bajar por unas escaleras en un escudo, examinar el entorno (quizá accionando un misterioso interruptor) e interactuar con otras criaturas, incluyendo aliados, enemigos y grupos neutrales.
 
 <div class='footnote'>INTRODUCTION</div>
 
