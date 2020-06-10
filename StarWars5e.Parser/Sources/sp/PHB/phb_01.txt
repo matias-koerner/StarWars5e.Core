@@ -1,118 +1,119 @@
 
 
-# Chapter 1: Step-By-Step Characters
+# Capítulo 1: Personajes paso a paso
+
 
 <img src='https://www.gmbinder.com/images/5CsIIIt.png' style='position:absolute;top:90px;left:72px;width:37px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">our first step in playing an adventurer in the<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dungeons and Dragons</span> game is to imagine and create a character of your own. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a species (such as human or twi'lek) and a class (such as sentinel or scout). You also invent the personality, appearance, and backstory of your character. Once completed, your character serves as your representative in the game, your avatar in the *Star Wars* galaxy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">nuestro primer paso para jugar a ser un aventurero en el juego <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dungeons and Dragons</span> es imaginar y crear un personaje propio. Tu personaje es una combinación de estadísticas de juego, ganchos de juego de rol y tu imaginación. Eliges una especie (como un humano o twi'lek) y una clase (como un centinela o un explorador). También inventas la personalidad, la apariencia y la historia de tu personaje. Una vez completado, tu personaje sirve como tu representante en el juego, tu avatar en la galaxia de *Star Wars*.
 
-Before you dive into step 1 below, think about the kind of adventurer you want to play. You might be a courageous fighter, a skulking scoundrel, a fervent consular, or a cruel guardian. Or you might be more interested in an unconventional character, such as a brawny scoundrel who likes hand-to-hand combat, or a sharpshooter who picks off enemies from afar. Do you like non-Human species like Twi'leks or Wookiees? Try building a character of one of those species. Do you want your character to be the toughest adventurer at the table? Consider the fighter class. If you don't know where else to begin, take a look at the illustrations in any *Star Wars* book to see what catches your interest.
+Antes de que te sumerjas en el paso 1, piensa en el tipo de aventurero que quieres jugar. Podrías ser un valiente luchador, un sinvergüenza escurridizo, un ferviente consular o un cruel guardián. O puede que te interese más un personaje poco convencional, como un sinvergüenza musculoso al que le gusta el combate cuerpo a cuerpo, o un francotirador que se deshace de los enemigos a distancia. ¿Te gustan las especies no humanas como los Twi'leks o los Wookiees? Intenta construir un personaje de una de esas especies. ¿Quieres que tu personaje sea el aventurero más duro de la mesa? Considera la clase de luchador. Si no sabes por dónde empezar, echa un vistazo a las ilustraciones de cualquier libro de *Star Wars* para ver qué es lo que te interesa.
 
-Once you have a character in mind, follow these steps in order, making decisions that reflect the character you want. Your conception of your character might evolve with each choice you make. What's important is that you come to the table with a character you're excited to play.
+Una vez que tengas un personaje en mente, sigue estos pasos en orden, tomando decisiones que reflejen el personaje que quieres. La concepción de tu personaje puede evolucionar con cada decisión que tomes. Lo importante es que llegues a la mesa con un personaje que te entusiasme.
 
-Throughout this section, we use the term character sheet to mean whatever you use to track your character, whether it's a formal **character sheet** (like the one at the end of these rules), some form of digital record, or a piece of notebook paper. An official D&D character sheet is a fine place to start until you know what information you need and how you use it during the game.
+A lo largo de esta sección, utilizamos el término hoja de personaje para referirnos a cualquier cosa que utilice para rastrear su personaje, ya sea una **hoja de personaje formal** (como la que se encuentra al final de estas reglas), algún tipo de registro digital o un pedazo de papel de cuaderno. Una hoja de personaje oficial de D&D es un buen lugar para empezar hasta que sepas qué información necesitas y cómo la usas durante el juego.
 
-> ##### Building Han Solo
-> Each step of character creation includes an example of that step, with a player building the iconic character Han Solo, as he is portrayed during the events of Episode IV.
+> ##### Edificio Han Solo
+> Cada paso de la creación de un personaje incluye un ejemplo de ese paso, con un jugador construyendo el personaje icónico Han Solo, tal y como es retratado durante los acontecimientos del Episodio IV.
 
-### 1. Choose a Species
-Every character belongs to a species, one of the many intelligent humanoid species in the *Star Wars* worlds. The most common species in the galaxy is human, but there are a myriad of near-Human species available for play, including the four-armed Besalisks, the cunning Trandoshans, the dexterous Twi'leks, and the utilitarian droid. The **Species** chapter provides more information about these species.
+### 1. Elija una especie
+Cada personaje pertenece a una especie, una de las muchas especies humanoides inteligentes de los mundos de la Guerra de las Galaxias. La especie más común en la galaxia es la humana, pero hay una miríada de especies casi humanas disponibles para jugar, incluyendo los Besaliscos de cuatro brazos, los astutos Trandoshans, los hábiles Twi'leks y el droide utilitario. El capítulo de **Especies** proporciona más información sobre estas especies.
 
-The species you choose contributes to your character's identity in an important way, by establishing a general appearance and the natural talents gained from culture and ancestry. Your character's species grants particular special traits, such as special senses, proficiency with certain weapons or tools, proficiency in one tools, proficiency in one or more skills, or the ability to use minor powers. 
+La especie que elija contribuye a la identidad de su personaje de manera importante, estableciendo una apariencia general y los talentos naturales obtenidos de la cultura y la ascendencia. La especie de tu personaje otorga rasgos especiales particulares, como sentidos especiales, dominio de ciertas armas o herramientas, dominio de una herramienta, dominio de una o más habilidades, o la capacidad de usar poderes menores. 
 
 \columnbreak
 
-These traits sometimes dovetail with the capabilities of certain classes (see step 2). For example, the special traits of Lanniks make them exceptional consulars, and Jawas tend to be powerful engineers. Sometimes playing against type can be fun, too. Ugnaught soldiers and Wookiee sentinels, for example, can be unusual but memorable characters.
+Estos rasgos a veces encajan con las capacidades de ciertas clases (ver paso 2). Por ejemplo, los rasgos especiales de los Lanniks los convierten en consulares excepcionales, y los Jawas tienden a ser poderosos ingenieros. A veces jugar contra el tipo también puede ser divertido. Los soldados Ugnaught y los centinelas Wookiee, por ejemplo, pueden ser personajes inusuales pero memorables.
 
-Your species also increases one or more of your ability scores, which you determine in step 3. Note these increases and remember to apply them later.
+Tu especie también aumenta una o más de tus puntuaciones de habilidad, que determinas en el paso 3. Anota estos incrementos y recuerda aplicarlos más tarde.
 
-Record the traits granted by your species on your character sheet. Be sure to note your starting languages and your base speed as well.
+Registra los rasgos otorgados por tu especie en tu hoja de personaje. Asegúrate de anotar tus idiomas de partida y tu velocidad base también.
 
-> ##### Building Han Solo, Step 1
-> Since Han Solo is a human, we record all the special traits of humans on our character, including his speed of 30 feet and the languages he knows: Galactic Basic and Shyriiwook.
+> ##### Edificio Han Solo, Paso 1
+> Como Han Solo es un humano, registramos todos los rasgos especiales de los humanos en nuestro personaje, incluyendo su velocidad de 30 pies y los idiomas que conoce: Galactic Basic y Shyriiwook.
 
-### 2. Choose a Class
-Every adventurer is a member of a class. Class broadly describes a character's vocation, what special talents he or she possesses, and the tactics he or she is most likely to employ when exploring a city, fighting monsters, or engaging in a tense negotiation. The character classes are described in the **Classes** chapter.
+### 2. Elija una clase
+Cada aventurero es un miembro de una clase. La clase describe ampliamente la vocación de un personaje, qué talentos especiales posee, y las tácticas que es más probable que emplee cuando explora una ciudad, lucha contra monstruos o participa en una negociación tensa. Las clases de personajes se describen en el capítulo **Clases**.
 
-Your character receives a number of benefits from your choice of class. Many of these benefits are **class features** — capabilities (including force- or tech-casting) that set your character apart from members of other classes. You also gain a number of **proficiencies**: armor, weapons, skills, saving throws, and sometimes tools. Your proficiencies define many of the things your character can do particularly well, from using certain weapons to telling a convincing lie.
+Tu personaje recibe una serie de beneficios por la elección de la clase. Muchos de estos beneficios son **características de clase** - capacidades (incluyendo fuerza o tecnología) que diferencian a tu personaje de los miembros de otras clases. También obtienes un número de **proficiencias**: armadura, armas, habilidades, lanzamientos de salvamento, y a veces herramientas. Tus habilidades definen muchas de las cosas que tu personaje puede hacer particularmente bien, desde usar ciertas armas hasta decir una mentira convincente.
 
-On your character sheet, record all the features that your class gives you at 1st level.
+En tu hoja de personaje, anota todos los rasgos que tu clase te da en el 1er nivel.
 
 #### Level
-Typically, a character starts at 1st level and advances in level by adventuring and gaining **experience points** (XP). A 1st-level character is inexperienced in the adventuring world, although he or she might have been a soldier or a pirate and done dangerous things before.
+Típicamente, un personaje comienza en el 1er nivel y avanza en el nivel aventurándose y ganando **puntos de experiencia** (XP). Un personaje de 1er nivel no tiene experiencia en el mundo de las aventuras, aunque haya sido un soldado o un pirata y haya hecho cosas peligrosas antes.
 
-Starting off at 1st level marks your character's entry into the adventuring life. If you're already familiar with the game, or if you are joining an existing D&D campaign, your GM might decide to have you begin at a higher level, on the assumption that your character has already survived a few harrowing adventures.
+Comenzar en el primer nivel marca la entrada de tu personaje en la vida de aventuras. Si ya estás familiarizado con el juego, o si te unes a una campaña de D&D ya existente, tu GM puede decidir que empieces en un nivel más alto, suponiendo que tu personaje ya haya sobrevivido a unas cuantas aventuras desgarradoras.
 
 > ##### Quick Build
-> Each class description in the Classes section includes a section offering suggestions to quickly build a character of that class, including how to assign your highest ability scores, a background suitable to the class, and starting powers.
+> Cada descripción de la clase en la sección de Clases incluye una sección que ofrece sugerencias para construir rápidamente un personaje de esa clase, incluyendo cómo asignar sus puntuaciones más altas de habilidad, un fondo adecuado a la clase, y poderes iniciales.
 
-<div class='footnote'>CHAPTER 1 | STEP-BY-STEP CHARACTERS</div>
+<div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
 \pagebreakNum
 
-Record your level on your character sheet. If you're starting at a higher level, record the additional elements your class gives you for your levels past 1st. Also record your experience points. A 1st-level character has 0 XP. A higher-level character typically begins with the minimum amount of XP required to reach that level (see "Beyond 1st Level" later in this section).
+Anota tu nivel en tu hoja de personaje. Si comienzas en un nivel más alto, registra los elementos adicionales que tu clase te da para los niveles superiores al primero. También registra tus puntos de experiencia. Un personaje de primer nivel tiene 0 XP. Un personaje de nivel superior normalmente comienza con la cantidad mínima de XP necesaria para alcanzar ese nivel (vea "Más allá del 1er nivel" más adelante en esta sección).
 
 #### Hit Points and Hit Dice
-Your character's hit points define how tough your character is in combat and other dangerous situations. Your hit points are determined by your Hit Dice (short for Hit Point Dice).
+Los puntos de golpe de tu personaje definen la dureza de tu personaje en el combate y otras situaciones peligrosas. Tus puntos de golpe se determinan por tus Dados de Golpe (abreviatura de Hit Point Dice).
 
-At 1st level, your character has 1 Hit Die, and the die type is determined by your class. You start with hit points equal to the highest roll of that die, as indicated in your class description. (You also add your Constitution modifier, which you'll determine in step 3.) This is also your **hit point maximum**.
+En el primer nivel, tu personaje tiene un dado de impacto, y el tipo de dado es determinado por tu clase. Comienzas con puntos de impacto iguales a la tirada más alta de ese dado, como se indica en la descripción de tu clase. (También añades tu modificador de Constitución, que determinarás en el paso 3.) Este también es tu **máximo de puntos de impacto**.
 
-Record your character's hit points on your character sheet. Also record the type of Hit Die your character uses and the number of Hit Dice you have. After you rest, you can spend Hit Dice to regain hit points (see "Resting" in the Adventuring section). Whenever you roll a Hit Die to regain hit points, you add your Constitution modifier to the roll.
+Registra los puntos de golpe de tu personaje en tu hoja de personaje. También registra el tipo de dado de golpe que tu personaje usa y el número de dados de golpe que tienes. Después de descansar, puedes gastar Dados de Golpe para recuperar los puntos de golpe (ver "Descansar" en la sección de Aventuras). Cada vez que lances un dado de impacto para recuperar puntos de impacto, añade tu modificador de constitución a la tirada.
 
-#### Proficiency Bonus
-The table that appears in your class description shows your proficiency bonus, which is +2 for a 1st-level character. Your proficiency bonus applies to many of the numbers you'll be recording on your character sheet:
+#### Bono de competencia
+La tabla que aparece en la descripción de tu clase muestra tu bono de habilidad, que es +2 para un personaje de primer nivel. Tu bono de competencia se aplica a muchos de los números que registrarás en tu hoja de personaje:
 
-- Attack rolls using weapons you're proficient with
-- Attack rolls with powers you cast
-- Ability checks using skills you're proficient in
-- Ability checks using tools you're proficient with
-- Saving throws you're proficient in
-- Saving throw DCs for powers you cast (explained in each force- or tech-casting class)
+- Ruedas de ataque usando armas que conoces...
+- Los rollos de ataque con los poderes que se lanzan
+- La habilidad se comprueba usando las habilidades que dominas...
+- La habilidad se comprueba usando las herramientas con las que eres competente
+- Ahorrar lanza que eres competente en
+- Guardar los DCs de lanzamiento para los poderes que lanzas (explicado en cada clase de fuerza o tecnología de lanzamiento)
 
-Your class determines your weapon proficiencies, your saving throw proficiencies, and some of your skill and tool proficiencies. (Skills are described in "Using Ability Scores", tools in "Equipment.") Your background gives you additional skill and tool proficiencies, and some species give you more proficiencies. Be sure to note all of these proficiencies, as well as your proficiency bonus, on your character sheet.
+Tu clase determina tus habilidades con las armas, tus habilidades de lanzamiento de salvamento, y algunas de tus habilidades y herramientas. (Las habilidades se describen en "Uso de los puntajes de habilidad", las herramientas en "Equipo".) Tus antecedentes te dan habilidades y destrezas adicionales en las herramientas, y algunas especies te dan más habilidades. Asegúrate de anotar todas estas habilidades, así como tu bono de habilidad, en tu hoja de personaje.
 
-Your proficiency bonus can't be added to a single die roll or other number more than once. Occasionally,
+Tu bono de habilidad no puede ser añadido a una sola tirada u otro número más de una vez. Ocasionalmente,
 
 \columnbreak
 
-your proficiency bonus might be modified (doubled or halved, for example) before you apply it. If a circumstance suggests that your proficiency bonus applies more than once to the same roll or that it should be multiplied more than once, you nevertheless add it only once, multiply it only once, and halve it only once.
+su bono de competencia podría ser modificado (duplicado o reducido a la mitad, por ejemplo) antes de aplicarlo. Si una circunstancia sugiere que su bonificación de aptitud se aplica más de una vez a la misma tirada o que debe multiplicarse más de una vez, no obstante, usted la suma sólo una vez, la multiplica sólo una vez y la reduce a la mitad sólo una vez.
 
 > ##### Building Han Solo, Step 2
 > Han Solo is best depicted as an operative, so we make a note of the operative's proficiencies and 1st-level class features on the character sheet.
 >
-> As a 1st-level operative, Han has 1 Hit Die—a d8—and starts with hit points equal to 8 + his Constitution modifier. Make a note of this; we will record the final number after we determine Han's Constitution score (see step 3). Also make note of the proficiency bonus for a 1st-level character, which is +2.
+> Como operativo de primer nivel, Han tiene 1 Hit Die -un d8- y comienza con puntos de golpe iguales a 8 + su modificador de Constitución. Toma nota de esto; registraremos el número final después de determinar el puntaje de Constitución de Han (ver paso 3). También toma nota del bono de habilidad para un personaje de primer nivel, que es +2.
 
-### 3. Determine Ability Scores
-Much of what your character does in the game depends on his or her six abilities: **Strength**, **Dexterity**, **Constitution**, **Intelligence**, **Wisdom**, and **Charisma**. Each ability has a score, which is a number you record on your character sheet.
+### 3. Determinar las puntuaciones de habilidad
+Mucho de lo que tu personaje hace en el juego depende de sus seis habilidades: **Fuerza**, **Destreza**, **Constitución**, **Inteligencia**, **Sabiduría** y **Carisma**. Cada habilidad tiene una puntuación, que es un número que se registra en la hoja de personaje.
 
-The six abilities and their use in the game are described in the **Using Ability Scores** chapter. The Ability Score Summary table provides a quick reference for what qualities are measured by each ability, what species increases which abilities, and what classes consider each ability particularly important.
+Las seis habilidades y su uso en el juego están descritas en el capítulo **Utilización de las puntuaciones de las habilidades**. La tabla de resumen de puntuación de habilidades proporciona una referencia rápida para saber qué cualidades se miden por cada habilidad, qué especies aumentan qué habilidades y qué clases consideran cada habilidad particularmente importante.
 
-You generate your character's six **ability scores** randomly. Roll four 6-sided dice and record the total of the highest three dice on a piece of scratch paper. Do this five more times, so that you have six numbers. If you want to save time or don't like the idea of randomly determining ability scores, you can use the following scores instead: 15, 14, 13, 12, 10, 8.
+Generas los seis puntajes de habilidad de tu personaje al azar. Lanza cuatro dados de 6 caras y anota el total de los tres dados más altos en un pedazo de papel de rascar. Haz esto cinco veces más, para que tengas seis números. Si quieres ahorrar tiempo o no te gusta la idea de determinar al azar las puntuaciones de habilidad, puedes usar las siguientes puntuaciones: 15, 14, 13, 12, 10, 8.
 
-Now take your six numbers and write each number beside one of your character's six abilities to assign scores to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma. Afterward, make any changes to your ability scores as a result of your species choice.
+Ahora toma tus seis números y escribe cada número al lado de una de las seis habilidades de tu personaje para asignar puntuaciones a Fuerza, Destreza, Constitución, Inteligencia, Sabiduría y Carisma. Después, haz cualquier cambio en las puntuaciones de tus habilidades como resultado de tu elección de especie.
 
-After assigning your ability scores, determine your **ability modifiers** using the Ability Scores and Modifiers table. To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the result by 2 (round down). Write the modifier next to each of your scores.
+Después de asignar sus puntuaciones de habilidad, determine sus **modificadores de habilidad** usando la tabla de puntuaciones de habilidad y modificadores. Para determinar un modificador de habilidad sin consultar la tabla, reste 10 de la puntuación de habilidad y luego divida el resultado por 2 (redondee hacia abajo). Escribe el modificador junto a cada una de tus puntuaciones.
 
-> ##### Building Han Solo, Step 3
-> We will use the standard set of scores (15, 14, 13, 12, 10, 8) for Han's abilities. Han is talented and nimble, so we'll put his highest score, 15, in Dexterity. His next-highest, 14, goes in Charisma.  He then applies the 13 to Intelligence, the 12 to Constitution, the 10 to Wisdom and the 8 to Strength. After applying his special benefits (increasing Han's Dexterity by 2, and his Intelligence and Charisma by 1), Han's ability scores and modifiers look like this: Strength 8 (-1), Dexterity 17 (+3), Constitution 12 (+1), Intelligence 14 (+2), Wisdom 10 (+0), Charisma 15 (+2).
+> ##### Edificio Han Solo, Paso 3
+> Usaremos el conjunto estándar de puntuaciones (15, 14, 13, 12, 10, 8) para las habilidades de Han. Han es talentoso y ágil, así que pondremos su mayor puntuación, 15, en Destreza. Su siguiente más alta, 14, es Carisma. Luego aplica el 13 a la Inteligencia, el 12 a la Constitución, el 10 a la Sabiduría y el 8 a la Fuerza. Después de aplicar sus beneficios especiales (incrementando la Destreza de Han en 2, y su Inteligencia y Carisma en 1), las puntuaciones de habilidad de Han y los modificadores se ven así: Fuerza 8 (-1), Destreza 17 (+3), Constitución 12 (+1), Inteligencia 14 (+2), Sabiduría 10 (+0), Carisma 15 (+2).
 > 
-> We then fill in Han's final hit points: 8 + his Constitution modifier of +1, for a total of 9 hit points.
+> Luego llenamos los puntos de golpe final de Han: 8 + su modificador de constitución de +1, para un total de 9 puntos de golpe.
 
 <img src='https://cdn.discordapp.com/attachments/469499280994992128/539183142175637514/image0.png' style='position:absolute;bottom:-10px;left:60px;width:360px;z-index:1000' />
 
-<div class='footnote'>CHAPTER 1 | STEP-BY-STEP CHARACTERS</div>
+<div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
 \pagebreakNum
 
-#### Variant: Customizing Ability Scores
-At your Game Master's option, you can use this variant for determining your ability scores. The method described here allows you to build a character with a set of ability scores you choose individually.
+#### Variante: Personalización de las puntuaciones de habilidad
+A elección del Game Master, puedes usar esta variante para determinar tus puntuaciones de habilidad. El método descrito aquí te permite construir un personaje con un conjunto de puntuaciones de habilidad que eliges individualmente.
 
-You have 27 points to spend on your ability scores. The cost of each score is shown on the Ability Score Point Cost table. For example, a score of 14 costs 7 points. Using this method, 15 is the highest ability score you can end up with, before applying special increases. You can't have a score lower than 8.
+Tienes 27 puntos para gastar en tus puntuaciones de habilidad. El costo de cada puntaje se muestra en la tabla de Costo de Puntos de Habilidad. Por ejemplo, una puntuación de 14 cuesta 7 puntos. Usando este método, 15 es la puntuación de habilidad más alta con la que puedes terminar, antes de aplicar aumentos especiales. No puedes tener una puntuación inferior a 8.
 
-This method of determining ability scores enables you to create a set of three high numbers and three low ones (15, 15, 15, 8, 8, 8), a set of numbers that are above average and nearly equal (13, 13, 13, 12, 12, 12), or any set of numbers between those extremes.
+Este método para determinar las puntuaciones de habilidad permite crear un conjunto de tres números altos y tres bajos (15, 15, 15, 8, 8, 8), un conjunto de números que están por encima de la media y casi iguales (13, 13, 13, 12, 12, 12), o cualquier conjunto de números entre esos extremos.
 
-##### Ability Score Point Cost
-|Score|Cost|
+###### Ability Score Point Cost
+|Score|Costes|
 |:--:|:--:|
 |8|0|
 |9|1|
@@ -123,19 +124,19 @@ This method of determining ability scores enables you to create a set of three h
 |14|7|
 |15|9|
 
-### 4. Describe Your Character
-Once you know the basic game aspects of your character, it's time to flesh him or her out as a person. Your character needs a name. Spend a few minutes thinking about what he or she looks like and how he or she behaves in general terms.
+### 4. Describe tu personaje
+Una vez que conozcas los aspectos básicos del juego de tu personaje, es el momento de encarnarlo como persona. Tu personaje necesita un nombre. Pasa unos minutos pensando en su aspecto y en cómo se comporta en términos generales.
 
-Using the information in the **Personality and Background** chapter, you can flesh out your character's physical appearance and personality traits. Choose your character's **alignment** (the moral compass that guides his or her decisions) and **ideals**. The **Personality and Background** chapter also helps you identify the things your character holds most dear, called **bonds**, and the **flaws** that could one day undermine him or her.
+Usando la información del capítulo de **Personalidad y antecedentes**, puedes desarrollar la apariencia física y los rasgos de personalidad de tu personaje. Elige la **alineación** de tu personaje (la brújula moral que guía sus decisiones) y los **ideales**. El capítulo de **Personalidad y Antecedentes** también te ayuda a identificar las cosas que tu personaje aprecia más, llamadas **bonos**, y las **flagas** que podrían algún día socavarlo.
 
-Your character's **background** describes where he or she came from, his or her original occupation, and the character's place in the D&D world. Your GM might offer additional backgrounds beyond the ones included in the Personality and Background section, and might be willing to work with you to craft a background that's a more precise fit for your character concept.
+Los antecedentes de tu personaje describen su procedencia, su ocupación original y su lugar en el mundo del D&D. Tu GM podría ofrecerte otros antecedentes además de los incluidos en la sección de Personalidad y Antecedentes, y podría estar dispuesto a trabajar contigo para crear un fondo que se ajuste con mayor precisión al concepto de tu personaje.
 
-A background gives your character a background feature (a general benefit) and proficiency in two skills, and it might also give you additional languages or proficiency with certain kinds of tools. Record this information, along with the personality information you develop, on your character sheet.
+Un fondo le da a tu personaje un rasgo de fondo (un beneficio general) y el dominio de dos habilidades, y también podría darte idiomas adicionales o el dominio de ciertos tipos de herramientas. Registra esta información, junto con la información de la personalidad que desarrollas, en tu hoja de personaje.
 
 \columnbreak
 
-##### Ability Scores and Modifiers
-|Score|Modifier|
+##### Habilidades y Modificadores
+||Modificador
 |:--:|:--:|
 |1|-5|
 |2-3|-4|
@@ -156,84 +157,84 @@ A background gives your character a background feature (a general benefit) and p
 
 <img src='https://www.gmbinder.com/images/6vljPk5.png' style='position:absolute;bottom:9px;right:20px;width:450px;z-index:1000' />
 
-<div class='footnote'>CHAPTER 1 | STEP-BY-STEP CHARACTERS</div>
+<div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
 \pagebreakNum
 
-> ##### Building Han Solo, Step 4
-> We then fill in some of Han's basic details: his name, his sex (male), his height and weight, and his alignment (chaotic light). His high Dexterity and Charisma represent his capability and power of presence, and his low Strength represent an unexceptional burliness.
+> ##### Edificio Han Solo, Paso 4
+> Luego llenamos algunos de los detalles básicos de Han: su nombre, su sexo (masculino), su altura y peso, y su alineación (luz caótica). Su alta Destreza y Carisma representan su capacidad y poder de presencia, y su baja Fuerza representa una burbuja no excepcional.
 >
-> Han is a notorious scoundrel, so we choose the scoundrel background. Make a note of the proficiencies and special feature this background gives. We choose the Silver-Tongued feat for Han's background feat, adding the bonus to Han's Charisma, bring the total to 16, and the modifier to +3.
+> Han es un sinvergüenza notorio, así que elegimos el fondo de sinvergüenza. Toma nota de las habilidades y características especiales que este fondo da. Elegimos la hazaña de la Lengua de Plata para la hazaña de fondo de Han, añadiendo el bono al Carisma de Han, llevando el total a 16, y el modificador a +3.
 > 
-> We know that Han is both daring and rash, and has a propensity to gamble, so we choose the fourth and sixth personality traits. We choose the ideal of independence from the list in the background, noting that Han recognizes no one as his master.
+> Sabemos que Han es atrevido y temerario, y tiene propensión a apostar, por lo que elegimos los rasgos de la cuarta y sexta personalidad. Elegimos el ideal de independencia de la lista del fondo, observando que Han no reconoce a nadie como su maestro.
 > 
-> Han's bond is his flight from Jabba the Hutt, so we choose the first option. His flaw is that he often chooses himself and his ship over others, so we choose the sixth option.
+> El bono de Han es su vuelo desde Jabba the Hutt, así que elegimos la primera opción. Su defecto es que a menudo se elige a sí mismo y a su nave por encima de los demás, así que elegimos la sexta opción.
 
 #### Your Character's Abilities
-Take your character's ability scores and species into account as you flesh out his or her appearance and personality. A very strong character with low Intelligence might think and behave very differently from a very smart character with low Strength.
+Ten en cuenta las puntuaciones de habilidad y la especie de tu personaje para mejorar su apariencia y personalidad. Un personaje muy fuerte con poca inteligencia podría pensar y comportarse de manera muy diferente a un personaje muy inteligente con poca fuerza.
 
-For example, high Strength usually corresponds with a burly or athletic body, while a character with low Strength might be scrawny or plump.
+Por ejemplo, una alta Fuerza suele corresponder a un cuerpo corpulento o atlético, mientras que un personaje con baja Fuerza puede ser flaco o regordete.
 
-A character with high Dexterity is probably lithe and slim, while a character with low Dexterity might be either gangly and awkward or heavy and thick-fingered.
+Un personaje con alta destreza es probablemente ágil y delgado, mientras que un personaje con baja destreza puede ser desgarbado y torpe o pesado y de dedos gruesos.
 
-A character with high Constitution usually looks healthy, with bright eyes and abundant energy. A character with low Constitution might be sickly or frail.
+Un personaje de alta constitución suele tener un aspecto saludable, con ojos brillantes y abundante energía. Un personaje de baja constitución puede ser enfermizo o frágil.
 
-A character with high Intelligence might be highly inquisitive and studious, while a character with low Intelligence might speak simply or easily forget details.
+Un personaje de gran inteligencia puede ser muy inquisitivo y estudioso, mientras que un personaje de baja inteligencia puede hablar simple o fácilmente olvidar los detalles.
 
-A character with high Wisdom has good judgment, empathy, and a general awareness of what's going on. A character with low Wisdom might be absent-minded, foolhardy, or oblivious.
+Un personaje con gran sabiduría tiene buen juicio, empatía y una conciencia general de lo que está pasando. Un personaje con baja Sabiduría puede ser distraído, temerario o inconsciente.
 
-A character with high Charisma exudes confidence, which is usually mixed with a graceful or intimidating presence. A character with a low Charisma might come across as abrasive, inarticulate, or timid.
+Un personaje con alto carisma exuda confianza, que suele mezclarse con una presencia grácil o intimidante. Un personaje con bajo Carisma puede parecer abrasivo, inarticulado o tímido.
 
-### 5. Choose Equipment
-Your class and background determine your character's **starting equipment**, including weapons, armor, and other adventuring gear. Record this equipment on your character sheet. All such items are detailed in the Equipment section.
-Instead of taking the gear given to you by your class and background, you can purchase your starting equipment. You have a number of **credits** (cr) to spend based on your class, as shown in the Equipment section. Extensive lists of equipment, with prices, also appear in that section. 
+### 5. Elija el equipo
+Tu clase y antecedentes determinan el **equipo de inicio** de tu personaje, incluyendo armas, armaduras y otros equipos de aventura. Registra este equipo en tu hoja de personaje. Todos estos artículos se detallan en la sección de Equipo.
+En lugar de tomar el equipo que te dan tu clase y antecedentes, puedes comprar tu equipo de arranque. Tienes un número de **créditos** (cr) para gastar en base a tu clase, como se muestra en la sección de Equipo. En esa sección también aparecen extensas listas de equipo, con sus precios. 
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-&emsp;Your Strength score limits the amount of gear you can carry. Try not to purchase equipment with a total weight (in pounds) exceeding your Strength score times 15. "**Using Ability Scores**" has more information on carrying capacity.
+Tu puntuación de fuerza limita la cantidad de equipo que puedes llevar. Intente no comprar equipo con un peso total (en libras) que exceda su puntuación de fuerza por 15. "**Utilizando los puntajes de habilidad**" tiene más información sobre la capacidad de carga.
 
-#### Armor Class
-Your **Armor Class** (AC) represents how well your character avoids being wounded in battle. Things that contribute to your AC include the armor you wear, the shield you carry, and your Dexterity modifier. Not all characters wear armor or carry shields, however.
+#### Clase de Armadura
+Tu **Clase de Armadura** (AC) representa lo bien que tu personaje evita ser herido en la batalla. Las cosas que contribuyen a tu AC incluyen la armadura que llevas, el escudo que llevas y tu modificador de destreza. Sin embargo, no todos los personajes usan armadura o llevan escudos.
 
-Without armor or a shield, your character's AC equals 10 + his or her Dexterity modifier. If your character wears armor, carries a shield, or both, calculate your AC using the rules in the Equipment section. Record your AC on your character sheet.
+Sin armadura ni escudo, la CA de tu personaje es igual a 10 + su modificador de destreza. Si tu personaje usa armadura, lleva un escudo o ambos, calcula tu AC usando las reglas de la sección de Equipo. Registra tu AC en la hoja de tu personaje.
 
-Your character needs to be proficient with armor and shields to wear and use them effectively, and your armor and shield proficiencies are determined by your class. There are drawbacks to wearing armor or carrying a shield if you lack the required proficiency, as explained in the Equipment section.
+Tu personaje necesita ser competente con la armadura y los escudos para usarlos y usarlos eficazmente, y tus habilidades con la armadura y los escudos son determinadas por tu clase. Hay desventajas de usar una armadura o llevar un escudo si no tienes la habilidad requerida, como se explica en la sección de Equipo.
 
-Some powers and class features give you a different way to calculate your AC. If you have multiple features that give you different ways to calculate your AC, you choose which one to use.
+Algunos poderes y características de clase te dan una forma diferente de calcular tu AC. Si tienes varias características que te dan diferentes maneras de calcular tu AC, eliges cuál usar.
 
-#### Weapons
-For each weapon your character wields, calculate the modifier you use when you attack with the weapon and the damage you deal when you hit.
+#### Armas
+Por cada arma que tu personaje empuñe, calcula el modificador que usas cuando atacas con el arma y el daño que infliges al golpear.
 
-When you make an attack with a weapon, you roll a d20 and add your proficiency bonus (but only if you are proficient with the weapon) and the appropriate ability modifier.
+Cuando haces un ataque con un arma, sacas un d20 y añades tu bono de habilidad (pero sólo si eres experto en el arma) y el modificador de habilidad apropiado.
 
-- For attacks with **melee weapons**, use your Strength modifier for attack and damage rolls. A weapon that has the finesse property, such as a vibrorapier, can use your Dexterity modifier instead.
-- For attacks with **ranged weapons**, use your Dexterity modifier for attack and damage rolls. A weapon that has the thrown property, such as a vibrodagger, can use your Strength modifier instead.
+- Para los ataques con **armas de Melé**, usa tu modificador de fuerza para las tiradas de ataque y daño. Un arma que tiene la propiedad de la delicadeza, como un vibrador, puede usar tu modificador de Destreza en su lugar.
+- Para los ataques con **armas de alcance**, usa tu modificador de Destreza para las tiradas de ataque y daño. Un arma que tiene la propiedad de ser lanzada, como una vibrodaga, puede usar tu modificador de Fuerza en su lugar.
 
-> ##### Building Han Solo, Step 5
-> We now write down the starting equipment from the operative class and the scoundrel background. His starting equipment includes a combat suit, giving him an Armor Class of 14.
+> ##### Edificio Han Solo, Paso 5
+> Ahora anotamos el equipo de salida de la clase operativa y el fondo de sinvergüenza. Su equipo de salida incluye un traje de combate, dándole una clase de armadura de 14.
 > 
-> For Han's weapons, we choose a vibrodagger and a light pistol. His light pistol is a ranged weapon, and the vibrodagger has the finesse property, so Han uses his Dexterity modifier for his attacks and damage. His attack bonus is his Dexterity modifier (+3) plus his proficiency bonus (+2), for a total of +5. The light pistol deals 1d4 energy damage, and Han adds his Dexterity modifier to the damage when he hits, for a total of 1d4+3 energy damage. The vibrodagger deals the same amount of damage, but is kinetic instead of energy.
+> Para las armas de Han, elegimos una vibrodaga y una pistola de luz. Su pistola ligera es un arma de distancia, y la vibrodaga tiene la propiedad de la delicadeza, así que Han usa su modificador de destreza para sus ataques y daños. Su bono de ataque es su modificador de Destreza (+3) más su bono de habilidad (+2), para un total de +5. La pistola de luz inflige 1d4 de daño energético, y Han añade su modificador de Destreza al daño cuando golpea, para un total de 1d4+3 de daño energético. La vibrodaga hace la misma cantidad de daño, pero es cinética en lugar de energía.
 
-<div class='footnote'>CHAPTER 1 | STEP-BY-STEP CHARACTERS</div>
+<div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
 \pagebreakNum
 
-### 6. Come Together
-Most *Star Wars* characters don't work alone. Each character plays a role within a **party**, a group of adventurers working together for a common purpose. Teamwork and cooperation greatly improve your party's chances to survive the many perils in the worlds of *Star Wars*. Talk to your fellow players and your GM to decide whether your characters know one another, how they met, and what sorts of quests the group might undertake.
+### 6. Vengan juntos
+La mayoría de los personajes de "Star Wars" no trabajan solos. Cada personaje juega un papel dentro de un **partido**, un grupo de aventureros trabajando juntos para un propósito común. El trabajo en equipo y la cooperación mejoran enormemente las posibilidades de tu grupo de sobrevivir a los muchos peligros de los mundos de *Guerra de las Galaxias*. Habla con tus compañeros de juego y con tu GM para decidir si tus personajes se conocen, cómo se conocieron y qué tipo de misiones podría emprender el grupo.
 
 #### Beyond 1st Level
-As your character goes on adventures and overcomes challenges, he or she gains experience, represented by experience points. A character who reaches a specified experience point total advances in capability. This advancement is called gaining a level.
+A medida que tu personaje avanza en las aventuras y supera los desafíos, gana experiencia, representada por los puntos de experiencia. Un personaje que alcanza un punto de experiencia específico avanza totalmente en su capacidad. Este avance se llama ganar un nivel.
 
 #### Class Features and Hit Dice
-When your character gains a level, his or her class often grants additional features, as detailed in the class description. Some of these features allow you to increase your ability scores, either increasing two scores by 1 each or increasing one score by 2. You can't increase an ability score above 20. In addition, every character's proficiency bonus increases at certain levels.
+Cuando tu personaje gana un nivel, su clase suele otorgar características adicionales, como se detalla en la descripción de la clase. Algunas de estas características te permiten aumentar tus puntuaciones de habilidad, ya sea aumentando dos puntuaciones en 1 cada una o aumentando una puntuación en 2. No puedes aumentar una puntuación de habilidad por encima de 20. Además, la bonificación de habilidad de cada personaje aumenta en ciertos niveles.
 
-Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, add your Constitution modifier to the roll, and add the total to your hit point maximum. Alternatively, you can use the fixed value shown in your class entry, which is the average result of the die roll (rounded up).
+Cada vez que ganas un nivel, ganas 1 Hit Die adicional. Tira ese dado de impacto, añade tu modificador de constitución a la tirada y suma el total a tu máximo de puntos de impacto. Alternativamente, puedes usar el valor fijo que se muestra en tu entrada de clase, que es el resultado promedio de la tirada (redondeado al alza).
 
-##### Character Advancement 
+##### Avance del personaje 
 
-|Experience Points|Level|Proficiency Bonus|
+|Puntos de experiencia. Nivel. Bonos de habilidad.
 |:--:|:--:|:--:|
 |0	|1	|+2|
 |300	|2	|+2|
@@ -260,14 +261,14 @@ Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, ad
 
 <div style='margin-top:23px'></div>
 
-&emsp;When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-level soldier has a Constitution score of 17, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
+&emsp;Cuando tu modificador de constitución aumenta en 1, el máximo de tu punto de golpe aumenta en 1 por cada nivel que hayas alcanzado. Por ejemplo, si tu soldado de 7º nivel tiene un puntaje de Constitución de 17, cuando llega al 8º nivel, aumenta su puntaje de Constitución de 17 a 18, aumentando así su modificador de Constitución de +3 a +4. Su punto de golpe máximo entonces aumenta en 8.
 
-#### XP and Proficiency Bonus Progression
-The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character's class description to see what other improvements you gain at each level.
+#### XP y Progresión de Bonos de Competencia
+La tabla de avance de personajes resume los XP que necesita para avanzar en los niveles desde el nivel 1 hasta el nivel 20, y el bono de aptitud para un personaje de ese nivel. Consulta la información de la descripción de la clase de tu personaje para ver qué otras mejoras obtienes en cada nivel.
 
 <img src='https://cdn.discordapp.com/attachments/469499280994992128/538811115447255065/image0.png' style='position:absolute;bottom:20px;right:-90px;width:635px;z-index:1000' />
 
-<div class='footnote'>CHAPTER 1 | STEP-BY-STEP CHARACTERS</div>
+<div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
 \pagebreakNum
 

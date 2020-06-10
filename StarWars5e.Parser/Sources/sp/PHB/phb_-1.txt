@@ -1,61 +1,62 @@
 
 
-## Preface
-This conversion has been a labor of love. Back when I was a fledgling DM, I undertook the foolish effort of attempting the first version of this overhaul, which was comically terrible. It featured four classes, which were just severely bastardized versions of their standard counterparts.
+## Prefacio
+Esta conversión ha sido una labor de amor. Cuando era un joven DM, hice el tonto esfuerzo de intentar la primera versión de esta revisión, que fue cómicamente terrible. Presentaba cuatro clases, que eran sólo versiones severamente bastardas de sus contrapartes estándar.
 
-This version, which I will call version 1.0 as an absolute snub to my first attempt, I've been working on pretty consistently for about nine consecutive months. I've had some help from various sources (who will be credited accordingly), but for the most part this has come from mine own brain.
+Esta versión, a la que llamaré versión 1.0 como un absoluto desaire a mi primer intento, he estado trabajando en ella de forma bastante consistente durante unos nueve meses consecutivos. He tenido algo de ayuda de varias fuentes (que serán acreditadas como tales), pero en su mayor parte esto ha venido de mi propio cerebro.
 
-This book is designed to parallel the official D&D 5e Player's Handbook. It includes all the relevant chapters, reskinned to fit a Star Wars setting. The significant differences will be listed below.
+Este libro está diseñado para ser paralelo al Manual del Jugador oficial del D&D 5e. Incluye todos los capítulos relevantes, parecidos a los de La Guerra de las Galaxias. Las diferencias significativas se listan a continuación.
 
-## What's Different?
-While this expansion utilizes the base rules of 5th Edition, there are significant differences that will be illustrated here, broken down by chapter. There is more information in each chapter, as per the SRD.
+## ¿Qué es diferente?
+Aunque esta expansión utiliza las reglas básicas de la 5ª edición, hay diferencias significativas que se ilustrarán aquí, desglosadas por capítulo. Hay más información en cada capítulo, según la DRS.
 
-### Chapter 1: Step-By-Step Characters
-Reskinned for the setting, with no noteworthy differences.
+### Capítulo 1: Personajes paso a paso
+Respetuoso con el entorno, sin diferencias notables.
 
-### Chapter 2: Species
-Races relabeled to species, all of which are brand new.
+### Capítulo 2: Especies
+Razas re-etiquetadas a especies, todas ellas nuevas.
 
-### Chapter 3: Classes
-There are ten classes. Berserker, Monk, Operative, and Scout, are *mostly* reskinned, with some variation to fit the setting. Fighter utilizes a homebrew of baseline combat superiority. Engineer is based off Artificer, but extrapolated to be a full caster. Guardian is based off of Paladin, and Consular is based off of Sorcerer, with changes to better fit a force-wielder.  Sentinel is a reimagining of a monk, but as a 2/3 caster. Scholar is a brand new class.
+### Capítulo 3: Clases
+Hay diez clases. Berserker, Monje, Operativo y Scout, son *mayormente* parecidos, con alguna variación para ajustarse al escenario. El combatiente utiliza un equipo casero de superioridad en el combate base. Engineer se basa en Artificer, pero extrapolado para ser un lanzador completo. Guardián se basa en Paladín, y Consulado en Hechicero, con cambios para adaptarse mejor a un forzudo. Sentinel es una reimaginación de un monje, pero como 2/3 de un lanzador. Scholar es una clase completamente nueva.
 
-### Chapter 4: Backgrounds
-For the most part, these are reskinned from 5E with one major difference; each background also offers a choice of feat. This is a houserule I've been using for a while that has become quite popular. You can very easily ignore this houserule if you're so inclined.
+### Capítulo 4: Fondos
+En su mayor parte, estos se parecen a los 5E con una gran diferencia; cada fondo también ofrece una elección de hazaña. Esta es una regla de casa que he estado usando por un tiempo y que se ha vuelto muy popular. Puedes ignorar fácilmente esta regla si te inclinas por ella.
 
-### Chapter 5: Equipment
-Currency has been changed to credits, with roughly 1 gp = 10 cr. Magic items are reskinned as enhanced or modified items, as appropriate, with rarities designed to mimic those of Star Wars: the Old Republic. Equipment functions similarly, with the exception of the breakdown of weapons; rather than simply simple and martial, they are broken down into blasters, lightsabers, and vibroweapons. This also utilizes a few houserules: light, medium, and heavy shields with proficiencies collapsed into the appropriate armor, new weapon features, etc.
+### Capítulo 5: Equipo
+La moneda ha sido cambiada a créditos, con aproximadamente 1 gp = 10 cr. Los objetos mágicos se reimplantan como objetos mejorados o modificados, según corresponda, con rarezas diseñadas para imitar las de Star Wars: la Antigua República. El equipo funciona de manera similar, con la excepción de la descomposición de las armas; en lugar de ser simplemente simple y marcial, se descompone en blasters, sables de luz y vibroarmas. También se utilizan algunas reglas de la casa: escudos ligeros, medianos y pesados con destrezas colapsadas en la armadura apropiada, nuevas características de las armas, etc.
 
-### Chapter 6: Customization Options
-New multiclassing requirements/proficiencies, and with the exception of the spell point variant (discussed in chapter 10), the only difference is new or different feats.
+### Capítulo 6: Opciones de personalización
+Nuevos requisitos/eficiencias de multiclasificación, y con la excepción de la variante del punto de hechizo (analizada en el capítulo 10), la única diferencia estriba en nuevas o diferentes hazañas.
 
-### Chapter 7: Using Ability Scores
-Generally the same, with the exception of skills; Arcana, History, and Religion have been collapsed into Lore, with Piloting and Technology being new skills. 
+### Capítulo 7: Usando los puntajes de habilidad
+Generalmente lo mismo, con la excepción de las habilidades; Arcana, Historia y Religión se han colapsado en la Tradición, siendo el Pilotaje y la Tecnología las nuevas habilidades. 
 
-### Chapter 8: Adventuring
-Basically identical with some reskinning.
+### Capítulo 8: Aventura
+Básicamente idéntico con algo de reskinamiento.
 
-### Chapter 9: Combat
-Basically identical with some reskinning with the exception of damage types. 
-- Bludgeoning, piercing, and slashing are collapsed into kinetic damage.
-- Ion is a new damage with improved efficacy against constructs, droids, and electronics.
-- Radiant has become energy damage.
-- Thunder has become sonic damage.
+### Capítulo 9: Combate
+Básicamente es idéntico con algunos resquebrajamientos con la excepción de los tipos de daños. 
+- El apaleamiento, la perforación y el corte se derrumban en el daño cinético.
+- El ión es un nuevo daño con una eficacia mejorada contra las construcciones, los droides y la electrónica.
+- El radiante se ha convertido en un daño energético.
+- El trueno se ha convertido en un daño sónico.
 
 ### Chapter 10:<br> Force- and Tech-casting
-There are two major changes in this section:
-- Spells are now called powers.
-- Cantrips are now called at-will powers.
-- An interpretation and simplification of the spell point variant from the DMG. Basically, casting a power at a given level costs that level + 1 points.
-- Spellcasting has been separated into force- and tech-casting.<br>
-&emsp;Forcecasting uses Wisdom/Charisma and Force Points, which regenerate on a long rest.<br>
-&emsp;Techcasting uses Intelligence and Tech Points, which regenerate on a short rest.<br>
-&emsp;While a character can have both force- and tech-casting, they are kept completely separate.
+Hay dos cambios importantes en esta sección:
+- Los hechizos se llaman ahora poderes.
+- Los cantrips se llaman ahora poderes a voluntad.
+- Una interpretación y simplificación de la variante del punto de hechizo de la DMG. Básicamente, lanzar una potencia a un nivel determinado cuesta ese nivel + 1 punto.
+- La fundición de hechizos se ha separado en fundición de fuerza y técnica.
+&emsp;La previsión utiliza los puntos de sabiduría/carisma y fuerza, que se regeneran en un largo descanso.<br>
+Techcasting usa puntos de inteligencia y tecnología, que se regeneran con un breve descanso.
+Mientras que un personaje puede tener tanto fuerza como tecnología, se mantienen completamente separados.
 
-### Chapters 11 and 12:<br> Force and Tech Powers
-Chapter 11 has been broken down into two chapters to keep force and tech powers separate.
+### Capítulos 11 y 12:<br> Fuerza y Poderes Técnicos
+El capítulo 11 se ha dividido en dos capítulos para mantener separados los poderes de la fuerza y la tecnología.
 
 ### Monster Manual
-There is a Monster Manual ready to use.
+Hay un Manual del Monstruo listo para usar.
 
 ### Starships of the Galaxy
-There is a space expansion optional rule set called Starships of the Galaxy, in honor of the Saga edition's book.
+Hay un conjunto de reglas opcionales de expansión espacial llamado "Naves estelares de la galaxia", en honor al libro de la edición Saga.
+

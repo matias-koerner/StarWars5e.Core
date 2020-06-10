@@ -1,31 +1,31 @@
 
 
-# Chapter 3: Classes
+# Capítulo 3: Clases
 
 <img src='https://www.gmbinder.com/images/TP83mUX.png' style='position:absolute;top:90px;left:75px;width:35px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">dventurers are extraordinary people, driven by a thirst</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for excitement into a life that others would never dare lead. They are heroes, compelled to explore the dark places of the world and take on the challenges that lesser women and men can't stand against. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">aventureros son personas extraordinarias, impulsados por una sed</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; por la emoción en una vida que otros nunca se atreverían a llevar. Son héroes, obligados a explorar los lugares oscuros del mundo y a asumir los retos que las mujeres y hombres menores no pueden enfrentar. 
 
-Class is the primary definition of what your character can do. It's more than a profession; it's your character's calling. Class shapes the way you think about the world and interact with it and your relationship with other people and powers in the galaxy. A fighter, for example, might view the world in pragmatic terms of strategy and maneuvering, and see herself as just a pawn in a much larger game. A consular, by contrast, might see himself as a willing servant of the Force. While the fighter has contacts in a mercenary company or army, the consular might know a number of Jedi or Sith who share his faith.
+La clase es la principal definición de lo que tu personaje puede hacer. Es más que una profesión; es la vocación de tu personaje. La clase da forma a la forma en que piensas sobre el mundo e interactúas con él y tu relación con otras personas y poderes en la galaxia. Un luchador, por ejemplo, podría ver el mundo en términos pragmáticos de estrategia y maniobras, y verse a sí mismo como un peón en un juego mucho más grande. Un consular, por el contrario, podría verse a sí mismo como un sirviente de la Fuerza. Mientras que el combatiente tiene contactos en una compañía mercenaria o un ejército, el consular podría conocer a un número de Jedi o Sith que comparten su fe.
 
-Your class gives you a variety of special features, such as a fighter's mastery of weapons and armor, and an engineer's powers. At low levels, your class gives you only two or three features, but as you advance in level you gain more and your existing features often improve. Each class entry in this chapter includes a table summarizing the benefits you gain at every level, and a detailed explanation of each one.
+Tu clase te da una variedad de características especiales, como el dominio de las armas y armaduras de un luchador, y los poderes de un ingeniero. En los niveles bajos, tu clase sólo te da dos o tres características, pero a medida que avanzas en el nivel ganas más y tus características existentes a menudo mejoran. Cada entrada de la clase en este capítulo incluye una tabla que resume los beneficios que obtienes en cada nivel, y una explicación detallada de cada uno.
 
 \columnbreak
 
-Adventurers sometimes advance in more than one class. An operative might switch direction in life and become an engineer. A berserker might discover latent force sensitivity and dabble in the guardian class while continuing to advance as a berserker. Sith purebloods are known to combine martial mastery with force training and advance as fighters and consulars simultaneously. Optional rules for combining classes in this way, called multiclassing, appear in chapter 6.
+Los aventureros a veces avanzan en más de una clase. Un operativo puede cambiar de dirección en la vida y convertirse en un ingeniero. Un berserker puede descubrir la sensibilidad de la fuerza latente y hacer incursiones en la clase de los guardianes mientras continúa avanzando como un berserker. Se sabe que los Sith purasangre combinan la maestría marcial con el entrenamiento de fuerza y avanzan como luchadores y consulares simultáneamente. Las reglas opcionales para combinar las clases de esta manera, llamadas multiclases, aparecen en el capítulo 6.
 
-> Many classes and archetypes add material costs to obtain features integral to the class while most others don't. Your GM can choose to waive the time and cost component if they choose to do so.
+> Muchas clases y arquetipos agregan costos de material para obtener características integrales de la clase mientras que la mayoría de los otros no lo hacen. Su GM puede elegir renunciar al componente de tiempo y costo si así lo decide.
 >
-> Additionally, certain classes and subclasses will often find themselves with a singular force or tech point, with which they can do nothing. Any character with the force- or tech-casting feature also gains the following feature:
+> Además, ciertas clases y subclases se encontrarán a menudo con una fuerza o punto técnico singular, con el que no pueden hacer nada. Cualquier personaje con la característica de fuerza o punto técnico también obtiene la siguiente característica:
 > 
-> When you fail an ability check, if you added your proficiency bonus to the check and you did not have advantage or disadvantage, you can spend 1 force or tech point to reroll the die. You can only use this feature once per ability check, and you must use the new roll.
+> Cuando fallas un chequeo de habilidad, si agregas tu bono de habilidad al chequeo y no tienes ventaja o desventaja, puedes gastar 1 punto de fuerza o tecnología para volver a lanzar el dado. Sólo puedes usar esta característica una vez por chequeo de habilidad, y debes usar la nueva tirada.
 
-Choose from the following class options:
+Elija entre las siguientes opciones de clase:
 
 <div class='classTable wide' style='position:absolute;bottom:200px;left:75px;width:687px'>
 
-##### Classes
-|Class|Description|Hit<br> Die|Primary<br> Ability|Saving Throw<br> Proficiencies|
+##### Clases
+|Clase|Descripción|Hit<br> Die|Primary<br> Ability|Saving Throw<br> Proficiencies|
 |:--|:--|:--|:--|:--|
 |Berserker|Melee combatant who utilizes rage to increase prowess|d12|Strength|Strength & Constitution|
 |Consular|Force-wielder who focuses on utilizing force powers|d6|Wisdom|Wisdom & Charisma|
@@ -59,27 +59,27 @@ Choose from the following class options:
 \pagebreak
 
 ## Berserker
-<span style="font-variant: small-caps">A massive wookiee hunter prowls through the forest, hefting</span> his vibroaxe. With a roar he charges at the pair of trandoshans who dared poach his kin. 
+<span style="font-variant: small-caps">Un enorme cazador de wookiee merodea por el bosque, hefting</span> su vibroaxe. Con un rugido ataca a la pareja de trandoshans que se atrevió a cazar a sus parientes. 
 
-A gamorrean snarls at the latest challenger to his authority over their savage tribe, ready to break his neck with his bare hands as he did to the last six rivals. 
+Un gamorreo gruñe en el último desafío a su autoridad sobre su tribu salvaje, listo para romperse el cuello con sus propias manos como lo hizo con los últimos seis rivales. 
 
-Frothing at the mouth, a nikto slams his helmet into the face of his foe, then turns to drive his armored elbow into the gut of another.
+Espumando en la boca, un nikto golpea su casco contra la cara de su enemigo, y luego se gira para clavar su codo blindado en la tripa de otro.
 
-These berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
-  
+Estos berserkers, por muy diferentes que sean, se definen por su rabia: furia desenfrenada, insaciable e irreflexiva. Más que una mera emoción, su ira es la ferocidad de un depredador acorralado, el asalto implacable de una tormenta, la agitada agitación del mar. Para todo berserker, la rabia es un poder que alimenta no sólo el frenesí de la batalla, sino también los reflejos, la resistencia y las hazañas de fuerza.
+ 
 <div style='margin-top:34px'></div>
 
 ### Primal Instinct
-People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of<br> superiority. To a berserker, though,<br> civilization is no virtue, but a sign<br> of weakness. The strong embrace their<br> animal nature keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive where the civilized don't.
+La gente de los pueblos y ciudades se enorgullece de cómo sus formas civilizadas los diferencian de los animales, como si negar la propia naturaleza fuera una marca de superioridad. Para un berserker, sin embargo, <br> la civilización no es una virtud, sino un signo <br> de debilidad. Los fuertes abrazan su <br> naturaleza animal instintos agudos, fisicalidad primitiva, y rabia feroz. Los berserkers se sienten incómodos cuando están rodeados de muros y multitudes. Prosperan donde los civilizados no lo hacen.
 
-Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise.
-  
+Los berserkers cobran vida en el caos del combate. Pueden entrar en un estado de locura donde la rabia toma el control, dándoles fuerza y resistencia sobrehumanas. Un berserker puede recurrir a esta reserva de furia sólo unas pocas veces sin descansar, pero esas pocas rabias suelen ser suficientes para derrotar cualquier amenaza que surja.
+ 
 <div style='margin-top:105px'></div>
 
 ### A Life of Danger
-Not every person deemed "berserkers" by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to.
+No todas las personas consideradas "berserkers" por los descendientes de la sociedad civilizada tienen la clase berserker. Un verdadero berserker entre estas personas es tan poco común como un hábil luchador en un pueblo, y juega un papel similar como protector del pueblo y líder en tiempos de guerra. La vida en los lugares salvajes del mundo está llena de peligros: tribus rivales, clima mortal y monstruos aterradores. Los berserkers se lanzan de cabeza a ese peligro para que su gente no tenga que hacerlo.
 
-Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.
+Su coraje ante el peligro hace que los berserkers sean perfectos para la aventura. Vagar es a menudo una forma de vida para sus tribus nativas, y la vida desarraigada del aventurero es poca dificultad para un berserker. Algunos berserkers echan de menos las estructuras familiares estrechamente unidas de la tribu, pero con el tiempo las encuentran sustituidas por los lazos que se forman entre los miembros de sus grupos de aventureros.
 
 \columnbreak
   
@@ -88,14 +88,14 @@ Their courage in the face of danger makes berserkers perfectly suited for advent
 <img src='https://www.gmbinder.com/images/fwgM1ml.png' style='position:absolute;top:32px;right:-80px;width:573px;mix-blend-mode:darken;transform:scaleX(-1)' />
 
 ### Creating a Berserker
-When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your GM about an appropriate origin for your berserker. Did you come from a remote planet, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where berserkers are common?
+Al crear un personaje berserker, piensa en el origen de tu personaje y su lugar en el mundo. Habla con tu GM sobre un origen apropiado para tu berserker. ¿Vienes de un planeta remoto, lo que te convierte en un extraño en el área de la campaña? ¿O la campaña está ambientada en una frontera difícil donde los berserkers son comunes?
 
-What led you to take up the adventuring life? Were you lured to settled planets by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to "civilized" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
+¿Qué te llevó a tomar la vida de aventuras? ¿Fuiste atraído a los planetas establecidos por la promesa de riquezas? ¿Utilizasteis las fuerzas de los soldados de esas tierras para enfrentaros a una amenaza común? ¿Los monstruos o una horda invasora lo expulsaron de su tierra natal, convirtiéndolo en un refugiado desarraigado? Quizás fuiste prisionero de guerra, encadenado a tierras "civilizadas" y sólo ahora puedes ganar tu libertad. O quizás fuiste expulsado de tu pueblo por un crimen que cometiste, un tabú que violaste, o un golpe de estado que te sacó de una posición de autoridad.
 
 #### Quick Build
-You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the mercenary background.
+Puedes hacer un berserker rápidamente siguiendo estas sugerencias. Primero, pon tu mayor puntuación de habilidad en Fuerza, seguido de Constitución. Segundo, elige el fondo mercenario.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -127,8 +127,8 @@ You can make a berserker quickly by following these suggestions. First, put your
 
 </div>
 
-## Class Features
-As a berserker, you gain the follow class features.
+## Características de la clase
+Como berserker, obtienes las siguientes características de clase.
 
 #### Hit Points
 ___
@@ -149,184 +149,184 @@ ___
 
 <div style='margin-top:54.5px'></div>
 
-#### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+#### Equipo
+Comienza con el siguiente equipo, además del que le otorgan sus antecedentes:
 
-- *(a)* a martial vibroweapon and a light or medium physical shield or *(b)* two martial vibroweapons
-- *(a)* two techaxes or *(b)* two vibrospears
-- An explorer's pack
+- *(a)* un vibro-arma marcial y un escudo físico ligero o medio o *(b)* dos vibro-armas marciales
+- *(a)* dos techaxes o *(b)* dos vibrosparas
+- Una manada de exploradores
 
-#### Variant: Starting Wealth 
-In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using the criteria below:
+#### Variante: Riqueza inicial 
+En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
-|	Class		|	Funds		|						
-|	:--			|	--:			|						
-|	Berserker	|	1,000 + 2d4 x 100 cr|
+|Clase		|Fondos...		|						
+	|:--			|--:			|						
+|Berserker 1	.000 + 2d4 x 100 cr.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ### Rage
-In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+En la batalla, luchas con una ferocidad primitiva. En tu turno, puedes entrar en la furia como una acción extra.
 
-While raging, you gain the following benefits if you aren't wearing heavy armor:
-- You have advantage on Strength checks and Strength saving throws.
-- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a berserker, as shown in the Rage Damage column of the Berserker table.
-- You have resistance to kinetic and energy damage.
+Mientras se está furioso, se obtienen los siguientes beneficios si no se lleva una armadura pesada:
+- Tienes ventaja en los chequeos de fuerza y en los lanzamientos de ahorro de fuerza.
+- Cuando realizas un ataque con armas de combate cuerpo a cuerpo usando la Fuerza, obtienes una bonificación a la tirada de daño que aumenta a medida que ganas niveles como berserker, como se muestra en la columna de Daño de Furia de la tabla de Berserker.
+- Tienes resistencia a los daños cinéticos y energéticos.
 
-If you are able to cast powers, you can't cast them or concentrate on them while raging.
+Si eres capaz de lanzar poderes, no puedes lanzarlos o concentrarte en ellos mientras estás furioso.
 
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Tu rabia dura un minuto. Termina pronto si te dejan inconsciente o si tu turno termina y no has atacado a una criatura hostil desde tu último turno o has sufrido daños desde entonces. También puedes terminar tu rabia en tu turno como una acción extra.
 
-Once you have raged the number of times shown for your berserker level in the Rages column of the Berserker table, you must finish a long rest before you can rage again.
+Una vez que hayas hecho el número de veces que se muestra para tu nivel de berserker en la columna Furia de la tabla de Berserker, debes terminar un largo descanso antes de que puedas volver a hacer rabiar.
 
 ### Unarmored Defense
-While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+Mientras no lleves ninguna armadura, tu clase de armadura es igual a 10 + tu modificador de destreza + tu modificador de constitución. Puedes usar una armadura y aún así obtener este beneficio.
 
 ### Reckless Attack 
-Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+A partir del 2º nivel, puedes dejar de lado toda preocupación por la defensa para atacar con feroz desesperación. Cuando hagas tu primer ataque en tu turno, puedes decidir atacar imprudentemente. Hacerlo te da ventaja en las tiradas de ataque de armas cuerpo a cuerpo usando la Fuerza durante este turno, pero las tiradas de ataque contra ti tienen ventaja hasta tu próximo turno.
 
 ### Danger Sense
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
+En el 2º nivel, obtienes una extraña sensación de cuando las cosas cercanas no son como deberían ser, dándote una ventaja cuando te alejas del peligro.
 
-You have advantage on Dexterity saving throws against effects that you can see, such as traps and powers. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+Tienes ventaja en la destreza ahorrando lanzamientos contra efectos que puedes ver, como trampas y poderes. Para obtener este beneficio, no puedes ser ciego, sordo o incapacitado.
 
 ### Berserker Approach
-At 3rd level, you choose an approach that shapes the nature of your rage which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
+En el tercer nivel, eliges un enfoque que moldea la naturaleza de tu rabia que se detalla al final de la descripción de la clase. Tu elección te otorga características en el 3er nivel y de nuevo en el 6º, 10º y 14º nivel.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 \columnbreak
 
 ### Extra Attack
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+A partir del 5º nivel, puedes atacar dos veces, en vez de una, siempre que tomes la acción de Ataque en tu turno.
 
 ### Fast Movement
-Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
+A partir del 5º nivel, la velocidad aumenta en 3 metros mientras no llevas una armadura pesada.
 
 ### Feral Instinct
-By 7th level, your instincts are so honed that you have advantage on initiative rolls.
+En el 7º nivel, tus instintos están tan afilados que tienes ventaja en los rollos de iniciativa.
 
-Additionally, if you are surprised at the start of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Además, si se sorprende al comienzo del combate y no está incapacitado, puede actuar con normalidad en su primer turno, pero sólo si entra en su furia antes de hacer cualquier otra cosa en ese turno.
 
 ### Brutal Critical
-Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
+A partir del noveno nivel, puedes lanzar un dado de daño de arma adicional al determinar el daño extra para un golpe crítico con un ataque cuerpo a cuerpo.
 
-This increases to two additional dice at 13th level and three additional dice at 17th level.
+Esto aumenta a dos dados adicionales en el nivel 13 y tres dados adicionales en el nivel 17.
 
 ### Relentless Rage
-Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
+A partir del nivel 11, tu rabia puede hacer que sigas luchando a pesar de las graves heridas. Si bajas a 0 puntos de golpe mientras estás furioso y no mueres en el acto, puedes hacer un tiro de salvamento de la Constitución DC 10. Si lo logras, bajarás a 1 punto de golpe en su lugar.
 
-Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
+Cada vez que usas esta función después de la primera, el DC aumenta en 5. Cuando terminas un descanso corto o largo, el DC se restablece a 10.
 
 ### Persistent Rage
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
+A partir del nivel 15, tu rabia es tan feroz que sólo termina pronto si caes inconsciente o si eliges terminarla.
 
-### Indomitable Might
-Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.
+### Indomable Might
+A partir del nivel 18, si el total del chequeo de fuerza es menor que su puntuación de fuerza, puede usar esa puntuación en lugar del total.
 
 ### Primal Champion
-At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores increases by 4. 
+En el nivel 20, encarnas el poder de los salvajes. Tus puntuaciones de Fuerza y Constitución aumentan en 4. Tu máximo para esas puntuaciones aumenta en 4. 
 
 ## Berserker Approaches
-Rage burns in every berserker's heart, a furnace that drives him or her toward greatness. Different berserkers attribute their rage to different sources, however. For some, it is an internal reservoir where pain, grief, and anger are forged into a fury hard as steel, while for others see it as a spiritual blessing.
+La rabia arde en el corazón de cada berserker, un horno que lo impulsa hacia la grandeza. Sin embargo, los diferentes berserkers atribuyen su rabia a diferentes fuentes. Para algunos, es un depósito interno donde el dolor, la pena y la ira se forjan en una furia dura como el acero, mientras que para otros lo ven como una bendición espiritual.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ## Augmented Approach
-The Augmented Approach is for those who seek to increase their prowess through cybernetic enhancement. Some who take this path go so far they are left with little more than the memory of the body they once owned, all to achieve in combat what they cannot with a body made of flesh and bone.
+El Enfoque Aumentado es para aquellos que buscan aumentar su destreza a través de la mejora cibernética. Algunos que toman este camino llegan tan lejos que les queda poco más que la memoria del cuerpo que una vez poseyeron, todo para lograr en combate lo que no pueden con un cuerpo hecho de carne y hueso.
 
 ### Basic Cybernetics
-When you choose this approach at 3rd level, you learn the *mending* and *analyse* tech powers and can cast them without the use of a wristpad or spending tech points. You can cast *analyse* this way a number of times equal to your Constitution modifier (minimum of one). You regain all expended uses when you complete a long rest.
+Cuando eliges este enfoque en el 3er nivel, aprendes los poderes técnicos de *reparación* y *análisis* y puedes lanzarlos sin necesidad de usar una muñequera o gastar puntos técnicos. Puedes lanzar *analizar* de esta manera un número de veces igual al de tu modificador de la Constitución (mínimo de uno). Recuperarás todos los usos gastados cuando completes un largo descanso.
 
 ### Overdrive Enhancement
-Also at 3rd level, you gain a cybernetic enhancement. Choose one of the following enhancements and gain its feature. You must undergo cybernetic surgery by a person proficient in biotech's tools that incorporates this enhancement into your body. This surgery costs 100 credits and takes 8 hours.
+También en el tercer nivel, se obtiene una mejora cibernética. Elija una de las siguientes mejoras y obtenga su característica. Debe someterse a una cirugía cibernética realizada por una persona competente en herramientas de biotecnología que incorpore esta mejora en su cuerpo. Esta cirugía cuesta 100 créditos y dura 8 horas.
 
 #### Dermal Armor
-While raging you have resistance to all damage except psychic damage.
+Mientras que la rabia tiene resistencia a todos los daños excepto a los psíquicos.
 
-#### Morbid Protrusions
-While raging, your unarmed strike deals 1d4 + Strength modifier kinetic damage and when you take the Attack action and attack with a melee weapon or unarmed strike, you can use a bonus action to make an unarmed attack. 
+#### Protuberancias mórbidas
+Mientras que se enfurece, tu ataque desarmado inflige 1d4 + modificador de fuerza de daño cinético y cuando realizas la acción de Ataque y atacas con un arma de combate cuerpo a cuerpo o con un ataque desarmado, puedes usar una acción de bonificación para realizar un ataque desarmado. 
 
-This unarmed attack die increases to 1d6 at 5th level, 1d8 at 11th level, and 1d10 at 17th level.
+Este dado de ataque desarmado aumenta a 1d6 en el 5º nivel, 1d8 en el 11º nivel y 1d10 en el 17º nivel.
 
-#### Pressurised Limbs
-While raging, you can use your bonus action to leap up to 30 feet to an empty space you can see. When you land you deal kinetic damage equal to your Strength modifier to each creature within 5 feet of where you land. You can use this feature a number of times equal to your Consitution modifier (minimum of one). You regain all expended uses when you complete a long rest.
+#### Miembros Presurizados
+Mientras te enfureces, puedes usar tu acción extra para saltar hasta 30 pies a un espacio vacío que puedas ver. Cuando aterrizas, infliges un daño cinético igual a tu modificador de fuerza a cada criatura dentro de los 5 pies de donde aterrizas. Puedes usar esta característica un número de veces igual a tu modificador de Constitución (mínimo de uno). Recuperas todos los usos gastados cuando completas un largo descanso.
 
-#### Twitchlock Actuators
-While you're raging, other creatures have disadvantage on opportunity attack rolls against you, you can also use the Dash action as a bonus action on your turn.
+#### Actuadores Twitchlock
+Mientras estás furioso, otras criaturas tienen desventajas en las tiradas de ataque de oportunidad en tu contra, también puedes usar la acción Dash como una acción de bonificación en tu turno.
 
 ### Support Enhancement
-At 6th level you gain an additional cybernetic enhancement. Choose one of the following enhancements and gain its feature. You must undergo cybernetic surgery by a person proficient in biotech's tools that incorporates this enhancement into your body. This surgery costs 600 credits and takes 8 hours.
+En el sexto nivel se obtiene una mejora cibernética adicional. Elija una de las siguientes mejoras y obtenga su característica. Debes someterte a una cirugía cibernética realizada por una persona competente en herramientas de biotecnología que incorpore esta mejora en tu cuerpo. Esta cirugía cuesta 600 créditos y dura 8 horas.
 
 #### Body Sculpting
-You gain proficiency in two skills of your choice from Athletics, Acrobatics, Stealth, and Sleight of Hand.
+Se adquiere competencia en dos habilidades de su elección: Atletismo, Acrobacia, Sigilo y Truco de Mano.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
 #### Holdout Cavity
-You have a shielded compartment built into your body that can be used to store and hide a light weapon or item of similar size.
+Tienes un compartimento blindado incorporado en tu cuerpo que puede ser usado para almacenar y esconder un arma ligera o un objeto de tamaño similar.
 
-#### Krykna Anchors
-You gain a climbing speed equal to your movement speed.
+#### Krykna Anclas
+Ganarás una velocidad de ascenso igual a tu velocidad de movimiento.
 
 #### Panspectral Optics
-You can see up to 1 mile away with no difficulty. You are able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
+Puedes ver hasta 1 milla de distancia sin dificultad. Eres capaz de discernir incluso los detalles más finos como si estuvieras mirando algo a no más de 100 pies de distancia. Además, la luz tenue no impone una desventaja en tus chequeos de Sabiduría (Percepción).
 
-#### Support Structure
-Your carrying capacity (including maximum load and maximum lift) is doubled and you have advantage on Strength checks made to push, pull, lift, or break objects.
+#### Estructura de apoyo
+Su capacidad de carga (incluyendo la carga máxima y la elevación máxima) se duplica y usted tiene ventaja en los controles de fuerza realizados para empujar, tirar, levantar o romper objetos.
 
 ### More Machine than Man
-Starting at 10th level, your cybernetics allow you to become immune to poison and disease. Additionally, you ignore unenhanced difficult terrain.
+A partir del décimo nivel, tu cibernética te permite ser inmune al veneno y a las enfermedades. Además, ignoras el terreno difícil no mejorado.
 
 ### Final Enhancement
-At 14th level you gain a final cybernetic enhancement. Choose one of the following enhancements and gain its feature. You must undergo cybernetic surgery by a person proficient in biotech's tools that incorporates this enhancement into your body. This surgery costs 2000 credits and takes 8 hours.
+En el nivel 14 se obtiene una mejora cibernética final. Elija una de las siguientes mejoras y obtenga su característica. Debes someterte a una cirugía cibernética realizada por una persona competente en herramientas de biotecnología que incorpore esta mejora en tu cuerpo. Esta cirugía cuesta 2000 créditos y dura 8 horas.
 
-#### Holoskin Emitters
-While you're raging any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.
+#### Emisores de Holoskin
+Mientras estás enfureciendo a cualquier criatura a menos de 5 pies de ti que te sea hostil tiene una desventaja en las tiradas de ataque contra objetivos que no sean tú u otro personaje con esta característica. Un enemigo es inmune a este efecto si no puede verte u oírte o si no puede ser asustado.
 
 #### Hydraulic Overrides
-While you're raging you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.
+Mientras estás furioso puedes usar una acción extra en tu turno para golpear a una criatura grande o más pequeña cuando la golpees con un ataque de arma de fuego cuerpo a cuerpo.
 
 #### Integrated Boosters
-While raging you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
+Mientras que la furia tiene una velocidad de vuelo igual a su actual velocidad de marcha. Este beneficio funciona sólo en ráfagas cortas; te caes si terminas tu turno en el aire y nada más te mantiene en el aire.
 
-#### Ysalamir Capacitor Mesh
-When you are forced to make a saving throw against a force power, you can immediately use your reaction to move up to half your speed towards the source power's caster. If you end this movement within 5 feet of the target, you can immediately make one melee weapon attack against the target as a part of that reaction.
+#### Malla de condensadores de Ysalamir
+Cuando te ves obligado a hacer un tiro de salvamento contra una fuerza de poder, puedes usar inmediatamente tu reacción para moverte hasta la mitad de tu velocidad hacia el lanzador de la fuente de poder. Si terminas este movimiento a menos de 5 pies del objetivo, puedes hacer inmediatamente un ataque cuerpo a cuerpo contra el objetivo como parte de esa reacción.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ## Marauder Approach
-Few things are more terrifying than being in the path of a Berserker who has learned the ways of the Force. Those who follow this path unlock something deep within them, a well of untamed power from the depths of their fury. When a marauder unleashes their rage, they channel their brute strength into primal might, and uses it to devastate his foes in a hail of fire, blades, and blood. Due to the uncontrolled nature of their powers, marauders have a dangerous predilection for the strength and raw power offered by the dark side, and many fall into it's clutches. Even those who do not are always temped by the voices of fury barely contained within.
+Pocas cosas son más aterradoras que estar en el camino de un Berserker que ha aprendido los caminos de la Fuerza. Los que siguen este camino abren algo en lo profundo de su ser, un pozo de poder indómito desde las profundidades de su furia. Cuando un merodeador desata su furia, canalizan su fuerza bruta hacia el poder primitivo, y lo usan para devastar a sus enemigos en una lluvia de fuego, espadas y sangre. Debido a la naturaleza incontrolada de sus poderes, los merodeadores tienen una peligrosa predilección por la fuerza y el poder bruto que ofrece el lado oscuro, y muchos caen en sus garras. Incluso aquellos que no lo hacen son siempre tentados por las voces de furia apenas contenidas en su interior.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Forcecasting
-When you choose this approach at 3rd level, you have derived powers from your primal connection to the Force. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.
+### Forcasting
+Cuando eliges este enfoque en el 3er nivel, has derivado poderes de tu conexión primitiva con la Fuerza. Véase el capítulo 10 para las reglas generales de previsión y el capítulo 11 para la lista de poderes de la Fuerza.
 
 #### Force Powers Known
-You learn 4 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known column of the Marauder Approach Forcecasting table. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite.
+Aprendes 4 poderes de fuerza de tu elección, y aprendes más en niveles más altos, como se muestra en la columna de Poderes de Fuerza Conocidos de la tabla de Previsión de Acercamiento del Merodeador. No puedes aprender un poder de fuerza de un nivel más alto que tu Nivel de Poder Máximo, y puedes aprender un poder de fuerza al mismo tiempo que aprendes su prerrequisito.
 
 #### Force Points
-You have a number of force points equal to your berserker level, as shown in the Force Points column of the Marauder Approach Forcecasting table, + your Wisdom or Charisma modifier (your choice). You use these force points to cast force powers. You regain all expended force points when you finish a long rest.
+Tienes un número de puntos de fuerza igual a tu nivel de berserker, como se muestra en la columna de Puntos de Fuerza de la tabla de Previsión de Acercamiento del Merodeador, + tu modificador de Sabiduría o Carisma (a tu elección). Utilizas estos puntos de fuerza para lanzar poderes de fuerza. Recuperas todos los puntos de fuerza gastados cuando terminas un largo descanso.
 
 #### Max Power Level
-Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the Marauder Approach Forcecasting table.
+Muchos poderes de fuerza pueden ser superados, consumiendo más puntos de fuerza para crear un mayor efecto. Puedes dominar estas habilidades hasta un nivel máximo, que aumenta en los niveles superiores, como se muestra en la columna de Nivel de Poder Máximo de la tabla de Previsión de Acercamiento del Merodeador.
 
-You may only cast force powers at 4th-level once. You regain the ability to do so after a long rest.
+Sólo puedes lanzar poderes de fuerza en el 4º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
-#### Forcecasting Ability
-Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modifier whenever a power refers to your forcecasting ability. In addition, you use this ability score modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.
+#### Forcasting Ability
+Su capacidad de previsión varía según la alineación de los poderes que se le otorgan. Usas tu Sabiduría para los poderes del lado de la luz, Carisma para los del lado de la oscuridad, y Sabiduría o Carisma para los poderes universales (a tu elección). Utilizas este modificador de puntuación de habilidades siempre que un poder se refiera a tu capacidad de previsión. Además, usas este modificador de puntuación de habilidad cuando estableces el tiro salvador DC para una potencia de fuerza que lanzas y cuando haces una tirada de ataque con una.
 
 ___
 
@@ -343,13 +343,13 @@ ___
 ___
 
 ### Furious Force
-Also at 3rd level, you can cast force powers while raging as long as the power's casting time is no more than 1 action, the power does not require concentration, and you are not wearing heavy armor or wielding a medium or heavy shield. While raging, you add your rage damage to damage rolls from force powers you cast. If a force power damages more than one target, you may only apply your rage damage to one of the targets. 
+También en el 3er nivel, puedes lanzar poderes de fuerza mientras estás furioso, siempre y cuando el tiempo de lanzamiento del poder no sea más de 1 acción, el poder no requiera concentración, y no lleves una armadura pesada o uses un escudo mediano o pesado. Mientras estás furioso, añades el daño de la ira a las tiradas de daño de los poderes de fuerza que lanzas. Si un poder de fuerza daña a más de un objetivo, sólo puedes aplicar tu daño de ira a uno de los objetivos. 
 
-Casting force powers during rage counts as attacking for the purposes of maintaining rage, and you can use your Reckless Attack feature to gain advantage when casting a force power that requires an attack roll.
+Lanzar poderes de fuerza durante la furia cuenta como ataque con el propósito de mantener la furia, y puedes usar tu característica de Ataque Temerario para obtener ventaja cuando lances un poder de fuerza que requiera una tirada de ataque.
 
 <img src='https://www.gmbinder.com/images/tVrUTNS.png' style='position:absolute;bottom:27px;left:-270px;width:860px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -384,74 +384,74 @@ Casting force powers during rage counts as attacking for the purposes of maintai
 </div>
 
 ### Reckless Power
-At 6th level, weapons and the force are equally an extension of your rage. While you are raging and you use your action to cast a force power, you can make a single melee weapon attack as a bonus action.
+En el 6º nivel, las armas y la fuerza son igualmente una extensión de su rabia. Mientras estás furioso y utilizas tu acción para lanzar un poder de fuerza, puedes hacer un ataque con un solo arma de combate cuerpo a cuerpo como una acción extra.
 
 ### Powerful Presence
-Starting at 10th level, as a bonus action, you unleash a battle cry infused with force energy. Choose up to ten other creatures of  within 60 feet of you that can hear you. Friendly creatures have advantage on attack rolls and saving throws until the start of your next turn, and hostile creatures have disadvantage on attack rolls and saving throws until the end of your next turn.
+A partir del décimo nivel, como acción extra, desatas un grito de batalla impregnado de energía de fuerza. Escoge hasta diez criaturas más a menos de 60 pies de ti que puedan oírte. Las criaturas amigas tienen ventaja en las tiradas de ataque y en los lanzamientos de salvamento hasta el comienzo de tu próximo turno, y las criaturas hostiles tienen desventaja en las tiradas de ataque y en los lanzamientos de salvamento hasta el final de tu próximo turno.
 
-Once you've used this feature, you can't use it again until you finish a long rest.
+Una vez que hayas usado esta función, no podrás volver a usarla hasta que termines un largo descanso.
 
 ### Force Storm
-At 14th level, you can expel the might of your rage all at once to unleash a devastating storm of force energy. As an action, you can end your rage early, forcing each creature within 15 feet of you to make a Dexterity saving throw against your universal force save DC. On a failed save, a creature takes 1d12 force damage for each round you've spent in rage, or half as much on a successful one. 
+En el nivel 14, puedes expulsar el poder de tu ira de una sola vez para desatar una devastadora tormenta de energía de fuerza. Como acción, puedes terminar tu rabia antes de tiempo, forzando a cada criatura a menos de 15 pies de ti a hacer un lanzamiento de ahorro de destreza contra tu fuerza universal salvo DC. En una salvada fallida, una criatura recibe 1d12 de daño de fuerza por cada ronda que hayas gastado en rabia, o la mitad de lo que recibirías en una exitosa. 
 
 <img src='https://www.gmbinder.com/images/0ndBugv.png' style='position:absolute;bottom:27px;left:-175px;width:605px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ## Warchief Approach
-For some berserkers, it is their duty or birthright to lead their tribe and kin to battle and victory. The Warchief Approach is one forged from alliances, bonds, and strategy. In combat, your rages are less mindless, and more focused. Ignoring the distractions of unimportant events, your attention hones in on the battlefield and how best to direct and control it. You guide your allies' strikes, and your presence is enough to wash away their fatigue.
+Para algunos berserkers, es su deber o derecho de nacimiento guiar a su tribu y familiares a la batalla y la victoria. El enfoque de Warchief es uno forjado a partir de alianzas, lazos y estrategia. En el combate, tu furia es menos insensata y más concentrada. Ignorando las distracciones de eventos sin importancia, tu atención se centra en el campo de batalla y en la mejor manera de dirigirlo y controlarlo. Guias los ataques de tus aliados, y tu presencia es suficiente para lavar su fatiga.
 
 ### Savage Diplomat
-Your path necessitates that you build relationships<br> with others, for the betterment of your tribe or<br> yourself. 
+Tu camino requiere que construyas relaciones con otros, para el mejoramiento de tu tribu o de ti mismo. 
 
-When you choose this approach at 3rd level,<br> you gain proficiency in one of the following<br> skills of your choice: Persuasion or Intimidation.<br> You can choose to learn one language in place of<br> the skill proficiency.
+Cuando eliges este enfoque en el 3er nivel,<br> ganas competencia en una de las siguientes <br> habilidades de tu elección: Persuasión o Intimidación.<br> Puede elegir aprender un idioma en lugar de<br> el dominio de la habilidad.
 
 ### Commanding Rage
-Also at 3rd level, when in your rage, you become more aware of your allies, and their intent when fighting at your side. While you are raging, when an ally within 10 feet of you makes an attack roll against an enemy, you can use your reaction to grant advantage to that attack and add your rage damage bonus to the damage roll, if the attack hits.
+También en el 3er nivel, cuando en tu furia, te vuelves más consciente de tus aliados, y de su intención al luchar a tu lado. Mientras estás furioso, cuando un aliado a menos de 10 pies de ti hace una tirada de ataque contra un enemigo, puedes usar tu reacción para darle ventaja a ese ataque y añadir tu bono de daño por rabia a la tirada de daño, si el ataque impacta.
 
 ### Inspiring Presence
-At 6th level your mere presence on the battlefield rallies your allies. When you rage, choose up to 3 allies that you can see within 30 feet of you. Each creature gains temporary hit points equal to half your berserker level (rounded down) + your Charisma modifier (minimum of one).
+En el sexto nivel, tu mera presencia en el campo de batalla reúne a tus aliados. Cuando te enfurezcas, elige hasta 3 aliados que puedas ver a menos de 30 pies de ti. Cada criatura gana puntos de golpe temporales iguales a la mitad de tu nivel de berserker (redondeado hacia abajo) + tu modificador de carisma (mínimo de uno).
 
 ### Raid Planning
-Starting at 10th level, you learn to flare up your allies' drive for combat, urging them to follow you into the fray. During a long rest, you tell sagas, sing battle songs, and give inspiring speeches. At the end of the long rest choose up to 5 creatures that can hear and understand you (which can include yourself) to add your Charisma modifier (minimum of one) to their next initiative roll, and a 10 foot bonus to their speed on their first turn of combat.
+A partir del décimo nivel, aprenderás a hacer que tus aliados se lancen al combate, instándoles a que te sigan en la lucha. Durante un largo descanso, cuentas sagas, cantas canciones de batalla y das discursos inspiradores. Al final del largo descanso, elige hasta 5 criaturas que puedan oírte y entenderte (entre las que puedes incluirte a ti mismo) para añadir tu modificador de carisma (mínimo uno) a su siguiente tirada de iniciativa, y un bono de 10 pies a su velocidad en su primer turno de combate.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
 ### War Chant
-By 14th level you have memorized the litanies, songs, and chants of your people and their dedication to war. When you enter a rage you can take a commanding stance. If you do so, for the duration of your rage you have a special reaction you can take on a number of allies' turns equal to your Charisma modifier (minimum of one). You can only use this special reaction to use your Commanding Rage feature.
+Para el nivel 14 has memorizado las letanías, canciones y cantos de tu pueblo y su dedicación a la guerra. Cuando te enfurezcas puedes tomar una posición de mando. Si lo haces, durante la duración de tu furia tienes una reacción especial puedes tomar un número de turnos de aliados igual a tu modificador de Carisma (mínimo de uno). Sólo puedes usar esta reacción especial para usar tu característica de Furia Comandante.
 
-Additionally, during this rage, when an enemy within 10 feet of you makes an attack roll against an ally, you can use your reaction to reduce that roll by an amount equal to your Charisma<br> modifier.
+Además, durante esta furia, cuando un enemigo a menos de 10 pies de ti hace una tirada de ataque contra un aliado, puedes usar tu reacción para reducir esa tirada en una cantidad igual a tu modificador Carisma<br>.
 
-Once you've used this<br> feature, you must<br> complete a long<br> rest before you<br> can use it again.
+Una vez que hayas usado esta función, debes completar un largo descanso antes de que puedas volver a usarla.
 
 <img src='https://www.gmbinder.com/images/Fztc5iP.png' style='position:absolute;bottom:6px;right:-188px;width:835px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ## Consular
 <span style="font-variant: small-caps">A twi'lek in black robes steps on a terrified rodian, who </span> scampers away on the ground. Lightning sparks from his fingers, illuminating his red and black tattoos. The rodian's pleas for mercy fall on deaf ears as the Sith channels his lightning into his failed apprentice, leaving nothing but a charred husk behind.
 
-Sitting cross-legged on a dense patch of grass, a miraluka mystic meditates on the Force. With every breath, the trees sway with a rhythmic breeze. Though she lacks simple vision, she can see the Force as it moves everything around her. 
+Sentado con las piernas cruzadas en una densa parcela de hierba, un místico miraluka medita sobre la Fuerza. Con cada respiración, los árboles se mecen con una rítmica brisa. Aunque carece de una visión simple, puede ver la Fuerza mientras mueve todo a su alrededor. 
 
-A drably-robed human focuses inward, channeling the Force into the ground around him. Slowly, all the debris within arms reach rises into the air around him; with a flick of his wrist, he clears the air, sending his projectiles to pound on the approaching tank.
+Un humano con una túnica drástica se enfoca en su interior, canalizando la Fuerza en el suelo a su alrededor. Lentamente, todos los escombros al alcance de los brazos se elevan en el aire a su alrededor; con un movimiento de su muñeca, despeja el aire, enviando sus proyectiles a golpear el tanque que se aproxima.
 
-Consulars are the supreme wielders of the Force, defined and united by the powers they cast. Drawing on the omnipresent Force that permeates the universe, consulars cast powers of rejuvenating healing and destructive lightning, draining life-force and manipulating minds; the most powerful with the Force can even experience brief glimpses of the future. 
+Los consulares son los supremos poseedores de la Fuerza, definidos y unidos por los poderes que emiten. Recurriendo a la omnipresente Fuerza que impregna el universo, los consulares arrojan poderes de rejuvenecimiento, curación y rayos destructivos, drenando la fuerza vital y manipulando las mentes; los más poderosos con la Fuerza pueden incluso experimentar breves vislumbres del futuro. 
 
 <div style='margin-top:175px'></div>
 
 ### Strong with the Force
-Refraining from drawing their lightsabers except as a measure of last resort, consulars spend a great deal of time studying the mysteries of the Force. Their knowledge allows them to channel the Force to greater heights, unlocking unrivaled power, and twisting those powers to greater effect. 
+Absteniéndose de dibujar sus sables de luz excepto como último recurso, los consulares pasan mucho tiempo estudiando los misterios de la Fuerza. Su conocimiento les permite canalizar la Fuerza a mayores alturas, desbloqueando un poder sin igual, y retorciendo esos poderes para un mayor efecto. 
 
 <div style='margin-top:175px'></div>
 
 ### Sage or Sorcerer
-Consulars who follow the light side of the Force, using their powers to better their communities and people, are often called sages, while consulars who fall to the dark side and subjugate or cast aside all in their path are commonly called sorcerers. Alternatively, they may tend toward the middle, refraining from politics and war, spending their time in isolation and study.
+Los consulares que siguen el lado de la luz de la Fuerza, usando sus poderes para mejorar sus comunidades y personas, son a menudo llamados sabios, mientras que los consulares que caen en el lado oscuro y subyugan o apartan a todos en su camino son comúnmente llamados hechiceros. Alternativamente, pueden tender hacia el medio, absteniéndose de la política y la guerra, pasando su tiempo en el aislamiento y el estudio.
 
 \columnbreak
 
@@ -460,12 +460,12 @@ Consulars who follow the light side of the Force, using their powers to better t
 <img src='https://www.gmbinder.com/images/LbMaFdP.png' style='position:absolute;top:37px;right:-50px;width:600px;mix-blend-mode:darken;transform:scaleX(-1)' />
 
 ### Creating a Consular
-While creating your consular, consider your personal philosophy in regards to the Force and its most famous practitioners – the Jedi and the Sith. Are you a member of one of the two orders, or do you walk a different path? Perhaps you were ostracized from your primitive village out of superstition or jealousy. You may have been brutally trained from a young age in the dark side, fueling your innate thirst for power, or perhaps you were trained as a padawan in one of the Jedi temples. How do you treat strangers, and how do they treat you once they know your abilities? What was your family like, or what did you have instead of a family? Do you see the Force as light and dark, or an impartial river of gray? 
+Al crear su consulado, considere su filosofía personal con respecto a la Fuerza y sus practicantes más famosos - los Jedi y los Sith. ¿Es usted miembro de una de las dos órdenes, o camina por un camino diferente? Tal vez fue expulsado de su primitivo pueblo por superstición o celos. Puede que hayas sido brutalmente entrenado desde joven en el lado oscuro, alimentando tu sed innata de poder, o quizás fuiste entrenado como padawan en uno de los templos Jedi. ¿Cómo tratas a los extraños, y cómo te tratan ellos una vez que conocen tus habilidades? ¿Cómo era tu familia, o qué tenías en lugar de una familia? ¿Ves la Fuerza como clara y oscura, o como un río imparcial de color gris? 
 
 #### Quick Build
-You can make a consular quickly by following these suggestions. First, make Wisdom or Charisma your highest ability score, followed by Dexterity. Second, choose the Jedi or Sith background.
+Puede hacer un consulado rápidamente siguiendo estas sugerencias. Primero, haz de la Sabiduría o el Carisma tu mayor puntuación de habilidad, seguido de la Destreza. Segundo, elija el fondo Jedi o Sith.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -497,8 +497,8 @@ You can make a consular quickly by following these suggestions. First, make Wisd
 
 </div>
 
-## Class Features
-As a consular, you gain the following class features.
+## Características de la clase
+Como consular, usted obtiene las siguientes características de clase.
 
 #### Hit Points
 ___
@@ -524,33 +524,33 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a simple lightweapon or *(b)* a simple vibroweapon
 - *(a)* a scholar's pack, *(b)* an explorer's pack, or *(c)* a diplomat's pack
 
-#### Variant: Starting Wealth 
-In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using the criteria below:
+#### Variante: Riqueza inicial 
+En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
 |	Class		|	Funds		|						
 |	:--			|	--:			|					
 |	Consular	|	1,000 + 2d4 x 100 cr|	
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Forcecasting
-In your meditations on the force, you have learned powers, fragments of knowledge that imbue you with an abiding force ability. See chapter 10 for the general rules of forcecasting and chapter 11 for the force powers list.
+### Forcasting
+En tus meditaciones sobre la fuerza, has aprendido poderes, fragmentos de conocimiento que te confieren una capacidad de fuerza duradera. Ver el capítulo 10 para las reglas generales de previsión y el capítulo 11 para la lista de poderes de la fuerza.
 
 #### Force Powers Known
-You learn 8 force powers of your choice, and you learn more at higher levels, as shown in the Force Powers Known column of the consular class table. You may not learn a force power of a level higher than your Max Power Level, and you may learn a force power at the same time you learn its prerequisite.
+Aprendes 8 poderes de fuerza de tu elección, y aprendes más en niveles más altos, como se muestra en la columna de Poderes de Fuerza Conocidos de la tabla de la clase consular. No puedes aprender un poder de fuerza de un nivel más alto que tu Nivel de Máximo Poder, y puedes aprender un poder de fuerza al mismo tiempo que aprendes su prerrequisito.
 
 #### Force Points
-You have a number of force points equal to your consular level x 4, as shown in the Force Points column of the consular class table, + your Wisdom or Charisma modifier (your choice). You use these force points to cast force powers. You regain all expended force points when you finish a long rest.
+Usted tiene un número de puntos de fuerza igual a su nivel consular x 4, como se muestra en la columna de puntos de fuerza de la tabla de clases consulares, + su modificador de Sabiduría o Carisma (a su elección). Usas estos puntos de fuerza para lanzar poderes de fuerza. Recuperas todos los puntos de fuerza gastados cuando terminas un largo descanso.
 
 #### Max Power Level
-Many force powers can be overpowered, consuming more force points to create a greater effect. You can overpower these abilities to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the consular class table.
+Muchos poderes de fuerza pueden ser superados, consumiendo más puntos de fuerza para crear un mayor efecto. Se pueden dominar estas habilidades hasta un nivel máximo, que aumenta en los niveles más altos, como se muestra en la columna de Nivel de Poder Máximo de la tabla de clases consulares.
 
-You may only cast force powers at 6th, 7th, 8th, and 9th-level once. You regain the ability to do so after a long rest.
+Sólo puedes lanzar poderes de fuerza en el 6º, 7º, 8º y 9º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
-#### Forcecasting Ability
-Your forcecasting ability varies based on the alignment of the powers you cast. You use your Wisdom for light side powers, Charisma for dark side powers, and Wisdom or Charisma for universal powers (your choice). You use this ability score modifier whenever a power refers to your forcecasting ability. In addition, you use this ability score modifier when setting the saving throw DC for a force power you cast and when making an attack roll with one.
+#### Forcasting Ability
+Su capacidad de previsión varía según la alineación de los poderes que se le otorgan. Usas tu Sabiduría para los poderes del lado de la luz, Carisma para los del lado de la oscuridad, y Sabiduría o Carisma para los poderes universales (a tu elección). Utilizas este modificador de puntuación de habilidades siempre que un poder se refiera a tu capacidad de previsión. Además, usas este modificador de puntuación de habilidad cuando estableces el tiro salvador DC para una potencia de fuerza que lanzas y cuando haces una tirada de ataque con una.
 
 ___
 
@@ -567,207 +567,207 @@ ___
 ___
 
 ### Force Recovery
-Also at 1st level, you have learned to regain some of your energy by briefly meditating. When you finish a short rest, you can regain a number of force points equal to half your consular level (rounded down) + your Wisdom or Charisma modifier (your choice, minimum of one). Once you've used this feature, you must complete a long rest before you can use it again.
+También en el primer nivel, has aprendido a recuperar algo de tu energía meditando brevemente. Cuando termines un breve descanso, podrás recuperar un número de puntos de fuerza igual a la mitad de tu nivel consular (redondeado hacia abajo) + tu modificador de Sabiduría o Carisma (a tu elección, mínimo uno). Una vez que hayas utilizado esta función, debes completar un largo descanso antes de poder utilizarla de nuevo.
 
 \columnbreak
 
 ### Force-Empowered Casting
-At 2nd level, you gain the ability to twist your powers to suit your needs. When you cast a force power, you can expend additional force points to modify the power. You gain two of the following Empowerment options of your choice. You gain another one at 10th and 17th level.
+En el 2º nivel, obtienes la habilidad de retorcer tus poderes para adaptarlos a tus necesidades. Cuando lanzas un poder de fuerza, puedes gastar puntos de fuerza adicionales para modificar el poder. Obtienes dos de las siguientes opciones de poder de tu elección. Ganas otra en el 10º y 17º nivel.
 
-You can use only one Empowerment option on a power when you cast it, unless otherwise noted.
+Sólo puedes usar una opción de potenciación en un poder cuando lo lanzas, a menos que se indique lo contrario.
 
 #### Careful Power
-When you cast a power that forces other creatures to make a saving throw, you can protect some of those creatures from the power's full force. To do so, you spend 1 additional force point and choose a number of those creatures up to your Wisdom or Charisma modifier (your choice, minimum of one). A chosen creature automatically succeeds on its saving throw against the power.
+Cuando lanzas un poder que obliga a otras criaturas a hacer un lanzamiento salvador, puedes proteger a algunas de esas criaturas de la fuerza total del poder. Para ello, gastas 1 punto de fuerza adicional y eliges un número de esas criaturas hasta tu modificador de Sabiduría o Carisma (a tu elección, mínimo uno). Una criatura elegida tiene éxito automáticamente en su lanzamiento salvador contra el poder.
 
 #### Distant Power
-When you cast a power that has a range of 5 feet or greater, you can spend 1 additional force point to double the range of the power.
+Cuando lanzas una potencia que tiene un rango de 5 pies o más, puedes gastar 1 punto de fuerza adicional para doblar el rango de la potencia.
 
-When you cast a power that has a range of touch, you can spend 1 additional force point to make the range of the power 30 feet.
+Cuando lanzas una potencia que tiene un rango de toque, puedes gastar 1 punto de fuerza adicional para hacer que el rango de la potencia sea de 30 pies.
 
 #### Extended Power
-When you cast a power that has a duration of 1 minute or longer, you can spend 1 additional force point to double its duration, to a maximum duration of 24 hours.
+Cuando lanzas una potencia que tiene una duración de 1 minuto o más, puedes gastar 1 punto de fuerza adicional para duplicar su duración, hasta una duración máxima de 24 horas.
 
 #### Heightened Power
-When you cast a power that forces a creature to make a saving throw to resist its effects, you can spend 3 additional force points to give one target of the power disadvantage on its first saving throw made against the power.
+Cuando lanzas una potencia que obliga a una criatura a hacer un lanzamiento salvador para resistir sus efectos, puedes gastar 3 puntos de fuerza adicionales para dar a un objetivo de la desventaja de la potencia en su primer lanzamiento salvador hecho contra la potencia.
 
 #### Improved Power
-When you roll damage for a power, you can spend 1 additional force point to reroll a number of the damage dice up to your Wisdom or Charisma modifier (your choice, minimum of one). You must use the new rolls.
+Cuando tiras el daño para una potencia, puedes gastar 1 punto de fuerza adicional para volver a tirar un número de dados de daño hasta tu modificador de Sabiduría o Carisma (a tu elección, mínimo uno). Debes usar las nuevas tiradas.
 
-You can use Improved Power even if you have already used a different Empowerment option during the casting of the power.
+Puedes usar el Poder Mejorado incluso si ya has usado una opción de Poder diferente durante el lanzamiento del poder.
 
-#### Lingering Power
-When you cast a power that requires concentration to maintain you can choose to spend 3 additional force points. If you do, when you lose concentration on the power, the power will not end until the end of your next turn.
+#### Ling Ling Ling Ling
+Cuando lanzas una potencia que requiere concentración para mantenerla puedes elegir gastar 3 puntos de fuerza adicionales. Si lo haces, cuando pierdas la concentración en la potencia, ésta no terminará hasta el final de tu siguiente turno.
 
 #### Pinpoint Power 
-When you cast a power that allows you to force creatures in an area to make a saving throw you can instead spend 1 force point and make a ranged force attack against a single target that would be in the range. On a hit the target suffers the effects as though they failed their saving throw.
+Cuando lanzas un poder que te permite forzar a las criaturas de un área a hacer un lanzamiento de salvamento, puedes en cambio gastar 1 punto de fuerza y hacer un ataque de fuerza a distancia contra un solo objetivo que estaría en el rango. En un golpe, el objetivo sufre los efectos como si fallara su lanzamiento de salvamento.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 <div style='margin-top:23px'></div>
 
 #### Quickened Power
-When you cast a power that has a casting time of 1 action, you can spend 2 additional force points to change the casting time to 1 bonus action for this casting.
+Cuando lanzas una potencia que tiene un tiempo de lanzamiento de 1 acción, puedes gastar 2 puntos de fuerza adicionales para cambiar el tiempo de lanzamiento a 1 acción de bonificación para este lanzamiento.
 
 #### Refocused Power 
-When you are forced to make a Constitution saving throw to maintain concentration on a power you can use your reaction and spend 2 force points to automatically succeed on the saving throw. You can use this option even if you have already used a different Empowerment option during the casting of the power. 
+Cuando te obligan a hacer un tiro de salvamento de la Constitución para mantener la concentración en un poder puedes usar tu reacción y gastar 2 puntos de fuerza para tener éxito automáticamente en el tiro de salvamento. Puedes usar esta opción incluso si ya has usado una opción de potencia diferente durante el lanzamiento de la potencia. 
 
 #### Twinned Power
-When you cast a power that targets only one creature and doesn't have a range of self, you can spend a number of additional force points equal to the power's level to target a second creature in range with the same power (1 force point if the power is at-will).
+Cuando lanzas una potencia que tiene como objetivo una sola criatura y no tiene un rango de autodeterminación, puedes gastar un número de puntos de fuerza adicionales igual al nivel de la potencia para tener como objetivo una segunda criatura en el rango con la misma potencia (1 punto de fuerza si la potencia está a voluntad).
 
 ### Force Shield
-Also at 2nd level, you learn how to defend yourself purely through your strength with the Force. When you are hit by an attack, you can use your reaction to shroud yourself in Force energy. Until the start of your next turn, you have a bonus to AC equal to your Wisdom or Charisma modifier (your choice, a minimum of +1). This includes the triggering attack.
+También en el 2º nivel, aprendes a defenderte sólo con tu fuerza con la Fuerza. Cuando eres golpeado por un ataque, puedes usar tu reacción para envolverte en la energía de la Fuerza. Hasta el comienzo de tu próximo turno, tienes un bonus a AC igual a tu modificador de Sabiduría o Carisma (a tu elección, un mínimo de +1). Esto incluye el ataque desencadenante.
 
-You can use this feature twice. You gain an additional use at 5th, 11th, and 17th level in this class. You regain all expended uses when you finish a long rest.
+Puedes usar esta función dos veces. Ganarás un uso adicional en los niveles 5, 11 y 17 de esta clase. Recuperas todos los usos gastados cuando terminas un largo descanso.
 
 \columnbreak
 
 ### Consular Tradition
-When you reach 3rd level, you choose a consular tradition, which is detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, 14th, and 18th level.
+Cuando llegas al 3er nivel, eliges una tradición consular, que se detalla al final de la descripción de la clase. Su elección le otorga características en el 3er nivel y de nuevo en el 6º, 10º, 14º y 18º nivel.
 
 ### Hidden Force
-Also at 3rd level, you learn how to conceal the casting of your force powers. When you cast a force power, you can choose to conceal the presence of that casting from others. A creature that sees you cast the force power can make an Investigation (Intelligence) check against your universal force save DC. On a success, they can determine that you used the Force in some way. If a creature has the *force sight* force power active, they automatically succeed on this check. A creature that can not see you automatically fails this check.
+También en el 3er nivel, se aprende a ocultar el lanzamiento de sus poderes de fuerza. Cuando lanzas un poder de fuerza, puedes elegir ocultar la presencia de ese lanzamiento a los demás. Una criatura que te vea lanzar el poder de fuerza puede hacer una investigación (Inteligencia) contra tu fuerza universal excepto DC. En caso de éxito, pueden determinar que usaste la Fuerza de alguna manera. Si una criatura tiene el poder de fuerza de *vista* activo, automáticamente tiene éxito en esta comprobación. Una criatura que no puede verte automáticamente falla este chequeo.
 
-You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a long rest.
+Puede utilizar esta función un número de veces igual a su modificador de Sabiduría o Carisma (a su elección, un mínimo de una vez). Recuperas todos los usos gastados cuando terminas un largo descanso.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### One with the Force
-At 20th level, your attunement to the Force is absolute. Your Wisdom or Charisma score increases by 4, and your maximum for this score increases by 4. Additionally, you gain mastery over a single force<br> power, and can cast it with little effort. Choose one<br> 3rd-level force power that you know as your signature power. You can cast it once at 3rd level without expending force points. When you do so, you can't do so again until you finish a short or long rest.
+En el nivel 20, su sintonía con la Fuerza es absoluta. Tu puntuación de Sabiduría o Carisma aumenta en 4, y tu máximo para esta puntuación aumenta en 4. Además, ganas maestría sobre una sola fuerza <br> poder, y puedes lanzarla con poco esfuerzo. Elige un <br> poder de fuerza de tercer nivel que conoces como tu poder de firma. Puedes lanzarlo una vez en el 3er nivel sin gastar puntos de fuerza. Cuando lo hagas, no podrás hacerlo de nuevo hasta que termines un descanso corto o largo.
 
-If you want to cast it at a higher level, you must expend force points as normal.
+Si quieres lanzarlo a un nivel más alto, debes gastar los puntos de fuerza de manera normal.
 
-## Consular Traditions
-&emsp;&emsp;&nbsp;Different consulars select different traditions,<br> &emsp;&emsp;&nbsp;called Ways, to follow as they hone their powers. 
+## Tradiciones consulares
+Los diferentes consulares seleccionan diferentes tradiciones, llamadas caminos, para seguir mientras perfeccionan sus poderes. 
 
 <img src='https://www.gmbinder.com/images/BYdyPsr.png' style='position:absolute;bottom:0px;left:0px;width:520px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ## Way of Balance
-There is serenity in balance, and no one knows this better than the consular. Those consulars who follow the Way of Balance focus on utilizing the Force to equalize the battlefield. They bend the Force to shield their allies and expose their foes.
+Hay serenidad en el equilibrio, y nadie lo sabe mejor que el consulado. Los consulares que siguen la Vía del Equilibrio se centran en utilizar la Fuerza para igualar el campo de batalla. Doblan la Fuerza para proteger a sus aliados y exponer a sus enemigos.
 
 ### Force Barrier
-When you choose this tradition at 3rd level, you can weave the Force around yourself for protection. When you cast a universal power of 1st level or higher, you can simultaneously manipulate the Force to create a barrier on yourself that lasts until you finish a long rest. The barrier has hit points equal to twice your consular level + your Wisdom or Charisma modifier (your choice). Your barrier can never have hit points<br> greater than twice your consular level +<br> your Wisdom or Charisma modifier<br> (your choice).
+Cuando eliges esta tradición en el 3er nivel, puedes tejer la Fuerza a tu alrededor para protegerte. Cuando lanzas un poder universal de 1er nivel o superior, puedes manipular simultáneamente la Fuerza para crear una barrera sobre ti mismo que dure hasta que termines un largo descanso. La barrera tiene puntos de impacto iguales al doble de tu nivel consular + tu modificador de Sabiduría o Carisma (a tu elección). La barrera no puede tener puntos de golpe<br> mayores que el doble de su nivel consular +<br> su modificador de Sabiduría o Carisma<br> (a elección).
 
-Whenever you take damage, the barrier<br> takes the damage instead. If this damage<br> reduces the barrier to 0 hit points, you take<br> any remaining damage.
+Cada vez que se toma el daño, la barrera toma el daño en su lugar. Si este daño<br> reduce la barrera a 0 puntos de golpe, tomas<br> cualquier daño restante.
 
-While the barrier has 0 hit points, it can't<br> absorb damage, but its power remains.<br> Whenever you cast a universal power of 1st level or higher, the barrier regains a number of hit points equal to twice the level of the power.
+Mientras que la barrera tiene 0 puntos de impacto, no puede absorber el daño, pero su poder permanece. Cuando lanzas un poder universal de primer nivel o superior, la barrera recupera un número de puntos de impacto igual al doble del nivel del poder.
 
-Once you create the barrier, you can't create it again until you finish a long rest.
+Una vez que creas la barrera, no puedes crearla de nuevo hasta que termines un largo descanso.
 
 ### Projected Barrier
-At 6th level, when a creature that you can see within 30 feet of you takes damage, you can use your reaction to cause your Force Barrier to absorb that damage. If this damage reduces the barrier to 0 hit points, the warded creature takes any remaining damage.
+En el 6º nivel, cuando una criatura que puedes ver a menos de 30 pies de ti recibe daño, puedes usar tu reacción para hacer que tu Barrera de Fuerza absorba ese daño. Si este daño reduce la barrera a 0 puntos de golpe, la criatura protegida recibe el daño restante.
 
 ### At-Will Barrier
-Beginning at 10th level, your at-will universal powers grant a small boost to your Force Barrier. When you cast an at-will universal power, the barrier regains 1 hit point.
+A partir del 10º nivel, tus poderes universales a voluntad dan un pequeño impulso a tu Barrera de la Fuerza. Cuando lanzas un poder universal a voluntad, la barrera recupera 1 punto de golpe.
 
 ### Improved Suppression
-At 14th level, when you cast a force power that requires you to make an ability check as a part of casting that power (as in *sever force* and *force suppression*), you add your proficiency bonus to that ability check.
+En el nivel 14, cuando lanzas un poder de fuerza que requiere que hagas un chequeo de habilidad como parte del lanzamiento de ese poder (como en *sever force* y *force suppression*), añades tu bono de habilidad a ese chequeo de habilidad.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
 ### Force Resistance
-Starting at 18th level, you have advantage on saving throws against force powers. Additionally, you have resistance against the damage of force powers.
+A partir del nivel 18, tienes ventaja para salvar los lanzamientos contra los poderes de la fuerza. Además, tienes resistencia contra el daño de los poderes de fuerza.
 
 <img src='https://www.gmbinder.com/images/KuUWgUr.png' style='position:absolute;bottom:-100px;right:-380px;width:1063px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ## Way of Lightning
-Of all of the dark arts of the Force, little can match the spectacle and devastation of Force lightning. Those consulars who follow the Way of Lightning summon intense discharges of pure Force energy, overwhelming enemies with punishing damage from a distance, leaving them shaken and vulnerable -- if not dead.
+De todas las artes oscuras de la Fuerza, poco puede igualar el espectáculo y la devastación del rayo de la Fuerza. Aquellos consulares que siguen el Camino del Relámpago convocan intensas descargas de pura energía de la Fuerza, abrumando a los enemigos con un daño punitivo a distancia, dejándolos sacudidos y vulnerables... si no muertos.
 
 ### Shocking Affinity
-When you choose this tradition at 3rd level, when you cast a force power that deals lightning damage, you can use Wisdom or Charisma as your forcecasting ability for it.
+Cuando eliges esta tradición en el tercer nivel, cuando lanzas una fuerza de poder que inflige daños por rayos, puedes usar la Sabiduría o el Carisma como tu capacidad de previsión para ello.
 
-Additionally, when you cast a damage dealing force power that requires an attack roll or saving throw, you can cause that power to instead deal lightning damage. If the power would call for a saving throw other than Dexterity, it instead calls for a Dexterity saving throw. If you hit with the power, or the target fails the power's saving throw, affected creatures become *shocked* until the start of your next turn. You can use this feature a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). You regain all expended uses when you finish a short or long rest.
+Además, cuando lanzas un daño que reparte una fuerza que requiere una tirada de ataque o un lanzamiento de salvamento, puedes hacer que esa fuerza reparta el daño del rayo. Si el poder requiere una tirada salvadora que no sea de Destreza, en su lugar requiere una tirada salvadora de Destreza. Si golpeas con la potencia, o el objetivo falla el tiro salvador de la potencia, las criaturas afectadas quedan *shockadas* hasta el comienzo de tu próximo turno. Puedes usar esta característica un número de veces igual a tu modificador de Sabiduría o Carisma (a tu elección, un mínimo de una vez). Recuperarás todos los usos gastados cuando termines un descanso corto o largo.
 
 ### Potent Lightning
-At 6th level you add your Wisdom or Charisma modifier (your choice, a minimum of +1) to any damage you deal with force powers that deal lightning damage.
+En el 6º nivel se añade el modificador Sabiduría o Carisma (a elegir, un mínimo de +1) a cualquier daño que se haga con los poderes de la fuerza que infligen el daño de los rayos.
 
 ### Blistering Rebuke
-Beginning at 10th level, when a creature within 5 feet of you that you can see hits you with an attack, you can use your reaction to cause the creature to make a Dexterity saving throw. On a failed save, the creature takes 1d10 plus your consular level lightning damage,<br> is pushed back 10 feet, and becomes *shocked* until<br> the end of their next turn. On a successful save,<br> the creature takes half as much damage and isn't<br> moved or *shocked*.
+A partir del nivel 10, cuando una criatura a menos de 5 pies de ti que puedas ver te golpea con un ataque, puedes usar tu reacción para hacer que la criatura haga un tiro de salvamento de Destreza. En una salvada fallida, la criatura recibe 1d10 más tu nivel consular de daño por rayo,<br> es empujada hacia atrás 10 pies, y se convierte en *shocked* hasta<br> el final de su siguiente turno. En una salvada exitosa,<br> la criatura toma la mitad del daño y no es <br> movida o *shocked*.
 
-You can use this feature a number<br> of times equal to your Wisdom or Charisma<br> modifier (your choice, a minimum of<br> once). You regain all expended uses when<br> you finish a long rest.
+Puedes usar esta característica un número<br> de veces igual a tu modificador de Sabiduría o Carisma<br> (a tu elección, un mínimo de<br> una vez). Recuperas todos los usos gastados cuando<br> terminas un largo descanso.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
 ### Electric Attunement
-At 14th level, you gain resistance to lightning damage. Additionally, force powers you cast ignore resistance to lightning damage.
+En el nivel 14, se gana resistencia a los daños de los rayos. Además, los poderes de fuerza que lanzas ignoran la resistencia a los daños de los rayos.
 
 ### Unlimited Power
-Starting at 18th level, you can increase the power of your simpler lightning force powers. When you cast a force power of 6th-level or lower that deals lightning damage, you can deal maximum damage with that power.
+A partir del nivel 18, puedes aumentar la potencia de tus poderes de fuerza de relámpago más simples. Cuando lanzas un poder de fuerza de 6º nivel o inferior que cause daños por relámpagos, puedes causar el máximo daño con ese poder.
 
-You can use this feature with no adverse effects a number of times equal to your Wisdom or Charisma modifier (your choice, a minimum of once). If you use this feature beyond this before you finish a long rest, you take 2d12 necrotic damage for each level of the power, immediately after you<br> cast it. Each time you use<br> this feature again before<br> finishing a long rest, the<br> necrotic damage per<br> power level increases<br> by 1d12. This damage<br> can not be reduced<br> in any way.
+Puede utilizar esta característica sin efectos adversos un número de veces igual a su modificador de Sabiduría o Carisma (a su elección, un mínimo de una vez). Si usas esta característica más allá de esto antes de que termines un largo descanso, recibirás 2d12 de daño necrótico por cada nivel de la potencia, inmediatamente después de que <br> lo lances. Cada vez que usas <br> esta característica de nuevo antes de <br> terminar un largo descanso, el <br> daño necrótico por <br> nivel de poder aumenta <br> en 1d12. Este daño<br> no puede ser reducido<br> de ninguna manera.
 
 <img src='https://www.gmbinder.com/images/6tuXtEr.png' style='position:absolute;bottom:-13px;right:-30px;width:565px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-## Way of the Sage
-The rejuvenating power of the Force is incredible, and the consular is the master of this usage. Those consulars who follow the Way of the Sage assist with an array of healing powers that grant allies the strength to continue through even the harshest of encounters. Separated from the heart of the fray, the sage can be an unfailing warden to those in need.
+## Camino del Sabio
+El poder rejuvenecedor de la Fuerza es increíble, y el consular es el maestro de este uso. Los consulares que siguen el Camino del Sabio ayudan con una serie de poderes curativos que otorgan a los aliados la fuerza para continuar a través de los encuentros más duros. Separado del corazón de la lucha, el sabio puede ser un guardián infalible para los necesitados.
 
-### Disciple of Life
-When you choose this tradition at 3rd level, when you cast a force power that restores hit points, you can use Wisdom or Charisma as your forcecasting ability for it. 
+### Discípulo de la vida
+Cuando eliges esta tradición en el tercer nivel, cuando lanzas un poder de fuerza que restaura los puntos de golpe, puedes usar la Sabiduría o el Carisma como tu capacidad de previsión para ello. 
 
-Additionally, whenever you use a power of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the power's level.
+Además, cuando usas un poder de primer nivel o superior para restaurar los puntos de golpe de una criatura, ésta recupera puntos de golpe adicionales iguales a 2 + el nivel del poder.
 
-### Preserve Life
-At 6th level, as an action, you can channel the Force and evoke healing energy that restores a number of hit points equal to five times your consular level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. This feature has no effect on droids or constructs.
+### Preservar la vida
+En el 6º nivel, como acción, puedes canalizar la Fuerza y evocar la energía curativa que restaura un número de puntos de golpe igual a cinco veces tu nivel consular. Escoge cualquier criatura que esté a menos de 30 pies de ti, y divide esos puntos de golpe entre ellos. Esta característica puede restaurar una criatura a no más de la mitad de su punto de golpe máximo. Esta característica no tiene efecto sobre los droides o las construcciones.
 
-You can use this feature a number of times equal to your Wisdom or Charisma modifier<br> (your choice, a minimum of<br> once). You regain all<br> expended uses when you<br> finish a long rest.
+Puedes usar esta característica un número de veces igual a tu modificador de Sabiduría o Carisma <br> (a tu elección, un mínimo de <br> una vez). Recuperas todos los <br> usos gastados cuando <br> terminas un largo descanso.
 
 ### Blessed Healer
-Beginning at 10th level, the healing<br> powers you cast on others heal you<br> as well. When you cast a force power<br> that restores hit points to a creature<br> other than you, you regain hit points<br> equal to 2 + the power's level.
+A partir del 10º nivel, los poderes de curación que lanzas a otros te curan a ti también. Cuando lanzas un poder de fuerza<br> que restaura los puntos de golpe a una criatura<br> que no seas tú, recuperas los puntos de golpe<br> iguales a 2 + el nivel del poder.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
 ### Blessed by the Force
-At 14th level you gain the ability to overcome grievous injuries. As a bonus action when you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.
+En el nivel 14 se obtiene la capacidad de superar lesiones graves. Como acción extra cuando te quede menos de la mitad de tus puntos de golpe, puedes recuperar un número de puntos de golpe igual a la mitad de tu máximo de puntos de golpe.
 
-Once you've used this feature, you can't use it again until you finish a long rest.
+Una vez que hayas usado esta función, no podrás volver a usarla hasta que termines un largo descanso.
 
 ### Supreme Healing
-Starting at 18th level, when you would normally roll one or more dice to restore hit points with a power, you instead use the highest number possible for each die. For example, instead of restoring 2d6 hit points to a creature, you restore 12.
+A partir del nivel 18, cuando normalmente tirarías uno o más dados para restaurar los puntos de golpe con una potencia, en su lugar usas el número más alto posible para cada dado. Por ejemplo, en lugar de restaurar 2d6 puntos de golpe a una criatura, restauras 12.
 
 <img src='https://www.gmbinder.com/images/Aceclyv.png' style='position:absolute;bottom:0px;right:-100px;width:700px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-## Engineer
-<span style="font-variant: small-caps">Flinching occasionally as a blaster bolt hits the nearby</span> bulkhead, a Sullustan mechanic quickly solders a large wire. He peers through his tinted goggles, ignoring the shouts of his ship captain as the enemy descends on the hanger. Finally he shouts with pride as the repaired coupling powers up, causing the frigate to hum with energy. He gathers his tools and runs into the ship moments before it finally takes off. 
+## Ingeniero
+<span style="font-variant: small-caps">Encontrando de vez en cuando como un rayo golpea el mamparo cercano, un mecánico de Sullustan rápidamente suelda un gran cable. Se asoma a través de sus gafas tintadas, ignorando los gritos del capitán de su barco mientras el enemigo desciende sobre el colgador. Finalmente grita con orgullo mientras el enganche reparado se enciende, haciendo que la fragata zumbe con energía. Recoge sus herramientas y corre hacia el barco momentos antes de que finalmente despegue. 
 
-Inside, the human captain jumps into the cockpit. She nods to her droid co-pilot, who quickly begins charting a course home. Before the calculations can<br> be completed, enemy Starfighters scream in from the clouds. The pilot rolls the ship, nimbly evading incoming fire. She reroutes the power to shields, leaving just enough for astronavigation. Just as the energy reserves near depletion, the exosphere and stars beyond blur into streaks of light. In a flash, they warp to safety. 
+Dentro, el capitán humano salta a la cabina. Asiente con la cabeza a su droide copiloto, que rápidamente comienza a trazar un curso de regreso a casa. Antes de que los cálculos puedan ser completados, los guerreros enemigos gritan desde las nubes. El piloto hace rodar la nave, evadiendo ágilmente el fuego entrante. Redirige la energía a los escudos, dejando sólo lo suficiente para la astronáutica. Cuando las reservas de energía están casi agotadas, la exosfera y las estrellas se desdibujan en rayos de luz. En un instante, se deforman a la seguridad. 
 
-A Cerean officer surveys the battlefield, looking for weaknesses. When he identifies a potential problem, he keys in a quick combination in his wristpad. In a blink, a custom suit of armor assembles itself around him. As the helmet locks into place, the officer leaps into the air, flying overhead and raining destruction on the opposition.
+Un oficial de Cerean vigila el campo de batalla, buscando debilidades. Cuando identifica un problema potencial, teclea una rápida combinación en su pulsera. En un abrir y cerrar de ojos, una armadura hecha a la medida se ensambla a su alrededor. Cuando el casco se fija en su lugar, el oficial salta en el aire, volando por encima de la cabeza y haciendo llover destrucción sobre la oposición.
 
-Every machine needs an engineer to run it, and a living crew is no different. Engineers are the experts and professionals who rely on skill, bravery, and their tools to survive and keep others alive. While they do not claim to be fighters, their mere presence can turn the tide of battle or simply keep operations running.
+Cada máquina necesita un ingeniero que la maneje, y una tripulación viva no es diferente. Los ingenieros son los expertos y profesionales que confían en la habilidad, la valentía y sus herramientas para sobrevivir y mantener a otros con vida. Aunque no pretenden ser combatientes, su mera presencia puede cambiar el curso de la batalla o simplemente mantener las operaciones en marcha.
 
 <div style='margin-top:100px'></div>
 
 ### Behind the Curtain
-While perhaps not as intimidating as a heavily-armored trooper, or as exotic as a lighsaber-wielding guardian, engineers are no less vital to group dynamic. They are armorers and gunsmiths, electricians and welders, or any other facet to be found in facilities across the galaxy. Their work, often unsung, is what keeps starships (and their crew) intact.
+Aunque tal vez no tan intimidante como un soldado con armadura pesada, o tan exótico como un guardián con sable ligero, los ingenieros no son menos vitales para la dinámica del grupo. Son armeros y armeros, electricistas y soldadores, o cualquier otra faceta que se encuentre en las instalaciones de toda la galaxia. Su trabajo, a menudo olvidado, es lo que mantiene intactas a las naves estelares (y a su tripulación).
 
 <div style='margin-top:100px'></div>
 
 ### Unflappable
-It takes bravery for a soldier to enter a battlefield. It perhaps takes more for someone who is unarmed, and untrained in combat, to do the same. Engineers put their lives on the line for a living, whether by choice or acknowledging their plights as an occupational hazard. Whether they come from an elite training academy or learned their talents surviving in the slums, they are no strangers to danger and conflict.
+Se necesita valor para que un soldado entre en el campo de batalla. Tal vez se necesita más para alguien que no está armado y no está entrenado en combate, para hacer lo mismo. Los ingenieros arriesgan sus vidas para ganarse la vida, ya sea por elección o reconociendo sus dificultades como un riesgo laboral. Tanto si proceden de una academia de formación de élite como si han aprendido su talento sobreviviendo en los barrios marginales, no son ajenos al peligro y al conflicto.
 
 \columnbreak
 
@@ -776,12 +776,12 @@ It takes bravery for a soldier to enter a battlefield. It perhaps takes more for
 <img src='https://www.gmbinder.com/images/aqHXyAc.png' style='position:absolute;top:25px;right:10px;width:420px;mix-blend-mode:darken' />
 
 ### Creating an Engineer
-While creating your engineer character, consider what your primary skill set is and how you use it. You could be a street-smart mechanic who taught yourself how to fix swoop bikes as a teenager. Perhaps you are the recent graduate of an esteemed medical college, or a rookie pilot in the fledgling Rebel Alliance. What is the number one skill you are known for? Why are you willing to enter battles when you have no combat training? How do you view the more adventurous members of your group, and how do they see you and your role?
+Al crear tu personaje de ingeniero, considera cuál es tu principal conjunto de habilidades y cómo lo usas. Podrías ser un mecánico de calle que aprendió a arreglar bicicletas de paseo cuando era adolescente. Tal vez seas un recién graduado de una prestigiosa facultad de medicina, o un piloto novato de la incipiente Alianza Rebelde. ¿Cuál es la habilidad número uno por la que eres conocido? ¿Por qué estás dispuesto a entrar en batallas cuando no tienes entrenamiento de combate? ¿Cómo ve a los miembros más aventureros de su grupo, y cómo le ven a usted y a su papel?
 
 #### Quick Build
-You can make an engineer quickly by following these<br> suggestions. First, make Intelligence your highest<br> ability score. Your next-highest score should be<br> Constitution. Second, choose the scientist<br> background.
+Puedes hacer un ingeniero rápidamente siguiendo estas sugerencias. Primero, haz de la Inteligencia tu mayor puntuación de habilidad. Su siguiente puntuación más alta debería ser <br> Constitución. Segundo, elija el científico<br> de fondo.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -813,8 +813,8 @@ You can make an engineer quickly by following these<br> suggestions. First, make
 
 </div>
 
-## Class Features
-As a engineer, you gain the following class features.
+## Características de la clase
+Como ingeniero, obtienes las siguientes características de clase.
 
 #### Hit Points
 ___
@@ -828,8 +828,8 @@ ___
 - **Weapons:** Simple blasters, simple vibroweapons
 - **Tools:** Tinker's tools and one of your choice
 ___
-- **Saving Throws:** Constitution, Intelligence
-- **Skills:** Choose three from Investigation, Lore, Medicine, Nature, Piloting, and Technology
+- **Salvando Lanzamientos:** Constitución, Inteligencia
+- **Habilidades:** Elija tres de Investigación, Conocimiento, Medicina, Naturaleza, Pilotaje y Tecnología
 
 \columnbreak
 
@@ -848,396 +848,396 @@ In lieu of the equipment granted by your class and background, you can elect to 
 |	:--				|	--:			|
 |	Engineer    	|	1,000 + 3d4 x 100 cr|
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ### Techcasting
-During your training you have derived powers from schematics with the aid of your wristpad. See chapter 10 for the general rules of techcasting and chapter 12 for the tech powers list.
+Durante tu entrenamiento has derivado poderes de los esquemas con la ayuda de tu muñequera. Ver el capítulo 10 para las reglas generales del techcasting y el capítulo 12 para la lista de poderes técnicos.
 
-#### Tech Powers Known
-You learn 6 tech powers of your choice, and you learn more at higher levels, as shown in the Tech Powers Known column of the engineer class table. You may not learn a tech power of a level higher than your Max Power Level.
+#### Poderes tecnológicos conocidos
+Aprendes 6 poderes tecnológicos de tu elección, y aprendes más en los niveles superiores, como se muestra en la columna de Poderes Tecnológicos Conocidos de la tabla de la clase de ingeniería. No puedes aprender un poder técnico de un nivel superior al de tu nivel de potencia máxima.
 
 #### Tech Points
-You have a number of tech points equal to your engineer level x 2, as shown in the Tech Points column of the engineer class table,  + your Intelligence modifier. You use these tech points to cast tech powers. You regain all expended tech points when you finish a short or long rest.
+Tienes un número de puntos técnicos igual a tu nivel de ingeniero x 2, como se muestra en la columna de Puntos Técnicos de la tabla de clases de ingenieros, + tu modificador de Inteligencia. Usas estos puntos técnicos para lanzar poderes técnicos. Recuperas todos los puntos técnicos gastados cuando terminas un descanso corto o largo.
 
 #### Max Power Level
-Many tech powers can be overcharged, consuming more tech points to create a greater effect. You can overcharge these powers to a maximum level, which increases at higher levels, as shown in the Max Power Level column of the engineer class table.
+Muchos poderes tecnológicos pueden ser sobrecargados, consumiendo más puntos tecnológicos para crear un mayor efecto. Puedes sobrecargar estos poderes a un nivel máximo, que aumenta a niveles más altos, como se muestra en la columna de Nivel de Poder Máximo de la tabla de clases de ingenieros.
 
-You may only cast tech powers at 6th, 7th, 8th, and 9th-level once. You regain the ability to do so after a long rest.
+Sólo puedes lanzar poderes tecnológicos en el 6º, 7º, 8º y 9º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
 #### Techcasting Ability
-Intelligence is your techcasting ability for your tech powers. You use your Intelligence whenever a power refers to your techcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a tech power you cast and when making an attack roll with one.
+La inteligencia es su capacidad de emisión de tecnología para sus poderes tecnológicos. Utilizas tu inteligencia siempre que un poder se refiere a tu capacidad de tecnicismos. Además, usas tu modificador de inteligencia cuando estableces el tiro de salvamento DC para un poder tecnológico que lanzas y cuando haces una tirada de ataque con uno.
 
 ___
 
 <div align="center">
 
-**Tech save DC** = 8 + your proficiency bonus + <br>your Intelligence modifier
+**Tech save DC** = 8 + tu bono de habilidad + <br>tu modificador de Inteligencia
 
 ___
 
-**Tech attack modifier** = your proficiency bonus + <br>your Intelligence modifier
+**Modificador de ataque técnico** = tu bono de habilidad + <br>tu modificador de inteligencia
 
 </div>
 
 ___
 
 #### Techcasting Focus
-You use a wristpad (found in chapter 5) or your tool proficiencies granted by this class as a techcasting focus for your tech powers.
+Utilizas una muñequera (que se encuentra en el capítulo 5) o tus habilidades con las herramientas otorgadas por esta clase como un enfoque de techcasting para tus poderes tecnológicos.
 
-### Potent Aptitude
-Your technological experience lends you an uncommon insight that you can use to bolster your allies. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Potent Aptitude die, a d6.
+### Potente Aptitud
+Su experiencia tecnológica le da una visión poco común que puede usar para reforzar a sus aliados. Para ello, usas una acción extra en tu turno para elegir una criatura que no seas tú mismo a menos de 60 pies de ti que pueda oírte. Esa criatura gana un dado de Aptitud Potencial, un d6.
 
-Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Potent Aptitude die, but must decide before the GM says whether the roll succeeds or fails. Once the Potent Aptitude die is rolled, it is lost.
+Una vez dentro de los próximos 10 minutos, la criatura puede tirar el dado y sumar el número tirado a un chequeo de habilidad, una tirada de ataque o una tirada de salvamento que haga. La criatura puede esperar hasta después de tirar el d20 antes de decidir usar el dado de Aptitud Potencial, pero debe decidir antes de que el GM diga si la tirada tiene éxito o no. Una vez que se tira el dado de la Aptitud Potencial, se pierde.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-A creature can have only one Potent Aptitude die at a time.
+Una criatura sólo puede tener una Aptitud Potencial morir a la vez.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
-Your Potent Aptitude die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
+Tu muerte de Aptitud Potencial cambia cuando alcanzas ciertos niveles en esta clase. El dado se convierte en un d8 en el 5º nivel, un d10 en el 10º nivel y un d12 en el 15º nivel.
 
 ### Infuse Item
-At 2nd level, you gain the ability to temporarily enhance a weapon or armor. At the end of a long rest, you can touch one unenhanced object that is a suit of armor or a simple or martial weapon. Until the end of your next long rest or until you die, the object becomes an enhanced item, granting a +1 bonus to AC if it's armor or a +1 bonus to attack and damage rolls if it's a weapon. 
-Once you've used this feature, you can't use it again until you finish a long rest.
+En el 2º nivel, obtienes la habilidad de mejorar temporalmente un arma o armadura. Al final de un largo descanso, puedes tocar un objeto no mejorado que es una armadura o un arma simple o marcial. Hasta el final de tu próximo largo descanso o hasta que mueras, el objeto se convierte en un objeto mejorado, otorgando un bono +1 a AC si es una armadura o un bono +1 para atacar y tiradas de daño si es un arma. 
+Una vez que hayas usado esta función, no podrás volver a usarla hasta que termines un largo descanso.
 
 ### Tool Expertise
-Also at 2nd level, you gain expertise in any tool proficiencies you gain from this class.
+También en el 2º nivel, se adquiere experiencia en las habilidades de las herramientas que se obtienen de esta clase.
 
 ### Engineering Discipline
-Starting at 3rd level, you begin to focus on a specific engineering discipline, which is detailed at the end of the class description. Your discipline grants you features at 3rd level and again at 6th, 14th, and 18th level.
+A partir del 3er nivel, se empieza a enfocar en una disciplina específica de ingeniería, que se detalla al final de la descripción de la clase. Tu disciplina te otorga características en el 3er nivel y de nuevo en el 6º, 14º y 18º nivel.
 
 ### Ability Score Improvement
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Alternatively, you can choose a feat (see Chapter 6 for a list of feats).
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Quick Thinking
-Beginning when you reach 5th level, you regain all of your expended uses of Potent Aptitude when you finish a short or long rest.
+Comenzando cuando llegas al 5º nivel, recuperas todos tus usos gastados de Aptitud Potencial cuando terminas un descanso corto o largo.
 
 ### Tech Mastery
-At 20th level, your mastery of technology is unrivaled. Your Constitution and Intelligence scores increase by 2. Your maximum for those scores increases by 2.
+En el nivel 20, su dominio de la tecnología no tiene rival. Sus puntuaciones de Constitución e Inteligencia aumentan en 2. Su máximo para esas puntuaciones aumenta en 2.
 
-Additionally, when you roll initiative and have no uses of Potent Aptitude left, you regain one use.
+Además, cuando tomas la iniciativa y no te queda ningún uso de la Aptitud Potencial, recuperas un uso.
 
-## Engineering Disciplines
-The wide range of tool applications gives birth to well defined distinctions between different engineering disciplines. Each discipline focuses on maximizing the personal use of a certain tool.
+## Disciplinas de ingeniería
+La amplia gama de aplicaciones de las herramientas da lugar a distinciones bien definidas entre las diferentes disciplinas de la ingeniería. Cada disciplina se centra en maximizar el uso personal de una determinada herramienta.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-## Armormech Engineering
-Those engineers who choose the Armormech Engineering discipline focus on the ability to work with hard metals and electronic shielding to construct and enhance all types of personal armor.
+## Ingeniería de armamento
+Los ingenieros que eligen la disciplina de ingeniería armamentística se centran en la capacidad de trabajar con metales duros y blindaje electrónico para construir y mejorar todo tipo de armaduras personales.
 
-### Bonus Proficiencies
-When you choose this discipline at 3rd level, you gain proficiency in armormech's tools, medium armor, and heavy armor. Additionally, when you engage in crafting with armormech's tools, the rate at which you craft doubles.
+### Bonus Proficiency
+Al elegir esta disciplina en el 3er nivel, se gana en destreza en las herramientas de armamento, en la armadura media y en la armadura pesada. Además, cuando te dedicas a la artesanía con herramientas de armadura, la velocidad a la que lo haces se duplica.
 
 ### Modified Armor
-Also at 3rd level, you learn to modify one unenhanced suit of armor or shield utilizing your armormech knowledge. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to modify it. You must have the armor, materials, and armormech's tools in order to perform this modification.
+También en el tercer nivel, aprendes a modificar una armadura o escudo sin mejorar utilizando tus conocimientos de armamento. En el transcurso de un largo descanso, puedes gastar materiales equivalentes a la mitad del costo de la armadura para modificarla. Debes tener la armadura, los materiales y las herramientas de la armadura para poder realizar esta modificación.
 
-Your modified armor is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your modified armor has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+Su armadura modificada es mejorada, requiere afinación, sólo puede ser usada por usted, y cuenta como un foco tecnológico para sus poderes tecnológicos mientras usted está sintonizado con ella. Tu armadura modificada tiene 4 ranuras de modificación, y gana más en los niveles superiores, como se muestra en la columna de ranuras de modificación de la tabla de clase de ingenieros. Por cada modificación instalada, el máximo de tu punto técnico se reduce en 1. En el transcurso de un largo descanso, puedes reemplazar o eliminar un número de modificaciones hasta tu modificador de Inteligencia (mínimo de uno).
 
-Some modification effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
+Algunos efectos de modificación requieren tiros de salvamento. Cuando usas un efecto de esta clase, el DC es igual a tu DC de ahorro de tecnología.
 
-At 9th level, you can maintain both a modified suit of armor and shield. Each modified item has modification slots as shown in the Modification Slots column of the engineer class table.
+En el 9º nivel, puedes mantener tanto una armadura modificada como un escudo. Cada elemento modificado tiene ranuras de modificación como se muestra en la columna de ranuras de modificación de la tabla de la clase de ingenieros.
 
 ### Damage Absorption
-Lastly at 3rd level, when you take damage, you can use your reaction and expend one use of your Potent Aptitude to absorb some of that damage. When<br> you do so, the damage you take from the attack is reduced by the amount rolled on the die + your Intelligence modifier (minimum of one).
+Por último, en el tercer nivel, cuando se toma el daño, se puede utilizar la reacción y gastar un uso de la Aptitud Potencial para absorber parte de ese daño. Cuando lo haces, el daño que recibes del ataque se reduce por la cantidad tirada en el dado + tu modificador de Inteligencia (mínimo de uno).
 
 ### Armormech's Celerity
-Beginning at 6th level, when you take the Attack action, you can make one weapon attack as a bonus action.
+A partir del 6º nivel, al realizar la acción de Ataque, puedes hacer un ataque con un arma como acción extra.
 
-You can use this feature a number of times<br> equal to your Intelligence modifier (a<br> minimum of once). You regain all<br> expended uses when you<br> complete a long rest.
+Puedes usar esta característica un número de veces<br> igual a tu modificador de Inteligencia (a<br> mínimo de una vez). Recuperas todos los <br> usos gastados cuando <br> completas un largo descanso.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
 ### Casting Celerity
-At 14th level, when you use your action to a cast a tech power, you can use your Armormech's Celerity feature.
+En el nivel 14, cuando usas tu acción para lanzar un poder tecnológico, puedes usar la función Celeridad de Armormech.
 
 ### Suit Reliability
-Starting at 18th level, your suit is like a second skin. Whenever you make an ability check or saving throw that uses Strength, Dexterity, or Constitution, you can treat a d20 roll of 9 or lower as a 10. You must be wearing your modified armor to gain this benefit.
+A partir del nivel 18, tu traje es como una segunda piel. Cada vez que hagas un chequeo de habilidad o un tiro de salvamento que use Fuerza, Destreza o Constitución, puedes tratar un rollo de d20 de 9 o menos como un 10. Debes usar tu armadura modificada para obtener este beneficio.
 
 <img src='https://www.gmbinder.com/images/68MyqCJ.png' style='position:absolute;bottom:28px;right:0px;width:570px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ### Armormech Modifications
-If a modification has prerequisites, you must meet them to install it. You can install the modification at the same time that you meet its prerequisites.
+Si una modificación tiene requisitos previos, debe cumplirlos para instalarla. Puede instalar la modificación al mismo tiempo que cumple sus requisitos previos.
 
-#### Absorption Shield
-_**Prerequisite:** Physical Shield_<br>
-You modify your physical shield to block incoming damage. As a bonus action you can activate this ability and gain temporary hit points equal to 1d4 + Intelligence modifier, which last for one hour.
+#### Escudo de absorción
+_**_**Pre-requisito:**** Escudo Físico.
+Modifica su escudo físico para bloquear los daños que se producen. Como acción extra, puedes activar esta habilidad y ganar puntos de golpe temporales iguales a 1d4 + modificador de inteligencia, que duran una hora.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
-#### Accelerated Movement
-_**Prerequisite:** Armor_<br>
-You reduce the weight of your modified armor's bulk and increase the power to joints. If the armor has a Strength requirement, you ignore it. The modified armor's weight is reduced by 15 lbs. While wearing your modified armor your speed increases by 10 feet. This applies to all movement speeds you have while wearing your armor.
+#### Movimiento acelerado
+_**Pre-requisito:** Armadura.
+Reduces el peso del bulto de tu armadura modificada y aumentas la potencia de las articulaciones. Si la armadura tiene un requisito de fuerza, lo ignoras. El peso de la armadura modificada se reduce en 15 libras. Mientras usas tu armadura modificada tu velocidad aumenta en 10 pies. Esto se aplica a todas las velocidades de movimiento que tienes mientras usas tu armadura.
 
-#### Adaptable Armor
-_**Prerequisite:** Armor_<br>
-You integrate deployable hooks and fins into your armor, augmenting its mobility. While wearing your modified armor, you gain a climbing speed equal to your walking speed, and you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. Additionally, you gain a swim speed equal to your walking speed.
+#### Armadura adaptable
+_**Pre-requisito:** Armadura.
+Integras ganchos y aletas desplegables en tu armadura, aumentando su movilidad. Mientras usas tu armadura modificada, ganas una velocidad de ascenso igual a la de tu caminata, y puedes moverte arriba, abajo y a través de superficies verticales y al revés a lo largo de los techos, mientras dejas tus manos libres. Además, ganas una velocidad de nado igual a tu velocidad de caminar.
 
 #### Advanced Power Fist
-_**Prerequisite:** 11th level, Armor_<br>
-_**Prerequisite:** Prototype Power Fist_<br>
-You further modify your modified armor's gauntlet with increased reinforcement and weight. Your modified armor's unarmed strike deals 1d8 kinetic damage. Additionally, your unarmed strikes score a critical hit on a roll of 19 or 20.
+_**Pre-requisito:**11º nivel, Armadura.
+_**Pre-requisito:**Prototipo del Puño de Poder.
+Modificas más el guante de tu armadura modificada con un mayor refuerzo y peso. El ataque sin armas de tu armadura modificada inflige un daño cinético de 1 a 8. Además, tus ataques desarmados obtienen un golpe crítico con una tirada de 19 o 20.
 
-#### Artificially Intelligent
-_**Prerequisite:** 7th level, Armor_<br>
-You install an artificial intelligence into your modified armor. While wearing your modified armor, when you make an ability check, your armor's artificial intelligence can take the Help action.
+#### Artificialmente inteligente
+_**Pre-requisito:**7º nivel, Armadura.
+Instalas una inteligencia artificial en tu armadura modificada. Mientras usas tu armadura modificada, cuando haces un chequeo de habilidades, la inteligencia artificial de tu armadura puede tomar la acción de ayuda.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you complete a long rest.
+Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas todos los usos gastados cuando completas un largo descanso.
 
 #### Bonded Plates
-_**Prerequisite:** 5th level_<br>
-You gain a +1 bonus to AC against melee attacks. This bonus increases to +2 at 9th level and +3 at 13th level.
+_**Pre-requisito:** 5º nivel.
+Ganas un bono +1 a AC contra los ataques cuerpo a cuerpo. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
-#### Collapsible Suit
-_**Prerequisite:** 5th level, Armor_<br>
-Your modified armor can collapse into a case for easy storage. When transformed this way the armor is indistinguishable from a normal case and weighs 1/3
+#### Traje plegable
+_**Pre-requisito:** 5º nivel, Armadura.
+Tu armadura modificada puede colapsar en un estuche para facilitar su almacenamiento. Cuando se transforma de esta manera, la armadura es indistinguible de una caja normal y pesa 1/3
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-its normal weight. As an action you can don or doff the armor, allowing it to transform as needed.
+su peso normal. Como acción puedes ponerte o quitarte la armadura, permitiendo que se transforme según sea necesario.
 
 #### Darkvision Visor
-_**Prerequisite:** Armor_<br>
-While wearing your modified armor, you have darkvision to a range of 60 feet. If you already have darkvision, this modification increases its range by 30 feet.
+_**Prerequisite:** Armadura.
+Mientras llevas tu armadura modificada, tienes una visión oscura a un rango de 60 pies. Si ya tienes la visión oscura, esta modificación aumenta su alcance en 30 pies.
 
 #### Enhanced Endurance
-_**Prerequisite:** Armor_<br>
-When you are reduced to 0 hit points while wearing your modified armor but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+_**Prerequisite:**: Armadura.
+Cuando se te reduce a 0 puntos de golpe mientras llevas tu armadura modificada pero no mueres en el acto, puedes bajar a 1 punto de golpe en su lugar. No puedes usar esta característica de nuevo hasta que termines un largo descanso.
 
 #### Electroshock Shield
-_**Prerequisite:** Shield Generator_<br>
-You install electroshockers in your shield generator. Whenever an enemy misses you with a melee attack, you can use your reaction to do 1d4 + your Intelligence modifier lightning damage to the attacker.
+_**Prerequisite:** Generador de escudo.
+Instalas electroshockers en tu generador de escudo. Cuando un enemigo te falla con un ataque cuerpo a cuerpo, puedes usar tu reacción para hacer 1d4 + tu modificador de Inteligencia el daño de un rayo al atacante.
 
-#### Flight
-_**Prerequisite:** 9th level, Armor_<br>
-You integrate a propulsion system into your modified armor. While wearing your modified armor you have an enhanced flying speed of 30 feet.
+#### Vuelo
+_**Prerequisite:** 9º nivel, Armadura.
+Integras un sistema de propulsión en tu armadura modificada. Mientras usas tu armadura modificada tienes una velocidad de vuelo mejorada de 30 pies.
 
 #### Grappling Harpoon
-_**Prerequisite:** Armor_<br>
-Your modified armor gains an integrated grappling harpoon set into your gauntlet. With this harpoon, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d6 kinetic damage. This attack can target a surface, object, or creature.
+_**Prerequisite:** Armadura.
+Su armadura modificada obtiene un arpón de agarre integrado en su guante. Con este arpón, puedes hacer un ataque con un arma a distancia con un rango de 30/60. En un golpe, inflige un daño cinético de 1d6. Este ataque puede apuntar a una superficie, un objeto o una criatura.
 
-A creature struck by this attack is impaled by the harpoon. As an action, a creature can attempt to remove the harpoon. Removing the harpoon requires a Strength check. While the harpoon is stuck in the target, you are connected to the target by a 60 foot cable.
+Una criatura golpeada por este ataque es empalada por el arpón. Como acción, una criatura puede intentar quitar el arpón. Quitar el arpón requiere un chequeo de fuerza. Mientras el arpón está clavado en el objetivo, está conectado al objetivo por un cable de 60 pies.
 
-While the harpoon is deployed, you can use your bonus action to activate the reel, pulling yourself to the location if the target is larger than you. A creature or object your size or smaller is pulled to you. Alternatively, you can opt to release the cable (no action required).
+Mientras el arpón está desplegado, puedes usar tu acción extra para activar el carrete, tirando de ti mismo al lugar si el objetivo es más grande que tú. Una criatura u objeto de tu tamaño o más pequeño es atraído hacia ti. Alternativamente, puedes optar por soltar el cable (no se requiere acción).
 
-Once you've used this feature, you can't use it again until you recover and reinsert the harpoon as an action.
+Una vez que has usado esta característica, no puedes volver a usarla hasta que te recuperes y vuelvas a insertar el arpón como una acción.
 
 #### Heavy Suit
-_**Prerequisite:** 5th level, Armor_<br>
-You enhance your suit, making it difficult to move. As a bonus action, you can anchor your feet to the ground. While anchored, your speed is 0, you have advantage on Strength checks and Strength saving throws, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. 
+_**Pre-requisito:** 5º nivel, Armadura.
+Mejoras tu traje, lo que dificulta el movimiento. Como acción extra, puedes anclar tus pies al suelo. Mientras estés anclado, tu velocidad es 0, tienes ventaja en los chequeos de fuerza y en los lanzamientos de ahorro de fuerza, y cuentas como una talla más al determinar tu capacidad de carga y el peso que puedes empujar, arrastrar o levantar. 
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-#### Infiltration Suit
-_**Prerequisite:** Armor_<br>
-You install a cloaking device in your modified armor. This device has 2 charges. As an action you can use 1 charge to cast _infiltrate_ targeting yourself.
+#### Traje de infiltración
+_**Pre-requisito:** Armadura.
+Instalas un dispositivo de camuflaje en tu armadura modificada. Este dispositivo tiene 2 cargas. Como acción puedes usar 1 carga para lanzarte _infiltrarte_ a ti mismo.
 
-The cloaking device regains all expended charges after a long rest.
+El dispositivo de camuflaje recupera todos los gastos después de un largo descanso.
 
-#### Magnetized Shield
-_**Prerequisite:** Physical Shield_<br>
-You modify your physical shield such that when a melee weapon attack misses you by an amount less than or equal to your bonus to AC from your shield, the attacking creature must make a Strength check against your tech save DC. On a failed save, the creature's weapon adheres to the shield. As an action, a creature can repeat this check. On a success, the weapon is freed. 
+#### Escudo Magnético
+_**Pre-requisito:** Escudo Físico.
+Modificas tu escudo físico de tal manera que cuando un ataque con arma cuerpo a cuerpo te falla por una cantidad menor o igual que tu bono a AC de tu escudo, la criatura atacante debe hacer un chequeo de Fuerza contra tu tecnología salvo DC. En una salvada fallida, el arma de la criatura se adhiere al escudo. Como acción, la criatura puede repetir este chequeo. Si tiene éxito, el arma se libera. 
 
 #### Overload Shield
-_**Prerequisite:** Shield Generator_<br>
-You modify your shield generator to overload. As an action you can overload your shield. Each Large or smaller creature within 5 feet of you must make a Dexterity or Strength saving throw (their choice) against your tech save DC. On a failed save, they are pushed back 5 feet and knocked prone.
+_**Pre-requisito:**Generador de escudo.
+Modifica su generador de escudos para sobrecargarlo. Como acción, puedes sobrecargar tu escudo. Cada criatura grande o pequeña dentro de 5 pies de ti debe hacer un lanzamiento de ahorro de Destreza o Fuerza (su elección) contra tu DC de ahorro de tecnología. En un salvamento fallido, son empujados hacia atrás 1,5 metros y se les golpea en la cabeza.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
 #### Power Fist
-_**Prerequisite:** Armor_<br>
-You modify your modified armor gauntlet with increased reinforcement and weight. Your modified armor's unarmed strike deals 1d4 kinetic damage.
+_**Pre-requisito:** Armadura.
+Modifica su guantelete de armadura modificado con mayor refuerzo y peso. El ataque sin armas de tu armadura modificada inflige un daño cinético de 1d4.
 
-Additionally, when you take the Attack action and make an unarmed attack, you can make an additional unarmed attack as a bonus action.
+Además, cuando realizas la acción de Ataque y haces un ataque desarmado, puedes hacer un ataque desarmado adicional como acción extra.
 
-#### Prototype Power Fist
-_**Prerequisite:** 7th level, Armor_<br>
-_**Prerequisite:** Power Fist_<br>
-You further modify your modified armor gauntlet with increased reinforcement and weight. Your modified armor's unarmed strike deals 1d6 kinetic damage and has the following property.
+#### Prototipo de Puño de Poder
+_**Pre-requisito:**7º nivel, Armadura.
+_**Pre-requisito:** Puño de Poder.
+Modificaste tu guante de armadura modificado con un mayor refuerzo y peso. El ataque sin armas de tu armadura modificada causa un daño cinético de 1d6 y tiene la siguiente propiedad.
 
-If you or your target move at least 10 feet in a straight line immediately before making an unarmed attack, the first unarmed attack you make deals additional damage equal to your Intelligence modifier.
+Si tú o tu objetivo se mueven al menos 10 pies en línea recta inmediatamente antes de hacer un ataque desarmado, el primer ataque desarmado que hagas causará un daño adicional igual al de tu modificador de Inteligencia.
 
 #### Reinforced Underlay
-_**Prerequisite:** 5th level_<br>
-You gain a +1 bonus to AC against ranged attacks. This bonus increases to +2 at 9th level and +3 at 13th level.
+_**Pre-requisito:** 5º nivel.
+Ganas un bono +1 a AC contra los ataques a distancia. Este bonus aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
-#### Resistance
-_**Prerequisite:** Armor_<br>
-You tune your modified armor against certain forms of damage. Choose acid, cold, fire, ion, lightning, or sonic damage. While wearing your modified armor you have resistance to that type of damage. 
+#### Resistencia
+_**Pre-requisito:** Armadura.
+Afina su armadura modificada contra ciertas formas de daño. Elige ácido, frío, fuego, iones, rayos o daño sónico. Mientras usas tu armadura modificada tienes resistencia a ese tipo de daño. 
 
-You can select this modification multiple times. Each time you do so, you must choose a different damage type.
+Puede seleccionar esta modificación varias veces. Cada vez que lo hagas, debes elegir un tipo de daño diferente.
 
 \columnbreak
 
 #### Sealed Suit
-_**Prerequisite:** 5th level, Armor_<br>
-As a bonus action you can hermetically seal your modified armor, giving you an air supply for up to 1 hour and making you immune to poison (but not curing you of existing poisoned conditions). Your armor regains 1 minute of air for every minute that you are not submerged and the armor is not sealed.
+_**Pre-requisito:** 5º nivel, Armadura.
+Como acción extra puedes sellar herméticamente tu armadura modificada, dándote un suministro de aire por hasta 1 hora y haciéndote inmune al veneno (pero no curándote de las condiciones de envenenamiento existentes). Tu armadura recupera 1 minuto de aire por cada minuto que no estés sumergido y la armadura no esté sellada.
 
-Additionally, while you are wearing your modified armor you are considered adapted to cold and hot climates as well as high altitude, as described in chapter 5 of the Dungeon Master's Guide. 
+Además, mientras lleves tu armadura modificada se considera que estás adaptado a climas fríos y cálidos, así como a la altura, como se describe en el capítulo 5 de la Guía del Maestro de la Mazmorra. 
 
 #### Sentient Armor
-_**Prerequisite:** 13th level_<br>
-_**Prerequisite:** Artificially Intelligent_<br>
-Your artificial intelligence has learned to control the suit without you being in it. It is now a valid target of the _tracker droid interface_ tech power.
+_**Pre-requisito:** 13º nivel.
+_**Pre-requisito:** Inteligencia Artificial.
+Tu inteligencia artificial ha aprendido a controlar el traje sin que tú estés en él. Ahora es un objetivo válido de la potencia tecnológica de la interfaz del droide rastreador.
 
-While your armor is acting independently, it uses your ability scores, saving throws, and skills, and it has hit points equal to your engineer level. If reduced to 0 hit points, it falls directly to the ground, and it can not be equipped again until you finish a long rest.
+Mientras que tu armadura actúa de forma independiente, utiliza tus puntuaciones de habilidad, lanzamientos de salvamento y habilidades, y tiene puntos de golpe iguales a tu nivel de ingeniero. Si se reduce a 0 puntos de golpe, cae directamente al suelo, y no puede volver a equiparse hasta que termines un largo descanso.
 
 #### Shield Amplifier
-_**Prerequisite:** Shield Generator_<br>
-You modify your shield generator to project outward. As a bonus action you can amplify your shield until the start of your next turn. Each creature within 5 feet of you gains a bonus to AC equal to your shield's bonus.
+_**Pre-requisito:**Generador de escudo.
+Modifica su generador de escudos para proyectarse hacia el exterior. Como acción extra, puedes amplificar tu escudo hasta el comienzo de tu próximo turno. Cada criatura que se encuentre dentro de un radio de 1,5 metros de ti gana un bonus a AC igual al bonus de tu escudo.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
 #### Shield Anchor
-_**Prerequisite:** Physical Shield_<br>
-You modify your shield to be used as a portable source of cover. As an action, you can anchor or recover the shield. While anchored, you gain no benefit from a shield, and it does not require the use of a hand. Instead, while anchored, a light shield provides one-quarter cover, a medium shield provides half cover, and a large shield provides three-quarters cover.
+_**Pre-requisito:** Escudo Físico.
+Modifica su escudo para ser usado como una fuente portátil de cobertura. Como acción, puedes anclar o recuperar el escudo. Mientras esté anclado, no obtendrá ningún beneficio de un escudo, y no requiere el uso de una mano. En cambio, mientras está anclado, un escudo ligero proporciona un cuarto de cobertura, un escudo mediano proporciona la mitad de cobertura, y un escudo grande proporciona tres cuartos de cobertura.
 
 #### Tech Blast
-_**Prerequisite:** Armor_<br>
-You modify your modified armor gauntlet to allow you to make a ranged tech attack. The weapon fires blasts of energy which deal 1d8 + your Intelligence modifier energy damage with a range of 30 feet. When you would make a ranged weapon attack, you can use this ranged tech attack in place of it.
+_**Pre-requisito:** Armadura.
+Modifica su guante de armadura modificado para permitirle hacer un ataque tecnológico a distancia. El arma dispara ráfagas de energía que infligen 1d8 + tu modificador de inteligencia de daño energético con un alcance de 30 pies. Cuando haces un ataque con un arma de distancia, puedes usar este ataque de distancia en su lugar.
 
-#### Weapon Integration Armoring
-_**Prerequisite:** Armor_<br>
-You can integrate a single weapon that weighs no more than 8 lb. into your armor. While integrated, that weapon gains the hidden property. Additionally, you have advantage on Strength saving throws to avoid being disarmed.
+#### Blindaje de Integración de Armas
+_**Pre-requisito:** Armadura.
+Puedes integrar una sola arma que no pese más de 8 libras en tu armadura. Mientras esté integrada, esa arma gana la propiedad oculta. Además, tienes ventaja en los lanzamientos de ahorro de fuerza para evitar ser desarmado.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-## Armstech Engineering
-Those engineers who choose the Armstech Engineeering discipline focus on the skill of constructing and modifying blasters and vibroweapons.
+## Ingeniería Armstech
+Los ingenieros que eligen la disciplina de ingeniería Armstech se centran en la habilidad de construir y modificar explosivos y armas vibratorias.
 
-### Bonus Proficiencies
-When you choose this discipline at 3rd level, you gain proficiency in armstech's tools, medium armor, martial blasters, and martial vibroweapons. Additionally, when you engage in crafting with armstech's tools, the rate at which you craft doubles.
+### Bonus Proficiency
+Al elegir esta disciplina en el 3er nivel, se adquiere competencia en las herramientas de Armstech, armadura media, explosiones marciales y armas de fuego marciales. Además, cuando te dedicas a la artesanía con las herramientas de Armstech, la velocidad a la que lo haces se duplica.
 
 ### Modified Weaponry
-Also at 3rd level, you learn to modify one unenhanced weapon with which you are proficient utilizing your armstech experience. Over the course of a long rest, you can expend materials equal to half the cost of a weapon in order to modify it. You must have the weapon, materials, and armstech's tools in order to perform this modification.
+También en el tercer nivel, aprendes a modificar un arma no mejorada con la que eres competente utilizando tu experiencia en tecnología de armas. En el transcurso de un largo descanso, puedes gastar materiales equivalentes a la mitad del costo de un arma para modificarla. Usted debe tener el arma, los materiales y las herramientas de Armstech para realizar esta modificación.
 
-Your modified weapon is enhanced, requires attunement, can only be used by you, and counts as a tech focus for your tech powers while you are attuned to it. Your modified weapon has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+Su arma modificada está mejorada, requiere afinación, sólo puede ser usada por usted, y cuenta como un foco tecnológico para sus poderes tecnológicos mientras está afinado. Tu arma modificada tiene 4 ranuras de modificación, y gana más en los niveles superiores, como se muestra en la columna de ranuras de modificación de la tabla de clase de ingenieros. Por cada modificación instalada, el máximo de tu punto técnico se reduce en 1. En el transcurso de un largo descanso, puedes reemplazar o eliminar un número de modificaciones hasta tu modificador de Inteligencia (mínimo de uno).
 
-Some modification effects require saving throws. When you use such an effect from this class, the DC equals your tech save DC.
+Algunos efectos de modificación requieren tiros de salvamento. Cuando usas un efecto de esta clase, el DC es igual a tu DC de ahorro de tecnología.
 
-At 9th level, you can maintain two modified weapons. Each modified weapon has modification slots as shown in the Modification Slots column of the engineer class table.
+En el 9º nivel, puede mantener dos armas modificadas. Cada arma modificada tiene ranuras de modificación como se muestra en la columna de ranuras de modificación de la tabla de la clase de ingenieros.
 
 ### Close Call
-Lastly at 3rd level, when you make an attack roll with your modified weapon and miss, you can expend one use of your Potent Aptitude to attempt to turn that miss into a hit. Roll the die and add it to the attack roll. 
+Por último, en el tercer nivel, cuando haces una tirada de ataque con tu arma modificada y fallas, puedes usar tu Aptitud Potencial para intentar convertir esa falla en un golpe. Lanza el dado y añádelo a la tirada de ataque. 
 
 ### Armstech's Strike
-Beginning at 6th level, once per round, when you deal damage to a creature with your modified weapon, you can increase the damage by 1d6. The damage is of the same type as the weapon's damage.
+A partir del 6º nivel, una vez por ronda, cuando le hagas daño a una criatura con tu arma modificada, puedes aumentar el daño en 1d6. El daño es del mismo tipo que el del arma.
 
-The damage increases to 2d6 at 11th level and 3d6 at 17th level.
+El daño aumenta a 2d6 en el 11º nivel y a 3d6 en el 17º nivel.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
 ### Targeting Matrix
-At 14th level, when you cast a tech power that allows you to force creatures in an area to make a saving throw, you can instead make an attack roll with your modified weapon against a single target that would be in the range of the power. On a hit, the target suffers the effects as though they failed their saving throw. If the power would affect more than one creature, it instead affects only one.
+En el nivel 14, cuando lanzas un poder tecnológico que te permite forzar a las criaturas de una zona a hacer un lanzamiento de salvamento, puedes hacer una tirada de ataque con tu arma modificada contra un solo objetivo que esté en el rango de la potencia. En un golpe, el objetivo sufre los efectos como si hubiera fallado su lanzamiento de salvación. Si el poder afectara a más de una criatura, sólo afectaría a una.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
 ### Armstech's Salvo
-Starting at 18th level, when you use your Targeting Matrix feature, and the tech power would affect more than one creature, you can instead attack each affected creature that would be in the range of the power. Make a separate attack roll for each target. On a hit, each target suffers the effects as though they failed their saving throw.
+A partir del nivel 18, cuando uses la función de la Matriz de Objetivos, y la potencia tecnológica afecte a más de una criatura, podrás atacar a cada criatura afectada que esté en el rango de la potencia. Haz una tirada de ataque separada para cada objetivo. En un golpe, cada objetivo sufre los efectos como si fallara su lanzamiento de salvación.
 
 <img src='https://www.gmbinder.com/images/96P54SK.png' style='position:absolute;bottom:15px;right:-135px;width:700px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Armstech Modifications
-If a modification has prerequisites, you must meet them to install it. You can install the modification at the same time that you meet its prerequisites.
+### Armstech Modificaciones
+Si una modificación tiene requisitos previos, debe cumplirlos para instalarla. Puede instalar la modificación al mismo tiempo que cumple sus requisitos previos.
 
-#### Accuracy Focus
-_**Prerequisite:** 5th level, Blaster_<br>
-You gain a +1 bonus to attack rolls made with this weapon. This bonus increases to +2 at 9th level and +3 at 13th level.
+#### Focalización de la precisión
+_**Pre-requisito:**5º nivel, Blaster.
+Ganas un bono +1 por atacar las tiradas hechas con esta arma. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
-#### Amplifying Barrel
-_**Prerequisite:** 5th level, Blaster_<br>
-You gain a +1 bonus to damage rolls made with this weapon. This bonus increases to +2 at 9th level and +3 at 13th level.
+#### Barril de amplificación
+_**Pre-requisito:**5º nivel, Blaster.
+Ganarás un bono +1 por las tiradas de daño hechas con esta arma. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
-#### Bayonet
-_**Prerequisite:** Blaster_<br>
-You affix a short blade to the barrel of your modified blaster weapon, allowing you to make a melee weapon attack with it. The blade is a melee weapon with the finesse property that you are proficient with, and deals 1d6 kinetic damage.
+#### Bayoneta
+_**Pre-requisito:** Blaster.
+Pones una hoja corta en el cañón de tu arma explosiva modificada, lo que te permite hacer un ataque cuerpo a cuerpo con ella. La cuchilla es un arma de combate cuerpo a cuerpo con la propiedad de la delicadeza con la que eres experto, y causa un daño cinético de 1 a 6.
 
 #### Burst Core
-_**Prerequisite:** Blaster_<br>
-Your weapon gains the burst property, with a burst number equal to its reload number.
+_**Pre-requisito:** Blaster.
+Su arma gana la propiedad de estallar, con un número de estallido igual a su número de recarga.
 
 #### Booming Strikes
-_**Prerequisite:** 7th level_<br>
-You pack extra power into your modified weapon. Once per turn, when you hit with the weapon, you can deal an additional 1d6 damage. If you do so, the weapon makes a loud boom which can be heard 100 feet away. If you are hidden, Intelligence (Investigation) and Wisdom (Perception) checks made to locate you that rely on sound have advantage.
+_**Pre-requisito:**7º nivel.
+Usted carga con energía extra en su arma modificada. Una vez por turno, cuando golpeas con el arma, puedes hacer un daño adicional de 1d6. Si lo haces, el arma hace un fuerte estruendo que se puede escuchar a 100 pies de distancia. Si estás escondido, las comprobaciones de Inteligencia (Investigación) y Sabiduría (Percepción) hechas para localizarte que se basan en el sonido tienen ventaja.
 
 #### Celerity Oscillator
-Once per turn, when you deal damage with your modified weapon, your walking speed increases by 10 feet until the start of your next turn, and the damaged creature can't make opportunity attacks against you for the rest of your turn.
+Una vez por turno, cuando infliges daño con tu arma modificada, tu velocidad al caminar aumenta en 10 pies hasta el comienzo del siguiente turno, y la criatura dañada no puede hacer ataques de oportunidad contra ti durante el resto de tu turno.
 
-#### Collapsible Frame
-_**Prerequisite:** Vibroweapon_<br>
-You install an expandable hilt on your modified weapon. Your modified weapon gains the reach property.
+#### Marco Colapsable
+_**Pre-requisito:** Vibro-arma.
+Instalas una empuñadura extensible en tu arma modificada. Su arma modificada gana la propiedad de alcance.
 
 #### Contoured Grip 
-_**Prerequisite:** 5th level, Vibroweapon_<br>
-You gain a +1 bonus to attack rolls made with this weapon. This bonus increases to +2 at 9th level and +3 at 13th level.
+_**Pre-requisito:** 5º nivel, Vibroarmas.
+Ganas un bono +1 por atacar las tiradas hechas con esta arma. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
-#### Expanded Magazine
-_**Prerequisite:** Blaster_<br>
-Your modified weapon can be more efficiently reloaded. You can reload your modified weapon once without using an action. You can't use this feature again until you reload the weapon with an action.
+#### Revista Expandida
+_**Pre-requisito:** Blaster.
+Su arma modificada puede ser recargada más eficientemente. Puedes recargar tu arma modificada una vez sin usar una acción. No puedes usar esta característica de nuevo hasta que recargues el arma con una acción.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
 #### Flashlight
-You affix a targeted light to your weapon. As a bonus action, you can toggle the light on or off. While on, your weapon sheds bright light in a 60-foot cone.
+Pones una luz de objetivo en tu arma. Como acción extra, puedes encender o apagar la luz. Mientras está encendida, tu arma arroja una luz brillante en un cono de 60 pies.
 
 #### Harpoon Reel
-You install a secondary firemode that launches a harpoon attached to a tightly coiled cord. With this harpoon, you can make a ranged weapon attack with a range of 30/60. On a hit, it deals 1d6 kinetic damage. This attack can target a surface, object, or creature.
+Instalas un modo de fuego secundario que lanza un arpón unido a una cuerda bien enrollada. Con este arpón, puedes hacer un ataque de arma de fuego a distancia con un rango de 30/60. En un golpe, causa un daño cinético de 1d6. Este ataque puede apuntar a una superficie, un objeto o una criatura.
 
-A creature struck by this attack is impaled by the harpoon. As an action, a creature can attempt to remove the harpoon. Removing the harpoon requires a Strength check. While the harpoon is stuck in the target, you are connected to the target by a 60 foot cable.
+Una criatura golpeada por este ataque es empalada por el arpón. Como acción, una criatura puede intentar quitar el arpón. Quitar el arpón requiere un chequeo de fuerza. Mientras el arpón está clavado en el objetivo, está conectado al objetivo por un cable de 60 pies.
 
-While connected in this manner, you can use your bonus action to activate the reel, pulling yourself to the location if the target is your size or larger. A creature or object smaller than you is pulled to you. Alternatively, you can opt to release the cable (no action required).
+Mientras estés conectado de esta manera, puedes usar tu acción extra para activar el carrete, tirando de ti mismo hacia el lugar si el objetivo es de tu tamaño o más grande. Una criatura u objeto más pequeño que tú es atraído hacia ti. Alternativamente, puedes optar por soltar el cable (no se requiere acción).
 
-Once you've used this feature, you can't use it again until you recover and reinsert the harpoon as an action.
+Una vez que has usado esta característica, no puedes volver a usarla hasta que te recuperes y vuelvas a insertar el arpón como una acción.
 
 #### Imbue Weapon
-_**Prerequisite:** 9th level_<br>
-You modify your weapon to carry a charge. Over the course of a short rest, you can cast an at-will tech power, channeling it into your weapon. The next time you hit with your weapon, the stored power is released. If the power would require an attack roll, make a tech attack roll. If the power would require a saving throw, the target must make the saving throw as normal. On a hit, or a failure, the target suffers the power's normal effects. 
+_**Pre-requisito:**9º nivel.
+Modifica su arma para llevar una carga. En el transcurso de un breve descanso, puede lanzar una potencia tecnológica a voluntad, canalizándola en su arma. La próxima vez que golpees con tu arma, el poder almacenado será liberado. Si el poder requiere una tirada de ataque, haz una tirada de ataque técnico. Si el poder requiere un tiro de salvamento, el objetivo debe hacer el tiro de salvamento como es normal. En un golpe, o un fracaso, el objetivo sufre los efectos normales del poder. 
 
 #### Improved Burst Core
-_**Prerequisite:** 9th level_<br>
-_**Prerequisite:** Burst Core_<br>
-Your weapon's burst number is reduced to half its reload number.
+_**Pre-requisito:**9º nivel.
+_**Pre-requisito:** "Burst Core".
+El número de explosiones de su arma se reduce a la mitad de su número de recarga.
 
-#### Integrated Magazine
-_**Prerequisite:** Expanded Magazine_<br>
-Your modified weapon can be more efficiently reloaded. You can reload your modified weapon twice without using an action. You can't use this feature again until you reload the weapon with an action.
+#### Revista Integrada
+_**Pre-requisito:** Revista expandida.
+Su arma modificada puede ser recargada más eficientemente. Puedes recargar tu arma modificada dos veces sin usar una acción. No puedes usar esta característica de nuevo hasta que recargues el arma con una acción.
 
-#### Jagged Oscillator
-_**Prerequisite:** Vibroweapon_<br>
-When you critically hit with the weapon, you deal an additional 1d8 kinetic damage.
+#### Oscilador dentado
+_**Pre-requisito:** Vibro-arma.
+Cuando golpeas críticamente con el arma, infliges un daño cinético adicional de 1d8.
 
-#### Keen Oscillator
-_**Prerequisite:** 5th level_<br>
-_**Prerequisite:** Jagged Oscillator_<br>
-Your weapon now scores a critical hit on a roll of 19 or 20.
+#### Oscilador Keen
+_**Pre-requisito:** 5º nivel.
+_**Pre-requisito:** Oscilador dentado.
+Su arma ahora anota un golpe crítico en una tirada de 19 o 20.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1323,7 +1323,7 @@ As a bonus action, you can coat your weapon in a thin layer of poison for 1 minu
 
 Once you've used this feature, you must complete a long rest before you can use it again.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1368,7 +1368,7 @@ Starting at 18th level, whenever an<br> attacker that your droid can see<br> hit
 
 <img src='https://www.gmbinder.com/images/QLbAs0t.png' style='position:absolute;bottom:-2px;right:-65px;width:520px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1472,7 +1472,7 @@ ___
 - **Size:** Medium
 - **Speed:** 25 ft.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1561,7 +1561,7 @@ You install an emergency protocol in your droid, prompting a quick reboot after 
 
 Once your droid uses this feature, it must finish a short or long rest before it can use it again.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1626,7 +1626,7 @@ Your droid has martial training that allows it to perform special combat maneuve
 - It learns two maneuvers of your choice from among those available to the fighter class. If a maneuver it uses requires its target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your droid's proficiency bonus + your droid's Strength or Dexterity modifier (your choice).
 - Your droid has two superiority dice, which are d4s. These dice are used to fuel its maneuvers. A superiority die is expended when your droid uses it. It regain all of its expended superiority dice when you finish a short or long rest.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1697,7 +1697,7 @@ You modify the durability module in your droid, granting the following benefit:
 - Your droid becomes proficient in Constitution saving throws. If it is already proficient, it becomes proficient in another saving throw of your choice.
 - Whenever your droid takes the Dodge action in combat, it can spend one Hit Die to heal itself. Roll the die, add its Constitution modifier, and it regains a number of hit points equal to the total (minimum of one).
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1730,7 +1730,7 @@ You can make a fighter quickly by following these<br> suggestions. First, make S
 
 <img src='https://www.gmbinder.com/images/8KgLf2V.png' style='position:absolute;top:92px;right:10px;width:665px;z-index:1000' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1799,7 +1799,7 @@ In lieu of the equipment granted by your class and background, you can elect to 
 |	:--			|	--:			|							
 |	Fighter		|	1,000 + 5d4 x 100 cr|
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1871,7 +1871,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1928,7 +1928,7 @@ Additionally, you can attack four times, instead of once, whenever you take the 
 ## Fighter Specialties
 Different fighters choose different approaches to perfecting their fighting prowess. The fighter specialty you choose to emulate reflects your approach.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -1960,7 +1960,7 @@ At 18th level, you attain the pinnacle of resilience in battle. At the start of 
 
 <img src='https://www.gmbinder.com/images/erxRoFA.png' style='position:absolute;bottom:12px;right:-285px;width:1020px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2040,7 +2040,7 @@ Starting at 15th level, you can extend the benefit of your Indomitable feature t
 ### Greater Inspiring Surge
 At 18th level, you can choose two allies within 60 feet of you, rather than one, when you using your Inspiring Surge feature.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2110,7 +2110,7 @@ At 18th level, you can choose<br> a second signature<br> maneuver. Additionally,
 
 <img src='https://www.gmbinder.com/images/iIVXSKe.png' style='position:absolute;bottom:0px;right:-15px;width:445px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2145,7 +2145,7 @@ While creating your guardian, consider your attraction to the Force and its most
 #### Quick Build
 You can make a guardian quickly by following these suggestions. First, make Strength your highest ability score, followed by Constitution. Second, choose the Jedi or Sith background.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2212,7 +2212,7 @@ In lieu of the equipment granted by your class and background, you can elect to 
 |	:--			|	--:			|							
 |	Guardian	|	1,000 + 5d4 x 100 cr|
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2284,7 +2284,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 ### Force Purity
 By 6th level, the Force flowing through you makes you immune to poison and disease.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2346,7 +2346,7 @@ Different guardians<br> focus on different<br> lightsaber fighting<br> styles, c
 
 <img src='https://www.gmbinder.com/images/F1iR9gg.png' style='position:absolute;bottom:23px;right:0px;width:380px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2388,7 +2388,7 @@ This effect ends early if you are incapacitated or die. Once you've used this fe
 
 <img src='https://www.gmbinder.com/images/LKsiRge.png' style='position:absolute;bottom:-12px;right:-50px;width:570px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2440,7 +2440,7 @@ This effect ends early if you are incapacitated or die. Once you've used this fe
 
 <img src='https://www.gmbinder.com/images/7D6BGbm.png' style='position:absolute;bottom:-2px;right:-70px;width:740px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2486,7 +2486,7 @@ This effect ends early if you are incapacitated or die. Once you've used this fe
 
 <img src='https://www.gmbinder.com/images/os8Mt8S.png' style='position:absolute;bottom:23px;right:-90px;width:740px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2529,7 +2529,7 @@ As a result of the structured life of a monastic community and the discipline re
 #### Quick Build
 You can make a monk quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom. Second, choose the agent background.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2596,7 +2596,7 @@ In lieu of the equipment granted by your class and background, you can elect to 
 |	:--			|	--:			|
 |	Monk		|	1,000 + 1d4 x 100 cr|
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2668,7 +2668,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 ### Stunning Strike
 Starting at 5th level, you can interfere with an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 focus point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2708,7 +2708,7 @@ Traditions of monastic pursuit are common in the locales scattered across the ga
 
 <img src='https://www.gmbinder.com/images/WjNSTbI.png' style='position:absolute;bottom:11px;right:-65px;width:830px;transform:scaleX(-1);z-index:1000' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2748,7 +2748,7 @@ At 17th level, your mastery of weapons grants you extraordinary accuracy. If you
 
 <img src='https://www.gmbinder.com/images/WActKA4.png' style='position:absolute;bottom:12px;right:-120px;width:840px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2779,7 +2779,7 @@ At 17th level, as an action, you conjure a blade of negative energy and strike o
 
 <img src='https://www.gmbinder.com/images/R0ZTJew.png' style='position:absolute;bottom:24px;right:-30px;width:700px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2811,7 +2811,7 @@ You can have only one creature under the effect of<br> &emsp;&emsp;&emsp;&emsp;&
 
 <img src='https://www.gmbinder.com/images/Sh2RzfK.png' style='position:absolute;bottom:0px;left:0px;width:840px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2846,7 +2846,7 @@ While creating your operative character, consider how you first started on your 
 #### Quick Build
 You can make an operative quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Intelligence or Charisma. Second, choose the gambler background.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2915,7 +2915,7 @@ In lieu of the equipment granted by your class and background, you can elect to 
 |	:--			|	--:			|						
 |	Operative	|	1,000 + 4d4 x 100 cr|
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -2973,7 +2973,7 @@ Once you've used this feature, you can't use it again until you finish a short o
 ## Operative Practices
 Operatives have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different operatives steer those talents in varying directions, embodied by the different operative practices.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3026,7 +3026,7 @@ Once you've used this feature, you must complete a short or long rest before you
 
 <img src='https://www.gmbinder.com/images/XjjiVJp.png' style='position:absolute;bottom:8px;right:-115px;width:730px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3086,7 +3086,7 @@ At 17th level, you become a<br> master of instant<br> death. When you<br> deal w
 
 <img src='https://www.gmbinder.com/images/I1BaV1C.png' style='position:absolute;bottom:17px;right:-50px;width:545px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3149,7 +3149,7 @@ At 17th level, you've learned to capitalize when you have the advantage. When yo
 
 <img src='https://www.gmbinder.com/images/PdcqYka.png' style='position:absolute;bottom:7px;right:50px;width:544px;transform:scalex(-1);z-index:1000' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreak
 
@@ -3184,7 +3184,7 @@ As you create a scholar, it's important to think of where<br> you gained your kn
 #### Quick Build
 You can make a scholar quickly by following these suggestions. First, make Intelligence your highest ability score. Your next-highest score should be Dexterity. Second, choose the noble background.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3251,7 +3251,7 @@ In lieu of the equipment granted by your class and background, you can elect to 
 |	:--			|	--:			|						
 |	Scholar 	|	1,000 + 3d4 x 100 cr|
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3321,7 +3321,7 @@ At 1st level, you are able to analyze a target, develop a plan on how to best ov
 - When you analyze a hostile creature, your attack and damage rolls made with weapons with the finesse property or blaster weapons against that target may use your Intelligence modifier instead of Strength or Dexterity.
 - When you analyze a friendly creature, the target can end your Critical Analysis on them (no action required) to add your Intelligence modifier to one attack roll, ability check, or saving throw. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3369,7 +3369,7 @@ Your pursuit is a representation<br> of which fields you have studied<br> or how
 
 <img src='https://www.gmbinder.com/images/oOPlRxo.png' style='position:absolute;bottom:17px;right:-170px;width:750px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3455,7 +3455,7 @@ You can select this discovery multiple times. Each time you do so, you must choo
 #### Universal Language
 You can communicate simple ideas with any creature with an Intelligence score of 6 or higher through basic expressions and gestures.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3485,7 +3485,7 @@ When you make an attack roll, you can expend a superiority die and add it to the
 
 <img src='https://www.gmbinder.com/images/AUdzKBb.png' style='position:absolute;bottom:28px;right:0px;width:430px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3527,7 +3527,7 @@ Once you create a panacea, you can't create another until you finish a long rest
 
 <img src='https://www.gmbinder.com/images/4U4G7Xq.png' style='position:absolute;bottom:7px;left:-130px;width:590px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3593,7 +3593,7 @@ This die increases when you reach certain levels in this class: 1d8 at 7th level
 | 19 | The creature's movement speed is increased by 15 feet, and opportunity attacks on them have disadvantage. |
 | 20 | The creature gains 10d10 hit points, and they feel happy and carefree. |
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3636,7 +3636,7 @@ As a reaction when you make a<br> saving throw against an effect<br> you can see
 
 <img src='https://www.gmbinder.com/images/ZA5SjCf.png' style='position:absolute;bottom:14px;right:-80px;width:630px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3705,7 +3705,7 @@ You can add half your proficiency bonus (rounded down) to any Charisma check you
 *Prerequisite: Politician Pursuit*<br>
 You have advantage on any attack against a creature that is charmed by you or frightened of you.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3747,7 +3747,7 @@ When you hit a creature with a weapon attack, you can expend one superiority die
 
 <img src='https://www.gmbinder.com/images/Nx2laNk.png' style='position:absolute;bottom:14px;left:-170px;width:790px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3813,7 +3813,7 @@ You learn to command your allies<br> to victory from afar. Your Critical<br> Ana
 
 <img src='https://www.gmbinder.com/images/N4eG6QM.png' style='position:absolute;bottom:0px;right:15px;width:320px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3854,7 +3854,7 @@ What made you join up with a band of adventurers? Do you find it challenging to 
 #### Quick Build
 You can make a scout quickly by following these suggestions. First, make Strength or Dexterity your highest ability modifier, depending on whether you want to focus on melee combat or on ranged weapons (or finesse weapons). Your next-highest score should be Intelligence. Second, choose the bounty hunter background.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -3923,7 +3923,7 @@ In lieu of the equipment granted by your class and background, you can elect to 
 |	:--			|	--:			|
 |	Scout		|	1,000 + 5d4 x 100 cr|
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4001,7 +4001,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 ### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4039,7 +4039,7 @@ Scouts tend to share knowledge amongst them selves, focusing on specific techniq
 
 <img src='https://www.gmbinder.com/images/s3Jkq04.png' style='position:absolute;bottom:0px;left:0px;width:840px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4090,7 +4090,7 @@ That creature can use its reaction to move up to half its speed without provokin
 
 <img src='https://www.gmbinder.com/images/BEivoN0.png' style='position:absolute;bottom:28px;left:40px;width:345px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4158,7 +4158,7 @@ At 15th level, you have become a master at protecting your allies from afar. Whe
 
 If your attack hits, either impose disadvantage on the enemy creature's opportunity attack roll or grant advantage to any allies making the saving throw.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4219,7 +4219,7 @@ When an attacker that you can see<br> hits you with an attack, you can<br> use y
 
 <img src='https://www.gmbinder.com/images/vyRjX3r.png' style='position:absolute;bottom:0px;right:0px;width:500px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4249,7 +4249,7 @@ At 15th level, whenever a creature attacks you and does not have advantage, you 
 
 <img src='https://www.gmbinder.com/images/2P5Z0ak.png' style='position:absolute;bottom:24px;right:-180px;width:880px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4284,7 +4284,7 @@ While creating your sentinel, consider your personal philosophy in regards to th
 #### Quick Build
 You can make a sentinel quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Wisdom or Charisma. Second, choose the Jedi or Sith background.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4352,7 +4352,7 @@ In lieu of the equipment granted by your class and background, you can elect to 
 |	:--				|	--:			|
 |	Sentinel    	|	 1,000 + 3d4 x 100 cr|
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4423,7 +4423,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 ### Battle Readiness 
 Starting at 10th level, you have fully learned how to meld your physical self with the Force. When you take the Dodge or Disengage actions, or use your action to cast a force power, you can use your Kinetic Combat feature.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4485,7 +4485,7 @@ Additionally, as an action, you can manifest this ideal in a brief surge of ener
 ## Sentinel Callings
 Different sentinels select different callings, called Paths, to follow as they hone their powers.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4515,7 +4515,7 @@ At 18th level, when a creature hits you with an attack while within 5 feet of yo
 
 <img src='https://www.gmbinder.com/images/DSR5EWH.png' style='position:absolute;bottom:12px;left:13px;width:810px;;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4543,7 +4543,7 @@ By 13th level, whenever you use a Force-Empowered Self feature, you may instead 
 ### Master Strike
 &nbsp;&nbsp;At 18th level, your bursts can overpower even the<br> &emsp;&emsp;fiercest of foes. Once on your turn, when a<br> &emsp;&emsp;&emsp;&nbsp;&nbsp;creature takes damage from you three times,<br> &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;you can force it to make a Constitution<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;saving throw against your universal force<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;save DC. On a failed save, it becomes<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;stunned until the end of its next<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;turn.
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
@@ -4569,6 +4569,6 @@ At 18th level, your training has taught you advanced techniques while you maneuv
 
 <img src='https://www.gmbinder.com/images/k2IV7lG.png' style='position:absolute;bottom:15px;right:-330px;width:1080px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 3 | CLASSES</div>
+<div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
