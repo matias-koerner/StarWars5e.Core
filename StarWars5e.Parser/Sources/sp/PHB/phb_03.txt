@@ -978,30 +978,30 @@ Modifica su escudo físico para bloquear los daños que se producen. Como acción e
 Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
 #### Movimiento acelerado
-_**Pre-requisito:** Armadura.
+_**Pre-requisito:** Armadura_<br>
 Reduces el peso del bulto de tu armadura modificada y aumentas la potencia de las articulaciones. Si la armadura tiene un requisito de fuerza, lo ignoras. El peso de la armadura modificada se reduce en 15 libras. Mientras usas tu armadura modificada tu velocidad aumenta en 10 pies. Esto se aplica a todas las velocidades de movimiento que tienes mientras usas tu armadura.
 
 #### Armadura adaptable
-_**Pre-requisito:** Armadura.
+_**Pre-requisito:** Armadura_<br>
 Integras ganchos y aletas desplegables en tu armadura, aumentando su movilidad. Mientras usas tu armadura modificada, ganas una velocidad de ascenso igual a la de tu caminata, y puedes moverte arriba, abajo y a través de superficies verticales y al revés a lo largo de los techos, mientras dejas tus manos libres. Además, ganas una velocidad de nado igual a tu velocidad de caminar.
 
 #### Advanced Power Fist
-_**Pre-requisito:**11º nivel, Armadura.
-_**Pre-requisito:**Prototipo del Puño de Poder.
+_**Pre-requisito:** 11º nivel, Armadura_<br>
+_**Pre-requisito:** Prototipo del Puño de Poder_<br>
 Modificas más el guante de tu armadura modificada con un mayor refuerzo y peso. El ataque sin armas de tu armadura modificada inflige un daño cinético de 1 a 8. Además, tus ataques desarmados obtienen un golpe crítico con una tirada de 19 o 20.
 
 #### Artificialmente inteligente
-_**Pre-requisito:**7º nivel, Armadura.
+_**Pre-requisito:** 7º nivel, Armadura_<br>
 Instalas una inteligencia artificial en tu armadura modificada. Mientras usas tu armadura modificada, cuando haces un chequeo de habilidades, la inteligencia artificial de tu armadura puede tomar la acción de ayuda.
 
 Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas todos los usos gastados cuando completas un largo descanso.
 
 #### Bonded Plates
-_**Pre-requisito:** 5º nivel.
+_**Pre-requisito:** 5º nivel_<br>
 Ganas un bono +1 a AC contra los ataques cuerpo a cuerpo. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
 #### Traje plegable
-_**Pre-requisito:** 5º nivel, Armadura.
+_**Pre-requisito:** 5º nivel, Armadura_<br>
 Tu armadura modificada puede colapsar en un estuche para facilitar su almacenamiento. Cuando se transforma de esta manera, la armadura es indistinguible de una caja normal y pesa 1/3
 
 \columnbreak
@@ -1037,7 +1037,7 @@ Mientras el arpón está desplegado, puedes usar tu acción extra para activar el c
 Una vez que has usado esta característica, no puedes volver a usarla hasta que te recuperes y vuelvas a insertar el arpón como una acción.
 
 #### Heavy Suit
-_**Pre-requisito:** 5º nivel, Armadura.
+_**Pre-requisito:** 5º nivel, Armadura_<br>
 Mejoras tu traje, lo que dificulta el movimiento. Como acción extra, puedes anclar tus pies al suelo. Mientras estés anclado, tu velocidad es 0, tienes ventaja en los chequeos de fuerza y en los lanzamientos de ahorro de fuerza, y cuentas como una talla más al determinar tu capacidad de carga y el peso que puedes empujar, arrastrar o levantar. 
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -1045,40 +1045,40 @@ Mejoras tu traje, lo que dificulta el movimiento. Como acción extra, puedes ancl
 \pagebreakNum
 
 #### Traje de infiltración
-_**Pre-requisito:** Armadura.
+_**Pre-requisito:** Armadura_<br>
 Instalas un dispositivo de camuflaje en tu armadura modificada. Este dispositivo tiene 2 cargas. Como acción puedes usar 1 carga para lanzarte _infiltrarte_ a ti mismo.
 
 El dispositivo de camuflaje recupera todos los gastos después de un largo descanso.
 
 #### Escudo Magnético
-_**Pre-requisito:** Escudo Físico.
+_**Pre-requisito:** Escudo Físico_<br>
 Modificas tu escudo físico de tal manera que cuando un ataque con arma cuerpo a cuerpo te falla por una cantidad menor o igual que tu bono a AC de tu escudo, la criatura atacante debe hacer un chequeo de Fuerza contra tu tecnología salvo DC. En una salvada fallida, el arma de la criatura se adhiere al escudo. Como acción, la criatura puede repetir este chequeo. Si tiene éxito, el arma se libera. 
 
 #### Overload Shield
-_**Pre-requisito:**Generador de escudo.
+_**Pre-requisito:** Generador de escudo_<br>
 Modifica su generador de escudos para sobrecargarlo. Como acción, puedes sobrecargar tu escudo. Cada criatura grande o pequeña dentro de 5 pies de ti debe hacer un lanzamiento de ahorro de Destreza o Fuerza (su elección) contra tu DC de ahorro de tecnología. En un salvamento fallido, son empujados hacia atrás 1,5 metros y se les golpea en la cabeza.
 
 Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
 #### Power Fist
-_**Pre-requisito:** Armadura.
+_**Pre-requisito:** Armadura_<br>
 Modifica su guantelete de armadura modificado con mayor refuerzo y peso. El ataque sin armas de tu armadura modificada inflige un daño cinético de 1d4.
 
 Además, cuando realizas la acción de Ataque y haces un ataque desarmado, puedes hacer un ataque desarmado adicional como acción extra.
 
 #### Prototipo de Puño de Poder
-_**Pre-requisito:**7º nivel, Armadura.
-_**Pre-requisito:** Puño de Poder.
+_**Pre-requisito:** 7º nivel, Armadura_<br>
+_**Pre-requisito:** Puño de Poder_<br>
 Modificaste tu guante de armadura modificado con un mayor refuerzo y peso. El ataque sin armas de tu armadura modificada causa un daño cinético de 1d6 y tiene la siguiente propiedad.
 
 Si tú o tu objetivo se mueven al menos 10 pies en línea recta inmediatamente antes de hacer un ataque desarmado, el primer ataque desarmado que hagas causará un daño adicional igual al de tu modificador de Inteligencia.
 
 #### Reinforced Underlay
-_**Pre-requisito:** 5º nivel.
+_**Pre-requisito:** 5º nivel_<br>
 Ganas un bono +1 a AC contra los ataques a distancia. Este bonus aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
 #### Resistencia
-_**Pre-requisito:** Armadura.
+_**Pre-requisito:** Armadura_<br>
 Afina su armadura modificada contra ciertas formas de daño. Elige ácido, frío, fuego, iones, rayos o daño sónico. Mientras usas tu armadura modificada tienes resistencia a ese tipo de daño. 
 
 Puede seleccionar esta modificación varias veces. Cada vez que lo hagas, debes elegir un tipo de daño diferente.
@@ -1086,34 +1086,34 @@ Puede seleccionar esta modificación varias veces. Cada vez que lo hagas, debes e
 \columnbreak
 
 #### Sealed Suit
-_**Pre-requisito:** 5º nivel, Armadura.
+_**Pre-requisito:** 5º nivel, Armadura_<br>
 Como acción extra puedes sellar herméticamente tu armadura modificada, dándote un suministro de aire por hasta 1 hora y haciéndote inmune al veneno (pero no curándote de las condiciones de envenenamiento existentes). Tu armadura recupera 1 minuto de aire por cada minuto que no estés sumergido y la armadura no esté sellada.
 
 Además, mientras lleves tu armadura modificada se considera que estás adaptado a climas fríos y cálidos, así como a la altura, como se describe en el capítulo 5 de la Guía del Maestro de la Mazmorra. 
 
 #### Sentient Armor
-_**Pre-requisito:** 13º nivel.
-_**Pre-requisito:** Inteligencia Artificial.
+_**Pre-requisito:** 13º nivel_<br>
+_**Pre-requisito:** Inteligencia Artificial_<br>
 Tu inteligencia artificial ha aprendido a controlar el traje sin que tú estés en él. Ahora es un objetivo válido de la potencia tecnológica de la interfaz del droide rastreador.
 
 Mientras que tu armadura actúa de forma independiente, utiliza tus puntuaciones de habilidad, lanzamientos de salvamento y habilidades, y tiene puntos de golpe iguales a tu nivel de ingeniero. Si se reduce a 0 puntos de golpe, cae directamente al suelo, y no puede volver a equiparse hasta que termines un largo descanso.
 
 #### Shield Amplifier
-_**Pre-requisito:**Generador de escudo.
+_**Pre-requisito:** Generador de escudo_<br>
 Modifica su generador de escudos para proyectarse hacia el exterior. Como acción extra, puedes amplificar tu escudo hasta el comienzo de tu próximo turno. Cada criatura que se encuentre dentro de un radio de 1,5 metros de ti gana un bonus a AC igual al bonus de tu escudo.
 
 Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
 #### Shield Anchor
-_**Pre-requisito:** Escudo Físico.
+_**Pre-requisito:** Escudo Físico_<br>
 Modifica su escudo para ser usado como una fuente portátil de cobertura. Como acción, puedes anclar o recuperar el escudo. Mientras esté anclado, no obtendrá ningún beneficio de un escudo, y no requiere el uso de una mano. En cambio, mientras está anclado, un escudo ligero proporciona un cuarto de cobertura, un escudo mediano proporciona la mitad de cobertura, y un escudo grande proporciona tres cuartos de cobertura.
 
 #### Tech Blast
-_**Pre-requisito:** Armadura.
+_**Pre-requisito:** Armadura_<br>
 Modifica su guante de armadura modificado para permitirle hacer un ataque tecnológico a distancia. El arma dispara ráfagas de energía que infligen 1d8 + tu modificador de inteligencia de daño energético con un alcance de 30 pies. Cuando haces un ataque con un arma de distancia, puedes usar este ataque de distancia en su lugar.
 
 #### Blindaje de Integración de Armas
-_**Pre-requisito:** Armadura.
+_**Pre-requisito:** Armadura_<br>
 Puedes integrar una sola arma que no pese más de 8 libras en tu armadura. Mientras esté integrada, esa arma gana la propiedad oculta. Además, tienes ventaja en los lanzamientos de ahorro de fuerza para evitar ser desarmado.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -1165,38 +1165,38 @@ A partir del nivel 18, cuando uses la función de la Matriz de Objetivos, y la po
 Si una modificación tiene requisitos previos, debe cumplirlos para instalarla. Puede instalar la modificación al mismo tiempo que cumple sus requisitos previos.
 
 #### Focalización de la precisión
-_**Pre-requisito:**5º nivel, Blaster.
+_**Pre-requisito:** 5º nivel, Blaster_<br>
 Ganas un bono +1 por atacar las tiradas hechas con esta arma. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
 #### Barril de amplificación
-_**Pre-requisito:**5º nivel, Blaster.
+_**Pre-requisito:** 5º nivel, Blaster_<br>
 Ganarás un bono +1 por las tiradas de daño hechas con esta arma. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
 #### Bayoneta
-_**Pre-requisito:** Blaster.
+_**Pre-requisito:** Blaster_<br>
 Pones una hoja corta en el cañón de tu arma explosiva modificada, lo que te permite hacer un ataque cuerpo a cuerpo con ella. La cuchilla es un arma de combate cuerpo a cuerpo con la propiedad de la delicadeza con la que eres experto, y causa un daño cinético de 1 a 6.
 
 #### Burst Core
-_**Pre-requisito:** Blaster.
+_**Pre-requisito:** Blaster_<br>
 Su arma gana la propiedad de estallar, con un número de estallido igual a su número de recarga.
 
 #### Booming Strikes
-_**Pre-requisito:**7º nivel.
+_**Pre-requisito:** 7º nivel_<br>
 Usted carga con energía extra en su arma modificada. Una vez por turno, cuando golpeas con el arma, puedes hacer un daño adicional de 1d6. Si lo haces, el arma hace un fuerte estruendo que se puede escuchar a 100 pies de distancia. Si estás escondido, las comprobaciones de Inteligencia (Investigación) y Sabiduría (Percepción) hechas para localizarte que se basan en el sonido tienen ventaja.
 
 #### Celerity Oscillator
 Una vez por turno, cuando infliges daño con tu arma modificada, tu velocidad al caminar aumenta en 10 pies hasta el comienzo del siguiente turno, y la criatura dañada no puede hacer ataques de oportunidad contra ti durante el resto de tu turno.
 
 #### Marco Colapsable
-_**Pre-requisito:** Vibro-arma.
+_**Pre-requisito:** Vibro-arma_<br>
 Instalas una empuñadura extensible en tu arma modificada. Su arma modificada gana la propiedad de alcance.
 
 #### Contoured Grip 
-_**Pre-requisito:** 5º nivel, Vibroarmas.
+_**Pre-requisito:** 5º nivel, Vibroarmas_<br>
 Ganas un bono +1 por atacar las tiradas hechas con esta arma. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
 #### Revista Expandida
-_**Pre-requisito:** Blaster.
+_**Pre-requisito:** Blaster_<br>
 Su arma modificada puede ser recargada más eficientemente. Puedes recargar tu arma modificada una vez sin usar una acción. No puedes usar esta característica de nuevo hasta que recargues el arma con una acción.
 
 \columnbreak
@@ -1216,25 +1216,25 @@ Mientras estés conectado de esta manera, puedes usar tu acción extra para activa
 Una vez que has usado esta característica, no puedes volver a usarla hasta que te recuperes y vuelvas a insertar el arpón como una acción.
 
 #### Imbue Weapon
-_**Pre-requisito:**9º nivel.
+_**Pre-requisito:** 9º nivel_<br>
 Modifica su arma para llevar una carga. En el transcurso de un breve descanso, puede lanzar una potencia tecnológica a voluntad, canalizándola en su arma. La próxima vez que golpees con tu arma, el poder almacenado será liberado. Si el poder requiere una tirada de ataque, haz una tirada de ataque técnico. Si el poder requiere un tiro de salvamento, el objetivo debe hacer el tiro de salvamento como es normal. En un golpe, o un fracaso, el objetivo sufre los efectos normales del poder. 
 
 #### Improved Burst Core
-_**Pre-requisito:**9º nivel.
-_**Pre-requisito:** "Burst Core".
+_**Pre-requisito:** 9º nivel_<br>
+_**Pre-requisito:** "Burst Core"_<br>
 El número de explosiones de su arma se reduce a la mitad de su número de recarga.
 
 #### Revista Integrada
-_**Pre-requisito:** Revista expandida.
+_**Pre-requisito:** Revista expandida_<br>
 Su arma modificada puede ser recargada más eficientemente. Puedes recargar tu arma modificada dos veces sin usar una acción. No puedes usar esta característica de nuevo hasta que recargues el arma con una acción.
 
 #### Oscilador dentado
-_**Pre-requisito:** Vibro-arma.
+_**Pre-requisito:** Vibro-arma_<br>
 Cuando golpeas críticamente con el arma, infliges un daño cinético adicional de 1d8.
 
 #### Oscilador Keen
-_**Pre-requisito:** 5º nivel.
-_**Pre-requisito:** Oscilador dentado.
+_**Pre-requisito:** 5º nivel_<br>
+_**Pre-requisito:** Oscilador dentado_<br>
 Su arma ahora anota un golpe crítico en una tirada de 19 o 20.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -1242,129 +1242,129 @@ Su arma ahora anota un golpe crítico en una tirada de 19 o 20.
 \pagebreakNum
 
 #### Neutronium Edge
-_**Prerequisite:** 5th level, Vibroweapon_<br>
-You gain a +1 bonus to damage rolls made with this weapon. This bonus increases to +2 at 9th level and +3 at 13th level.
+_**Pre-requisito:** 5º nivel, Vibroarmas_<br>
+Ganarás un bono +1 por las tiradas de daño hechas con esta arma. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
 #### Overcharge Weapon
-_**Prerequisite:** 11th level_<br>
-_**Prerequisite:** Booming Strikes_<br>
-You gain the ability to channel your tech power to enhance your weapon's damage. You can expend one tech slot to deal additional damage to the target. The extra damage is 1d6 for a 1st-level tech slot, plus 1d6 for each slot level higher than 1st, to a maximum of 5d6. The damage is the same type as the weapon damage. If you also use your Booming Strikes with an attack, you add this damage to the extra damage of your Booming Strikes.
+_**Pre-requisito:** 11º nivel_<br>
+_**Pre-requisito:** "Huelgas en auge"_<br>
+Obtienes la habilidad de canalizar tu poder tecnológico para mejorar el daño de tu arma. Puedes gastar una ranura tecnológica para hacer más daño al objetivo. El daño adicional es de 1d6 para un tech slot de primer nivel, más 1d6 por cada slot de nivel superior al primero, hasta un máximo de 5d6. El daño es del mismo tipo que el daño del arma. Si también utilizas tus Booming Strikes con un ataque, añades este daño al daño extra de tus Booming Strikes.
 
 #### Power Loop
-_**Prerequisite:** 7th level_<br>
-When you hit with the weapon, you can choose channel the energy generated, gaining temporary hit points equal to half the damage dealt.
+_**Pre-requisito:** 7º nivel_<br>
+Cuando golpeas con el arma, puedes elegir canalizar la energía generada, obteniendo puntos de golpe temporales iguales a la mitad del daño causado.
 
-Once you've used this feature, you must complete a long rest before you can use it again.
+Una vez que haya utilizado esta función, debe completar un largo descanso antes de poder usarla de nuevo.
 
 #### Recoil Dampener
-_**Prerequisite:** Blaster with the strength property_<br>
-You install a recoil dampener in your modified blaster, removing the strength property from it.
+_**Pre-requisito:**** Blaster con la propiedad de la fuerza_<br>
+Instalas un amortiguador de retroceso en tu dinamitero modificado, quitándole la propiedad de resistencia.
 
-#### Returning Weapon Guard
-_**Prerequisite:** Vibroweapon_<br>
-You install a retractible chain in your modified vibroweapon. If the weapon does not already have the thrown property, it gains it with a range of 20/60. Additionally, it gains the returning property.
+#### Retorno de la Guardia de Armas
+_**Pre-requisito:** Vibro-arma_<br>
+Instalas una cadena retráctil en tu vibro-arma modificada. Si el arma no tiene ya la propiedad de ser lanzada, la gana con un rango de 20/60. Además, obtiene la propiedad de retorno.
 
 #### Screening Weapon
-You modify your modified weapon with a sound dampening module. When you make a weapon attack with your weapon while hidden, Investigation and Perception checks made to locate you that rely on sound have disadvantage.
+Modifica su arma modificada con un módulo de amortiguación de sonido. Cuando haces un ataque con tu arma mientras está escondida, las comprobaciones de Investigación y Percepción hechas para localizarte que dependen del sonido tienen la desventaja.
 
-#### Siege Weapon
-You modify your weapon to be more effective against barriers. Your weapon deals double damage against structures.
+#### Arma de asedio
+Modifica su arma para que sea más efectiva contra las barreras. Su arma hace un doble daño contra las estructuras.
 
 #### Shock Absorber
-You add a reclamation device to your modified weapon to gather energy from the surroundings when it is present. While wielding your modified weapon, you can cast the _absorb energy_ tech power and the power's extra damage applies to both melee and ranged weapon attacks.
+Añades un dispositivo de recuperación a tu arma modificada para recoger la energía de los alrededores cuando está presente. Mientras empuñas tu arma modificada, puedes lanzar el poder de la tecnología de _absorción de energía_ y el daño extra del poder se aplica tanto a los ataques cuerpo a cuerpo como a los ataques con armas de distancia.
 
 #### Shock Harpoon
-_**Prerequisite:** 9th level_<br>
-_**Prerequisite:** Harpoon Reel_<br>
-After hitting a creature with the harpoon fire mode, you can use the connection to deliver an at-will tech power. As a bonus action, you can cast an at-will tech power at the target as if you were standing in the
+_**Pre-requisito:** 9º nivel_<br>
+_**Pre-requisito:** Arpón, carrete, arpón_<br>
+Después de golpear a una criatura con el modo de fuego de arpón, puedes usar la conexión para entregar un poder tecnológico a voluntad. Como acción extra, puedes lanzar un poder tecnológico a voluntad al objetivo como si estuvieras parado en el
 
 \columnbreak
 
 <div style='margin-top:16px'></div>
 
-target's space. If the power requires a saving throw, the target has disadvantage. 
+el espacio del objetivo. Si la potencia requiere un tiro de salvamento, el objetivo tiene una desventaja. 
 
-Once you've used this feature, you can't use it again until you recover the harpoon.
+Una vez que hayas usado esta función, no podrás volver a usarla hasta que recuperes el arpón.
 
 #### Shocking Oscillator
-_**Prerequisite:** 9th level, Vibroweapon_<br>
-When you hit with the weapon, you can create an electronic burst. Each creature in a 15-foot cone centered on the creature you hit must make a Dexterity saving throw against your tech save DC, taking 1d8 lightning damage on a failed save or half as much on a successful one.
+_**Pre-requisito:** 9º nivel, Vibroarmas_<br>
+Cuando golpeas con el arma, puedes crear un estallido electrónico. Cada criatura en un cono de 15 pies centrado en la criatura que golpeas debe hacer un lanzamiento de ahorro de destreza contra tu DC de ahorro de tecnología, recibiendo 1d8 de daño por relámpago en una salvada fallida o la mitad en una exitosa.
 
-Once you've used this feature, you must complete a long rest before you can use it again.
+Una vez que haya utilizado esta función, debe completar un largo descanso antes de poder usarla de nuevo.
 
 #### Snap Fire
-_**Prerequisite:** 9th level, Blaster_<br>
-You modify your modified blaster weapon for quick shots. You can use your reaction to take a opportunity attack with your modified weapon if an enemy comes within 10 feet of you. You have disadvantage on this attack. 
+_**Pre-requisito:** 9º nivel, Blaster_<br>
+Modifica su arma explosiva modificada para disparos rápidos. Puedes usar tu reacción para tomar un ataque de oportunidad con tu arma modificada si un enemigo se acerca a 10 pies de ti. Tienes una desventaja en este ataque. 
 
-#### Stabilizer Cell
-_**Prerequisite:** Vibroweapon with the dexterity property_<br>
-You install a stabilizer cell in your modified vibroweapon, removing the dexterity property from it.
+#### Célula estabilizadora
+_**Pre-requisito:** un arma vibratoria con la propiedad de la destreza_<br>
+Instalas una célula estabilizadora en tu vibro-arma modificada, quitándole la propiedad de destreza.
 
-#### Staggering Oscillator
-_**Prerequisite:** Vibroweapon_<br>
-When you hit with the weapon, you can force the target to make a Strength saving throw. On a failed save, the creature is pushed back 10 feet and knocked prone.
+#### Oscilador tambaleante
+_**Pre-requisito:** Vibro-arma_<br>
+Cuando golpeas con el arma, puedes forzar al objetivo a hacer un lanzamiento de ahorro de fuerza. En una salvada fallida, la criatura es empujada hacia atrás 3 metros y es golpeada en posición prona.
 
-Once you've used this feature, you must complete a short or long rest before you can use it again.
+Una vez que haya utilizado esta función, debe completar un corto o largo descanso antes de poder usarla de nuevo.
 
 #### Tracker
-_**Prerequisite:** 5th level_<br>
-You add a tracking mechanism to your modified weapon. The tracker has 3 charges. As an action you can use 1 charge to cast _target lock_. As an action you can use 2 charges to cast _detect invisibility_.
+_**Pre-requisito:** 5º nivel_<br>
+Añades un mecanismo de rastreo a tu arma modificada. El rastreador tiene 3 cargas. Como acción puedes usar 1 carga para lanzar el bloqueo del objetivo. Como una acción puedes usar 2 cargas para lanzar _detectar invisibilidad_.
 
-The tracker regains all expended charges after a long rest.
+El rastreador recupera todos los gastos después de un largo descanso.
 
 #### Truelight
-_**Prerequisite:** 11th level_<br>
-_**Prerequisite:** Flashlight_<br>
-When toggled on, your flashlight now automatically dispels illusions and can detect invisibility, as with truesight.
+_**Pre-requisito:** 11º nivel_<br>
+_**Pre-requisito:** Linterna_<br>
+Cuando se enciende, la linterna ahora disipa automáticamente las ilusiones y puede detectar la invisibilidad, como con la luz real.
 
-#### Venomous Oscillator
-_**Prerequisite:** 9th level, Vibroweapon_<br>
-As a bonus action, you can coat your weapon in a thin layer of poison for 1 minute. The next time you hit with the weapon, the creature must make a Constitution saving throw against your tech save DC. On a failed save, a creature takes 1d10 poison damage and becomes poisoned for 1 minute.
+#### Oscilador venenoso
+_**Pre-requisito:** 9º nivel, Vibroarmas_<br>
+Como acción extra, puedes cubrir tu arma con una fina capa de veneno durante un minuto. La próxima vez que golpees con el arma, la criatura debe hacer un lanzamiento de ahorro de la Constitución contra tu tecnología de salvamento de DC. En una salvada fallida, la criatura recibe 1d10 de daño por veneno y se envenena durante 1 minuto.
 
-Once you've used this feature, you must complete a long rest before you can use it again.
+Una vez que haya utilizado esta función, debe completar un largo descanso antes de poder usarla de nuevo.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-## Astrotech Engineering
-Those engineers who choose the Astrotech Engineering discipline focus on crafting and upgrading their droid companions.
+## Ingeniería Astrotécnica
+Los ingenieros que eligen la disciplina de Ingeniería Astrotécnica se centran en la creación y mejora de sus compañeros droides.
 
-### Bonus Proficiencies
-When you choose this discipline at 3rd level, you gain proficiency in astrotech's tools. Additionally, when you engage in crafting with astrotech's tools, the rate at which you craft doubles.
+### Bonus Proficiency
+Al elegir esta disciplina en el 3er nivel, se obtiene un dominio de las herramientas de la astrología. Además, cuando te dedicas a la artesanía con las herramientas de la astrotécnica, la velocidad a la que haces artesanías se duplica.
 
 ### Droid Companion
-Also at 3rd level, you learn to employ all the knowledge you've accumulated to create and customize your own personalized droid companion.
+También en el 3er nivel, aprendes a emplear todo el conocimiento que has acumulado para crear y personalizar tu propio compañero droide personalizado.
 
-Choose your droid, which is detailed at the end of this discipline. Over the course of 8 hours, which can be done during a long rest, you can expend 500 cr worth of materials to finally finish your droid.
+Elija su droide, que se detalla al final de esta disciplina. En el transcurso de 8 horas, que se pueden hacer durante un largo descanso, puedes gastar 500 cr de materiales para finalmente terminar tu droide.
 
-If your droid is irreparably destroyed, or you want to interface with a different droid, you can spend an additional 250 credits and 1 hour to change the target of this feature. You may only have one droid companion at a time.
+Si tu droide es destruido irreparablemente, o quieres interactuar con otro droide, puedes gastar 250 créditos adicionales y 1 hora para cambiar el objetivo de esta función. Sólo puedes tener un compañero droide a la vez.
 
-Your droid gains a variety of benefits while it is interfaced with you:
-- The droid obeys your commands as best it can. It acts on your turn, and you determine its actions, decisions, attitudes, and so on. If you are incapacitated or absent, your droid acts on its own.
-- Your droid's level equals your engineer level, and for each engineer level you gain after 3rd, your droid companion gains an additional Hit Die and increases its hit points accordingly.
-- Your droid has the proficiency bonus of a player character of the same level.
-- Whenever you gain the Ability Score Improvement feature in this class, your droid's abilities also improve. Your droid can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. As normal, your droid can't increase an ability score above 20 using this feature unless its description specifies otherwise.
-- Your droid can not wear armor, but you can have the armor professionally integrated into its chassis. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to integrate it into your droid. Your droid must be proficient in armor in order to have it integrated.
-- Your droid is a valid target of the *tracker droid interface* tech power.
+Tu droide obtiene una variedad de beneficios mientras está conectado a ti:
+- El droide obedece tus órdenes lo mejor que puede. Actúa a tu turno, y tú determinas sus acciones, decisiones, actitudes, etc. Si estás incapacitado o ausente, tu droide actúa por su cuenta.
+- El nivel de tu droide es igual al nivel de tu ingeniero, y por cada nivel de ingeniero que ganes después del 3º, tu compañero droide gana un dado de impacto adicional y aumenta sus puntos de impacto en consecuencia.
+- Tu droide tiene el bono de habilidad de un personaje del mismo nivel.
+- Cada vez que obtienes la característica de Mejora de la Puntuación de Habilidad en esta clase, las habilidades de tu droide también mejoran. Tu droide puede aumentar una puntuación de habilidad de tu elección en 2, o puede aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, tu droide no puede aumentar una puntuación de habilidad por encima de 20 usando esta característica a menos que su descripción especifique lo contrario.
+- Tu droide no puede llevar armadura, pero puedes tener la armadura integrada profesionalmente en su chasis. En el transcurso de un largo descanso, puedes gastar materiales equivalentes a la mitad del costo de la armadura para integrarla a tu droide. Tu droide debe dominar la armadura para poder integrarla.
+- Tu droide es un objetivo válido de la potencia tecnológica del *interfaz del droide rastreador*.
 
-Additionally, you can modify your droid. Your droid companion has 4 modification slots, and it gains more at higher levels, as shown in the Modification Slots column of the engineer class table. For each modification installed, your tech point maximum is reduced by 1. Over the course of a long rest, you can replace or remove a number of modifications up to your Intelligence modifier (minimum of one).
+Además, puedes modificar tu droide. Tu compañero droide tiene 4 ranuras de modificación, y gana más en los niveles superiores, como se muestra en la columna de ranuras de modificación de la tabla de clase de ingenieros. Por cada modificación instalada, el máximo de tu punto técnico se reduce en 1. En el transcurso de un largo descanso, puedes reemplazar o eliminar una serie de modificaciones hasta tu modificador de Inteligencia (mínimo de uno).
 
 \columnbreak
 
 <div style='margin-top:26px'></div>
 
-### Potent Integration
-Lastly at 3rd level, when your droid makes an attack roll, you can use your reaction to expend one use of your Potent Aptitude to give it a boost. Roll the die and add it to both the attack and damage rolls, if the attack hits.
+### Potente Integración
+Por último, en el tercer nivel, cuando tu droide hace una tirada de ataque, puedes usar tu reacción para gastar un uso de tu Aptitud Potencial para darle un impulso. Lanza el dado y añádelo a las tiradas de ataque y de daño, si el ataque impacta.
 
-### Coordinated Attack
-Beginning at 6th level, when you take the Attack action, if your companion can see you, it can use its reaction to make a weapon attack against the same creature.
+### Ataque coordinado
+A partir del 6º nivel, cuando realizas la acción de Ataque, si tu compañero puede verte, puede usar su reacción para hacer un ataque con armas contra la misma criatura.
 
 ### Droid Defense
-At 14th level, while your droid can see you, it has advantage on all saving throws.
+En el nivel 14, mientras que tu droide puede verte, tiene ventaja en todos los lanzamientos de salvamento.
 
 ### Superior Droid Defense
-Starting at 18th level, whenever an<br> attacker that your droid can see<br> hits it with an attack, it can use<br> its reaction to halve the attack's<br> damage against it.
+A partir del nivel 18, cuando un atacante que tu droide puede ver lo golpea con un ataque, puede usar su reacción para reducir a la mitad el daño del ataque contra él.
 
 <img src='https://www.gmbinder.com/images/QLbAs0t.png' style='position:absolute;bottom:-2px;right:-65px;width:520px;transform:scaleX(-1);z-index:1000;' />
 
@@ -1372,181 +1372,181 @@ Starting at 18th level, whenever an<br> attacker that your droid can see<br> hit
 
 \pagebreakNum
 
-## Generating Your Droid 
-Choosing your droid companion is an integral part of being an Astrotech Engineer. The class of droid you choose determines their features. Class II, III, and IV droids are all appropriate options, with their statistics listed below.
+## Generando tu droide 
+Elegir a tu compañero droide es una parte integral de ser un Ingeniero Astrotecnista. La clase de droide que elijas determina sus características. Los droides de clase II, III y IV son opciones apropiadas, con sus estadísticas listadas a continuación.
 
-Once you've selected your type of droid class, you assign your droid's ability scores using standard array (16, 14, 14, 12, 10, 8) as you see fit.
+Una vez que has seleccionado tu tipo de clase de droide, asignas las puntuaciones de habilidad de tu droide usando una matriz estándar (16, 14, 14, 12, 10, 8) según te parezca.
 ___
 
-## Droid Features
-All droids share the following features.
+## Características del droide
+Todos los droides comparten las siguientes características.
 
-#### Resistances and Vulnerabilities
+#### Resistencias y vulnerabilidades
 ___
-- **Droid Resistances:** Your droid is resistant to necrotic, poison, and psychic damage, and immune to poison and disease.
-- **Droid Vulnerabilities:** Your droid is vulnerable to ion damage. Additionally, your droid has disadvantage on saving throws against effects that would deal ion or lightning damage.
+- **Resistencias de los droides:** Tu droide es resistente a los daños necróticos, venenosos y psíquicos, e inmune a los venenos y enfermedades.
+- **Vulnerabilidad de los droides:** Su droide es vulnerable al daño de los iones. Además, tu droide tiene la desventaja de ahorrar lanzamientos contra los efectos que causarían daños por iones o rayos.
 
 #### Traits
 ___
-- **Creature Type:** Droid
-- **Armor Integration:** Your droid can not wear armor, but you can have the armor professionally integrated into its chassis. Over the course of a long rest, you can expend materials equal to half the cost of the armor in order to have it integrated. This work must be done by someone proficient with astrotech's tools. Your droid must be proficient in armor in order to have it integrated.
+- **Tipo de criatura:** Droide
+- **Integración de la armadura:** Tu droide no puede llevar armadura, pero puedes tener la armadura integrada profesionalmente en su chasis. En el transcurso de un largo descanso, puedes gastar materiales equivalentes a la mitad del costo de la armadura para integrarla. Este trabajo debe ser realizado por alguien que domine las herramientas de la astrotécnica. Tu droide debe ser experto en armaduras para poder integrarlo.
 
-## Class I Droid 
-Class I droids are programmed for the mathematical, medical, or physical sciences. Subcategories of the first degree are medical droids, biological science droids, physical science droids, and mathematics droids.
+## Droide de clase I 
+Los droides de clase I están programados para las ciencias matemáticas, médicas o físicas. Las subcategorías del primer grado son: droides médicos, droides de ciencias biológicas, droides de ciencias físicas y droides de matemáticas.
 
-As a class I droid, your droid companion has the following features.
+Como droide de clase I, tu compañero droide tiene las siguientes características.
 
 #### Hit Points
 ___
-- **Hit Dice:** 1d8 per class I droid level
-- **Hit Points at 1st Level:** 8 + your droid's Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your droid's Constitution modifier per class I droid level after 1st
+- **Hit Dice:** 1d8 por nivel de droide clase I
+- **Puntos de golpe en el primer nivel:** 8 + tu modificador de constitución de droide
+- **Puntos de golpe en niveles superiores:** 1d8 (o 5) + el modificador de la Constitución de tu droide por nivel de droide clase I después del 1er
 
-#### Proficiencies
+#### Proficiency
 ___
-- **Armor:** Light armor plating
-- **Weapons:** Simple blasters, simple vibroweapons
-- **Tools:** None
+- **Blindaje: ** Blindaje ligero
+- **Armas:** simples explosivos, simples armas de fuego
+- **Herramientas:** Ninguna
 ___
-- **Languages:** Class I droids can speak, read, and write Galactic Basic and one language of your choice. They can understand spoken and written Binary, but can not speak it
-- **Saving Throws:** Wisdom, Intelligence
-- **Skills:** Two Intelligence, Wisdom, or Charisma skills of your choice
+- **Idiomas:** Los droides de clase I pueden hablar, leer y escribir el Galactic Basic y un idioma de su elección. Pueden entender el binario hablado y escrito, pero no pueden hablarlo
+- **Salvando Lanzamientos:** Sabiduría, Inteligencia
+- **Habilidades:** Dos habilidades de Inteligencia, Sabiduría o Carisma de su elección
 
 #### Features
 ___
-- **Size:** Medium
-- **Speed:** 25 ft.
+- **Tamaño:** Medio
+- **Velocidad:** 25 pies.
 
 \columnbreak
 
-## Class II Droid 
-Class II droids are programmed for engineering and other technical sciences. They differ from class I droids because they apply the science to real-life situations. Class II droids are rarely equipped with Basic vocabulators, instead communicating through Binary. There are five subcategories of class II droids. Astromech, exploration, environmental, engineering, and maintenance droids are all class II
-droids.
+## Droide de clase II 
+Los droides de clase II están programados para la ingeniería y otras ciencias técnicas. Se diferencian de los droides clase I porque aplican la ciencia a situaciones de la vida real. Los droides clase II raramente están equipados con vocabuladores básicos, en cambio se comunican a través de Binario. Hay cinco subcategorías de droides clase II. Los droides de clase II son: astromecánicos, de exploración, medioambientales, de ingeniería y de mantenimiento.
+droides.
 
-As a class II droid, your droid companion has the following features.
+Como droide clase II, tu compañero droide tiene las siguientes características.
 
 #### Hit Points
 ___
-- **Hit Dice:** 1d6 per class II droid level
-- **Hit Points at 1st Level:** 6 + your droid's Constitution modifier
-- **Hit Points at Higher Levels:** 1d6 (or 4) + your droid's Constitution modifier per class II droid level after 1st
+- **Hit Dice:** 1d6 por nivel de droide clase II
+- **Puntos de golpe en el primer nivel:** 6 + tu modificador de la constitución de droide
+- **Puntos de impacto en niveles superiores:** 1d6 (o 4) + el modificador de la constitución de tu droide por cada nivel de droide clase II después del 1er.
 
-#### Proficiencies
+#### Proficiency
 ___
-- **Armor:** Light armor, medium armor 
-- **Weapons:** Simple blasters and simple vibroweapons with the light property
-- **Tools:** Your choice of demolition's kit, security kit, or slicer's kit
+- Armadura: Armadura ligera, armadura media. 
+- **Armas:** simples explosivos y simples armas de vibro con la propiedad de la luz
+- **Herramientas:** Su elección de kit de demolición, kit de seguridad, o kit de rebanadora
 ___
-- **Languages:** Class II droids can speak, read, and write Binary. They can understand spoken and written Galactic Basic and one language of your choice, but can not speak it
-- **Saving Throws:** Dexterity, Intelligence
-- **Skills:** Two of your choice
+- **Lenguajes:** Los droides de clase II pueden hablar, leer y escribir en binario. Pueden entender el Galactic Basic hablado y escrito y un idioma de su elección, pero no pueden hablarlo
+- Destreza, inteligencia...
+- **Habilidades:** Dos de tu elección
 
 #### Features
 ___
-- **Size:** Small
-- **Speed:** 25 ft.
+- **Tamaño:** Pequeño
+- **Velocidad:** 25 pies.
 
 ## Class III Droid 
-Class III droids are programmed to interact with humans. They are said to be the most advanced droids ever invented. Protocol, servant, tutor, and child care droids are all class III droids.
+Los droides de clase III están programados para interactuar con los humanos. Se dice que son los droides más avanzados que se han inventado. Los droides de protocolo, de servicio, de tutoría y de cuidado infantil son todos droides clase III.
 
-As a class III droid, your droid companion has the following features.
+Como droide clase III, tu compañero droide tiene las siguientes características.
 
 #### Hit Points
 ___
-- **Hit Dice:** 1d8 per class III droid level
-- **Hit Points at 1st Level:** 8 + your droid's Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your droid's Constitution modifier per class III droid level after 1st
+- **Hit Dice:** 1d8 por nivel de droide clase III
+- **Puntos de golpe en el primer nivel:** 8 + tu modificador de constitución de droide
+- **Puntos de impacto en niveles superiores:** 1d8 (o 5) + el modificador de la constitución de tu droide por nivel de droide clase III después del 1er.
 
-#### Proficiencies
+#### Proficiency
 ___
-- **Armor:** Light armor
-- **Weapons:** Simple blasters, simple vibroweapons
-- **Tools:** None
+- **Armadura:** Armadura ligera
+- **Armas:** simples explosivos, simples armas de fuego
+- **Herramientas:** Ninguna
 ___
-- **Languages:** Class III droids can speak and understand all registered languages
-- **Saving Throws:** Wisdom, Charisma
-- **Skills:** None
+- **Idiomas:** Los droides de clase III pueden hablar y entender todos los idiomas registrados
+- **Salvando Lanzamientos:** Sabiduría, Carisma
+- **Habilidades:** Ninguna
 
 #### Features
 ___
-- **Size:** Medium
-- **Speed:** 25 ft.
+- **Tamaño:** Medio
+- **Velocidad:** 25 pies.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
 ## Class IV Droid
-Class IV droids are programmed for military and security purposes. Such droids tend to perform tasks of violence or combat might be expected. Almost all class IV droids carry weapons. Armed combat droids are among the first droids ever created. Security, gladiator, battle, and assassin droids are all class IV droids.
+Los droides de clase IV están programados para fines militares y de seguridad. Tales droides tienden a realizar tareas de violencia o de combate que se podrían esperar. Casi todos los droides clase IV llevan armas. Los droides de combate armados están entre los primeros droides creados. Los droides de seguridad, de gladiadores, de batalla y asesinos son todos droides clase IV.
 
-As a class IV droid, your droid companion has the following features.
-
-#### Hit Points
-___
-- **Hit Dice:** 1d8 per class IV droid level
-- **Hit Points at 1st Level:** 8 + your droid's Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your droid's Constitution modifier per class IV droid level after 1st
-
-#### Proficiencies
-___
-- **Armor:** All armor
-- **Weapons:** All blasters, All vibroweapons
-- **Tools:** None
-___
-- **Languages:** Class IV droids can speak, read, and write Galactic Basic and one language of your choice. They can understand spoken and written Binary, but can not speak it
-- **Saving Throws:** Strength, Dexterity
-- **Skills:** None
-
-#### Features
-___
-- **Size:** Medium
-- **Speed:** 30 ft.
-
-## Class V Droid
-Class V droids are programmed for menial and low-skill tasks. Such droids tend to perform basic tasks such as construction, lifting, maintenance, mining, sanitation, and transportation.
-
-As a class V droid, your droid companion has the following features.
+Como droide clase IV, tu compañero droide tiene las siguientes características.
 
 #### Hit Points
 ___
-- **Hit Dice:** 1d8 per class V droid level
-- **Hit Points at 1st Level:** 8 + your droid's Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your droid's Constitution modifier per class V droid level after 1st
+- **Hit Dice:** 1d8 por nivel de droide clase IV
+- **Puntos de golpe en el primer nivel:** 8 + tu modificador de constitución de droide
+- **Puntos de golpe en niveles superiores:** 1d8 (o 5) + el modificador de la Constitución de tu droide por nivel de droide clase IV después del 1er
 
-#### Proficiencies
+#### Proficiency
 ___
-- **Armor:** Light armor, medium armor
-- **Weapons:** All vibroweapons, simple blasters
-- **Tools:** One set of artisan's tools
+- **Armadura:** Toda la armadura
+- **Armas:** Todos los explosivos, todos los vibroarmas
+- **Herramientas:** Ninguna
 ___
-- **Languages:** Class V droids can speak, read, and write Binary. They can understand spoken and written Galactic Basic and one language of your choice, but can not speak it
-- **Saving Throws:** Strength, Constitution
-- **Skills:** Athletics
+- **Idiomas:** Los droides de clase IV pueden hablar, leer y escribir el Galactic Basic y un idioma de su elección. Pueden entender el binario hablado y escrito, pero no pueden hablarlo
+- **Salvando tiros:** Fuerza, Destreza
+- **Habilidades:** Ninguna
 
 #### Features
 ___
-- **Size:** Medium
-- **Speed:** 30 ft.
+- **Tamaño:** Medio
+- **Velocidad:** 30 pies.
+
+## Droide de clase V
+Los droides clase V están programados para tareas de poca monta y de poca habilidad. Estos droides tienden a realizar tareas básicas como la construcción, el levantamiento, el mantenimiento, la minería, el saneamiento y el transporte.
+
+Como droide clase V, tu compañero droide tiene las siguientes características.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d8 por nivel de droide clase V
+- **Puntos de golpe en el primer nivel:** 8 + tu modificador de constitución de droide
+- **Puntos de golpe en niveles superiores:** 1d8 (o 5) + el modificador de la Constitución de tu droide por nivel de droide clase V después del 1er
+
+#### Proficiency
+___
+- Armadura: Armadura ligera, armadura media.
+- **Armas:** Todas las vibroarmas, simples explosivos
+- **Herramientas:** Un juego de herramientas de artesano
+___
+- **Lenguajes:** Los droides de clase V pueden hablar, leer y escribir en binario. Pueden entender el Galactic Basic hablado y escrito y un idioma de su elección, pero no pueden hablarlo
+- **Salvando Lanzamientos:** Fuerza, Constitución
+- **Habilidades:** Atletismo
+
+#### Features
+___
+- **Tamaño:** Medio
+- **Velocidad:** 30 pies.
 
 \columnbreak
 
 <div style='margin-top:28px'></div>
 
-### Astrotech Modifications
-If a modification has prerequisites, you must meet them to install it. You can install the modification at the same time that you meet its prerequisites.
+### Modificaciones de Astrotech
+Si una modificación tiene requisitos previos, debe cumplirlos para instalarla. Puede instalar la modificación al mismo tiempo que cumple sus requisitos previos.
 
 #### Advanced Power Core
-_**Prerequisite:** 7th level, d10 Hit Die_<br>
-You greatly improve the power core of your droid. Its Hit Die becomes a d12.
+_**Pre-requisito:** 7º nivel, d10 Golpea a Die_<br>
+Mejoran mucho el núcleo de energía de su droide. Su Hit Die se convierte en un d12.
 
-#### Alarm Protocol
-You install an alarm module in your droid, granting the following benefits:
-- Your droid grants a +5 bonus to initiative to creatures within 5 feet of it.
-- You and your droid can't be surprised while your droid is conscious.
+#### Protocolo de Alarma
+Instalas un módulo de alarma en tu droide, otorgando los siguientes beneficios:
+- Tu droide otorga un bono de +5 a la iniciativa de las criaturas que se encuentren a menos de 5 pies de él.
+- Tú y tu droide no pueden sorprenderse mientras tu droide esté consciente.
 
-#### Analysis Protocol
-_**Prerequisite:** 7th level, Class I Droid_<br>
-Your droid can analyze a target, develop a plan on how to best overcome any potential obstacle, and execute that plan with ruthless efficiency. As a bonus action on your droid's turn, your droid can analyze a target it can see within 60 feet of it. For the next minute, or until it analyzes another target, it gains the following benefits:
+#### Protocolo de análisis
+_**Pre-requisito:** 7º nivel, droide de clase I_<br>
+Tu droide puede analizar un objetivo, desarrollar un plan sobre cómo superar mejor cualquier obstáculo potencial, y ejecutar ese plan con una eficiencia despiadada. Como una acción extra en el turno de tu droide, éste puede analizar un objetivo que pueda ver a menos de 60 pies de distancia. Durante el siguiente minuto, o hasta que analice otro objetivo, obtiene los siguientes beneficios:
 - When it analyzes a hostile creature, its attack and damage rolls made with weapons with the finesse property or blaster weapons against that target may use its Intelligence modifier instead of Strength or Dexterity.
 - When it analyzes a friendly creature, the target can end your droid's Analysis Protocol on them (no action required) to add half your droid's Intelligence modifier (rounded down, minimum of +1) to one attack roll, ability check, or saving throw. Once a friendly creature has benefited from this ability, they can not do so again until they complete a short or long rest.
 
@@ -1556,7 +1556,7 @@ You install dual arm cannons in your droid. The arm cannons have 2 charges. As a
 You can choose this modification multiple times. Each time you do so, the arm cannons gain another charge, to a maximum of 4. The arm cannons regain all charges after a long rest.
 
 #### Back-Up Protocol
-_**Prerequisite:** 7th level_<br>
+_**Pre-requisito:** 7º nivel_<br>
 You install an emergency protocol in your droid, prompting a quick reboot after critical damage is taken. If your droid would be reduced to 0 hit points, it instead is reduced to 1.
 
 Once your droid uses this feature, it must finish a short or long rest before it can use it again.
@@ -1590,7 +1590,7 @@ You install an energy shield in your droid. The energy shield has 1 charge. As a
 You can choose this modification multiple times. Each time you do so, the energy shield gains another charge, to a maximum of 3. The energy shield regains all expended charges after a long rest.
 
 #### Expertise Protocol
-_**Prerequisite:** 5th level_<br>
+_**Pre-requisito:** 5º nivel_<br>
 You install a protocol in your droid that grants it expertise in a tool or skill. Choose a tool or skill that your droid is proficient in. Your droid gains expertise in it.
 
 #### False Combustion
