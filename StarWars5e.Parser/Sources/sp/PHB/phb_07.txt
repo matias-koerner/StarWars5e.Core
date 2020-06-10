@@ -1,46 +1,46 @@
 
 
-# Chapter 7: Using Ability Scores
+# Capítulo 7: Uso de los puntajes de habilidad
 
 <img src='https://www.gmbinder.com/images/SEqkLS8.png' style='position:absolute;top:90px;left:75px;width:38px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">ix abilities provide a quick description of</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; every creature's physical and mental<br> characteristics:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">ix habilidades proporcionan una rápida descripción de</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; las características físicas y mentales<br> de cada criatura:<br>
 
 ___
 
-- **Strength**, measuring physical power
-- **Dexterity**, measuring agility
-- **Constitution**, measuring endurance
-- **Intelligence**, measuring reasoning and memory
-- **Wisdom**, measuring awareness and intuition
-- **Charisma**, measuring force of personality
+- **Fuerza**, midiendo la potencia física
+- **Destreza**, midiendo la agilidad
+- **Constitución**, midiendo la resistencia
+- **Inteligencia**, midiendo el razonamiento y la memoria
+- **Sabiduría**, midiendo la conciencia y la intuición
+- **Carisma**, midiendo la fuerza de la personalidad
 
 ___
 
-Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature's assets as well as weaknesses.
+¿Es un personaje musculoso y perspicaz? ¿Brillante y encantador? ¿Ágil y resistente? Los puntajes de habilidad definen estas cualidades, tanto las ventajas como las desventajas de la criatura.
 
-The three main rolls of the game—the ability check, the saving throw, and the attack roll—rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+Las tres tiradas principales del juego, el chequeo de habilidad, el lanzamiento de salvamento y la tirada de ataque, dependen de las seis puntuaciones de habilidad. En la introducción del libro se describe la regla básica de estas tiradas: lanzar un d20, añadir un modificador de habilidad derivado de una de las seis puntuaciones de habilidad y comparar el total con un número objetivo.
 
-This chapter focuses on how to use ability checks and saving throws, covering the fundamental activities that creatures attempt in the game. Rules for attack rolls appear in chapter 9.
+Este capítulo se centra en cómo utilizar los controles de habilidad y los lanzamientos de salvamento, cubriendo las actividades fundamentales que las criaturas intentan en el juego. Las reglas para las tiradas de ataque aparecen en el capítulo 9.
 
-## Ability Scores and Modifiers
-Each of a creature's abilities has a score, a number that defines the magnitude of that ability. An ability score is not just a measure of innate capabilities, but also encompasses a creature's training and competence in activities related to that ability.
+## Ability Scores and Modifiers ### Habilidades y Modificadores
+Cada una de las habilidades de una criatura tiene una puntuación, un número que define la magnitud de esa habilidad. Un puntaje de habilidad no es sólo una medida de las capacidades innatas, sino que también abarca el entrenamiento y la competencia de una criatura en actividades relacionadas con esa habilidad.
 
-A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and villains can have scores as high as 30.
+Una puntuación de 10 u 11 es el promedio humano normal, pero los aventureros y muchos monstruos están por encima de la media en la mayoría de las habilidades. Una puntuación de 18 es la más alta que una persona suele alcanzar. Los aventureros pueden tener puntuaciones tan altas como 20, y los monstruos y villanos pueden tener puntuaciones tan altas como 30.
 
-Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
+Cada habilidad también tiene un modificador, derivado de la puntuación y que va desde -5 (para una puntuación de habilidad de 1) a +10 (para una puntuación de 30). En la tabla de puntuaciones de habilidades y modificadores se indican los modificadores de habilidades para el rango de posibles puntuaciones de habilidades, de 1 a 30.
 
-To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
+Para determinar un modificador de habilidad sin consultar la tabla, reste 10 de la puntuación de habilidad y luego divida el total por 2 (redondee hacia abajo).
 
-Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.
+Dado que los modificadores de habilidad afectan a casi todas las tiradas de ataque, comprobaciones de habilidad y lanzamientos de salvamento, los modificadores de habilidad aparecen en el juego más a menudo que sus puntuaciones asociadas.
 
 \columnbreak
 
-##### Ability Scores and Modifiers
+##### Habilidades y Modificadores
 
 <div style='column-count:2'>
 
-|Score|Modifier|
+|Modificador|
 |:--:|:--:|
 |1|-5|
 |2-3|-4|
@@ -51,7 +51,7 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 |12-13|+1|
 |14-15|+2|
 
-|Score|Modifier|
+|Modificador|
 |:--:|:--:|
 |16-17|+3|
 |18-19|+4|
@@ -64,55 +64,55 @@ Because ability modifiers affect almost every attack roll, ability check, and sa
 
 </div>
 
-## Advantage and Disadvantage
-Sometimes a special ability or power tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+## Ventaja y desventaja
+A veces una habilidad o poder especial te dice que tienes ventaja o desventaja en un chequeo de habilidad, un tiro de salvamento o una tirada de ataque. Cuando eso sucede, tiras un segundo d20 cuando haces la tirada. Usa la mayor de las dos tiradas si tienes ventaja, y usa la menor si tienes desventaja. Por ejemplo, si tienes desventaja y tiras un 17 y un 5, usas el 5. Si en cambio tienes ventaja y tiras esos números, usas el 17.
 
-If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don't roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
+Si varias situaciones afectan a una tirada y cada una le da ventaja o le impone una desventaja, no se tira más de un d20 adicional. Si dos situaciones favorables otorgan ventaja, por ejemplo, sólo tiras un d20 adicional.
 
-If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+Si las circunstancias hacen que una tirada tenga tanto ventajas como desventajas, se considera que no tienes ninguna de ellas, y tiras un d20. Esto es cierto incluso si múltiples circunstancias imponen una desventaja y sólo una concede ventaja o viceversa. En tal situación, no tienes ni ventaja ni desventaja.
 
-When you have advantage or disadvantage and something in the game, such as the iktotchi's Precognition trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if an iktotchi has advantage on an ability check and rolls a 1 and a 13, the iktotchi could use the Precognition trait to reroll the 1.
+Cuando tienes ventaja o desventaja y algo en el juego, como el rasgo de Precognición de iktotchi, te permite volver a tirar el d20, sólo puedes volver a tirar uno de los dados. Tú eliges cuál. Por ejemplo, si un iktotchi tiene ventaja en un chequeo de habilidad y saca un 1 y un 13, el iktotchi podría usar el rasgo de Precognición para volver a tirar el 1.
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or powers. Inspiration (see chapter 4) can also give a character advantage on checks related to the character's personality, ideals, or bonds. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+Normalmente se obtienen ventajas o desventajas mediante el uso de habilidades, acciones o poderes especiales. La inspiración (ver capítulo 4) también puede dar una ventaja al personaje en los controles relacionados con su personalidad, ideales o vínculos. El GM también puede decidir que las circunstancias influyan en una tirada en una dirección u otra y que, como resultado, conceda una ventaja o imponga una desventaja.
 
-<div class='footnote'>CHAPTER 7 | USING ABILITY SCORES</div>
+<div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
 \pagebreakNum
 
-## Proficiency Bonus
-Characters have a proficiency bonus determined by level, as detailed in chapter 1. Monsters also have this bonus, which is incorporated in their stat blocks. The bonus is used in the rules on ability checks, saving throws, and attack rolls.
+## Bono de competencia
+Los personajes tienen una bonificación de competencia determinada por nivel, como se detalla en el capítulo 1. Los monstruos también tienen este bono, que se incorpora a sus bloques de estadísticas. El bono se utiliza en las reglas de chequeo de habilidad, ahorro de lanzamientos y tiradas de ataque.
 
-Your proficiency bonus can't be added to a single die roll or other number more than once. For example, if two different rules say you can add your proficiency bonus to a Wisdom saving throw, you nevertheless add the bonus only once when you make the save.
+Tu bono de habilidad no puede ser añadido a una sola tirada u otro número más de una vez. Por ejemplo, si dos reglas diferentes dicen que puedes añadir tu bono de habilidad a una tirada de ahorro de Sabiduría, sin embargo, sólo añades el bono una vez cuando haces la salvada.
 
-Occasionally, your proficiency bonus might be multiplied or divided (doubled or halved. for example) before you apply it. If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
+Ocasionalmente, su bono de competencia puede ser multiplicado o dividido (doblado o dividido por la mitad, por ejemplo) antes de aplicarlo. Si una circunstancia sugiere que su bonificación de aptitud se aplica más de una vez a la misma tirada, aún así se suma sólo una vez y se multiplica o divide sólo una vez.
 
-By the same token, if a feature or effect allows you to multiply your proficiency bonus when making an ability check that wouldn't normally benefit from your proficiency bonus, you still don't add the bonus to the check. For that check your proficiency bonus is 0, given the fact that multiplying 0 by any number is still 0. For instance, if you lack proficiency in the Lore skill, you gain no benefit from a feature that lets you double your proficiency bonus when you make Intelligence (Lore) checks.
+Del mismo modo, si una característica o efecto le permite multiplicar su bonificación de habilidad al hacer un chequeo de habilidad que normalmente no se beneficiaría de su bonificación de habilidad, todavía no añade la bonificación al chequeo. Para esa comprobación, su bonificación de competencia es 0, dado que multiplicar 0 por cualquier número sigue siendo 0. Por ejemplo, si carece de competencia en la habilidad Lore, no obtendrá ningún beneficio de una característica que le permita duplicar su bonificación de competencia cuando haga comprobaciones de Inteligencia (Lore).
 
-In general, you don't multiply your proficiency bonus for attack rolls or saving throws. If a feature or effect allows you to do so, these same rules apply.
+En general, no se multiplica el bono de habilidad por las tiradas de ataque o los lanzamientos de salvamento. Si una característica o efecto te permite hacerlo, se aplican las mismas reglas.
 
 ### Expertise
-Certain features, such as the Expertise class feature or Ace Pilot feat, let you double your proficiency bonus with a given skill or tool proficiency, granting expertise in that skill or tool. As usual, you can only gain expertise in a skill or tool once.
+Ciertas características, como la característica de clase de especialización o la hazaña de Ace Pilot, le permiten duplicar su bonificación de competencia con una habilidad o herramienta determinada, lo que garantiza la especialización en esa habilidad o herramienta. Como de costumbre, sólo puedes obtener experiencia en una habilidad o herramienta una vez.
 
 ## Ability Checks
-An ability check tests a character's or monster's innate talent and training in an effort to overcome a challenge. The GM calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure. When the outcome is uncertain, the dice determine the results.
+Un chequeo de habilidades pone a prueba el talento innato y el entrenamiento de un personaje o monstruo en un esfuerzo por superar un desafío. El GM pide un chequeo de habilidades cuando un personaje o un monstruo intenta una acción (que no sea un ataque) que tiene posibilidades de fracasar. Cuando el resultado es incierto, los dados determinan los resultados.
 
-For every ability check, the GM decides which of the 4 abilities is relevant to the task at hand and the difficulty of the task, represented by Difficulty Class. The more difficult a task, the higher its DC. The Typical Difficulty Classes table shows common DCs.
+Para cada comprobación de habilidades, el GM decide cuál de las 4 habilidades es relevante para la tarea en cuestión y la dificultad de la tarea, representada por la Clase de Dificultad. Cuanto más difícil es una tarea, mayor es su DC. La tabla de Clases de Dificultad Típica muestra las CD comunes.
 
-To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the<br> total to the DC. If the total equals or<br> exceeds the DC, the ability check is a<br> success-the creature overcomes<br> the challenge at hand. Otherwise,<br> it's a failure, which means the char-<br>acter or monster makes no progress<br> toward the objective or makes progr-<br>ess combined with a setback<br> determined by the GM.
+Para hacer un chequeo de habilidad, tira un d20 y añade el modificador de habilidad correspondiente. Como con otras tiradas de d20, aplica bonificaciones y penalizaciones, y compara el <br> total con el DC. Si el total es igual o<br> supera el DC, el chequeo de habilidad es a<br> éxito - la criatura supera<br> el desafío en cuestión. De lo contrario,<br> es un fracaso, lo que significa que el char-<br> personaje o monstruo no hace ningún progreso<br> hacia el objetivo o hace progr-<br>ess combinado con un retroceso<br> determinado por el GM.
 
 \columnbreak
 
 <div style='margin-top:26px'></div>
 
-### Contests
-Sometimes one character's or monster's efforts are directly opposed to another's. This can occur when both of them are trying to do the same thing and only one can succeed, such as attempting to snatch up a ring that has fallen on the floor. This situation also applies when one of them is trying to prevent the other one from accomplishing a goal—for example, when a monster tries to force open a door that an adventurer is holding closed. In situations like these, the outcome is determined by a special form of ability check, called a contest.
+### Concursos
+A veces los esfuerzos de un personaje o monstruo son directamente opuestos a los de otro. Esto puede ocurrir cuando ambos tratan de hacer lo mismo y sólo uno puede tener éxito, como por ejemplo, tratar de agarrar un anillo que ha caído al suelo. Esta situación también se aplica cuando uno de ellos está tratando de evitar que el otro logre un objetivo, por ejemplo, cuando un monstruo trata de forzar la apertura de una puerta que un aventurero mantiene cerrada. En situaciones como estas, el resultado se determina por una forma especial de comprobación de habilidades, llamada concurso.
 
-Both participants in a contest make ability checks appropriate to their efforts. They apply all appropriate bonuses and penalties, but instead of comparing the total to a DC, they compare the totals of their two checks. The participant with the higher check total wins the contest. That character or monster either succeeds at the action or prevents the other one from succeeding.
+Ambos participantes en un concurso hacen comprobaciones de habilidad apropiadas a sus esfuerzos. Aplican todas las bonificaciones y penalizaciones apropiadas, pero en lugar de comparar el total con un DC, comparan los totales de sus dos comprobaciones. El participante con el total de cheque más alto gana el concurso. Ese personaje o monstruo tiene éxito en la acción o impide que el otro tenga éxito.
 
-If the contest results in a tie, the situation remains the same as it was before the contest. Thus, one contestant might win the contest by default. If two characters tie in a contest to snatch a ring off the floor, neither character grabs it. In a contest between a monster trying to open a door and an adventurer trying to keep the door closed, a tie means that the door remains shut.
+Si el concurso resulta en un empate, la situación sigue siendo la misma que antes del concurso. Por lo tanto, un concursante podría ganar el concurso por defecto. Si dos personajes empatan en un concurso para arrebatar un anillo del suelo, ninguno de los dos lo agarra. En un concurso entre un monstruo tratando de abrir una puerta y un aventurero tratando de mantener la puerta cerrada, un empate significa que la puerta permanece cerrada.
 
 ##### Ability Check DCs
-|Task Difficulty|	DC|
+| Dificultad de la tarea|DC|
 |:--|:--:|
 |Very easy|	5|
 |Easy|	10|
@@ -123,16 +123,16 @@ If the contest results in a tie, the situation remains the same as it was before
 
 <img src='https://www.gmbinder.com/images/gwye6qA.png' style='position:absolute;bottom:-19px;right:-80px;width:1040px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 7 | USING ABILITY SCORES</div>
+<div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
 \pagebreakNum
 
 ### Skills
-Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character ~ creation, and a monster's skill proficiencies appear in the monster's stat block.)
+Cada habilidad cubre una amplia gama de capacidades, incluyendo habilidades que un personaje o un monstruo puede dominar. Una habilidad representa un aspecto específico de la puntuación de una habilidad, y el dominio de una habilidad por parte de un individuo demuestra un enfoque en ese aspecto. (Las competencias iniciales de una habilidad de un personaje se determinan en la creación del personaje ~ y las competencias de una habilidad de un monstruo aparecen en el bloque de estado del monstruo).
 
-For example, a Dexterity check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
+Por ejemplo, un control de destreza podría reflejar el intento de un personaje de realizar una acrobacia, de palmear un objeto o de permanecer oculto. Cada uno de estos aspectos de la destreza tiene una habilidad asociada: Acrobacia, juego de manos y sigilo, respectivamente. Por lo tanto, un personaje que tiene habilidad en la habilidad de sigilo es particularmente bueno en las comprobaciones de destreza relacionadas con esconderse.
 
-The skills related to each ability score are shown in the following list. (No skills are related to Constitution.) See an ability's description in the later sections of this chapter for examples of how to use a skill associated with an ability.
+Las habilidades relacionadas con cada puntuación de habilidad se muestran en la siguiente lista. (No hay habilidades relacionadas con la Constitución.) Consulte la descripción de una habilidad en las secciones posteriores de este capítulo para ver ejemplos de cómo utilizar una habilidad asociada a una habilidad.
 
 - **Strength**: Athletics
 - **Dexterity**: Acrobatics, Sleight of Hand, Stealth
@@ -140,290 +140,290 @@ The skills related to each ability score are shown in the following list. (No sk
 - **Wisdom**: Animal handling, Insight, Medicine, Perception, Survival
 - **Charisma**: Deception, Intimidation, Performance, Persuasion
 
-Sometimes, the GM might ask for an ability check using a specific skill—for example, "Make a Wisdom (Perception) check." At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+A veces, el GM puede pedir un chequeo de habilidad usando una habilidad específica, por ejemplo, "Hacer un chequeo de Sabiduría (Percepción)". En otras ocasiones, un jugador podría preguntar al GM si el dominio de una habilidad en particular se aplica a un chequeo. En cualquier caso, el dominio de una habilidad significa que un individuo puede añadir su bono de dominio a los chequeos de habilidad que involucran esa habilidad. Sin el dominio de la habilidad, el individuo hace un chequeo de habilidad normal.
 
-For example, if a character attempts to climb up a dangerous cliff. the Dungeon Master might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a<br> Strength check.
+Por ejemplo, si un personaje intenta escalar un peligroso acantilado, el Maestro de la Mazmorra podría pedir un chequeo de Fuerza (Atletismo). Si el personaje es competente en Atletismo, el bono de competencia del personaje se añade al chequeo de Fuerza. Si el personaje carece de esa habilidad, él o ella sólo hace un chequeo de fuerza.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-#### Variant: Skills with Other Abilities
-Normally, your proficiency in a skill applies only to a specific kind of ability check. Proficiency in Athletics, for example, usually applies to Strength checks. In some situations, though, your proficiency might reasonably apply to a different kind of check. In such cases, the GM might ask for a check using an unusual combination of ability and skill, or you might ask your GM if you can apply a proficiency to a different check. For example, if you have to swim from an offshore island to the mainland, your GM might call for a Constitution check to see if you have the stamina to make it that far. In this case, your GM might allow you to apply your proficiency in Athletics and ask for a Constitution (Athletics) check. 
+#### Variante: Habilidades con otras habilidades
+Normalmente, su dominio de una habilidad se aplica sólo a un tipo específico de comprobación de habilidades. El dominio en el atletismo, por ejemplo, normalmente se aplica a los controles de fuerza. Sin embargo, en algunas situaciones, tu competencia podría aplicarse razonablemente a un tipo diferente de comprobación. En tales casos, el GM podría pedir una comprobación utilizando una combinación inusual de habilidad y destreza, o podrías preguntarle a tu GM si puedes aplicar una competencia a una comprobación diferente. Por ejemplo, si tienes que nadar desde una isla en alta mar hasta el continente, tu GM podría pedir un chequeo de la Constitución para ver si tienes la resistencia para llegar tan lejos. En este caso, tu gerente podría permitirte aplicar tu competencia en atletismo y pedir un chequeo de la constitución (de atletismo). 
 
-So if you're proficient in Athletics, you apply your proficiency bonus to the Constitution check just as you would normally do for a Strength (Athletics) check. Similarly, when your trandoshan berserker uses a display of raw strength to intimidate an enemy, your GM might ask for a Strength (Intimidation) check, even though Intimidation is normally associated with Charisma.
+Así que si eres competente en Atletismo, aplicas tu bono de competencia al cheque de la Constitución como lo harías normalmente para un cheque de Fuerza (Atletismo). Del mismo modo, cuando tu berserker de trandoshan utiliza una muestra de fuerza bruta para intimidar a un enemigo, tu GM podría pedir un chequeo de Fuerza (Intimidación), aunque la Intimidación se asocia normalmente con el Carisma.
 
 ### Passive Checks
-A passive check is a special kind of ability check that doesn't involve any die rolls. Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the GM wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster.
+Un chequeo pasivo es un tipo especial de chequeo de habilidades que no involucra ninguna tirada. Tal chequeo puede representar el resultado medio de una tarea realizada repetidamente, como la búsqueda de puertas secretas una y otra vez, o puede utilizarse cuando el GM quiere determinar secretamente si los personajes tienen éxito en algo sin tirar los dados, como notar un monstruo oculto.
 
-Here's how to determine a character's total for a passive check:
+Así es como se determina el total de un personaje para un control pasivo:
 
-10 + all modifiers that normally apply to the check. If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a score.
+10 + todos los modificadores que normalmente se aplican al cheque. Si el personaje tiene ventaja en el chequeo, sume 5. Para la desventaja, reste 5. El juego se refiere a un chequeo total pasivo como una puntuación.
 
-For example. if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
+Por ejemplo, si un personaje de primer nivel tiene una Sabiduría de 15 y un dominio de la Percepción, tiene una puntuación de Sabiduría (Percepción) pasiva de 14.
 
-The rules on hiding in the "Dexterity" section below rely on passive checks, as do the exploration rules in chapter 8.
+Las normas sobre la ocultación en la sección "Destreza" que figura a continuación se basan en comprobaciones pasivas, al igual que las normas de exploración del capítulo 8.
 
 <img src='https://www.gmbinder.com/images/z1RhM1r.png' style='position:absolute;bottom:-60px;right:0px;width:840px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 7 | USING ABILITY SCORES</div>
+<div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
 \pagebreakNum
 
 ### Working Together
-Sometimes two or more characters team up to attempt a task. The character who's leading the effort, or the one with the highest ability modifier, can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action (see chapter 9).
+A veces dos o más personajes se unen para intentar una tarea. El personaje que lidera el esfuerzo, o el que tiene el mayor modificador de habilidades, puede hacer una comprobación de habilidades con ventaja, reflejando la ayuda proporcionada por los otros personajes. En el combate, esto requiere la acción de ayuda (véase el capítulo 9).
 
-A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with security kits, so a character who lacks that proficiency can't help another character in that task. Moreover. a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
+Un personaje sólo puede proporcionar ayuda si la tarea es una que puede intentar solo. Por ejemplo, para intentar abrir una cerradura se requiere competencia con los equipos de seguridad, por lo que un personaje que carece de esa competencia no puede ayudar a otro personaje en esa tarea. Además, un personaje sólo puede ayudar cuando dos o más individuos que trabajan juntos son realmente productivos. Algunas tareas, como enhebrar una aguja, no son más fáciles con ayuda.
 
 #### Group Checks
-When a number of individuals are trying to accomplish something as a group, the GM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren't. 
+Cuando un número de individuos están tratando de lograr algo como grupo, el GM podría pedir un chequeo de habilidad de grupo. En tal situación, los personajes que son hábiles en una tarea particular ayudan a cubrir a los que no lo son. 
 
-To make a group ability check,  everyone in the group makes the ability check. If at least half the group succeeds, the whole group succeeds. Otherwise, the group fails.
+Para hacer un chequeo de habilidad de grupo, todos en el grupo hacen el chequeo de habilidad. Si al menos la mitad del grupo tiene éxito, todo el grupo tiene éxito. De lo contrario, el grupo falla.
 
-Group checks don't come up very often, and they're most useful when all the characters succeed or fail as a group. For example, when adventurers are navigating a swamp, the GM might call for a group Wisdom (Survival) check to see if the characters can avoid the quicksand, sinkholes, and other natural hazards of the environment. If at least half the group succeeds, the successful characters are able to guide their companions out of danger. Otherwise, the group stumbles into one of these hazards.
+Las comprobaciones de grupo no aparecen muy a menudo, y son más útiles cuando todos los personajes tienen éxito o fracasan como grupo. Por ejemplo, cuando los aventureros están navegando por un pantano, el GM podría solicitar una comprobación de grupo de Sabiduría (Supervivencia) para ver si los personajes pueden evitar las arenas movedizas, los sumideros y otros peligros naturales del entorno. Si al menos la mitad del grupo tiene éxito, los personajes exitosos son capaces de guiar a sus compañeros fuera de peligro. De lo contrario, el grupo se tropieza con uno de estos peligros.
 
-## Using Each Ability
-Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
+## Usando cada habilidad
+Cada tarea que un personaje o monstruo puede intentar en el juego está cubierta por una de las seis habilidades. Esta sección explica con más detalle lo que significan esas habilidades y la forma en que se utilizan en el juego.
 
 ### Strength
-Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.
+La fuerza mide la potencia corporal, el entrenamiento atlético y la medida en que puedes ejercer la fuerza física bruta.
 
 #### Strength Checks
-A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.
+Un chequeo de fuerza puede modelar cualquier intento de levantar, empujar, tirar o romper algo, para forzar su cuerpo a través de un espacio, o para aplicar de otra manera la fuerza bruta a una situación. La habilidad atlética refleja la aptitud en ciertos tipos de controles de fuerza.
 
-***Athletics.*** Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities:
+***Atletismo.*** Su chequeo de fuerza (Atletismo) cubre las situaciones difíciles que encuentra al escalar, saltar o nadar. Los ejemplos incluyen las siguientes actividades:
 
-- You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
-- You try to jump an unusually long distance or pull off a stunt midjump.
+- Intentas escalar un acantilado escarpado o resbaladizo, evitas los peligros mientras escalas una pared, o te aferras a una superficie mientras algo intenta derribarte.
+- Intentas saltar una distancia inusualmente larga o hacer un salto medio.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-- You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+- Luchas para nadar o mantenerte a flote en corrientes traicioneras, olas lanzadas por la tormenta, o áreas de algas gruesas. O otra criatura trata de empujarte o tirar de ti bajo el agua o de otra manera interfiere con tu natación.
 
-***Other Strength Checks.*** The GM might also call for a Strength check when you try to accomplish tasks like the following:
+***Otros chequeos de fuerza.*** El GM también podría pedir un chequeo de fuerza cuando intentas realizar tareas como las siguientes:
 
-- Force open a stuck, locked, or barred door
-- Break free of bonds
-- Push through a tunnel that is too small
-- Hang on to a wagon while being dragged behind it
-- Tip over a statue
-- Keep a boulder from rolling
+- Forzar la apertura de una puerta atascada, cerrada o enrejada
+- Libérese de las ataduras
+- Empujar a través de un túnel que es demasiado pequeño
+- Sujétate a un vagón mientras te arrastran detrás de él
+- Volcar una estatua
+- Evitar que una roca ruede
 
 #### Attack Rolls and Damage
-You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a vibrosword or doublesword. You use melee weapons to make melee attacks in hand—to—hand combat, and some of them can be thrown to make a ranged attack.
+Añades tu modificador de fuerza a tu tirada de ataque y a tu tirada de daño cuando atacas con un arma de combate cuerpo a cuerpo como una vibroespada o una espada doble. Usas armas de combate cuerpo a cuerpo para hacer ataques cuerpo a cuerpo en el combate cuerpo a cuerpo, y algunas de ellas pueden ser lanzadas para hacer un ataque a distancia.
 
 #### Lifting and Carrying
-Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
+Su puntuación de fuerza determina la cantidad de peso que puede soportar. Los siguientes términos definen lo que puedes levantar o llevar.
 
-***Carrying Capacity.*** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it.
+***Su capacidad de carga es su puntuación de fuerza multiplicada por 15. Este es el peso (en libras) que puedes cargar, que es lo suficientemente alto como para que la mayoría de los personajes no tengan que preocuparse por ello.
 
-***Push, Drag, or Lift.*** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
+***Empujar, arrastrar o levantar.*** Puedes empujar, arrastrar o levantar un peso en libras hasta el doble de tu capacidad de carga (o 30 veces tu puntuación de fuerza). Mientras empujas o arrastras un peso que excede tu capacidad de carga, tu velocidad baja a 5 pies.
 
-***Size and Strength.*** Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature' carrying capacity and the amount it can push. drag, or lift. For a Tiny creature, halve these weights.
+***Size and Strength.*** Las criaturas más grandes pueden soportar más peso, mientras que las criaturas pequeñas pueden soportar menos. Por cada categoría de tamaño superior a la mediana, duplica la capacidad de carga de la criatura y la cantidad que puede empujar, arrastrar o levantar. Para una criatura diminuta, reduce a la mitad estos pesos.
 
-#### Variant: Encumberance
-The rules for lifting and carrying are intentionally simple. Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment. When you use this variant, ignore the Strength column of the Armor table in chapter 5.
+#### Variante: Carga
+Las reglas para levantar y transportar son intencionalmente simples. He aquí una variante si se buscan reglas más detalladas para determinar cómo un personaje se ve obstaculizado por el peso del equipo. Cuando uses esta variante, ignora la columna de Fuerza de la tabla de Armadura en el capítulo 5.
 
-If you carry weight in excess of 5 times your Strength score, you are ***encumbered***, which means your speed drops by 10 feet.
+Si cargas un peso superior a 5 veces tu puntuación de fuerza, estás ***encargado***, lo que significa que tu velocidad disminuye en 3 metros.
 
-If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead ***heavily encumbered***, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+Si llevas un peso superior a 10 veces tu puntuación de Fuerza, hasta tu máxima capacidad de carga, estás en su lugar ***pesadamente cargado***, lo que significa que tu velocidad cae en 20 pies y tienes desventajas en los chequeos de habilidad, tiradas de ataque y lanzamientos de salvamento que usan la Fuerza, la Destreza o la Constitución.
 
-<div class='footnote'>CHAPTER 7 | USING ABILITY SCORES</div>
+<div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
 \pagebreakNum
 
-### Dexterity
-Dexterity measures agility, reflexes, and balance.
+### Destreza
+La destreza mide la agilidad, los reflejos y el equilibrio.
 
 #### Dexterity Checks
-A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
+Un chequeo de la destreza puede modelar cualquier intento de moverse de forma ágil, rápida o silenciosa, o de evitar caer en terreno difícil. Las habilidades de acrobacia, juego de manos y sigilo reflejan la aptitud en ciertos tipos de controles de destreza.
 
-***Acrobatics.*** Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking spaceship's deck. The GM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+***La prueba de Destreza (Acrobacia) cubre el intento de mantenerse en pie en una situación difícil, como cuando se trata de correr a través de una capa de hielo, equilibrarse en una cuerda floja, o mantenerse erguido en la cubierta de una nave espacial que se balancea. El GM también podría solicitar una revisión de Destreza (Acrobacia) para ver si puedes realizar acrobacias, incluyendo buceos, volteretas, saltos mortales y volteretas.
 
-***Sleight of Hand.*** Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a wallet off another person or slip something out of another person's pocket.
+***Siempre que intentes un acto de prestidigitación o engaño manual, como plantar algo en alguien más u ocultar un objeto en tu persona, haz un chequeo de Destreza (Sleight of Hand). El GM también podría pedir un chequeo de Destreza (Sleight of Hand) para determinar si puedes levantar una cartera de otra persona o deslizar algo del bolsillo de otra persona.
 
-***Stealth.*** Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+***Haz un chequeo de Destreza (Stealth) cuando intentes esconderte de los enemigos, escabullirte de los guardias, escabullirte sin que te vean, o acercarte sigilosamente a alguien sin que te vean ni te oigan.
 
-***Other Dexterity Checks.*** The GM might call for a Dexterity check when you try to accomplish tasks like the following:
+***Otros chequeos de destreza.*** El GM podría pedir un chequeo de destreza cuando intentas realizar tareas como las siguientes:
 
-- Control a heavily laden cart on a steep descent
-- Steer a chariot around a tight turn
-- Pick a lock
-- Disable a trap
-- Securely tie up a prisoner
-- Wriggle free of bonds
-- Play a stringed instrument
-- Craft a small or detailed object
+- Controlar un carro muy cargado en un descenso empinado
+- Dirige un carro alrededor de un giro cerrado
+- Abre una cerradura
+- Deshabilitar una trampa
+- Atar a un prisionero de forma segura
+- Libérese de las ataduras
+- Toca un instrumento de cuerda
+- Crear un objeto pequeño o detallado...
 
 #### Attack Rolls and Damage
-You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon. such as a blaster rifle or bowcaster. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a vibrodagger or techblade.
+Añades tu modificador de destreza a tu tirada de ataque y a tu tirada de daño cuando atacas con un arma de distancia, como un rifle de rayos o una pistola de arco. También puedes añadir tu modificador de Destreza a tu tirada de ataque y a tu tirada de daño cuando atacas con un arma de combate cuerpo a cuerpo que tiene la propiedad de la delicadeza, como una vibrodaga o una cuchilla técnica.
 
-#### Armor Class
-Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class, as described in chapter 5.
+#### Clase de Armadura
+Dependiendo de la armadura que lleves, puedes añadir algunos o todos tus modificadores de destreza a tu clase de armadura, como se describe en el capítulo 5.
 
-#### Initiative
-At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat, as described in<br> &emsp;chapter 9.
+#### Iniciativa
+Al principio de cada combate, tomas la iniciativa haciendo un chequeo de destreza. La iniciativa determina el orden de los turnos de las criaturas en el combate, como se describe en el capítulo 9.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-> ##### Hiding
->When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that checks total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
+> ##### Esconderse
+>Cuando intentes esconderte, haz un chequeo de Destreza (Sigilo). Hasta que te descubran o dejes de esconderte, ese cheque total es impugnado por el cheque de Sabiduría (Percepción) de cualquier criatura que busque activamente señales de tu presencia.
 > 
-> You can't hide from a creature that can see you, and if you make noise (such as shouting a warning or knocking over a vase), you give away your position. An invisible creature can't be seen, so it can always try to hide. Signs of its passage might still be noticed, however, and it still has to stay quiet.
+> No puedes esconderte de una criatura que puede verte, y si haces ruido (como gritar una advertencia o derribar un jarrón), delatas tu posición. Una criatura invisible no puede ser vista, así que siempre puede tratar de esconderse. Sin embargo, todavía se pueden notar los signos de su paso, y todavía tiene que permanecer en silencio.
 > 
-> In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the Dungeon Master might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack before you are seen.
+> En el combate, la mayoría de las criaturas se mantienen alerta a las señales de peligro a su alrededor, así que si sales de tu escondite y te acercas a una criatura, normalmente te ve. Sin embargo, bajo ciertas circunstancias, el Maestro de la Mazmorra puede permitir que permanezcas escondido cuando te acerques a una criatura que esté distraída, permitiéndote ganar ventaja en un ataque antes de que te vean.
 > 
-> ***Passive Perception.*** When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the GM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5.
+> Cuando te escondes, hay una posibilidad de que alguien te note aunque no esté buscando. Para determinar si tal criatura te nota, el GM compara tu chequeo de Destreza (Sigilo) con la puntuación de la Sabiduría (Percepción) pasiva de esa criatura, que equivale a 10 + el modificador de Sabiduría de la criatura, así como cualquier otra bonificación o penalización. Si la criatura tiene ventaja, sume 5. Para la desventaja, reste 5.
 > 
-> For example, if a lst-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
+> Por ejemplo, si un personaje de primer nivel (con un bono de competencia de +2) tiene una Sabiduría de 15 (un modificador de +2) y una competencia en Percepción, tiene una Sabiduría (Percepción) pasiva de 14.
 > 
-> ***What Can You See?*** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily** obscured, as explained in chapter 8.
+> Uno de los principales factores para determinar si se puede encontrar una criatura u objeto oculto es lo bien que se puede ver en un área, que puede estar ligeramente o fuertemente oscurecida, como se explica en el capítulo 8.
 
 <img src='https://www.gmbinder.com/images/DiJI1UG.png' style='position:absolute;bottom:0px;right:0px;width:920px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 7 | USING ABILITY SCORES</div>
+<div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
 \pagebreakNum
 
 ### Constitution
-Constitution measures health, stamina, and vital force.
+La Constitución mide la salud, la resistencia y la fuerza vital.
 
-#### Constitution Checks
-Constitution checks are uncommon, and no skills apply to Constitution checks. because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.
+#### Cheques de la Constitución
+Los controles de la Constitución son poco comunes, y no se aplican habilidades a los controles de la Constitución. porque la resistencia que esta habilidad representa es en gran parte pasiva en lugar de implicar un esfuerzo específico por parte de un personaje o monstruo. Sin embargo, un chequeo de la Constitución puede modelar su intento de ir más allá de los límites normales.
 
-The GM might call for a Constitution check when you try to accomplish tasks like the following:
+El GM podría pedir una revisión de la Constitución cuando intente llevar a cabo tareas como las siguientes:
 
-- Hold your breath
-- March or labor for hours without rest
-- Go without sleep
-- Survive without food or water
-- Quaff an entire stein of ale in one go
+- Aguanta la respiración
+- Marchar o trabajar durante horas sin descanso
+- Ir sin dormir
+- Sobrevivir sin comida ni agua
+- Cobre una jarra entera de cerveza de una sola vez.
 
 #### Hit Points
-Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points.
+Tu modificador de la Constitución contribuye a tus puntos de golpe. Típicamente, agregas tu modificador de constitución a cada dado de impacto que tiras para tus puntos de impacto.
 
-If your Constitution modifier changes, your hit point maximum changes as well, as though you had the new modifier from 1st level. For example, if you raise your Constitution score when you reach 4th level and your Constitution modifier increases from +1 to +2, you adjust your hit point maximum as though the modifier had always been +2. So you add 3 hit points for your first three levels, and then roll your hit points for 4th level using your new modifier. Or if you're 7th level and some effect lowers your Constitution score so as to reduce your Constitution modifier by 1, your hit point maximum is reduced by 7.
+Si tu modificador de Constitución cambia, tu punto de golpe máximo también cambia, como si tuvieras el nuevo modificador de 1er nivel. Por ejemplo, si subes tu puntuación de Constitución cuando llegas al 4º nivel y tu modificador de Constitución aumenta de +1 a +2, ajustas tu máximo de punto de golpe como si el modificador siempre hubiera sido +2. Así que añades 3 puntos de golpe para tus primeros tres niveles, y luego tiras tus puntos de golpe para el 4º nivel usando tu nuevo modificador. O si estás en el 7º nivel y algún efecto reduce tu puntuación de Constitución para reducir tu modificador de Constitución en 1, tu máximo de puntos de golpe se reduce en 7.
 
 \columnbreak
 
 ### Intelligence
-Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
+La inteligencia mide la agudeza mental, la exactitud de la memoria y la capacidad de razonar.
 
 #### Intelligence Checks
-An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Investigation, Lore, Nature, Piloting, and Technology skills reflect aptitude in certain kinds of Intelligence checks.
+Un chequeo de inteligencia entra en juego cuando necesitas recurrir a la lógica, la educación, la memoria o el razonamiento deductivo. Las habilidades de Investigación, Conocimientos, Naturaleza, Pilotaje y Tecnología reflejan la aptitud en ciertos tipos de chequeos de Inteligencia.
 
-***Investigation.*** When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient materials in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.
+***Cuando buscas pistas y haces deducciones basadas en esas pistas, haces un chequeo de Inteligencia (Investigación). Puedes deducir la ubicación de un objeto oculto, discernir por el aspecto de una herida qué tipo de arma lo ha golpeado, o determinar el punto más débil en un túnel que podría causar su colapso. Buscar en materiales antiguos en busca de un fragmento oculto de conocimiento también podría requerir una comprobación de Inteligencia (Investigación).
 
-***Lore.*** Your Intelligence (Lore) check measures your ability to recall information about the Force, artifacts, histories, and religions.
+***Su control de inteligencia mide su capacidad para recordar información sobre la Fuerza, artefactos, historias y religiones.
 
-***Nature.*** Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
+***Su chequeo de Inteligencia (Naturaleza) mide su habilidad para recordar las tradiciones sobre el terreno, plantas y animales, el clima y los ciclos naturales.
 
-***Piloting.*** Your Intelligence (Piloting) check measures your ability to control vehicles, aircraft, and spaceships. Piloting governs your ability to maneuver through tight spaces and debris fields or dogfight with enemy craft. 
+***Pilotar.*** Su control de Inteligencia (Pilotaje) mide su capacidad para controlar vehículos, aviones y naves espaciales. El pilotaje gobierna tu habilidad para maniobrar a través de espacios estrechos y campos de escombros o peleas de perros con naves enemigas. 
 
-***Technology.*** Your Intelligence (Technology) checks measure your ability to recall information about droids, vehicles, spaceships, aircraft, and computers, as well as your ability to interface with them.
+***Su control de Inteligencia (Tecnología) mide su capacidad de recordar información sobre droides, vehículos, naves espaciales, aviones y computadoras, así como su capacidad de interactuar con ellos.
 
-***Other Intelligence Checks.*** The GM might call for an Intelligence check when you try to accomplish tasks like the following:
+***Otros chequeos de inteligencia.*** El GM podría llamar a un chequeo de inteligencia cuando intentas realizar tareas como las siguientes:
 
-- Communicate with a creature without using words
-- Estimate the value of a precious item
-- Pull together a disguise to pass as a city guard
-- Forge a document
-- Recall lore about a craft or trade
-- Win a game of skill
+- Comunicarse con una criatura sin usar palabras
+- Estimar el valor de un artículo precioso
+- Prepara un disfraz para pasar como guardia de la ciudad...
+- Falsificar un documento
+- Recuerde la tradición sobre un oficio o comercio
+- Gana un juego de habilidad
 
 #### Techcasting Ability
-Techcasters use Intelligence as their techcasting ability, which helps determine the saving throw DCs of power they cast.
+Los técnicos utilizan la inteligencia como su capacidad de emisión, lo que ayuda a determinar el ahorro de energía de los DCs que emiten.
 
 <img src='https://www.gmbinder.com/images/WGUNR7f.png' style='position:absolute;bottom:0px;right:0px;width:860px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 7 | USING ABILITY SCORES</div>
+<div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
 \pagebreakNum
 
 ### Wisdom
-Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
+La sabiduría refleja cuán en sintonía estás con el mundo que te rodea y representa la percepción y la intuición.
 
 #### Wisdom Checks
-A Wisdom check might reflect an effort to read body language, understand someone's feelings, notice things about the environment, or care for an injured person. The Animal Handling, Insight, Medicine, Perception, and Survival skills reflect aptitude in certain kinds of Wisdom checks.
+Un chequeo de sabiduría puede reflejar un esfuerzo por leer el lenguaje corporal, entender los sentimientos de alguien, notar cosas sobre el medio ambiente o cuidar de una persona herida. Las habilidades de manejo de animales, de percepción, de medicina y de supervivencia reflejan la aptitud en ciertos tipos de chequeos de sabiduría.
 
-***Animal Handling.*** When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal's intentions, the GM might call for a Wisdom (Animal Handling) check. You also make a Wisdom (Animal Handling) check to control your mount when you attempt a risky maneuver.
+***Manipulación de animales.*** Cuando hay alguna duda sobre si se puede calmar a un animal domesticado, evitar que una montura se asuste, o intuir las intenciones de un animal, el GM podría pedir un chequeo de Sabiduría (Manipulación de animales). También se hace un chequeo de Sabiduría (Manejo de animales) para controlar la montura cuando se intenta una maniobra arriesgada.
 
-***Insight.*** Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms.
+***Inspección.*** Su comprobación de Sabiduría (Insight) decide si puede determinar las verdaderas intenciones de una criatura, como cuando se busca una mentira o se predice el próximo movimiento de alguien. Hacerlo implica recoger pistas del lenguaje corporal, los hábitos de habla y los cambios en los gestos.
 
-***Medicine.*** A Wisdom (Medicine) check lets you try to stabilize a dying companion or diagnose an illness.
+***Un chequeo de Sabiduría (Medicina) te permite intentar estabilizar a un compañero moribundo o diagnosticar una enfermedad.
 
-***Perception.*** Your Wisdom (Perception) check lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses. For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
+***Percepción.*** Su chequeo de Sabiduría (Percepción) le permite detectar, oír, o de otra manera detectar la presencia de algo. Mide tu conciencia general de lo que te rodea y la agudeza de tus sentidos. Por ejemplo, puedes intentar escuchar una conversación a través de una puerta cerrada, escuchar a escondidas bajo una ventana abierta, o escuchar a los monstruos que se mueven sigilosamente en el bosque. O puedes tratar de detectar cosas que están oscurecidas o son fáciles de pasar por alto, ya sean orcos emboscados en un camino, matones escondidos en las sombras de un callejón, o la luz de las velas bajo una puerta secreta cerrada.
 
-***Survival.*** The GM might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that rancors live nearby, predict the weather, or avoid quicksand and other natural hazards.
+***El GM podría pedirte que hagas un chequeo de Sabiduría (Supervivencia) para seguir pistas, cazar animales salvajes, guiar a tu grupo por terrenos baldíos congelados, identificar señales de que los rancheros viven cerca, predecir el clima o evitar arenas movedizas y otros peligros naturales.
 
-***Other Wisdom Checks.*** The GM might call for a Wisdom check when you try to accomplish tasks like the following:
+***Otros chequeos de sabiduría.*** El GM podría pedir un chequeo de sabiduría cuando intentas llevar a cabo tareas como las siguientes:
 
-- Get a gut feeling about what course of action to follow
-- Discern Whether a seemingly dead or living creature is undead
+- Obtener una corazonada sobre el curso de acción a seguir
+- Discernir si una criatura aparentemente muerta o viva es un no-muerto
 
-#### Forcecasting Ability
-Forcecasters use Wisdom as their forcecasting ability for their light side and universal powers, which helps determine the saving throw DCs of powers they cast.
+#### Forcasting Ability
+Los pronosticadores utilizan la Sabiduría como su capacidad de previsión para su lado ligero y sus poderes universales, lo que ayuda a determinar el tiro salvador de los poderes que lanzan.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-> ##### Finding a Hidden Object
-> When your character searches for a hidden object such as a secret door or a trap, the GM typically asks you to make a Wisdom (Perception) check. Such a check can be used to find hidden details or other information and clues that you might otherwise overlook.
+> ##### Encontrar un objeto oculto
+> Cuando tu personaje busca un objeto oculto como una puerta secreta o una trampa, el GM suele pedirte que hagas un chequeo de Sabiduría (Percepción). Dicha comprobación puede utilizarse para encontrar detalles ocultos u otra información y pistas que de otro modo podrías pasar por alto.
 > 
-> In most cases, you need to describe where you are looking in order for the GM to determine your chance of success. For example, a key is hidden beneath a set of folded clothes in the top drawer ofa bureau. If you tell the GM that you pace around the room, looking at the walls and furniture for clues, you have no chance of finding the key, regardless of your Wisdom (Perception) check result. You would have to specify that you were opening the drawers or searching the bureau in order to have any chance of success.
+> En la mayoría de los casos, es necesario describir dónde se busca para que el GM determine sus posibilidades de éxito. Por ejemplo, una llave está escondida bajo un juego de ropa doblada en el cajón superior de un escritorio. Si le dices al GM que te paseas por la habitación, mirando las paredes y los muebles en busca de pistas, no tienes ninguna posibilidad de encontrar la llave, independientemente del resultado de tu comprobación de Sabiduría (Percepción). Tendrías que especificar que estabas abriendo los cajones o buscando en la oficina para tener alguna posibilidad de éxito.
 
 <img src='https://www.gmbinder.com/images/dYUUytA.png' style='position:absolute;bottom:0px;right:0px;width:420px;transform:scaleX(-1);z-index:1000;' />
 
-<div class='footnote'>CHAPTER 7 | USING ABILITY SCORES</div>
+<div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
 \pagebreakNum
 
 <div style='margin-top:26px'></div>
 
-### Charisma
-Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality.
+### Carisma
+El carisma mide su capacidad para interactuar eficazmente con los demás. Incluye factores como la confianza y la elocuencia, y puede representar una personalidad encantadora o dominante.
 
 #### Charisma Checks
-A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks.
+Un chequeo de carisma puede surgir cuando se trata de influenciar o entretener a otros, cuando se intenta causar una impresión o decir una mentira convincente, o cuando se navega por una situación social complicada. Las habilidades de engaño, intimidación, desempeño y persuasión reflejan la aptitud en ciertos tipos de chequeos de carisma.
 
-***Deception.*** Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie.
+***Decepción.*** Su chequeo de Carisma (Decepción) determina si puede ocultar la verdad de manera convincente, ya sea verbalmente o a través de sus acciones. Este engaño puede abarcar todo, desde engañar a otros a través de la ambigüedad hasta decir mentiras descaradas. Las situaciones típicas incluyen tratar de hablar rápido a un guardia, estafar a un comerciante, ganar dinero a través del juego, hacerse pasar por un disfraz, embotar las sospechas de alguien con falsas garantías o mantener la cara seria mientras se dice una mentira descarada.
 
-***Intimidation.*** When you attempt to influence someon through overt threats, hostile actions, and physical violence, the GM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
+***Intimidación. Cuando intentas influenciar a alguien a través de amenazas abiertas, acciones hostiles y violencia física, el GM puede pedirte que hagas un chequeo de Carisma (Intimidación). Ejemplos incluyen tratar de sacar información de un prisionero, convencer a matones callejeros de que se retiren de una confrontación, o usar el borde de una botella rota para convencer a un visir despreciativo de que reconsidere una decisión.
 
-***Performance.*** Your Charisma (Performance) check determines how well you can delight an audience with music, dance. acting, storytelling, or some other form of entertainment.
+***Performance.*** Tu chequeo de Carisma (Performance) determina lo bien que puedes deleitar a una audiencia con música, baile. actuación, narración de historias, o alguna otra forma de entretenimiento.
 
-***Persuasion.*** When you attempt to influence someone or a group of people with tact, social graces, or good nature, the GM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a Chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
+***Persuasión.*** Cuando intentas influenciar a alguien o a un grupo de personas con tacto, gracia social, o buena naturaleza, el GM podría pedirte que hagas un chequeo de Carisma (Persuasión). Típicamente, usas la persuasión cuando actúas de buena fe, para fomentar amistades, hacer peticiones cordiales, o exhibir la etiqueta apropiada. Ejemplos de persuadir a otros incluyen convencer a un Chambelán de que deje que su grupo vea al rey, negociar la paz entre tribus en guerra, o inspirar a una multitud de gente del pueblo.
 
-***Other Charisma Checks.*** The GM might call for a Charisma check when you try to accomplish tasks like the following:
+***Otros chequeos de carisma.*** El GM podría pedir un chequeo de carisma cuando intente realizar tareas como las siguientes:
 
-- Find the best person to talk to for news, rumors, and gossip
-- Blend into a crowd to get the sense of key topics of conversation
+- Encuentra a la mejor persona para hablar de noticias, rumores y chismes.
+- Mezclarse con una multitud para tener una idea de los temas clave de la conversación
 
-#### Forcecasting Ability
-Forcecasters use Charisma as their forcecasting ability for their dark side and universal powers, which helps determine the saving throw DCs of powers they cast.
+#### Forcasting Ability
+Los pronosticadores utilizan el Carisma como su capacidad de previsión para su lado oscuro y sus poderes universales, lo que ayuda a determinar el tiro salvador de los poderes que lanzan.
 
 \columnbreak
 
 ## Saving Throws
-A saving throw-also called a save-represents an attempt to resist a power, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
+Un lanzamiento de salvamento -también llamado salvaje- representa un intento de resistir a una potencia, una trampa, un veneno, una enfermedad o una amenaza similar. Normalmente no decides hacer un tiro de salvamento; te ves forzado a hacer uno porque tu personaje o monstruo corre el riesgo de ser dañado.
 
-To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw.
+Para hacer un tiro de salvamento, tira un d20 y añade el modificador de habilidad apropiado. Por ejemplo, usa el modificador de destreza para un tiro de ahorro de destreza.
 
-A saving throw can be modified by a situational bonus or penalty and can be affected by advantage and disadvantage, as determined by the GM.
+Un lanzamiento de salvamento puede ser modificado por un bonus o un penalty situacional y puede ser afectado por la ventaja y la desventaja, según lo determine el GM.
 
-Each class gives proficiency in at least two saving throws. The operative, for example, is proficient in Intelligence saves. As with skill proficiencies, proficiency in a saving throw lets a character add his or her proficiency bonus to saving throws made using a particular ability score. Some monsters have saving throw proficiencies as well.
+Cada clase da la competencia en al menos dos lanzamientos de salvamento. El operativo, por ejemplo, es competente en salvamentos de Inteligencia. Al igual que con las habilidades, el dominio de un tiro de salvamento permite a un personaje añadir su bono de habilidad a los tiros de salvamento realizados con una puntuación de habilidad particular. Algunos monstruos también tienen habilidades de salvamento.
 
-The Difficulty Class for a saving throw is determined by the effect that causes it. For example, the DC for a saving throw allowed by a power is determined by the caster's force- or tech-casting ability and proficiency bonus.
+La clase de dificultad para un tiro de salvamento está determinada por el efecto que lo causa. Por ejemplo, la CC para un tiro de salvamento permitido por una potencia se determina por la fuerza del lanzador o la habilidad de la técnica y el bono de habilidad.
 
-The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
+El resultado de un lanzamiento de salvamento exitoso o fallido también se detalla en el efecto que permite el salvamento. Normalmente, una salvada exitosa significa que una criatura no sufre ningún daño, o daño reducido, por un efecto.
 
 <img src='https://www.gmbinder.com/images/z1tg6NJ.png' style='position:absolute;bottom:28px;right:30px;width:375px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 7 | USING ABILITY SCORES</div>
+<div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
 \pagebreakNum

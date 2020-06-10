@@ -1,14 +1,14 @@
 
 
-# Chapter 8: Adventuring
+# Capítulo 8: Aventura
 
 <img src='https://www.gmbinder.com/images/XSXXqiB.png' style='position:absolute;top:90px;left:71px;width:39px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">elving into an ancient Sith tomb, slipping through</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the Black Sun territory of Coruscant, hacking a fresh trail through the thick jungles on the forest moon of Endor—these are the things that *Star Wars* adventures are made of. Your character in the game might explore forgotten ruins and uncharted lands, uncover dark secrets and sinister plots, and slay foul monsters. And if all goes well, your character will survive to claim rich rewards before embarking on a new adventure.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">entrando en una antigua tumba Sith, deslizándose a través de</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el territorio del Sol Negro de Coruscant, cortando un nuevo camino a través de las espesas selvas de la luna del bosque de Endor, estas son las cosas de las que están hechas las aventuras de *Guerra de las Galaxias*. Tu personaje en el juego puede explorar ruinas olvidadas y tierras inexploradas, descubrir oscuros secretos y tramas siniestras, y matar monstruos asquerosos. Y si todo va bien, tu personaje sobrevivirá para reclamar ricas recompensas antes de embarcarse en una nueva aventura.
 
-This chapter covers the basics of the adventuring life, from the mechanics of movement to the complexities of social interaction. The rules for resting are also in this chapter, along with a discussion of the activities your character might pursue between adventures.
+Este capítulo abarca los fundamentos de la vida aventurera, desde la mecánica del movimiento hasta las complejidades de la interacción social. Las reglas para el descanso también están en este capítulo, junto con una discusión de las actividades que su personaje podría realizar entre las aventuras.
 
-Whether adventurers are exploring a dusty dungeon or the complex relationships of a noble court, the game follows a natural rhythm, as outlined in the book's introduction:
+Ya sea que los aventureros exploren una mazmorra polvorienta o las complejas relaciones de una corte noble, el juego sigue un ritmo natural, como se describe en la introducción del libro:
 
 ___
 
@@ -20,49 +20,49 @@ ___
 
 ___
 
-Typically, the GM uses a map as an outline of the adventure, tracking the characters' progress as they explore enclave corridors or wilderness regions.
+Normalmente, el GM utiliza un mapa como esquema de la aventura, siguiendo el progreso de los personajes mientras exploran los corredores de los enclaves o las regiones salvajes.
 
-The GM's notes, including a key to the map, describe what the adventurers find as they enter each new area. Sometimes, the passage of time and the adventurers' actions determine what happens, so the GM might use a timeline or a flowchart to track their progress instead of a map.
+Las notas del GM, incluyendo la clave del mapa, describen lo que los aventureros encuentran al entrar en cada nueva área. A veces, el paso del tiempo y las acciones de los aventureros determinan lo que sucede, por lo que el GM podría utilizar una línea de tiempo o un diagrama de flujo para seguir su progreso en lugar de un mapa.
 
 ## Time
-In situations where keeping track of the passage of time is important, the GM determines the time a task requires. The GM might use a different time scale depending on the context of the situation at hand. In an enclosed environment, the adventurers' movement happens on a scale of minutes. It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
+En situaciones en las que es importante llevar la cuenta del paso del tiempo, el GM determina el tiempo que requiere una tarea. El GM puede utilizar una escala de tiempo diferente dependiendo del contexto de la situación en cuestión. En un entorno cerrado, el movimiento de los aventureros ocurre en una escala de minutos. Les toma alrededor de un minuto arrastrarse por un largo pasillo, otro minuto para comprobar si hay trampas en la puerta al final del pasillo, y unos buenos diez minutos para buscar en la cámara más allá cualquier cosa interesante o valiosa.
 
-In a city or wilderness, a scale of hours is often more appropriate. Adventurers eager to reach the lonely tower at the heart of the forest hurry across those fifteen miles in just under four hours time.
+En una ciudad o en un desierto, una escala de horas es a menudo más apropiada. Los aventureros ansiosos por alcanzar la torre solitaria en el corazón del bosque se apresuran a través de esas quince millas en poco menos de cuatro horas.
 
-For long journeys, a scale of days works best. Following the road from Tatooine to Kashyyk, the adventurers spend four uneventful days before a pirate ambush interrupts their journey.
+Para los viajes largos, una escala de días funciona mejor. Siguiendo el camino de Tatooine a Kashyyk, los aventureros pasan cuatro días sin incidentes antes de que una emboscada pirata interrumpa su viaje.
 
-In combat and other fast-paced situations, the game relies on rounds, a 6-second span of time described in chapter 9.
+En el combate y otras situaciones de ritmo rápido, el juego se basa en rondas, un lapso de 6 segundos descrito en el capítulo 9.
 
 \columnbreak
 
-## Movement
-Swimming across a rushing river, sneaking down a building corridor, scaling a treacherous mountain slope- all sorts of movement play a key role in D&D adventures.
+## Movimiento
+Nadar a través de un río caudaloso, bajar a hurtadillas por un corredor de construcción, escalar una traicionera ladera de montaña... todo tipo de movimientos juegan un papel clave en las aventuras de D&D.
 
-The GM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the ruin entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient Jedi stronghold. you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a narrow stone arch."
+El GM puede resumir el movimiento de los aventureros sin calcular las distancias exactas o los tiempos de viaje: "Viajas a través del bosque y encuentras la entrada de la ruina al final de la tarde del tercer día." Incluso en una mazmorra, en particular una gran mazmorra o una red de cuevas, el GM puede resumir el movimiento entre los encuentros: "Después de matar al guardián en la entrada de la antigua fortaleza Jedi, consultas tu mapa, que te lleva a través de kilómetros de pasillos que resuenan hasta un abismo salvado por un estrecho arco de piedra".
 
-Sometimes it's important, though, to know how long it takes to get from one spot to another, whether the answer is in days, hours, or minutes. The rules for determining travel time depend on two factors: the speed and travel pace of the creatures moving and the terrain they're moving over.
+A veces es importante, sin embargo, saber cuánto tiempo se tarda en ir de un lugar a otro, si la respuesta es en días, horas o minutos. Las reglas para determinar el tiempo de viaje dependen de dos factores: la velocidad y el ritmo de viaje de las criaturas que se mueven y el terreno sobre el que se mueven.
 
 ### Speed
-Every character and monster has a speed, which is the distance in feet that the character or monster can walk in 1 round. This number assumes short bursts of energetic movement in the midst of a life-threatening situation.
+Cada personaje y monstruo tiene una velocidad, que es la distancia en pies que el personaje o monstruo puede caminar en 1 ronda. Este número supone ráfagas cortas de movimiento energético en medio de una situación de peligro de vida.
 
-The following rules determine how far a character or monster can move in a minute, an hour, or a day.
+Las siguientes reglas determinan cuán lejos puede moverse un personaje o un monstruo en un minuto, una hora o un día.
 
 #### Travel Pace
-While traveling, a group of adventurers can move at a normal, fast, or slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time and whether the pace has any effect. A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully (see the "Activity While Traveling" section later in this chapter for more information).
+Mientras viajan, un grupo de aventureros puede moverse a un ritmo normal, rápido o lento, como se muestra en la tabla de Ritmo de Viaje. La tabla indica cuán lejos puede moverse el grupo en un período de tiempo y si el ritmo tiene algún efecto. Un ritmo rápido hace que los personajes sean menos perceptivos, mientras que un ritmo lento hace que sea posible escabullirse y buscar una zona con más cuidado (véase la sección "Actividad mientras se viaja" más adelante en este capítulo para más información).
 
-***Forced March.*** The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.
+***Forced March.*** La tabla de ritmo de viaje asume que los personajes viajan durante 8 horas en el día. Pueden empujar más allá de ese límite, a riesgo de agotarse.
 
-For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of exhaustion (see appendix A).
+Por cada hora adicional de viaje más allá de las 8 horas, los personajes cubren la distancia que se muestra en la columna de la Hora para su ritmo, y cada personaje debe hacer un lanzamiento de ahorro de la Constitución al final de la hora. El DC es 10 + 1 por cada hora que pase de 8 horas. En un tiro de ahorro fallido, un personaje sufre un nivel de agotamiento (ver apéndice A).
 
-***Mounts, Speeders, and Vehicles.*** For short spans of time (up to an hour), many animals move much faster than humanoids. A mounted character can ride at a gallop for about an hour, covering twice the usual distance for a fast pace. If fresh mounts are available every 8 to 10 miles, characters can cover larger distances at this pace, but this is very rare except in densely populated areas. 
+***Mounts, Speeders, and Vehicles.*** Durante cortos períodos de tiempo (hasta una hora), muchos animales se mueven mucho más rápido que los humanoides. Un personaje montado puede cabalgar al galope durante una hora, cubriendo el doble de la distancia habitual para un ritmo rápido. Si hay monturas frescas disponibles cada 8 o 10 millas, los personajes pueden cubrir mayores distancias a este ritmo, pero esto es muy raro excepto en áreas densamente pobladas. 
 
-<div class='footnote'>CHAPTER 8 | ADVENTURING</div>
+<div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
 \pagebreakNum
 
-Characters in shuttles, speeders, or other vehicles choose a pace as normal. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
+Los personajes de los transbordadores, veloces u otros vehículos eligen un ritmo normal. Dependiendo de la nave y el tamaño de la tripulación, las naves pueden viajar hasta 24 horas por día.
 
-##### Travel Pace
+###### Travel Pace
 
 |Pace|Distance<br> per<br> Minute|Distance<br> per<br> Hour|Distance<br> per<br> Day|Effect|
 |:--:|:--:|:--:|:--:|:--|
@@ -70,281 +70,281 @@ Characters in shuttles, speeders, or other vehicles choose a pace as normal. Dep
 |Normal|	300 feet|	3 miles|	24 miles||	 
 |Slow|	200 feet|	2 miles|	18 miles|	Able to use stealth|
 
-### Difficult Terrain
-The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear enclosed corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground—all considered difficult terrain.
+### Difícil Terreno
+Las velocidades de viaje indicadas en la tabla de ritmo de viaje suponen un terreno relativamente sencillo: carreteras, llanuras abiertas o corredores cerrados despejados. Pero los aventureros a menudo se enfrentan a densos bosques, profundos pantanos, ruinas llenas de escombros, montañas escarpadas y suelo cubierto de hielo, todo ello considerado terreno difícil.
 
-You move at half speed in difficult terrain—moving 1 foot in difficult terrain costs 2 feet of speed—so you can cover only half the normal distance in a minute, an hour, or a day.
+Te mueves a media velocidad en terrenos difíciles, mover un pie en un terreno difícil cuesta 2 pies de velocidad, por lo que sólo puedes cubrir la mitad de la distancia normal en un minuto, una hora o un día.
 
 ### Special Types of Movement
-Movement through dangerous dungeons or wilderness areas often involves more than simply walking. Adventurers might have to climb, crawl, swim, or jump to get where they need to go.
+El movimiento a través de mazmorras peligrosas o áreas silvestres a menudo implica más que simplemente caminar. Los aventureros pueden tener que escalar, arrastrarse, nadar o saltar para llegar a donde necesitan ir.
 
 #### Climbing, Swimming and Crawling
-While climbing, swimming, or crawling, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM's option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
+Al escalar, nadar o arrastrarse, cada pie de movimiento cuesta 1 pie extra (2 pies extra en terreno difícil), a menos que la criatura tenga una velocidad de escalada o de natación. A opción del GM, escalar una superficie vertical resbaladiza o una con pocos asideros requiere un exitoso chequeo de Fuerza (Atletismo). Del mismo modo, ganar cualquier distancia en aguas turbulentas puede requerir un chequeo de Fuerza (Atletismo) exitoso.
 
 #### Jumping
-Your Strength determines how far you can jump.
+Tu fuerza determina cuán lejos puedes saltar.
 
-***Long Jump.*** When you make a long jump, you cover a number of feet up to your Strength score if you move at least 10 feet on foot immediately before the jump. When you make a standing long jump, you can leap only half that distance. Either way, each foot you clear on the jump costs a foot of movement.
+***Cuando haces un salto largo, cubres un número de pies hasta tu puntuación de fuerza si te mueves al menos 3 metros a pie inmediatamente antes del salto. Cuando haces un salto largo de pie, sólo puedes saltar la mitad de esa distancia. De cualquier manera, cada pie que despejes en el salto cuesta un pie de movimiento.
 
-This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your GM's option, you must succeed on a DC 10 Strength (Athletics) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
+Esta regla asume que la altura de su salto no importa, como un salto a través de un arroyo o un abismo. A opción de tu GM, debes tener éxito en una prueba de fuerza DC 10 (Atletismo) para despejar un obstáculo bajo (no más alto que un cuarto de la distancia del salto), como un seto o una pared baja. De lo contrario, lo golpeas.
 
-When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
+Cuando aterrices en terreno difícil, debes tener éxito en un chequeo de Destreza (Acrobacia) del DC 10 para aterrizar de pie. De lo contrario, aterrizarás propenso.
 
 \columnbreak
 
-***High Jump.*** When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your GM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
+***High Jump.*** Cuando haces un salto de altura, saltas en el aire un número de pies igual a 3 + tu modificador de fuerza si te mueves al menos 10 pies a pie inmediatamente antes del salto. Cuando haces un salto de altura de pie, puedes saltar sólo la mitad de esa distancia. De cualquier manera, cada pie que despejes en el salto cuesta un pie de movimiento. En algunas circunstancias, tu modificador de Fuerza (Atletismo) puede permitirte hacer un chequeo de Fuerza (Atletismo) para saltar más alto de lo que normalmente puedes.
 
-You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1 1/2 times your height.
+Puedes extender tus brazos a la mitad de tu altura sobre ti mismo durante el salto. Así, puedes alcanzar por encima de ti una distancia igual a la altura del salto más 1 1/2 veces tu altura.
 
 ### Activity While Traveling
-As adventurers travel through a dungeon or the wilderness, they need to remain alert for danger, and some characters might perform other tasks to help the group's journey.
+Cuando los aventureros viajan a través de una mazmorra o el desierto, deben permanecer alerta ante el peligro, y algunos personajes pueden realizar otras tareas para ayudar al grupo en su viaje.
 
 #### Marching Order
-The adventurers should establish a marching order.
+Los aventureros deben establecer un orden de marcha.
 
-A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies when a fight breaks out.
+El orden de marcha facilita la determinación de los personajes afectados por las trampas, los que pueden detectar a los enemigos ocultos y los que están más cerca de esos enemigos cuando estalla un combate.
 
-A character might occupy the front rank, one or more middle ranks, or the back rank. Characters in the front and back ranks need enough room to travel side by side with others in their rank. When space is too tight, the marching order must change, usually by moving characters to a middle rank.
+Un personaje puede ocupar el primer rango, uno o más rangos medios, o el rango trasero. Los personajes de las filas delanteras y traseras necesitan suficiente espacio para viajar al lado de otros en su rango. Cuando el espacio es demasiado estrecho, el orden de marcha debe cambiar, normalmente moviendo los personajes a una fila media.
 
-***Fewer Than Three Ranks.*** If an adventuring party arranges its marching order with only two ranks, they are a front rank and a back rank. If there's only one rank, it's considered a front rank.
+***Fewer Than Three Ranks.*** Si un grupo de aventureros organiza su orden de marcha con sólo dos filas, son una fila delantera y una trasera. Si sólo hay una fila, se considera una fila delantera.
 
 #### Stealth
-While traveling at a slow pace, the characters can move stealthily. As long as they're not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for hiding in chapter 7.
+Mientras viajan a un ritmo lento, los personajes pueden moverse sigilosamente. Mientras no estén al descubierto, pueden tratar de sorprender o escabullirse de otras criaturas que encuentren. Vean las reglas para esconderse en el capítulo 7.
 
-#### Noticing Threats
-Use the passive Wisdom (Perception) scores of the characters to determine whether anyone in the group notices a hidden threat. The GM might decide that a threat can be noticed only by characters in a particular rank. For example, as the characters are exploring a maze of tunnels, the GM might decide that only those characters in the back rank have a chance to hear or spot a stealthy creature following the group, while characters in the front and middle ranks cannot. While traveling at a fast pace, characters take a -5 penalty to their passive Wisdom (Perception) scores to notice hidden threats.
+#### Notando las amenazas
+Utiliza las puntuaciones pasivas de Sabiduría (Percepción) de los personajes para determinar si alguien del grupo se da cuenta de una amenaza oculta. El GM puede decidir que una amenaza sólo puede ser notada por los personajes de un rango particular. Por ejemplo, cuando los personajes exploran un laberinto de túneles, el GM puede decidir que sólo los personajes de la última fila tienen la posibilidad de oír o detectar una criatura sigilosa que sigue al grupo, mientras que los personajes de las filas delantera y media no pueden hacerlo. Mientras viajan a un ritmo rápido, los personajes se penalizan con un -5 en sus puntuaciones pasivas de Sabiduría (Percepción) para advertir amenazas ocultas.
 
-***Encountering Creatures.*** If the GM determines that the adventurers encounter other creatures while they're traveling, it's up to both groups to decide what happens next. Either group might decide to attack, initiate a conversation, run away, or wait to see what the other group does.
+***Si el GM determina que los aventureros se encuentran con otras criaturas mientras viajan, depende de ambos grupos decidir qué pasa después. Cualquiera de los grupos puede decidir atacar, iniciar una conversación, huir o esperar a ver qué hace el otro grupo.
 
-<div class='footnote'>CHAPTER 8 | ADVENTURING</div>
+<div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
 \pagebreakNum
 
 <div style='margin-top:23px'></div>
 
-***Surprising Foes.*** If the adventurers encounter a hostile creature or group, the GM determines whether the adventurers or their foes might be surprised when combat erupts. See chapter 9 for more about surprise.
+***Surprising Foes.*** Si los aventureros se encuentran con una criatura o grupo hostil, el GM determina si los aventureros o sus enemigos pueden ser sorprendidos cuando estalla el combate. Ver el capítulo 9 para más información sobre la sorpresa.
 
-#### Other Activities
-Characters who turn their attention to other tasks as the group travels are not focused on watching for danger. These characters don't contribute their passive Wisdom (Perception) scores to the group's chance of noticing hidden threats. However, a character not watching for danger can do one of the following activities instead, or some other activity with the GM's permission.
+#### Otras actividades
+Los personajes que dirigen su atención a otras tareas mientras el grupo viaja no se centran en la vigilancia del peligro. Estos personajes no contribuyen con sus calificaciones pasivas de Sabiduría (Percepción) a la posibilidad del grupo de notar amenazas ocultas. Sin embargo, un personaje que no esté atento al peligro puede hacer una de las siguientes actividades en su lugar, o alguna otra actividad con el permiso del GM.
 
-***Navigate.*** The character can try to prevent the group from becoming lost, making a Wisdom (Survival) check when the GM calls for it. (The *Dungeon Master's Guide* has rules to determine whether the group gets lost.)
+***Navegar.*** El personaje puede tratar de evitar que el grupo se pierda, haciendo un chequeo de Sabiduría (Supervivencia) cuando el GM lo pida. (La *Guía del Maestro del Calabozo* tiene reglas para determinar si el grupo se pierde.)
 
-***Draw a Map.*** The character can draw a map that records the group's progress and helps the characters get back on course if they get lost. No ability check is required.
+***Draw a Map.*** El personaje puede dibujar un mapa que registra el progreso del grupo y ayuda a los personajes a volver a su curso si se pierden. No se requiere un chequeo de habilidades.
 
-***Track.*** A character can follow the tracks of another creature, making a Wisdom (Survival) check when the GM calls for it. (The *Dungeon Master's Guide* has rules for tracking.)
+***Track.*** Un personaje puede seguir las huellas de otra criatura, haciendo un chequeo de Sabiduría (Supervivencia) cuando el GM lo pida. (La *Guía del Maestro del Calabozo* tiene reglas para el seguimiento.)
 
-***Forage.*** The character can keep an eye out for ready sources of food and water, making a Wisdom (Survival) check when the GM calls for it. (The *Dungeon Master's Guide* has rules for foraging.)
+***Forage.*** El personaje puede estar atento a las fuentes de comida y agua, haciendo un chequeo de Sabiduría (Supervivencia) cuando el GM lo pida. (La *Guía del Maestro del Calabozo* tiene reglas para buscar comida.)
 
-> ##### Splitting Up the Party
-> Sometimes, it makes sense to split an adventuring party, especially if you want one or more characters to scout ahead. You can form multiple parties, each moving at a different speed. Each group has its own front, middle, and back ranks.
+> ##### Separar el Partido
+> A veces, tiene sentido dividir un grupo de aventureros, sobre todo si quieres que uno o más personajes exploren adelante. Puedes formar múltiples grupos, cada uno moviéndose a una velocidad diferente. Cada grupo tiene sus propias filas delanteras, medias y traseras.
 > 
-> The drawback to this approach is that the party will be split into several smaller groups in the event of an attack. The advantage is that a small group of stealthy characters moving slowly might be able to sneak past enemies that clumsier characters would alert. An operative and a monk moving at a slow pace are much harder to detect when they leave their guardian friend behind.
+> El inconveniente de este enfoque es que el grupo se dividirá en varios grupos más pequeños en caso de un ataque. La ventaja es que un pequeño grupo de personajes sigilosos que se mueven lentamente podría ser capaz de pasar a escondidas a los enemigos que los personajes más torpes alertarían. Un operativo y un monje que se mueven lentamente son mucho más difíciles de detectar cuando dejan atrás a su amigo guardián.
 
 ## The Environment
-By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places. The Dungeon Master's Guide has rules covering more unusual situations.
+Por su naturaleza, aventurarse implica ahondar en lugares oscuros, peligrosos y llenos de misterios para ser explorados. Las reglas de esta sección cubren algunas de las formas más importantes en las que los aventureros interactúan con el medio ambiente en tales lugares. La Guía del Maestro de la Mazmorra tiene reglas que cubren situaciones más inusuales.
 
 ### Falling
-A fall from a great height is one of the most common hazards facing an adventurer.
+Una caída desde una gran altura es uno de los peligros más comunes que enfrenta un aventurero.
 
-At the end of a fall, a creature takes 1d6 kinetic damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
+Al final de una caída, una criatura recibe 1d6 de daño cinético por cada 3 metros que cayó, hasta un máximo de 20d6. La criatura aterriza propensa, a menos que evite recibir el daño de la caída.
 
 \columnbreak
 
-### Suffocating
-A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
+### Sofocante
+Una criatura puede aguantar la respiración durante un número de minutos igual a 1 + su modificador de constitución (mínimo de 30 segundos).
 
-When a creature runs out of breath, it can survive for a number of rounds equal to its Constitution modifier (minimum 1 round). At the start of its next turn, it drops to 0 hit points and is dying.
+Cuando una criatura se queda sin aliento, puede sobrevivir durante un número de rondas igual a su modificador de constitución (mínimo 1 ronda). Al comienzo de su siguiente turno, cae a 0 puntos de golpe y muere.
 
-For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to reach air before it drops to 0 hit points.
+Por ejemplo, una criatura con una Constitución de 14 puede contener la respiración durante 3 minutos. Si comienza a sofocarse, tiene 2 rondas para alcanzar el aire antes de que caiga a 0 puntos de golpe.
 
 ### Vision and Light
-The most fundamental tasks of adventuring—noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a power, to name just a few—rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
+Las tareas más fundamentales de la aventura - notar el peligro, encontrar objetos ocultos, golpear a un enemigo en combate, y apuntar a una potencia, por nombrar sólo algunas - dependen en gran medida de la capacidad de visión de un personaje. La oscuridad y otros efectos que oscurecen la visión pueden ser un obstáculo significativo.
 
-A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
+Un área determinada puede estar ligera o fuertemente oscurecida. En una zona **ligeramente oscurecida**, como la luz tenue, la niebla irregular o el follaje moderado, las criaturas tienen la desventaja de los controles de Sabiduría (Percepción) que dependen de la vista.
 
-A **heavily obscured** area-such as darkness, opaque fog, or dense foliage-blocks vision entirely. A creature in a heavily obscured area effectively suffers from the blinded condition (see appendix A).
+A **heavily obscured** Un área muy oscurecida, como la oscuridad, la niebla opaca o el follaje denso, bloquea la visión por completo. Una criatura en un área fuertemente oscurecida sufre efectivamente de la condición de ceguera (véase el apéndice A).
 
-The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
+La presencia o ausencia de luz en un ambiente crea tres categorías de iluminación: luz brillante, luz tenue y oscuridad.
 
-**Bright light** lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.
+**Bright light** La luz brillante permite a la mayoría de las criaturas ver normalmente. Incluso los días sombríos proporcionan una luz brillante, al igual que las antorchas, linternas, fuegos y otras fuentes de iluminación dentro de un radio específico.
 
-**Dim light**, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
+**Dim light**, La luz tenue, también llamada sombra, crea un área ligeramente oscurecida. Un área de luz tenue suele ser un límite entre una fuente de luz brillante, como una antorcha, y la oscuridad circundante. La luz suave del crepúsculo y el amanecer también cuenta como luz tenue. Una luna llena particularmente brillante podría bañar la tierra en luz tenue.
 
-**Darkness** creates a heavily obscured area. Characters face darkness outdoors at night (even most moonlit nights), or within the confines of an unlit dungeon or a subterranean vault.
+**Darkness** La oscuridad crea un área muy oscura. Los personajes se enfrentan a la oscuridad en el exterior por la noche (incluso la mayoría de las noches de luna), o dentro de los confines de una mazmorra sin luz o una bóveda subterránea.
 
 #### Blindsight
-A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as Miraluka, and creatures with echolocation or heightened senses, such as Togruta or Verpine, have this sense.
+Una criatura con visión ciega puede percibir sus alrededores sin depender de la vista, dentro de un radio específico. Las criaturas sin ojos, como Miraluka, y las criaturas con ecolocalización o sentidos elevados, como Togruta o Verpine, tienen este sentido.
 
 #### Darkvision
-Many creatures in the worlds of Star Wars, especially those that dwell underground, have darkvision. Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray.
+Muchas criaturas en los mundos de la Guerra de las Galaxias, especialmente las que viven bajo tierra, tienen una visión oscura. Dentro de un rango específico, una criatura con visión oscura puede ver en la oscuridad como si la oscuridad fuera luz tenue, así que las áreas de oscuridad sólo están ligeramente oscurecidas en lo que respecta a esa criatura. Sin embargo, la criatura no puede discernir el color en la oscuridad, sólo tonos de gris.
 
-<div class='footnote'>CHAPTER 8 | ADVENTURING</div>
+<div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
 \pagebreakNum
 
 <div style='margin-top:26px'></div>
 
 #### Truesight
-A creature with truesight can, out to a specific range, see in normal and enhanced darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by a power.
+Una criatura con visión real puede, fuera de un rango específico, ver en la oscuridad normal y mejorada, ver criaturas y objetos invisibles, detectar automáticamente las ilusiones visuales y tener éxito en los lanzamientos de salvamento contra ellas, y percibe la forma original de un cambiador de forma o una criatura que se transforma por un poder.
 
 ### Food and Water
-Characters who don't eat or drink suffer the effects of exhaustion (see appendix A). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+Los personajes que no comen ni beben sufren los efectos del agotamiento (véase el apéndice A). El agotamiento causado por la falta de alimentos o agua no puede eliminarse hasta que el personaje come y bebe la cantidad completa requerida.
 
-#### Food
-A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food. A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion. A normal day of eating resets the count of days without food to zero.
+#### Comida
+Un personaje necesita una libra de comida al día y puede hacer que la comida dure más tiempo subsistiendo con medias raciones. Comer media libra de comida en un día cuenta como medio día sin comida. Un personaje puede estar sin comida durante un número de días igual a 3 + su modificador de constitución (mínimo 1). Al final de cada día más allá de ese límite, un personaje sufre automáticamente un nivel de agotamiento. Un día normal de comida pone a cero la cuenta de días sin comida.
 
-#### Water
-A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to less water automatically suffers one level of exhaustion at the end of the day. If the character already has one or more levels of exhaustion, the character takes two levels in either case.
+#### Agua
+Un personaje necesita un galón de agua por día, o dos galones por día si el clima es cálido. Un personaje que bebe sólo la mitad de esa cantidad de agua debe tener éxito en un lanzamiento de ahorro de la Constitución DC 15 o sufrir un nivel de agotamiento al final del día. Un personaje con acceso a menos agua sufre automáticamente un nivel de agotamiento al final del día. Si el personaje ya tiene uno o más niveles de agotamiento, el personaje toma dos niveles en cualquier caso.
 
-### Interacting with Objects
-A character's interaction with objects in an environment is often simple to resolve in the game. The player tells the GM that his or her character is doing something, such a moving a lever, and the GM describes what, if anything happens. For example, a character might decide to pull a lever, which might, in turn, open a door, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the GM might call for a Strength check to see whether the character can wrench the lever into place. The GM sets the DC for any such check based on the difficulty of the task.
+### Interactuando con los objetos
+La interacción de un personaje con los objetos de un entorno es a menudo simple de resolver en el juego. El jugador le dice al GM que su personaje está haciendo algo, como mover una palanca, y el GM describe qué, si algo sucede. Por ejemplo, un personaje podría decidir tirar de una palanca, lo que podría, a su vez, abrir una puerta, hacer que una habitación se inunde de agua, o abrir una puerta secreta en una pared cercana. Si la palanca está oxidada en su posición, sin embargo, un personaje podría necesitar forzarla. En tal situación, el GM podría llamar a un chequeo de fuerza para ver si el personaje puede apretar la palanca en su lugar. El GM establece el DC para cualquier chequeo de este tipo basado en la dificultad de la tarea.
 
-Characters can also damage objects with their weapons and powers. Objects are immune to poison and sonic damage, but otherwise they can be affected by physical attacks and powers much like creatures can. The GM determines an object's Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It's hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks. A character can also attempt a Strength check to break an object. The GM sets the DC for any such check.
+Los personajes también pueden dañar objetos con sus armas y poderes. Los objetos son inmunes al veneno y al daño sónico, pero por lo demás pueden ser afectados por ataques físicos y poderes muy parecidos a los de las criaturas. El GM determina la clase de armadura y los puntos de golpe de un objeto, y puede decidir que ciertos objetos tienen resistencia o inmunidad a ciertos tipos de ataques. (Es difícil cortar una cuerda con un palo, por ejemplo.) Los objetos siempre fallan los lanzamientos de salvamento de Fuerza y Destreza, y son inmunes a los efectos que requieren otros salvamentos. Cuando un objeto cae a 0 puntos de golpe, se rompe. Un personaje también puede intentar un chequeo de Fuerza para romper un objeto. El GM establece el DC para cualquier chequeo de este tipo.
 
 \columnbreak
 
 ## Social Interaction
-Exploring dungeons, overcoming obstacles, and slaying monsters are key parts of D&D adventures. No less important, though, are the social interactions that adventurers have with other inhabitants of the world.
+Explorar mazmorras, superar obstáculos y matar monstruos son partes clave de las aventuras de D&D. No menos importantes, sin embargo, son las interacciones sociales que los aventureros tienen con otros habitantes del mundo.
 
-Interaction takes on many forms. You might need to convince an unscrupulous thief to confess to some malfeasance, or you might try to flatter a Hutt so that he will spare your life. The GM assumes the roles of any characters who are participating in the interaction that don"t belong to another player at the table. Any such character is called a **nonplayer character** (NPC).
+La interacción toma muchas formas. Puede que necesites convencer a un ladrón sin escrúpulos para que confiese alguna fechoría, o puedes intentar halagar a un Hutt para que te perdone la vida. El GM asume el papel de cualquier personaje que participe en la interacción y que no pertenezca a otro jugador en la mesa. Cualquier personaje de este tipo se llama **carácter no jugador** (NPC).
 
-In general terms, an NPC's attitude toward you is described as friendly, indifferent, or hostile. Friendly NPCs are predisposed to help you, and hostile ones are inclined to get in your way. It's easier to get what you want from a friendly NPC, of course.
+En términos generales, la actitud de un PNJ hacia ti se describe como amistosa, indiferente u hostil. Los PNJ amigables están predispuestos a ayudarte, y los hostiles se inclinan a interponerse en tu camino. Es más fácil conseguir lo que quieres de un PNJ amistoso, por supuesto.
 
-Social interactions have two primary aspects: roleplaying and ability checks.
+Las interacciones sociales tienen dos aspectos primarios: el juego de roles y el control de habilidades.
 
 ### Roleplaying
-Roleplaying is, literally, the act of playing out a role. In this case, it's *you* as a player determining how your character thinks, acts, and talks.
+El juego de roles es, literalmente, el acto de representar un papel. En este caso, eres tú, como jugador, quien determina cómo piensa, actúa y habla tu personaje.
 
-Roleplaying is a part of every aspect of the game, and it comes to the fore during social interactions. Your character's quirks, mannerisms, and personality influence how interactions resolve.
+El juego de roles es una parte de cada aspecto del juego, y se pone en primer plano durante las interacciones sociales. Las peculiaridades, manierismos y personalidad de tu personaje influyen en cómo se resuelven las interacciones.
 
-There are two styles you can use when roleplaying your character: the descriptive approach and the active approach. Most players use a combination of the two styles. Use whichever mix of the two works best for you.
+Hay dos estilos que puedes usar cuando interpretas tu personaje: el enfoque descriptivo y el enfoque activo. La mayoría de los jugadores usan una combinación de los dos estilos. Utiliza cualquier mezcla de los dos que funcione mejor para ti.
 
 #### Descriptive Approach to Roleplaying
-With this approach. you describe your character's words and actions to the GM and the other players. Drawing on your mental image of your character, you tell everyone what your character does and how he or she does it.
+Con este enfoque, describes las palabras y acciones de tu personaje al GM y a los otros jugadores. Basándote en la imagen mental de tu personaje, le dices a todo el mundo lo que hace tu personaje y cómo lo hace.
 
-For instance, Chris plays Tordek the Nikto. Tordek has a quick temper and blames the Black Sun for his family's misfortune. At a bar, an obnoxious Twi'lek operative sits at Tordek's table and tries to strike up a conversation with the Nikto.
+Por ejemplo, Chris interpreta a Tordek el Nikto. Tordek tiene un temperamento rápido y culpa al Sol Negro por la desgracia de su familia. En un bar, un detestable agente de Twi'lek se sienta en la mesa de Tordek e intenta entablar una conversación con el Nikto.
 
-Chris says, "Tordek spits on the floor, growls an insult at the Twi'lek, and stomps over to the bar. He sits on a stool and glares at the operative before ordering another drink."
+Chris dice: "Tordek escupe en el suelo, gruñe un insulto al Twi'lek y se dirige al bar. Se sienta en un taburete y mira fijamente al agente antes de pedir otra bebida".
 
-In this example, Chris has conveyed Tordek's mood and given the GM a clear idea of his characters attitude and actions.
+En este ejemplo, Chris ha transmitido el estado de ánimo de Tordek y ha dado al GM una idea clara de la actitud y las acciones de sus personajes.
 
-When using descriptive roleplaying, keep the following things in mind:
+Al usar el juego de roles descriptivo, tenga en cuenta lo siguiente:
 
-- Describe your character's emotions and attitude.
-- Focus on your character's intent and how others might perceive it.
-- Provide as much embellishment as you feel comfortable with.
+- Describe las emociones y la actitud de tu personaje.
+- Concéntrese en la intención de su personaje y en cómo podrían percibirlo los demás.
+- Proporciona tanto embellecimiento como te sientas cómodo.
 
-<div class='footnote'>CHAPTER 8 | ADVENTURING</div>
+<div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
 \pagebreakNum
 
 <div style='margin-top:27px'></div>
 
-Don't worry about getting things exactly right. Just focus on thinking about what your character would do and describing what you see in your mind.
+No te preocupes por hacer las cosas exactamente bien. Sólo concéntrate en pensar en lo que tu personaje haría y en describir lo que ves en tu mente.
 
 #### Active Approach to Roleplaying
-If descriptive roleplaying tells your GM and your fellow players what your character thinks and does, active roleplaying *shows* them.
+Si el juego de rol descriptivo le dice a tu GM y a tus compañeros de juego lo que tu personaje piensa y hace, el juego de rol activo *los muestra*.
 
-When you use active roleplaying, you speak with your character's voice, like an actor taking on a role. You might even echo your character's movements and body language. This approach is more immersive than descriptive roleplaying, though you still need to describe things that can't be reasonably acted out.
+Cuando usas el juego de roles activo, hablas con la voz de tu personaje, como un actor que asume un papel. Incluso puedes hacerte eco de los movimientos y el lenguaje corporal de tu personaje. Este enfoque es más inmersivo que el de los juegos de rol descriptivos, aunque todavía tienes que describir cosas que no se pueden representar razonablemente.
 
-Going back to the example of Chris roleplaying Tordek above, here's how the scene might play out if Chris used active roleplaying:
+Volviendo al ejemplo de Chris interpretando a Tordek arriba, así es como podría desarrollarse la escena si Chris usara un juego de rol activo:
 
-Speaking as Tordek, Chris says in a gruff, deep voice, "I was wondering why it suddenly smelled awful in here. If I wanted to hear anything out of you, I'd snap your arm and enjoy your screams." In his normal voice. Chris then adds, "I get up, glare at the Twi'lek, and head to the bar."
+Hablando como Tordek, Chris dice con voz ronca y profunda: "Me preguntaba por qué de repente olía horrible aquí. Si quisiera oír algo de ti, te rompería el brazo y disfrutaría de tus gritos". Con su voz normal. Chris añade: "Me levanto, miro fijamente al Twi'lek y me dirijo al bar".
 
-#### Results of Roleplaying
-The GM uses your character's actions and attitudes to determine how an NPC reacts. A cowardly NPC buckles under threats of violence. A stubborn Jawa refuses to let anyone badger her. A vain Hutt laps up flattery.
+#### Resultados del juego de roles
+El GM usa las acciones y actitudes de tu personaje para determinar cómo reacciona un PNJ. Un PNJ cobarde se dobla bajo amenazas de violencia. Un Jawa testarudo se niega a dejar que nadie la acose. Un Hutt vanidoso se rinde a la adulación.
 
-When interacting with an NPC, pay close attention to the GM's portrayal ofthe NPC's mood, dialogue, and personality. You might be able to determine an NPC's personality traits, ideals, flaws, and bonds, then play on them to influence the NPC's attitude.
+Cuando interactúes con un PCN, presta mucha atención a la representación del humor, el diálogo y la personalidad del PCN. Podrías determinar los rasgos de personalidad, ideales, defectos y vínculos de un PNJ, y luego jugar con ellos para influir en la actitud del PNJ.
 
-Interactions in D&D are much like interactions in real life. If you can offer NPCS something they want, threaten them with something they fear, or play on their sympathies and goals, you can use words to get almost anything you want. On the other hand, if you insult a proud warrior or speak ill of a senator's allies, your efforts to convince or deceive will fall short.
+Las interacciones en D&D son muy parecidas a las interacciones en la vida real. Si puedes ofrecer a los NPCS algo que quieren, amenazarlos con algo que temen, o jugar con sus simpatías y objetivos, puedes usar palabras para conseguir casi cualquier cosa que quieras. Por otro lado, si insultas a un orgulloso guerrero o hablas mal de los aliados de un senador, tus esfuerzos para convencer o engañar se quedarán cortos.
 
 ### Ability Checks
-In addition to roleplaying, ability checks are key in determining the outcome of an interaction.
+Además de los juegos de rol, los controles de capacidad son clave para determinar el resultado de una interacción.
 
-Your roleplaying efforts can alter an NPC's attitude, but there might still be an element of chance in the situation. For example, your GM can call for a Charisma check at any point during an interaction if he or she wants the dice to play a role in determining an NPC's reactions. Other checks might be appropriate in certain situations, at your GM's discretion.
+Sus esfuerzos de juego de roles pueden alterar la actitud de un PNJ, pero aún podría haber un elemento de azar en la situación. Por ejemplo, tu GM puede pedir un chequeo de carisma en cualquier momento durante una interacción si quiere que los dados jueguen un papel en la determinación de las reacciones de un PNJ. Otros chequeos podrían ser apropiados en ciertas situaciones, a discreción de tu GM.
 
-Pay attention to your skill proficiencies when thinking of how you want to interact with an NPC, and stack the deck in your favor by using an approach that relies on your best bonuses and skills. If the group needs to trick a guard into letting them into a pavilion, the scoundrel who is proficient in Deception is the best bet to lead the discussion. When negotiating for a hostage's release, the force initiate with Persuasion should do most of the talking.
+Presta atención a tus habilidades cuando pienses en cómo quieres interactuar con un PNJ, y apila el mazo a tu favor usando un enfoque que se basa en tus mejores bonos y habilidades. Si el grupo necesita engañar a un guardia para que les deje entrar en un pabellón, el sinvergüenza que es competente en el engaño es la mejor apuesta para dirigir la discusión. Cuando se negocia la liberación de un rehén, la fuerza iniciada con la Persuasión debe hacer la mayor parte de la charla.
 
 \columnbreak
 
-## Resting
-Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest time to sleep and eat, tend their wounds, refresh their batteries and spirits for force- and tech-casting, and brace themselves for further adventure.
+## Descanso
+Por muy heroicos que sean, los aventureros no pueden pasar todas las horas del día en medio de la exploración, la interacción social y el combate. Necesitan tiempo de descanso para dormir y comer, atender sus heridas, refrescar sus baterías y espíritus para el lanzamiento de fuerza y tecnología, y prepararse para más aventuras.
 
-Adventurers can take short rests in the midst of an adventuring day and a long rest to end the day.
+Los aventureros pueden tomar descansos cortos en medio de un día de aventura y un largo descanso para terminar el día.
 
 ### Short Rest
-A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
+Un breve descanso es un período de inactividad, de al menos una hora de duración, durante el cual el personaje no hace nada más agotador que comer, beber, leer y atender las heridas.
 
-A character can spend one or more Hit Dice at the end of a short rest, up to the character's maximum number of Hit Dice, which is equal to the character's level. Whenever a character spends a Hit Die to regain hit points, the player rolls the die and adds the character's Constitution modifier to it. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll. A character regains some spent Hit Dice upon finishing a long rest, as explained below.
+Un personaje puede gastar uno o más Dados de Golpe al final de un breve descanso, hasta el número máximo de Dados de Golpe del personaje, que es igual al nivel del personaje. Cada vez que un personaje gasta un dado de impacto para recuperar puntos de impacto, el jugador tira el dado y le añade el modificador de constitución del personaje. El personaje recupera puntos de impacto iguales al total. El jugador puede decidir gastar un dado de impacto adicional después de cada tirada. El personaje recupera algunos de los dados de impacto gastados al terminar un largo descanso, como se explica a continuación.
 
 ### Long Rest
-A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting powers, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.
+Un largo descanso es un período de inactividad prolongado, de al menos 8 horas, durante el cual un personaje duerme o realiza una actividad ligera: leer, hablar, comer o hacer guardia durante no más de 2 horas. Si el descanso es interrumpido por un período de actividad extenuante -al menos 1 hora de caminata, lucha, poderes de lanzamiento o actividad aventurera similar- los personajes deben comenzar de nuevo el descanso para obtener algún beneficio del mismo.
 
-At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them. For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
+Al final de un largo descanso, un personaje recupera todos los puntos de golpe perdidos. El personaje también recupera los Dados de Golpe gastados, hasta un número de dados igual a la mitad del número total de ellos del personaje. Por ejemplo, si un personaje tiene ocho Dados de Golpe, puede recuperar cuatro Dados de Golpe gastados al terminar un largo descanso.
 
-A character can't benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
+Un personaje no puede beneficiarse de más de un largo descanso en un período de 24 horas, y un personaje debe tener al menos 1 punto de golpe al comienzo del descanso para obtener sus beneficios.
 
 ## Between Adventures
-Between trips to dungeons and battles against ancient evils, adventurers need time to rest, recuperate, and prepare for their next adventure. Many adventurers also use this time to perform other tasks, such as crafting arms and armor, performing research, or spending their hard—earned credits.
+Entre los viajes a las mazmorras y las batallas contra los males antiguos, los aventureros necesitan tiempo para descansar, recuperarse y prepararse para su próxima aventura. Muchos aventureros también usan este tiempo para realizar otras tareas, como fabricar armas y armaduras, realizar investigaciones o gastar sus créditos duramente ganados.
 
-In some cases, the passage of time is something that occurs with little fanfare or description. When starting a new adventure, the GM might simply declare that a certain amount of time has passed and allow you to describe in general terms what your character has been doing. At other times, the GM might want to keep track of just how much time is passing as events beyond your perception stay in motion.
+En algunos casos, el paso del tiempo es algo que ocurre con poca fanfarria o descripción. Al comenzar una nueva aventura, el GM puede simplemente declarar que ha pasado un cierto tiempo y permitirle describir en términos generales lo que su personaje ha estado haciendo. En otras ocasiones, el GM podría querer llevar la cuenta de cuánto tiempo pasa mientras los eventos más allá de tu percepción se mantienen en movimiento.
 
-<div class='footnote'>CHAPTER 8 | ADVENTURING</div>
+<div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
 \pagebreakNum
 
 ### Lifestyle Expenses
-Between adventures, you choose a particular quality of life and pay the cost of maintaining that lifestyle, as described in chapter 5.
+Entre las aventuras, se elige una calidad de vida particular y se paga el costo de mantener ese estilo de vida, como se describe en el capítulo 5.
 
-Living a particular lifestyle doesn't have a huge effect on your character, but your lifestyle can affect the way other individuals and groups react to you. For example, when you lead an aristocratic lifestyle, it might be easier for you to influence the nobles of the city than if you live in poverty.
+Vivir un estilo de vida particular no tiene un gran efecto en tu carácter, pero tu estilo de vida puede afectar la forma en que otros individuos y grupos reaccionan ante ti. Por ejemplo, cuando llevas un estilo de vida aristocrático, puede que te resulte más fácil influir en los nobles de la ciudad que si vives en la pobreza.
 
 ### Downtime Activities
-Between adventures, the GM might ask you what your character is doing during his or her downtime. Periods of downtime can vary in duration, but each downtime activity requires a certain number of days to complete before you gain any benefit, and at least 8 hours of each day must be spent on the downtime activity for the day to count. The days do not need to be consecutive. If you have more than the minimum amount of days to spend, you can keep doing the same thing for a longer period of time, or switch to a new downtime activity.
+Entre una aventura y otra, el director general podría preguntarte qué hace tu personaje durante su tiempo de inactividad. Los períodos de inactividad pueden variar en duración, pero cada actividad de inactividad requiere un cierto número de días para completarse antes de obtener cualquier beneficio, y al menos 8 horas de cada día deben ser gastadas en la actividad de inactividad para que el día cuente. No es necesario que los días sean consecutivos. Si tiene más de la cantidad mínima de días para gastar, puede seguir haciendo lo mismo por un período de tiempo más largo, o cambiar a una nueva actividad de tiempo de inactividad.
 
-Downtime activities other than the ones presented below are possible. If you want your character to spend his or her downtime performing an activity not covered here, discuss it with your GM.
+Es posible realizar otras actividades de parada distintas de las que se presentan a continuación. Si quieres que tu personaje pase su tiempo de inactividad realizando una actividad no cubierta aquí, discútelo con tu director general.
 
 #### Crafting
-You can craft unenhanced objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith's tools needs a forge in order to craft a sword or suit of armor.
+Puedes hacer objetos sin mejorar, incluyendo equipo de aventura y obras de arte. Debes dominar las herramientas relacionadas con el objeto que estás tratando de crear (típicamente herramientas de artesanos). También puedes necesitar acceso a materiales especiales o a los lugares necesarios para crearlo. Por ejemplo, alguien que domine las herramientas de un herrero necesita una forja para hacer una espada o una armadura.
 
-For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 250 cr, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 250 cr, you make progress every day in 250-cr increments until you reach the market value of the item. For example, a suit of heavy durasteel armor (market value 15,000 cr) takes 60 days to craft by yourself.
+Por cada día de inactividad que pases haciendo artesanías, puedes hacer uno o más artículos con un valor total de mercado que no exceda los 250 cr, y debes gastar materias primas por la mitad del valor total de mercado. Si algo que quieres hacer tiene un valor de mercado superior a 250 millones de rupias, progresas cada día en incrementos de 250 millones de rupias hasta que alcanzas el valor de mercado del artículo. Por ejemplo, un traje de armadura pesada de durasteel (valor de mercado de 15.000 cr) toma 60 días para ser fabricado por ti mismo.
 
-Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 250 cr worth of effort for every day spent helping to craft the item. For example, three characters with the requisite tool proficiency and the proper facilities can craft a suit of heavy durasteel armor in 20 days, at a total cost of 7,500 cr.
+Múltiples personajes pueden combinar sus esfuerzos para la elaboración de un solo artículo, siempre que todos los personajes dominen las herramientas necesarias y trabajen juntos en el mismo lugar. Cada personaje contribuye con 250 millones de rupias por cada día que pasa ayudando a crear el objeto. Por ejemplo, tres personajes con el conocimiento de las herramientas necesarias y las instalaciones adecuadas pueden hacer un traje de armadura pesada de durasteel en 20 días, con un costo total de 7.500 cr.
 
-While crafting, you can maintain a modest lifestyle without having to pay 10 cr per day. If you have expertise in your chosen tool, you can instead maintain a comfortable lifestyle without having to pay 20 cr per day (see chapter 5 for more information on lifestyle expenses).
+Mientras se trabaja, se puede mantener un estilo de vida modesto sin tener que pagar 10 cr por día. Si es experto en la herramienta elegida, puede mantener un estilo de vida cómodo sin tener que pagar 20 cr por día (véase el capítulo 5 para más información sobre los gastos de estilo de vida).
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-#### Practicing a Profession
-You can work between adventures, allowing you to maintain a modest lifestyle without having to pay 10 cr per day (see chapter 5 for more information on lifestyle expenses). This benefit lasts as long you continue to practice your profession.
+#### Practicando una profesión
+Puede trabajar entre aventuras, lo que le permite mantener un estilo de vida modesto sin tener que pagar 10 cr por día (véase el capítulo 5 para más información sobre los gastos de estilo de vida). Este beneficio dura mientras siga ejerciendo su profesión.
 
-If you are a member of an organization that can provide gainful employment, such as a syndicate or guild, you earn enough to support a comfortable lifestyle instead.
+Si es miembro de una organización que puede proporcionar un empleo remunerado, como un sindicato o gremio, gana lo suficiente para mantener un estilo de vida cómodo.
 
-If you have proficiency in the Performance skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
+Si usted tiene competencia en la habilidad de rendimiento y pone su habilidad de rendimiento en uso durante su tiempo de inactividad, usted gana lo suficiente para apoyar un estilo de vida rico en su lugar.
 
-#### Recuperating
-You can use downtime between adventures to recover from a debilitating injury, disease, or poison.
+#### Recuperando
+Puedes usar el tiempo de inactividad entre aventuras para recuperarte de una lesión, enfermedad o veneno debilitante.
 
-After three days of downtime spent recuperating, you can make a DC 15 Constitution saving throw. On a successful save, you can choose one of the following results:
+Después de tres días de recuperación, puedes hacer un tiro de ahorro de la Constitución del DC 15. En un ahorro exitoso, puedes elegir uno de los siguientes resultados:
 
-- End one effect on you that prevents you from regaining hit points. 
-- For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
+- Acaba con un efecto en ti que te impide recuperar los puntos de golpe. 
+- Durante las próximas 24 horas, gane ventaja en los lanzamientos de ahorro contra una enfermedad o veneno que le afecte actualmente.
 
 #### Researching
-The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. Research can include poring over dusty tomes and ancient datacrons in a library or buying drinks for the locals to pry rumors and gossip from their lips.
+El tiempo entre las aventuras es una gran oportunidad para realizar investigaciones, para comprender los misterios que se han desplegado en el curso de la campaña. La investigación puede incluir el estudio de tomos polvorientos y antiguos datacrones en una biblioteca o la compra de bebidas para que los locales puedan curiosear en los rumores y chismes de sus labios.
 
-When you begin your research, the GM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The GM might also require you to make one or more ability checks, such as an Intelligence (Investigation) check to find clues pointing toward the information you seek, or a Charisma (Persuasion) check to secure someone's aid. Once those conditions are met, you learn the information if it is available.
+Cuando comienzas tu investigación, el GM determina si la información está disponible, cuántos días de inactividad te llevará encontrarla, y si hay alguna restricción en tu investigación (como la necesidad de buscar a un individuo, tomo o lugar específico). El GM también puede requerir que hagas una o más comprobaciones de capacidad, como una comprobación de Inteligencia (Investigación) para encontrar pistas que apunten a la información que buscas, o una comprobación de Carisma (Persuasión) para asegurar la ayuda de alguien. Una vez que se cumplen esas condiciones, aprendes la información si está disponible.
 
-For each day of research, you must spend 10 cr to cover your expenses. This cost is in addition to your normal lifestyle expenses (as discussed in chapter 5).
+Por cada día de investigación, debe gastar 10 cr para cubrir sus gastos. Este costo es adicional a los gastos normales de su estilo de vida (como se discute en el capítulo 5).
 
-#### Training
-You can spend time between adventures learning a new language or training with a set of tools. Your GM might allow additional training options.
+#### Entrenamiento
+Puedes pasar tiempo entre aventuras aprendiendo un nuevo idioma o entrenando con un conjunto de herramientas. Tu gerente general podría permitir opciones de entrenamiento adicionales.
 
-First, you must find an instructor willing to teach you. The GM determines how long it takes, and whether one or more ability checks are required.
+Primero, debes encontrar un instructor dispuesto a enseñarte. El GM determina el tiempo que toma, y si se requieren uno o más controles de habilidad.
 
-The training lasts for 250 days and costs 10 cr per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
+El entrenamiento dura 250 días y cuesta 10 cr por día. Después de gastar la cantidad necesaria de tiempo y dinero, se aprende el nuevo idioma o se adquiere destreza con la nueva herramienta.
 
-<div class='footnote'>CHAPTER 8 | ADVENTURING</div>
+<div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
 \pagebreakNum
