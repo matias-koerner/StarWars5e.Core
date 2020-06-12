@@ -1,33 +1,33 @@
 
 
-# Appendix A: Conditions
+# Apéndice A: Condiciones
 
 <img src='https://www.gmbinder.com/images/4mYR4C0.png' style='position:absolute;top:90px;left:75px;width:30px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">onditions alter a creature's capabilities in a variety of</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ways and can arise as a result of a power, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">condiciones alteran las capacidades de una criatura en una variedad de</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; formas y puede surgir como resultado de un poder, una característica de clase, el ataque de un monstruo, u otro efecto. La mayoría de las condiciones, como la ceguera, son impedimentos, pero algunas, como la invisibilidad, pueden ser ventajosas.
 
-A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition. 
+Una condición dura o bien hasta que se contrarresta (la condición propensa se contrarresta poniéndose de pie, por ejemplo) o bien durante una duración especificada por el efecto que impuso la condición. 
 
-If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
+Si múltiples efectos imponen la misma condición a una criatura, cada instancia de la condición tiene su propia duración, pero los efectos de la condición no empeoran. Una criatura tiene una condición o no la tiene.
 
-The following definitions specify what happens to a creature while it is subjected to a condition.
+Las siguientes definiciones especifican lo que le sucede a una criatura mientras está sujeta a una condición.
 
 #### Blinded
-- A blinded creature can't see and automatically fails any ability check that requires sight.
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+- Una criatura cegada no puede ver y automáticamente falla cualquier chequeo de habilidad que requiera la vista.
+- Las tiradas de ataque contra la criatura tienen ventaja, y las tiradas de ataque de la criatura tienen desventaja.
 
-#### Charmed
-- A charmed creature can't attack the charmer or target the charmer with harmful abilities or enhanced effects.
-- The charmer has advantage on any ability check to interact socially with the creature.
+#### Encantado
+- Una criatura encantada no puede atacar al encantador o dirigirse a él con habilidades dañinas o efectos mejorados.
+- El encantador tiene ventaja en cualquier comprobación de habilidad para interactuar socialmente con la criatura.
 
-#### Deafened
-- A deafened creature can't hear and automatically fails any ability check that requires hearing.
+#### Sordo
+- Una criatura ensordecida no puede oír y automáticamente falla cualquier control de habilidad que requiera audición.
 
-#### Exhaustion
-Some special abilities and environmental hazards, such as and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
+#### Agotamiento
+Algunas habilidades especiales y peligros ambientales, como los efectos a largo plazo de las temperaturas de congelación o abrasadoras, pueden llevar a una condición especial llamada agotamiento. El agotamiento se mide en seis niveles. Un efecto puede dar a una criatura uno o más niveles de agotamiento, como se especifica en la descripción del efecto.
 
-##### Exhaustion Level
-|Level|Effect|
+##### Nivel de agotamiento
+|Nivel|Efecto|
 |:--:|:--|
 |1|Disadvantage on ability checks|
 |2|Speed halved|
@@ -36,85 +36,85 @@ Some special abilities and environmental hazards, such as and the long-term effe
 |5|Speed reduced to 0|
 |6|Death|
 
-If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
+Si una criatura ya agotada sufre otro efecto que cause agotamiento, su nivel actual de agotamiento aumenta en la cantidad especificada en la descripción del efecto.
 
-A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
+Una criatura sufre el efecto de su actual nivel de agotamiento, así como todos los niveles inferiores. Por ejemplo, una criatura que sufre de agotamiento de nivel 2 tiene su velocidad reducida a la mitad y tiene desventajas en los controles de habilidad.
 
-An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
+Un efecto que elimina el agotamiento reduce su nivel según se especifica en la descripción del efecto, y todos los efectos de agotamiento terminan si el nivel de agotamiento de una criatura se reduce por debajo de 1.
 
 \columnbreak
 
-Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink.
+Terminar un largo descanso reduce el nivel de agotamiento de una criatura en 1, siempre que la criatura haya ingerido también algo de comida y bebida.
 
-#### Frightened
-- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-- The creature can't willingly move closer to the source of its fear.
+#### Asustado
+- Una criatura asustada tiene desventajas en los chequeos de habilidad y en las tiradas de ataque mientras que la fuente de su miedo está en la línea de visión.
+- La criatura no puede acercarse voluntariamente a la fuente de su miedo.
 
 #### Grappled
-- A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-- The condition ends if the grappler is incapacitated (see the condition).
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect.
+- La velocidad de una criatura agarrada se convierte en 0, y no puede beneficiarse de ninguna bonificación a su velocidad.
+- La condición termina si el grapador está incapacitado (ver la condición).
+- La condición también termina si un efecto retira a la criatura agarrada del alcance de la garra o del efecto de agarre.
 
-#### Incapacitated
-- An incapacitated creature can't take actions or reactions.
+#### Incapacitado
+- Una criatura incapacitada no puede tomar acciones o reacciones.
 
 #### Invisible
-- An invisible creature is impossible to see without the aid of powers or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
-- Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
+- Una criatura invisible es imposible de ver sin la ayuda de poderes o un sentido especial. Con el fin de ocultarse, la criatura está fuertemente oscurecida. La ubicación de la criatura puede ser detectada por cualquier ruido que haga o cualquier rastro que deje.
+- Las tiradas de ataque contra la criatura tienen desventaja, y las tiradas de ataque de la criatura tienen ventaja.
 
-#### Paralyzed
-- A paralyzed creature is incapacitated (see the condition) and can't move or speak.
-- The creature automatically fails Strength and Dexterity saving throws. Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+#### Paralizado
+- Una criatura paralizada está incapacitada (ver la condición) y no puede moverse o hablar.
+- La criatura automáticamente falla los lanzamientos de salvamento de Fuerza y Destreza. Los tiros de ataque contra la criatura tienen ventaja.
+- Cualquier ataque que golpee a la criatura es un golpe crítico si el atacante está a menos de 5 pies de la criatura.
 
-#### Petrified
-- A petrified creature is transformed, along with any object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
-- The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
-- Attack rolls against the creature have advantage. 
-- The creature automatically fails Strength and Dexterity saving throws.
-- The creature has resistance to all damage.
-- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+#### Petrificado
+- Una criatura petrificada se transforma, junto con cualquier objeto que lleve o lleve consigo, en una sustancia sólida inanimada (generalmente piedra). Su peso se multiplica por diez y deja de envejecer.
+- La criatura está incapacitada (ver la condición), no puede moverse o hablar, y no es consciente de su entorno.
+- Las tiradas de ataque contra la criatura tienen ventaja. 
+- La criatura automáticamente falla los lanzamientos de salvamento de Fuerza y Destreza.
+- La criatura tiene resistencia a todos los daños.
+- La criatura es inmune al veneno y a la enfermedad, aunque el veneno o la enfermedad que ya está en su sistema se suspende, no se neutraliza.
 
-<div class='footnote'>APPENDIX A | CONDITIONS</div>
+<div class='footnote'>APÉNDICE A | CONDICIONES</div>
 
 \pagebreakNum
 
 #### Poisoned
-- A poisoned creature has disadvantage on attack rolls and ability checks.
+- Una criatura envenenada tiene desventajas en los rollos de ataque y en los controles de habilidad.
 
 #### Prone
-- A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition. 
-- The creature has disadvantage on melee attack rolls.
-- The creature has disadvantage on ranged attack rolls against targets within 30 feet.
-- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+- La única opción de movimiento de una criatura propensa es arrastrarse, a menos que se levante y así termine la condición. 
+- La criatura tiene desventaja en las tiradas de ataque cuerpo a cuerpo.
+- La criatura tiene desventaja en las tiradas de ataque a distancia contra objetivos a menos de 30 pies.
+- Una tirada de ataque contra la criatura tiene ventaja si el atacante está a menos de 5 pies de la criatura. De lo contrario, la tirada de ataque tiene desventaja.
 
-#### Restrained
-- A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
-- The creature has disadvantage on Dexterity saving throws.
+#### Restringido
+- La velocidad de una criatura contenida se convierte en 0, y no puede beneficiarse de ninguna bonificación a su velocidad.
+- Las tiradas de ataque contra la criatura tienen ventaja, y las tiradas de ataque de la criatura tienen desventaja.
+- La criatura tiene desventaja en los lanzamientos de ahorro de destreza.
 
 #### Shocked
-- A shocked creature's speed is reduced by half.
-- The creature can't take reactions.
+- La velocidad de una criatura conmocionada se reduce a la mitad.
+- La criatura no puede reaccionar.
 
-#### Stunned
-- A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage. 
+#### Aturdido
+- Una criatura aturdida está incapacitada (ver la condición), no puede moverse y sólo puede hablar de manera vacilante.
+- La criatura automáticamente falla los lanzamientos de salvamento de Fuerza y Destreza.
+- Las tiradas de ataque contra la criatura tienen ventaja. 
 
 \columnbreak
 
-#### Unconscious
-- An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
-- The creature drops whatever it's holding and falls prone.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+#### Inconsciente
+- Una criatura inconsciente está incapacitada (ver la condición), no puede moverse o hablar, y no es consciente de su entorno
+- La criatura deja caer lo que sea que esté sosteniendo y cae en picada.
+- La criatura automáticamente falla los lanzamientos de salvamento de Fuerza y Destreza.
+- Las tiradas de ataque contra la criatura tienen ventaja.
+- Cualquier ataque que golpee a la criatura es un golpe crítico si el atacante está a menos de 5 pies de la criatura.
 
 <img src='https://www.gmbinder.com/images/YGhTN0s.png' style='position:absolute;bottom:0px;right:-150px;width:640px;z-index:1000;' />
 
 <img src='https://www.gmbinder.com/images/KVp5cb2.png' style='position:absolute;bottom:0px;left:0px;width:500px;z-index:1000;' />
 
-<div class='footnote'>APPENDIX A | CONDITIONS</div>
+<div class='footnote'>APÉNDICE A | CONDICIONES</div>
 
 \pagebreakNum
