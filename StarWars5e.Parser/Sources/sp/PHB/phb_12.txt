@@ -92,7 +92,7 @@ ___
 - Bloqueo
 - Soporte magnético
 - Campo magnético
-- Imagen de espejo
+- imagesn de espejo
 - Impulso de motivación
 - Sobrecalentamiento
 - Paralizar el Humanoide
@@ -208,7 +208,7 @@ ___
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Absorb Energy
 _1st-level tech power_
@@ -282,7 +282,7 @@ Si en cambio tocas a una criatura durante el casting, aprendes qué poderes tecno
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Antipathy/Sympathy
 _8th-level tech power_
@@ -323,7 +323,7 @@ ___
 
 Un escudo azul parpadeante rodea tu cuerpo. Hasta que el poder termina, tienes resistencia a los daños cinéticos y energéticos.
 
-#### Cage
+#### CEdad
 _7th-level tech power_
 ___
 - **Casting Time:** 1 acción
@@ -344,7 +344,7 @@ Este poder no puede ser disipado.
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Capacity Boost
 _2nd-level tech power_
@@ -418,7 +418,7 @@ El daño de este poder aumenta cuando se alcanzan niveles más altos. En el 5º niv
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Concealed Caltrops
 _2nd-level tech power_
@@ -503,7 +503,7 @@ Una criatura muerta por este poder se congela en carbonita.
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Tormenta Criogénica
 _4th-level tech power_
@@ -588,7 +588,7 @@ Tocas una criatura que ha muerto en el último minuto y le administras una descar
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Delayed Explosion
 _7th-level tech power_
@@ -670,7 +670,7 @@ Este poder desintegra automáticamente un objeto grande o pequeño. Si el objetivo
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Energía dispersa
 _6th-level tech power_
@@ -748,7 +748,7 @@ Elija una criatura que pueda ver y un tipo de daño: ácido, frío, fuego, rayos o 
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Mensaje encriptado
 _At-will tech power_
@@ -816,7 +816,7 @@ El fuego se extiende por las esquinas. Enciende los objetos inflamables en el ár
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Fabricar la trampa
 _3rd-level tech power_
@@ -880,7 +880,7 @@ El fuego enciende cualquier objeto inflamable en la zona que no se lleva puesto 
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Flaming Shots
 _3rd-level tech power_
@@ -954,7 +954,7 @@ El fuego se extiende por las esquinas. Enciende los objetos inflamables en el ár
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Greater Hologram
 _3rd-level tech power_
@@ -963,11 +963,11 @@ ___
 - **Alcance:** 120 pies
 - **Duración:** Concentración, hasta 10 minutos
 
-Creas una imagen no más grande que un cubo de 20 pies. Aparece en un lugar que puedes ver y dura toda la duración. Parece completamente real, incluyendo los sonidos y otros efectos sensoriales. No puedes crear un efecto sensorial lo suficientemente fuerte para causar un daño o una condición.
+Creas una imagesn no más grande que un cubo de 20 pies. Aparece en un lugar que puedes ver y dura toda la duración. Parece completamente real, incluyendo los sonidos y otros efectos sensoriales. No puedes crear un efecto sensorial lo suficientemente fuerte para causar un daño o una condición.
 
-Mientras esté dentro del alcance de la ilusión, puede usar su acción para hacer que la imagen se mueva a cualquier otro punto dentro del alcance. A medida que la imagen cambia de lugar, puedes alterarla para que sus movimientos parezcan naturales para la imagen.
+Mientras esté dentro del alcance de la ilusión, puede usar su acción para hacer que la imagesn se mueva a cualquier otro punto dentro del alcance. A medida que la imagesn cambia de lugar, puedes alterarla para que sus movimientos parezcan naturales para la imagesn.
 
-La interacción física con la imagen la revela como una ilusión. Una criatura puede usar su acción para determinar que es una ilusión con un control de investigación exitoso. Si una criatura aprende que es una ilusión, puede ver a través de la imagen, y las otras cualidades sensoriales se vuelven débiles para ella.
+La interacción física con la imagesn la revela como una ilusión. Una criatura puede usar su acción para determinar que es una ilusión con un control de investigación exitoso. Si una criatura aprende que es una ilusión, puede ver a través de la imagesn, y las otras cualidades sensoriales se vuelven débiles para ella.
 
 ***Overcharge Tech.*** LLa potencia dura hasta que se disipa sin necesidad de concentrarse si se lanza a un sexto nivel o superior.
 
@@ -984,7 +984,7 @@ Si eliges un objeto que estás sosteniendo o uno que no está siendo usado o lleva
 
 Si alguna de las áreas de este poder se superpone con una oscuridad mayor hecha por un poder de 3er nivel o inferior, la oscuridad se disipa.
 
-#### Greater Sabotage Charges
+#### Greater SabotEdad Charges
 _7th-level tech power_
 ___
 - **Casting Time:** 1 acción
@@ -1034,7 +1034,7 @@ Una criatura puede usar su acción para inspeccionar un objetivo y hacer un chequ
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Hold Droid
 _2nd-level tech power_
@@ -1082,11 +1082,11 @@ ___
 - **Rango:** 60 pies
 - **Duración:** Concentración, hasta 10 minutos
 
-Creas una imagen que no es más grande que un cubo de 15 pies. La imagen aparece en un punto dentro del rango y dura toda la duración. La imagen es puramente visual. Si algo pasa a través de ella, se revela como una ilusión.
+Creas una imagesn que no es más grande que un cubo de 15 pies. La imagesn aparece en un punto dentro del rango y dura toda la duración. La imagesn es puramente visual. Si algo pasa a través de ella, se revela como una ilusión.
 
-Puedes usar tu acción para hacer que la imagen se mueva a cualquier punto dentro del rango. A medida que la imagen cambia de ubicación, puedes alterar su apariencia para que sus movimientos parezcan naturales para la imagen.
+Puedes usar tu acción para hacer que la imagesn se mueva a cualquier punto dentro del rango. A medida que la imagesn cambia de ubicación, puedes alterar su apariencia para que sus movimientos parezcan naturales para la imagesn.
 
-Una criatura que usa su acción para examinar la imagen puede determinar que es una ilusión con un exitoso chequeo de Inteligencia (Investigación) contra su tecnología salvo DC. Si una criatura discierne la ilusión por lo que es, la criatura puede ver a través de la imagen.
+Una criatura que usa su acción para examinar la imagesn puede determinar que es una ilusión con un exitoso chequeo de Inteligencia (Investigación) contra su tecnología salvo DC. Si una criatura discierne la ilusión por lo que es, la criatura puede ver a través de la imagesn.
 
 #### Homing Rockets
 _1st-level tech power_
@@ -1112,7 +1112,7 @@ Este poder crea múltiples duplicados cuando se alcanzan niveles más altos. En el
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Terreno Ilusorio
 _4th-level tech power_
@@ -1123,7 +1123,7 @@ ___
 
 El terreno natural en un cubo de 150 pies de alcance se ve, suena y huele como otro tipo de terreno natural. Las estructuras manufacturadas, el equipo y las criaturas dentro del área no cambian de apariencia.
 
-Las características táctiles del terreno no han cambiado, por lo que es probable que las criaturas que entren en la zona vean a través de la ilusión. Si la diferencia no es obvia por el tacto, una criatura que examine cuidadosamente la ilusión puede intentar una verificación de Inteligencia (Investigación) contra su tecnología salvo DC para no creerla. Una criatura que discierne la ilusión por lo que es, la ve como una vaga imagen superpuesta en el terreno.
+Las características táctiles del terreno no han cambiado, por lo que es probable que las criaturas que entren en la zona vean a través de la ilusión. Si la diferencia no es obvia por el tacto, una criatura que examine cuidadosamente la ilusión puede intentar una verificación de Inteligencia (Investigación) contra su tecnología salvo DC para no creerla. Una criatura que discierne la ilusión por lo que es, la ve como una vaga imagesn superpuesta en el terreno.
 
 #### Immolate
 _5th-level tech power_
@@ -1197,7 +1197,7 @@ Un aura azul parpadeante brilla a tu alrededor. Hasta que el poder termine, eres
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Ion Blast
 _At-will tech power_
@@ -1282,7 +1282,7 @@ Una criatura de tu elección que puedes ver dentro del rango recupera puntos de g
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Reserva Kolto
 _4th-level tech power_
@@ -1371,7 +1371,7 @@ Esta habilidad repara una sola rotura o desgarro en un objeto que tocas, como un
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Minor Hologram
 _At-will tech power_
@@ -1386,18 +1386,18 @@ Esta habilidad es un truco tecnológico menor que crea uno de los siguientes efec
 - Usted instantáneamente limpia o ensucia un objeto no más grande que un pie cúbico. 
 - Se enfría, calienta o saborea hasta 1 pie cúbico de material no vivo durante 1 hora. 
 - Haces que un color, una pequeña marca o un símbolo aparezca en un objeto o una superficie durante 1 hora. 
-- Creas una baratija o una imagen ilusoria que puede caber en tu mano y que dura hasta el final de tu siguiente turno. 
+- Creas una baratija o una imagesn ilusoria que puede caber en tu mano y que dura hasta el final de tu siguiente turno. 
 
 Si utiliza este poder varias veces, puede tener hasta tres de sus efectos no instantáneos activos a la vez, y puede descartar tal efecto como una acción.
 
-#### Mirror Image
+#### Mirror images
 _2nd-level tech power_
 ___
 - **Casting Time:** 1 acción
 - **Rango:** Auto
 - **Duración:** 1 minuto
 
-Tres duplicados ilusorios de ti mismo aparecen en tu espacio. Hasta que el poder termina, los duplicados se mueven contigo e imitan tus acciones, cambiando de posición de modo que es imposible rastrear qué imagen es real. Puedes usar tu acción para descartar los duplicados ilusorios.
+Tres duplicados ilusorios de ti mismo aparecen en tu espacio. Hasta que el poder termina, los duplicados se mueven contigo e imitan tus acciones, cambiando de posición de modo que es imposible rastrear qué imagesn es real. Puedes usar tu acción para descartar los duplicados ilusorios.
 
 Cada vez que una criatura te ataca con un ataque durante la duración de la potencia, lanza un d20 para determinar si el ataque se dirige en cambio a uno de tus duplicados.
 
@@ -1446,7 +1446,7 @@ Se imbuye a un droide de buena voluntad o construcción con mayor velocidad y man
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Neurotoxina
 _7th-level tech power_
@@ -1515,7 +1515,7 @@ Expulsas un estallido de energía. Cada criatura en un cubo de 15 pies originado 
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Override Interface
 _5th-level tech power_
@@ -1593,7 +1593,7 @@ Este poder termina inmediatamente si lo lanzas de nuevo antes de que termine su 
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Programmed Illusion
 _6th-level tech power_
@@ -1608,7 +1608,7 @@ Cuando se produce la condición que especificas, la ilusión surge y se desarrolla
 
 La condición desencadenante puede ser tan general o tan detallada como se desee, aunque debe basarse en condiciones visuales o auditivas que se produzcan dentro de los 30 pies del área. Por ejemplo, puede crear una ilusión de sí mismo para aparecer y advertir a otros que intenten abrir una puerta atrapada, o puede establecer la ilusión para que se desencadene sólo cuando una criatura diga la palabra o frase correcta.
 
-La interacción física con la imagen revela que es una ilusión, porque las cosas pueden pasar a través de ella. Una criatura que usa su acción para examinar la imagen puede determinar que es una ilusión con un exitoso chequeo de Inteligencia (Investigación) contra su tecnología salvo DC. Si una criatura discierne la ilusión por lo que es, la criatura puede ver a través de la imagen, y cualquier ruido que haga le suena a hueco.
+La interacción física con la imagesn revela que es una ilusión, porque las cosas pueden pasar a través de ella. Una criatura que usa su acción para examinar la imagesn puede determinar que es una ilusión con un exitoso chequeo de Inteligencia (Investigación) contra su tecnología salvo DC. Si una criatura discierne la ilusión por lo que es, la criatura puede ver a través de la imagesn, y cualquier ruido que haga le suena a hueco.
 
 #### Proyecto Holograma
 _7th-level tech power_
@@ -1627,7 +1627,7 @@ Puedes ver a través de sus ojos y oír a través de sus oídos como si estuvieras e
 
 <div style='margin-top:16px'></div>
 
-La interacción física con la imagen revela que es una ilusión, porque las cosas pueden pasar a través de ella. Una criatura que usa su acción para examinar la imagen puede determinar que es una ilusión con un exitoso chequeo de Inteligencia (Investigación) contra su tecnología salvo DC. Si una criatura discierne la ilusión por lo que es, la criatura puede ver a través de la imagen, y cualquier ruido que haga le suena a hueco.
+La interacción física con la imagesn revela que es una ilusión, porque las cosas pueden pasar a través de ella. Una criatura que usa su acción para examinar la imagesn puede determinar que es una ilusión con un exitoso chequeo de Inteligencia (Investigación) contra su tecnología salvo DC. Si una criatura discierne la ilusión por lo que es, la criatura puede ver a través de la imagesn, y cualquier ruido que haga le suena a hueco.
 
 #### Protección de la energía
 _3rd-level tech power_
@@ -1666,7 +1666,7 @@ Si eliges un objetivo que se mantiene cerrado con *lock*, esa energía se suprime
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Repair Droid
 _1st-level tech power_
@@ -1740,7 +1740,7 @@ La energía daña los objetos de la zona y enciende los objetos inflamables que no
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Área de escaneo
 _4th-level tech power_
@@ -1806,7 +1806,7 @@ Las propiedades y poderes de un arma mejorada se suprimen si se usa contra un ob
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Scrambling Shield
 _6th-level tech power_
@@ -1836,7 +1836,7 @@ Cuando se ordena (no se requiere ninguna acción), *protocolos de seguridad* crea
 
 ***Corridors.*** La niebla llena todos los corredores asegurados, haciéndolos muy oscuros. Además, en cada intersección o pasaje ramificado que ofrece una elección de dirección, hay un 50 por ciento de posibilidades de que una criatura que no sea tú crea que va en la dirección opuesta a la que elige.
 
-***Doors.*** Todas las puertas en el área asegurada están cerradas, como si estuvieran selladas por la energía de la cerradura. Además, puedes cubrir hasta diez puertas con una imagen (equivalente a la función de objeto ilusorio del *holograma menor* de la energía) para que aparezcan como simples secciones de la pared.
+***Doors.*** Todas las puertas en el área asegurada están cerradas, como si estuvieran selladas por la energía de la cerradura. Además, puedes cubrir hasta diez puertas con una imagesn (equivalente a la función de objeto ilusorio del *holograma menor* de la energía) para que aparezcan como simples secciones de la pared.
 
 ***Escaleras.*** La malla eléctrica llena todas las escaleras en el área asegurada de arriba a abajo, como el poder de la malla eléctrica. Esta malla vuelve a crecer en 10 minutos si se quema o se arranca mientras duren los protocolos de seguridad.
 
@@ -1877,7 +1877,7 @@ Como acción, puedes mover la sonda hasta 30 pies en cualquier dirección. No hay 
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Shared Shielding
 _2nd-level tech power_
@@ -1930,7 +1930,7 @@ ___
 - **Range:** 120 feet
 - **Duration:** Concentration, up to 1 hour
 
-You cause thick smoke to erupt from a point within range, filling a 20-foot-radius sphere. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+You cause thick smoke to erupt from a point within range, filling a 20-foot-radius sphere. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater Velocidad (at least 10 miles per hour) disperses it.
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the radius of the smoke cloud increases by 20 feet for each slot level above 1st.
 
@@ -1941,7 +1941,7 @@ ___
 - **Range:** Self
 - **Duration:** Concentration, up to 1 hour
 
-You dampen sound and light and dull the scent from creatures in your vicinity. For the duration, each creature you choose within 30 feet of you has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by enhanced means. You can choose yourself as well. A creature that receives this bonus leaves behind no traces of its passage.
+You dampen sound and light and dull the scent from creatures in your vicinity. For the duration, each creature you choose within 30 feet of you has a +10 bonus to Dexterity (Stealth) checks and can't be tracked except by enhanced means. You can choose yourself as well. A creature that receives this bonus leaves behind no traces of its passEdad.
 
 #### Sonic Shot
 _At-will tech power_
@@ -1950,13 +1950,13 @@ ___
 - **Range:** Varies
 - **Duration:** 1 round
 
-As part of the action used to cast this power, you must make a ranged attack with a weapon against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and it becomes wreathed in a sonic barrier until the start of your next turn. If the target willingly moves before then, it immediately takes sonic damage equal to your techcasting modifier, becomes deafened until the start of your next turn, and the power ends.
+As part of the action used to cast this power, you must make a ranged attack with a weapon against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and it becomes wreathed in a sonic barrier until the start of your next turn. If the target willingly moves before then, it immediately takes sonic damEdad equal to your techcasting modifier, becomes deafened until the start of your next turn, and the power ends.
 
-This power's damage increases when you reach higher levels. At 5th level, the ranged attack deals an extra 1d6 sonic damage to the target, and the damage the target takes for moving increases to 1d6 + your techcasting ability modifier.  Both damage rolls increase by an additional 1d6 at 11th and 17th level.
+This power's damEdad increases when you reach higher levels. At 5th level, the ranged attack deals an extra 1d6 sonic damEdad to the target, and the damEdad the target takes for moving increases to 1d6 + your techcasting ability modifier.  Both damEdad rolls increase by an additional 1d6 at 11th and 17th level.
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Sonic Strike
 _At-will tech power_
@@ -1965,9 +1965,9 @@ ___
 - **Range:** Varies
 - **Duration:** 1 round
 
-As part of the action used to cast this power, you must make a melee attack with a weapon against one creature within your weapon's reach, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and you begin to emanate a disturbing hum. If a hostile creature ends its turn within 5 feet of you before the start of your next turn, it takes 1d4 sonic damage. 
+As part of the action used to cast this power, you must make a melee attack with a weapon against one creature within your weapon's reach, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and you begin to emanate a disturbing hum. If a hostile creature ends its turn within 5 feet of you before the start of your next turn, it takes 1d4 sonic damEdad. 
 
-This power's damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 sonic damage to the target, and the secondary damage increases by 1d4. Both damage rolls increase by 1d8 and 1d4, respectively, at 11th level and 17th level.
+This power's damEdad increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 sonic damEdad to the target, and the secondary damEdad increases by 1d4. Both damEdad rolls increase by 1d8 and 1d4, respectively, at 11th level and 17th level.
 
 #### Spot the Weakness
 _1st-level tech power_
@@ -2000,9 +2000,9 @@ ___
 - **Range:** Varies
 - **Duration:** 1 round
 
-As a part of the action used to cast this power, you must make a ranged attack with a weapon against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects and gains the lightning rod debuff until the end of your next turn, as energy begins to course through them. When this power hits a target, if there is a creature within 30 feet who has the lightning rod debuff, then the energy discharges, creating an arc of lightning between them which removes the debuff and deals 1d6 lightning damage to each of them.
+As a part of the action used to cast this power, you must make a ranged attack with a weapon against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects and gains the lightning rod debuff until the end of your next turn, as energy begins to course through them. When this power hits a target, if there is a creature within 30 feet who has the lightning rod debuff, then the energy discharges, creating an arc of lightning between them which removes the debuff and deals 1d6 lightning damEdad to each of them.
 
-The power's damage increases when you reach higher levels. At 5th level, the effects of both the ranged weapon attack and discharge deal an extra 1d6 lightning damage. Both damage rolls increase by an additional 1d6 at 11th and 17th level.
+The power's damEdad increases when you reach higher levels. At 5th level, the effects of both the ranged weapon attack and discharge deal an extra 1d6 lightning damEdad. Both damEdad rolls increase by an additional 1d6 at 11th and 17th level.
 
 #### Stun Dart
 _8th-level tech power_
@@ -2022,24 +2022,24 @@ ___
 - **Range:** Touch
 - **Duration:** Concentration, up to 1 hour
 
-A creature you touch isn't inconvenienced by mundane delays. Traffic lights are always green, there's always a waiting elevator, and a taxi is always around the corner. The target can run at full speed through dense crowds and attacks of opportunity provoked by the target's movement are made with disadvantage.
+A creature you touch isn't inconvenienced by mundane delays. Traffic lights are always green, there's always a waiting elevator, and a taxi is always around the corner. The target can run at full Velocidad through dense crowds and attacks of opportunity provoked by the target's movement are made with disadvantEdad.
 
-The power also grants advantage to stealth checks, since cover is always available. Additionally, the target has advantage on all ability checks made to drive a vehicle.
+The power also grants advantEdad to stealth checks, since cover is always available. Additionally, the target has advantEdad on all ability checks made to drive a vehicle.
 
 If two or more creatures under the effect of the power are attempting to avoid being inconvenienced by each other, the creatures make Charisma checks each time the effects would oppose each other. The higher check of the two's power takes effect.
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
-#### Tactical Advantage
+#### Tactical AdvantEdad
 _3rd-level tech power_
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
 
-Choose a willing creature that you can see within range. Until the power ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+Choose a willing creature that you can see within range. Until the power ends, the target's Velocidad is doubled, it gains a +2 bonus to AC, it has advantEdad on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, DisengEdad, Hide, or Use an Object action.
 
 When the power ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
@@ -2059,7 +2059,7 @@ ___
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
 
-Choose up to two willing creatures that you can see within range. Until the power ends, each targets' speed is doubled, they gain a +2 bonus to AC, they have advantage on Dexterity saving throws, and they gain an additional action on each of their turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or the Use an Object Action. 
+Choose up to two willing creatures that you can see within range. Until the power ends, each targets' Velocidad is doubled, they gain a +2 bonus to AC, they have advantEdad on Dexterity saving throws, and they gain an additional action on each of their turns. That action can be used only to take the Attack (one weapon attack only), Dash, DisengEdad, Hide, or the Use an Object Action. 
 
 When the power ends, each target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
 
@@ -2072,7 +2072,7 @@ ___
 - **Range:** 90 feet
 - **Duration:** Concentration, up to 1 hour
 
-You choose a creature you can see within range and mark it as your quarry. Until the power ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, the target gains no benefit from half cover and three-quarters cover against you, and if the target is invisible, you can see it as if it were visible. If the target drops to 0 hit points before this power ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
+You choose a creature you can see within range and mark it as your quarry. Until the power ends, you deal an extra 1d6 damEdad to the target whenever you hit it with a weapon attack, the target gains no benefit from half cover and three-quarters cover against you, and if the target is invisible, you can see it as if it were visible. If the target drops to 0 hit points before this power ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
 
 \columnbreak
 
@@ -2087,9 +2087,9 @@ ___
 - **Range:** Varies
 - **Duration:** 1 round
 
-As part of the action used to cast this power, you must make a ranged attack with a weapon against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and a small target only visible to you marks it. The next attack roll you make against the creature before the end of your next turn can't suffer from disadvantage.
+As part of the action used to cast this power, you must make a ranged attack with a weapon against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and a small target only visible to you marks it. The next attack roll you make against the creature before the end of your next turn can't suffer from disadvantEdad.
 
-This power deals additional damage when you reach higher levels. At 5th level, the ranged attack deals an extra 1d6 damage. This damage increases by 1d6 again at 11th level and 17th level. The damage is the same type as the weapon's damage.
+This power deals additional damEdad when you reach higher levels. At 5th level, the ranged attack deals an extra 1d6 damEdad. This damEdad increases by 1d6 again at 11th level and 17th level. The damEdad is the same type as the weapon's damEdad.
 
 #### Tech Override
 _3rd-level tech power_
@@ -2113,7 +2113,7 @@ You touch one willing creature. Once before the power ends, the target can roll 
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Toxic Cloud
 _5th-level tech power_
@@ -2124,11 +2124,11 @@ ___
 
 You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the power. Its area is heavily obscured.
 
-When a creature enters the power's area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don't need to breathe.
+When a creature enters the power's area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damEdad on a failed save, or half as much damEdad on a successful one. Creatures are affected even if they hold their breath or don't need to breathe.
 
 The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.
 
-***Overcharge Tech.*** When you cast this power using a tech slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+***Overcharge Tech.*** When you cast this power using a tech slot of 6th level or higher, the damEdad increases by 1d8 for each slot level above 5th.
 
 #### Toxin Purge
 _2nd-level tech power_
@@ -2139,7 +2139,7 @@ ___
 
 You touch a creature. If it is poisoned or diseased, you neutralize the poison or disease. If more than one poison or disease afflicts the target, you neutralize one poison or disease that you know is present, or you neutralize one at random.
 
-For the duration, the target has advantage on saving throws against being poisoned or diseased, and it has resistance to poison damage.
+For the duration, the target has advantEdad on saving throws against being poisoned or diseased, and it has resistance to poison damEdad.
 
 #### Toxin Scan
 _1st-level tech power_
@@ -2157,13 +2157,13 @@ ___
 - **Range:** 120 feet
 - **Duration:** 1 round 
 
-A flash of light streaks toward a creature of your choice within range. Make a ranged tech attack against the target. On a hit, the target takes 4d6 energy damage, and the next attack roll made against this target before the end of your next turn has advantage. 
+A flash of light streaks toward a creature of your choice within range. Make a ranged tech attack against the target. On a hit, the target takes 4d6 energy damEdad, and the next attack roll made against this target before the end of your next turn has advantEdad. 
 
 \columnbreak
 
 <div style='margin-top:16px'></div>
 
-&emsp;***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+&emsp;***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, the damEdad increases by 1d6 for each slot level above 1st.
 
 #### Tracker Droid Interface
 _1st-level tech power_
@@ -2191,13 +2191,13 @@ ___
 - **Range:** 90 feet
 - **Duration:** 1 minute 
 
-You emit a tranquilizing dart that knocks a creature unconscious. Roll 5d8; if the creature's remaining hit points are less than the total, the creature falls unconscious until the power ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. This power has no effect on droids or constructs.
+You emit a tranquilizing dart that knocks a creature unconscious. Roll 5d8; if the creature's remaining hit points are less than the total, the creature falls unconscious until the power ends, the sleeper takes damEdad, or someone uses an action to shake or slap the sleeper awake. This power has no effect on droids or constructs.
 
 ***Overcharge Tech.*** When you cast this power using a tech slot of 2nd level or higher, you can target an additional creature for each slot level above 1st. For each target, roll 5d8 separately.
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Translation Program
 _1st-level tech power_
@@ -2206,9 +2206,9 @@ ___
 - **Range:** Self
 - **Duration:** 1 hour
 
-For the duration, you understand the literal meaning of any spoken registered language that you hear, as long as you have your tech focus. You also understand any written language that you see, but you must be within reach of the surface on which the words are written. It takes about 1 minute to read one page of text. 
+For the duration, you understand the literal meaning of any spoken registered Idiomas that you hear, as long as you have your tech focus. You also understand any written Idiomas that you see, but you must be within reach of the surface on which the words are written. It takes about 1 minute to read one pEdad of text. 
 
-This power doesn't decode secret messages in a text, nor does it interpret a glyph, such as an ancient Sith rune, that isn't part of a written language.
+This power doesn't decode secret messEdads in a text, nor does it interpret a glyph, such as an ancient Sith rune, that isn't part of a written Idiomas.
 
 #### Translocate
 _2nd-level tech power_
@@ -2237,9 +2237,9 @@ ___
 - **Range:** Varies
 - **Duration:** Instantaneous
 
-As part of the action used to cast this power, you must make a melee attack with a weapon against one creature within your weapon's reach, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and if you were hidden from it, it takes an additional 1d4 poison damage. 
+As part of the action used to cast this power, you must make a melee attack with a weapon against one creature within your weapon's reach, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and if you were hidden from it, it takes an additional 1d4 poison damEdad. 
 
-This power's damage increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 poison damage to the target, and the damage the target takes when you are hidden from it increases to 2d4. Both damage rolls increase by 1d8 and 1d4, respectively, at 11th level and 17th level.
+This power's damEdad increases when you reach higher levels. At 5th level, the melee attack deals an extra 1d8 poison damEdad to the target, and the damEdad the target takes when you are hidden from it increases to 2d4. Both damEdad rolls increase by 1d8 and 1d4, respectively, at 11th level and 17th level.
 
 \columnbreak
 
@@ -2252,7 +2252,7 @@ ___
 
 As part of the action used to cast this power, you must make a ranged attack with a weapon against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and each Large or smaller creature within 10 feet of the target must succeed on a Strength saving throw or be pulled to the nearest unoccupied space adjacent to the target. 
 
-This power deals additional damage when you reach higher levels. At 5th level, the ranged attack deals an extra 1d6 damage. This damage increases by 1d6 again at 11th level and 17th level. The damage is the same type as the weapon's damage.
+This power deals additional damEdad when you reach higher levels. At 5th level, the ranged attack deals an extra 1d6 damEdad. This damEdad increases by 1d6 again at 11th level and 17th level. The damEdad is the same type as the weapon's damEdad.
 
 #### Ward
 _At-will tech power_
@@ -2261,7 +2261,7 @@ ___
 - **Range:** Self
 - **Duration:** 1 round
 
-You emit a powerful force field that deflects incoming attacks. Until the end of your next turn, you have resistance against kinetic and energy damage dealt by weapon attacks.
+You emit a powerful force field that deflects incoming attacks. Until the end of your next turn, you have resistance against kinetic and energy damEdad dealt by weapon attacks.
 
 #### Warding Shot
 _At-will tech power_
@@ -2270,10 +2270,10 @@ ___
 - **Range:** Varies
 - **Duration:** 1 round
 
-As part of the action used to cast this power, you must make a ranged attack with a weapon against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and a dim barrier surrounds it. The first time it would deal damage before the start of your next turn, that damage is reduced by 1d6. 
+As part of the action used to cast this power, you must make a ranged attack with a weapon against one creature within your weapon's range, otherwise the power fails. On a hit, the target suffers the attack's normal effects, and a dim barrier surrounds it. The first time it would deal damEdad before the start of your next turn, that damEdad is reduced by 1d6. 
 
-This power's damage reduction increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+This power's damEdad reduction increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 <div class='footnote'>CAPITULO 12 | TECH POWERS</div>
 
-\pagebreakNum
+\pEdadbreakNum

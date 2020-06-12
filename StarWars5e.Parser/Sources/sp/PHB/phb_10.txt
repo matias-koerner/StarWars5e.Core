@@ -4,7 +4,7 @@
 
 <img src='https://www.gmbinder.com/images/EOjZyxJ.png' style='position:absolute;top:90px;left:71px;width:39px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">agic existe en los mundos de *Guerra de las Galaxias* en la forma de</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; poderes. En este capítulo se establecen las reglas para la emisión de estos poderes. Hay dos fuentes principales de estos poderes: la Fuerza y la tecnología. Mientras que múltiples clases utilizan la Fuerza o la tecnología para alimentar sus poderes, sólo existen las dos fuentes. Sin embargo, los poderes siguen las reglas aquí.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">agic existe en los mundos de *Star Wars* en la forma de</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; poderes. En este capítulo se establecen las reglas para la emisión de estos poderes. Hay dos fuentes principales de estos poderes: la Fuerza y la tecnología. Mientras que múltiples clases utilizan la Fuerza o la tecnología para alimentar sus poderes, sólo existen las dos fuentes. Sin embargo, los poderes siguen las reglas aquí.
 
 ## ¿Qué es un Poder?
 Una potencia es un efecto discreto, una simple conformación de las energías de la Fuerza o el resultado de una fórmula tecnológica, que crea un efecto deseado. Al lanzar una potencia, un personaje construye cuidadosamente el efecto deseado usando la fuente de su poder, y luego lo libera, todo en el lapso de segundos.
@@ -71,14 +71,14 @@ Un poder a voluntad es uno que puede ser lanzado sin gastar fuerza o puntos técn
 
 <div class='footnote'>CAPITULO 10 | FUERZA- Y TECH-CASTING</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Casting a Power
 Cuando un personaje lanza una potencia, se siguen las mismas reglas básicas, independientemente de la clase del personaje o de los efectos de la potencia.
 
 Cada descripción de una potencia en los capítulos 11 y 12 comienza con un bloque de información, que incluye el nombre de la potencia, el nivel, la alineación (en el caso de las potencias de la Fuerza), los requisitos previos (si los tiene), el tiempo de lanzamiento, el alcance y la duración. El resto de una entrada de potencia describe el efecto de la potencia.
 
-### Power Alignments
+### Power AlineaciÃ³ns
 La mayoría de los poderes de la fuerza están alineados con uno de los lados opuestos de la Fuerza - luz y oscuridad - mientras que muchos caen en algún lugar del medio-universal. Usas tu Sabiduría para los poderes del lado de la luz, Carisma para los del lado de la oscuridad, y la Sabiduría o Carisma para los poderes universales (a tu elección). Además, ciertos arquetipos y hazañas ofrecen beneficios al usar poderes de una alineación específica.
 
 ### Prerequisitos
@@ -131,7 +131,7 @@ El GM también podría decidir que ciertos fenómenos ambientales, como la turbulen
 
 <div class='footnote'>CAPITULO 10 | FUERZA- Y TECH-CASTING</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Targets
 Una potencia típica requiere que elijas uno o más objetivos para ser afectados por el efecto de la potencia. La descripción de una potencia te dice si la potencia tiene como objetivo criaturas, objetos o un punto de origen para un área de efecto (descrito a continuación). A menos que una potencia tenga un efecto perceptible, una criatura podría no saber que fue blanco de una potencia en absoluto. Un efecto como el crepitar de un rayo es obvio, pero un efecto más sutil, como el intento de leer los pensamientos de una criatura, normalmente pasa desapercibido, a menos que una potencia diga lo contrario.
@@ -193,4 +193,4 @@ Por ejemplo, si dos consulados lanzan *orientación* sobre el mismo objetivo, ese
 
 <div class='footnote'>CAPITULO 10 | FUERZA- Y TECH-CASTING</div>
 
-\pagebreakNum
+\pEdadbreakNum

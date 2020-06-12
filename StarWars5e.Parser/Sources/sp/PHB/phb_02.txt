@@ -2,7 +2,6 @@
 
 # Capítulo 2: Especies
 
-
 <img src='https://www.gmbinder.com/images/TP83mUX.png' style='position:absolute;top:90px;left:75px;width:35px' />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">visita a cualquiera de las grandes ciudades en los mundos de</span><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Star Wars* abruma los sentidos. Las voces parlotean en incontables idiomas diferentes. Los olores de la cocina en docenas de cocinas diferentes se mezclan con los olores de las calles atestadas y la falta de higiene. Los edificios de innumerables estilos arquitectónicos muestran los diversos orígenes de sus habitantes. 
@@ -11,8 +10,8 @@ Y la propia gente, gente de diferentes tamaños, formas y colores, vestida con un
 
 Dispersos entre los miembros de estas especies más comunes están los verdaderos exóticos: un besalisco corpulento aquí, abriéndose camino entre la multitud, y un astuto besuqueo allí, acechando en las sombras con picardía en sus ojos. Un grupo de jawas parlotea mientras uno de ellos activa un ingenioso juguete mecánico que se mueve por sí mismo. Los Zabraks y los devaronianos viven y trabajan junto a los humanos, sin pertenecer completamente a ellos. Y allí, bien lejos de la luz del sol, hay un solitario dros, un fugitivo de la República Galáctica, tratando de abrirse camino en un mundo.
 
-### Choosing a Species
-Los humanos son las personas más comunes en los mundos de la *Guerra de las Galaxias*, pero viven y trabajan junto a los ithorianos, kiffar, mirialan, e innumerables otras especies fantásticas. Tu personaje pertenece a uno de estos pueblos. 
+### Elegír una Especie
+Los humanos son las personas más comunes en los mundos de la *Star Wars*, pero viven y trabajan junto a los ithorianos, kiffar, mirialan, e innumerables otras especies fantásticas. Tu personaje pertenece a uno de estos pueblos. 
 
 La elección de la especie afecta a muchos aspectos diferentes de su carácter. Establece las cualidades fundamentales que existen a lo largo de la carrera aventurera de tu personaje. Cuando tomes esta decisión, ten en cuenta el tipo de personaje que quieres interpretar. Por ejemplo, un bothan puede ser una buena elección para un operativo furtivo, un wookiee puede ser un berserker duro, y un twi'lek puede ser un maestro de la Fuerza.
 
@@ -20,41 +19,41 @@ La especie de tu personaje no sólo afecta a tus puntuaciones de habilidad y rasg
 
 \columnbreak
 
-### Special Traits
+### Rasgos Especiales
 La descripción de cada especie incluye rasgos especiales que son comunes a los miembros de esa especie. Las siguientes entradas aparecen entre los rasgos de la mayoría de las especies.
 
-#### Incremento de la puntuación de habilidad
-Cada especie aumenta una o más puntuaciones de habilidad de un personaje.
+#### Incremento de la puntuación de característica
+Cada especie aumenta una o más puntuaciones de característica de un personaje.
 
 #### Edad
 La entrada de edad señala la edad en que un miembro de la especie se considera adulto, así como la duración de vida prevista de la especie. Esta información puede ayudarte a decidir la edad de tu personaje al comienzo del juego. Puedes elegir cualquier edad para tu personaje, lo que podría proporcionar una explicación para algunas de tus puntuaciones de habilidad. Por ejemplo, si juegas con un personaje joven o muy viejo, tu edad podría explicar una puntuación particularmente baja de Fuerza o Constitución, mientras que una edad avanzada podría explicar una alta Inteligencia o Sabiduría.
 
 #### Alineación
-La mayoría de las especies tienen tendencias hacia ciertas alineaciones, descritas en esta entrada. Estos no son vinculantes para los personajes de los jugadores, pero considerar por qué su sangre pura Sith sigue el lado de la luz, por ejemplo, en desafío al Imperio Sith puede ayudar a definir mejor su personaje.
+La mayoría de las especies tienen tendencias hacia ciertas alineaciones, descritas en esta entrada. Estos no son vinculantes para los personajes de los jugadores, pero considerar por qué su sangre pura   sigue el lado de la luz, por ejemplo, en desafío al Imperio   puede ayudar a definir mejor su personaje.
 
 #### Tamaño
 Los personajes de la mayoría de las especies son medianos, una categoría de tamaño que incluye criaturas que miden aproximadamente de 4 a 8 pies de altura. Los miembros de unas pocas especies son Pequeños (entre 2 y 4 pies de altura), lo que significa que ciertas reglas del juego los afectan de manera diferente. La más importante de estas reglas es que los personajes Pequeños tienen problemas para manejar armas y escudos pesados, como se explica en el capítulo 6.
 
-#### Speed
+#### Velocidad
 Tu velocidad determina cuán lejos puedes moverte cuando viajas (capítulo 8) y luchas (capítulo 9).
 
 #### Idiomas
-En virtud de su especie, su personaje puede hablar, leer y escribir ciertos idiomas. Cada especie típicamente habla, o al menos entiende, Galactic Basic, además de tener un lenguaje propio único. El capítulo 4 enumera los idiomas más comunes del universo de *Guerra de las Galaxias*.
+En virtud de su especie, su personaje puede hablar, leer y escribir ciertos idiomas. Cada especie típicamente habla, o al menos entiende, Galactic Basic, además de tener un lenguaje propio único. El capítulo 4 enumera los idiomas más comunes del universo de *Star Wars*.
 
 <img src='https://www.gmbinder.com/images/aGfQe3g.png' style='position:absolute;bottom:28px;right:3px;width:819px;z-index:1000;' />
 
-\pagebreakNum
+\pagebreak
 
 ___
 > ## Bith
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Green, pink, white, or yellow|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Negro|
-> |***Distinciones***|&nbsp;&nbsp;|Gran cráneo, sentidos agudos del olfato y del oído|
+> |***Color de Piel***|&nbsp;&nbsp;|Verde, Rosado, Blanco, o Amarillo|
+> |***Color de Pelo***|&nbsp;&nbsp;|Ninguno|
+> |***Color de Ojos***|&nbsp;&nbsp;|Negro|
+> |***Distinciones***|&nbsp;&nbsp;|Gran cráneo, sentidos del olfato y del oído agudos|
 > ___
 > #### Características físicas
 > |||||
@@ -65,20 +64,20 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Clak'dor VII|
-> |***Lenguaje***|&nbsp;&nbsp;||Bith|
+> |***Planeta Natal***|&nbsp;&nbsp;|Clak'dor VII|
+> |***Lenguaje***|&nbsp;&nbsp;|Bith|
 
 <div style='margin-top:35px'></div>
 
-### Biology and Appearance
+### Biologia y Apariencia
 Los bitácoras son craneópodos con piel rosa pálido, amarilla o verde, grandes cabezas, grandes ojos sin párpados, pies sin dedos y dedos largos. El pulgar y el dedo meñique son totalmente oponibles. Los sistemas internos de los bits son diferentes a los de la mayoría de los humanoides, ya que los bits tienen un solo pulmón y exhalan a través de su piel. Los bits también carecen de una nariz adecuada, en su lugar tienen órganos olfativos muy sensibles escondidos en las aletas de sus mejillas.
 
 Los otros sentidos de los bits también son agudos. Bith puede sentir las cualidades tonales del sonido así como otras especies sienten los colores. Sus ojos, tan grandes como los de un Menahuun, pueden ver detalles microscópicos de los objetos cercanos, pero son extremadamente miopes como resultado. Un interesante efecto secundario de sus increíbles sensores es el efecto de las granadas sónicas, o gritones, sobre ellos. Se describe como la causa de que sus cabezas exploten. De manera similar, los bits tienen una alta destreza manual que les ayuda a manipular herramientas finas, aunque su destreza física con habilidades motoras gruesas era sólo promedio.
 
-### Society and Culture
+### Sociedad y Cultura
 Bith es una de las civilizaciones más antiguas de la galaxia, con una historia que se remonta a millones de años. Esta antigüedad se ganó el respeto de ciertos sectores, como el de los griegos, que les dieron más respeto que otras especies "más jóvenes". Su sociedad está muy reglamentada, con todo, desde la selección de pareja hasta el liderazgo político controlado por sofisticados programas informáticos.
 
-### Names
+###Nombres
 Los nombres de los bebés son muy diversos. Algunos nombres parecen complicados y difíciles de pronunciar, mientras que otros son bastante simples. 
 
 **Nombres masculinos.** Fedu, Jenkiss, Kabadons, Ph'teumkiass 
@@ -91,28 +90,28 @@ Los nombres de los bebés son muy diversos. Algunos nombres parecen complicados y
 
 <div style='margin-top:561px'></div>
 
-### Bith Traits
-Como partera, tienes los siguientes rasgos especiales.
+### Rasgos Bith
+Como Bith, tienes los siguientes rasgos especiales.
 
-***Tu puntuación de Inteligencia aumenta*** en 2 y tu puntuación de Destreza aumenta en 1.
+***Incremento de la puntuación de característica*** Tu puntuación de Inteligencia aumenta en 2 y tu puntuación de Destreza aumenta en 1.
 
-***Age.*** Los bebés llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
+***Edad.*** Los bebés llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
 
-***Alignment.*** La naturaleza benevolente de los Biths hace que tiendan hacia el lado de la luz, aunque hay excepciones.
+***Alineación.*** La naturaleza benevolente de los Biths hace que tiendan hacia el lado de la luz, aunque hay excepciones.
 
-***Size.*** El tamaño de los bebés suele ser de 1,5 a 1,6 metros de altura y generalmente pesan alrededor de 120 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** El tamaño de los bebés suele ser de 1,5 a 1,6 metros de altura y generalmente pesan alrededor de 120 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
 
-***Speed.*** La velocidad de tu base es de 30 pies.
+***Velocidad.*** La velocidad de tu base es de 30 pies.
 
-***Detail Oriented.*** Se practica el rastreo para los detalles. Tienes ventaja en los controles de Inteligencia (Investigación) dentro de los 5 pies.
+***Detallista.*** Se practica el rastreo para los detalles. Tienes ventaja en los controles de Inteligencia (Investigación) dentro de los 5 pies.
 
-***Keen Hearing and Smell.*** Tienes ventaja en los chequeos de Sabiduría (Percepción) que involucran el oído o el olfato.
+***Oído y olfato agudos.*** Tienes ventaja en los chequeos de Sabiduría (Percepción) que involucran el oído o el olfato.
 
-***Musician.*** Es un músico. Es competente en un instrumento musical de su elección.
+***Musical.*** Es un músico. Es competente en un instrumento musical de su elección.
 
-***Programmer.*** Siempre que haces un chequeo de Inteligencia (Tecnología) relacionado con las computadoras, se considera que tienes experiencia en la habilidad de la Tecnología.
+***Programador.*** Siempre que haces un chequeo de Inteligencia (Tecnología) relacionado con las computadoras, se considera que tienes experiencia en la habilidad de la Tecnología.
 
-***Languages.*** Puedes hablar, leer y escribir Galactic Basic, Bith, y un idioma más de tu elección.
+***Idiomas.*** Puedes hablar, leer y escribir Galactic Basic, Bith, y un idioma más de tu elección.
 
 <img src='https://www.gmbinder.com/images/0VxWnHw.png' style='position:absolute;top:58px;right:110px;width:251px;transform:scaleX(-1);z-index:1000' />
 
@@ -123,13 +122,13 @@ Como partera, tienes los siguientes rasgos especiales.
 ___
 > ## Bothan
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Brown|
+> |***Color de Piel***|&nbsp;&nbsp;|Marrón|
 > |***Color del pelo***|&nbsp;&nbsp;|Negro, marrón o gris (con la edad)|
-> |***Color de ojos***|&nbsp;&nbsp;||Marrón o verde|
-> |***Distinciones***|&nbsp;&nbsp;|Estatura discreta, piel sensible al humor|
+> |***Color de ojos***|&nbsp;&nbsp;|Marrón o verde|
+> |***Distinciones***|&nbsp;&nbsp;|Estatura pequeña, piel sensible al humor|
 > ___
 > #### Características físicas
 > |||||
@@ -140,20 +139,20 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Bothawui|
-> |***Language***|&nbsp;&nbsp;|Bothese|
+> |***Planeta Natal***|&nbsp;&nbsp;|Bothawui|
+> |***Idiomas***|&nbsp;&nbsp;|Bothese|
 
 <div style='margin-top:24px'></div>
 
-### Biology and Appearance
+### Biologia y Apariencia
 Los Bothans son una especie corta de humanoides peludos. Los Bothans están cubiertos de pelaje que se desplaza en respuesta a su estado emocional por medio de suaves ondulaciones. Es este rasgo, llamado Wrendui, el que los traiciona cuando los miembros de su especie intentan ser infieles en su trato con los demás. Poseen orejas puntiagudas, y tanto los hombres como las mujeres son conocidos por tener barba. 
 
 Los Bothans son capaces de cruzarse con las otras especies, aunque es raro que lo hagan. Tales híbridos se asemejan un poco a los humanos de base con ancas, pezuñas, pelo, orejas puntiagudas y una larga cola.
 
-### Society and Culture
+### Sociedad y Cultura
 La cultura de ambos se guía por la filosofía y los principios del antiguo texto conocido como El Camino, escrito por Golm Fervse'dra. En este "Camino de Bothan", la búsqueda de poder e influencia es primordial. Así, los bothans individuales ponen su propio éxito político y económico por encima de todas las demás preocupaciones, y como especie, los bothans ponen su propio avance por delante de otros intereses intergalácticos. El volumen de apuñalamientos por la espalda, asesinatos sutiles de personajes y maniobras políticas en la sociedad de los bothan es vertiginoso, y da lugar a que muchas especies estereotipen a los bothans como poco fiables. De hecho, la mayoría de los bothans son habitualmente paranoicos, creyendo que cualquiera que no esté trabajando con ellos, está trabajando contra ellos. En tiempos de crisis, el enfoque de la sociedad de los bothan cambia a un estado de supervivencia conocido como "ar'krai". Cuando se involucran en el ar'krai, todos los bothans aptos se ofrecen como voluntarios para defender a su especie de una inminente extinción. 
 
-### Names
+###Nombres
 Los nombres de los dos hombres suelen ser difíciles de pronunciar, mientras que los de las mujeres son suaves. Los apellidos son familiares.
 
 **Nombres masculinos.** Garc, Hibriak, Nith, Tramom, Ventagt 
@@ -166,28 +165,28 @@ Los nombres de los dos hombres suelen ser difíciles de pronunciar, mientras que 
 
 <div style='margin-top:413px'></div>
 
-### Bothan Traits
+### Rasgos Bothan
 Como bothan, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Tu puntuación de Inteligencia aumenta en 2 y tu puntuación de Destreza aumenta en 1.
+***Incremento de la puntuación de característica.*** Tu puntuación de Inteligencia aumenta en 2 y tu puntuación de Destreza aumenta en 1.
 
-***Age.*** Los Bothans llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
+***Edad.*** Los Bothans llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
 
-***Alignment.*** La naturaleza engañosa de Bothans hace que tiendan al lado oscuro, aunque hay excepciones.
+***Alineación.*** La naturaleza engañosa de Bothans hace que tiendan al lado oscuro, aunque hay excepciones.
 
-***Size.*** Los Bothans miden 1,5 metros de altura y pesan menos de 30 kilos. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** Los Bothans miden 1,5 metros de altura y pesan menos de 30 kilos. Independientemente de su posición en ese rango, su tamaño es mediano.
 
-***Speed.*** La velocidad de tu base es de 30 pies.
+***Velocidad.*** La velocidad de tu base es de 30 pies.
 
-***Naturally Stealthy.*** Puedes intentar esconderte incluso cuando estás oculto sólo por una criatura de tu tamaño o más grande que tú.
+***Naturaleza Sigilosa.*** Puedes intentar esconderte incluso cuando estás oculto sólo por una criatura de tu tamaño o más grande que tú.
 
-***Nimble Escape.*** Puedes tomar la acción de Desengancharse o Esconderse como una acción extra en cada uno de sus turnos.
+***Escape Ágil.*** Puedes tomar la acción de Desengancharse o Esconderse como una acción extra en cada uno de sus turnos.
 
 > Aunque los bothans son aptos para muchas clases, la mayoría encajan icónicamente como operativos. El rasgo especial de ***Escape ágil*** se superpone en gran medida con la característica de ***Acción astuta*** del operativo, sin embargo, lo que hace que esta combinación especie/clase sea contraria a la intuición. Si, durante la parte de creación de personajes de tu juego, un jugador decide hacer un operativo bothan, considera dejarle usar la siguiente característica en su lugar:
 >
-> ***Versatile Expertise.*** Usted gana competencia en una habilidad de su elección. Se gana experiencia en una habilidad de su elección en la que se es competente.
+> ***Experiencia Versátil.*** Usted gana competencia en una habilidad de su elección. Se gana experiencia en una habilidad de su elección en la que se es competente.
 
-&emsp;***Shrewd.*** Eres competente en las habilidades de perspicacia y engaño.
+&emsp;***Astuto.*** Eres competente en las habilidades de perspicacia y engaño.
 
 ***Idiomas.*** Puedes hablar, leer y escribir Galactic Basic y Bothese. El Bothese tuvo una gran influencia en la formación del Galactic Basic; los dos idiomas comparten muchos cognados.
 
@@ -200,13 +199,13 @@ Como bothan, tienes los siguientes rasgos especiales.
 ___
 > ## Chiss
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
-> |*** Color de piel***|&nbsp;&nbsp;||Azul o plata|
+> |*** Color de piel***|&nbsp;&nbsp;|Azul o plata|
 > |***Color del pelo***|&nbsp;&nbsp;|Negro, azul o plateado|
-> |***Eye Color***|&nbsp;&nbsp;|Red|
-> |***Distinctions***|&nbsp;&nbsp;|Ojos rojos brillantes, visión nocturna superior a la media.
+> |***Color de Ojos***|&nbsp;&nbsp;|Red|
+> |***Distinciones***|&nbsp;&nbsp;|Ojos rojos brillantes, visión nocturna superior a la media.
 > ___
 > #### Características físicas
 > |||||
@@ -217,18 +216,18 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Csilla|
-> |***Language***|&nbsp;&nbsp;|Cheunh|
+> |***Planeta Natal***|&nbsp;&nbsp;|Csilla|
+> |***Idiomas***|&nbsp;&nbsp;|Cheunh|
 
 <div style='margin-top:56px'></div>
 
-### Biology and Appearance
+### Biologia y Apariencia
 El chiss es una especie casi humana que se distingue por su piel azul y sus brillantes ojos rojos. Los análisis genéticos indican que son un retoño de la humanidad, y se cree que el hecho de moverse bajo tierra llevó a una divergencia entre ellos y los humanos de base. Su piel azul, su pelo negro azabache y sus ojos rojos generalmente llaman la atención; estas características los hacen físicamente llamativos e instantáneamente reconocibles.
 
-### Society and Culture
+### Sociedad y Cultura
 La sociedad del beso está altamente estructurada y ordenada, con el imperio de la ley aplicado por un grupo de cuatro afiliaciones conocidas como las Familias Gobernantes: los Csapla, Nuruodo, Inrokini y Sabosen. Estas no son agrupaciones de familias biológicas, sino diferentes ramas de su gobierno. Cada sabosen reclama la afiliación a una de las cuatro familias, según lo determinado tanto por la tradición como por el lugar de nacimiento. Los nombres de la familia son más bien un vestigio cultural; las líneas de sangre han crecido tanto que cualquier chiss puede reclamar su afiliación a cualquiera de las familias gobernantes. A pesar de la impresión exterior de calma y orden que el chiss gusta de proyectar a los forasteros, había evidentemente tensiones dentro de las Familias; los asesinatos políticos son una parte real de la vida política del chiss para las Familias gobernantes.
 
-### Names
+###Nombres
 El nombre verdadero de un chiss tiene 3 partes, cada una separada por un apóstrofe. La primera parte es su apellido, la segunda parte es su nombre raíz, y la tercera parte es su ocupación. Chiss raramente comparte su verdadero nombre con los que no son chiss, y normalmente se llaman por su nombre raíz. Los nombres masculinos y femeninos no se desvían significativamente.
 
 **Nombres.** Crorcu'ecuk'unist, Dash'esoru'ishur, Jerd'ecer'lonii, Kisk'egauw'eqhi, Marag'aliphil'eduo, Pommo'icuote'nlerme, Vornu'wuzi'lerdim
@@ -237,22 +236,22 @@ El nombre verdadero de un chiss tiene 3 partes, cada una separada por un apóstro
 
 <div style='margin-top:506px'></div>
 
-### Chiss Traits
+### Rasgos Rasgos Chiss 
 Como un beso, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Tu puntuación de Inteligencia aumenta en 2, y tu puntuación de Carisma aumenta en 1.
+***Incremento de la puntuación de característica.*** Tu puntuación de Inteligencia aumenta en 2, y tu puntuación de Carisma aumenta en 1.
 
 ***Edad.*** Chiss llegan a la edad adulta en su adolescencia tardía y viven menos de un siglo.
 
 ***Alineación*** La naturaleza táctica y egoísta de Chiss hace que tiendan hacia el legítimo lado oscuro, aunque hay excepciones.
 
-***Size.*** El beso suele medir entre 1,5 y 1,6 metros de altura y pesa unos 90 kilos. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** El beso suele medir entre 1,5 y 1,6 metros de altura y pesa unos 90 kilos. Independientemente de su posición en ese rango, su tamaño es mediano.
 
-***Speed.*** La velocidad de tu base es de 30 pies.
+***Velocidad.*** La velocidad de tu base es de 30 pies.
 
 ***Tech Resistance.***  Crecer alrededor de la tecnología deja un impacto en el bienestar. Tienes ventaja en la destreza y la inteligencia, ahorrando lanzamientos contra los poderes de la tecnología.
 
-***Darkvision.***  Tienes una vista aguda, especialmente en la oscuridad. Puedes ver en la luz tenue a 120 pies de ti como si fuera una luz brillante, y en la oscuridad como si fuera una luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.***  Tienes una vista aguda, especialmente en la oscuridad. Puedes ver en la luz tenue a 120 pies de ti como si fuera una luz brillante, y en la oscuridad como si fuera una luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
 ***Martial Proficiency.*** Tienes habilidad con armaduras ligeras y medianas, así como con la pistola de rayos y el rifle de francotirador.
 
@@ -267,13 +266,13 @@ Como un beso, tienes los siguientes rasgos especiales.
 ___
 > ## Duros
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
 > |*** Color de piel***|&nbsp;&nbsp;|Azul, verde|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Red|
-> |***Distinctions***|&nbsp;&nbsp;| Sin nariz, grandes ojos rojos, afinidad con los viajes espaciales.
+> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Ojos***|&nbsp;&nbsp;|Red|
+> |***Distinciones***|&nbsp;&nbsp;| Sin nariz, grandes ojos rojos, afinidad con los viajes espaciales.
 > ___
 > #### Características físicas
 > |||||
@@ -284,22 +283,22 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Duro|
+> |***Planeta Natal***|&nbsp;&nbsp;|Duro|
 > |***Lenguaje***|&nbsp;&nbsp;|Durese|
 
 <div style='margin-top:19px'></div>
 
-### Biology and Appearence
+### Biologia y Apariencia
 Los duros son humanoides con una piel suave de color verde azulado, ojos rojos, bocas sin labios, caras largas y delgadas sin nariz y sangre verde. Los órganos olfativos bajo sus ojos son responsables de su sentido del olfato. Tanto las hembras como los machos son calvos, aunque ambos géneros se distinguen fácilmente. Sus grandes ojos rojos como gafas tienen las pupilas cortadas. Las hembras de Duros ponen huevos ya que descienden de antiguos reptiles, y nacen en una etapa de larva. A diferencia de especies similares, los duros cuidan de sus crías desde el nacimiento.
 
-### Society and Culture
+### Sociedad y Cultura
 Su planeta natal, Duro, está principalmente deshabitado debido a la contaminación masiva en el mundo a lo largo del tiempo. En su lugar, está cubierto de granjas automatizadas para la producción de alimentos. Los duros viven en veinte ciudades espaciales orbitales sobre el planeta.
 
 Los duros también establecieron una vasta industria de construcción de naves estelares en el sistema Duro. Los duros establecieron su gobierno en torno a un consorcio de empresas de construcción de naves estelares, con todas las decisiones políticas importantes tomadas por los accionistas de las empresas. Esto significaba que cualquier duro que tuviera acciones en una empresa podía participar en la administración del sistema.
 
 Con sus fuertes recuerdos, algunos duros también eligen convertirse en extraordinarios narradores de historias, renombrados en toda la galaxia por su habilidad para aprender de memoria una amplia gama de narraciones y realizarlas todas con una precisión asombrosa. 
 
-### Names
+###Nombres
 Los nombres de los Duros son generalmente melódicos, con nombres femeninos de entonación más suave. Los apellidos son <br> familiares.
 
 **Nombres masculinos.** Cir, Fod, Mom, Rur, Zim
@@ -312,26 +311,26 @@ Los nombres de los Duros son generalmente melódicos, con nombres femeninos de en
 
 <div style='margin-top:561px'></div>
 
-### Duros Traits
+### Rasgos Rasgos Duros 
 Como duro, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Tu puntuación de habilidad aumenta en 2 y la de inteligencia en 1.
+***Incremento de la puntuación de característica.*** Tu puntuación de habilidad aumenta en 2 y la de inteligencia en 1.
 
 ***Edad.*** Los Duros llegan a la edad adulta a los 20 años y viven un promedio de 150 años.
 
 ***Alineación.*** Los Duros no tienden a una alineación particular. Los mejores y los peores se encuentran entre ellos.
 
-***Size.*** Los Duros miden alrededor de 1.80 metros de altura y pesan alrededor de 90 kilos. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** Los Duros miden alrededor de 1.80 metros de altura y pesan alrededor de 90 kilos. Independientemente de su posición en ese rango, su tamaño es mediano.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***Darkvision.*** Puedes ver en la luz tenue a 60 pies de ti como si fuera una luz brillante, y en la oscuridad como si fuera una luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** Puedes ver en la luz tenue a 60 pies de ti como si fuera una luz brillante, y en la oscuridad como si fuera una luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
 ***Viajero Galáctico.*** Tienes conocimientos de Lore.
 
 ***Piloto.*** Tienes habilidad en el pilotaje.
 
-***Tech Resistance.*** La resistencia tecnológica. Crecer alrededor de la tecnología deja un impacto en los duros. Tienes ventaja en la destreza y la inteligencia, ahorrando lanzamientos contra los poderes de la tecnología.
+***Resistencia Tecnológica.*** Crecer alrededor de la tecnología deja un impacto en los duros. Tienes ventaja en la destreza y la inteligencia, ahorrando lanzamientos contra los poderes de la tecnología.
 
 ***Idiomas.*** Puedes hablar, leer y escribir Galactic Basic y Durese. El Durese es una lengua interestelar común usada por prominentes astronautas y comerciantes.
 
@@ -344,12 +343,12 @@ Como duro, tienes los siguientes rasgos especiales.
 ___
 > ## Humano
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;||Tonos claros a oscuros|
+> |***Color de Piel***|&nbsp;&nbsp;|Tonos claros a oscuros|
 > Negro, rubio, naranja, marrón, gris a blanco (normalmente con la edad).
-> |***Eye Color***|&nbsp;&nbsp;|Ámbar, azul, marrón, gris, verde, avellana, púrpura o rojo|
+> |***Color de Ojos***|&nbsp;&nbsp;|Ámbar, azul, marrón, gris, verde, avellana, púrpura o rojo|
 > |***Distinciones***|&nbsp;&nbsp;|Bípedo con simetría bilateral, pulgares oponibles|
 > ___
 > #### Características físicas
@@ -361,18 +360,18 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Coruscant|
+> |***Planeta Natal***|&nbsp;&nbsp;|Coruscant|
 > |***Lenguaje***|&nbsp;&nbsp;|Galáctica Básica|
 
 <div style='margin-top:67px'></div>
 
-### Biology and Appearance
+### Biologia y Apariencia
 Los humanos son una especie inteligente que se originó en Coruscant, pero puede encontrarse en muchos otros planetas de la galaxia, incluyendo Naboo, Tatooine y Alderaan. Vienen en dos sexos, macho y hembra, y dan a luz a crías vivas. Son seres bípedos con una simetría bilateral, que tienen una parte delantera y otra trasera, así como un lado positivo y otro negativo. Sus cuerpos están formados por un torso con una cabeza y cuatro miembros unidos a ella. Los miembros superiores, o brazos, terminan en manos que tienen cinco dedos cada una; los inferiores, llamados piernas, terminan en pies. Los dedos humanos tienen múltiples puntos de articulación, y uno de ellos es un pulgar oponible que permitía una fina manipulación. Por último, tienen una cabeza encaramada sobre el torso. Muchas otras especies, incluyendo los twi'leks, mon calamares o zabraks, se denominan "humanoides" por su parecido estructural con los humanos.
 
-### Society and Culture
+### Sociedad y Cultura
 Los seres humanos pueden ocupar una variedad de empleos, desde políticos hasta cazadores de recompensas, corredores de carreras, contrabandistas o incluso un granjero. Existen muchos grupos planetarios de humanos con sus propias culturas, como los Alderaanianos o los Pamartenes. Los humanos son la especie más poblada de la Galaxia.
 
-### Names
+###Nombres
 Los humanos son la especie más poblada de la Galaxia, y por lo tanto sus nombres varían drásticamente según el planeta o la cultura con la que residen.
 
 **Nombres masculinos.** Koth, Liorz, Satapak, Tin, Vuc
@@ -385,20 +384,20 @@ Los humanos son la especie más poblada de la Galaxia, y por lo tanto sus nombres
 
 <div style='margin-top:462px'></div>
 
-### Human Traits
+### Rasgos Human 
 Como humano, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Un puntaje de habilidad de tu elección aumenta en 2, y otros dos puntajes de habilidad de tu elección aumentan en 1. Alternativamente, cuatro puntajes de habilidad de tu elección cada uno aumenta en 1.
+***Incremento de la puntuación de característica.*** Un puntaje de habilidad de tu elección aumenta en 2, y otros dos puntajes de habilidad de tu elección aumentan en 1. Alternativamente, cuatro puntajes de habilidad de tu elección cada uno aumenta en 1.
 
-***Age.*** Los humanos llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
+***Edad.*** Los humanos llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
 
 ***Alineación.*** Los humanos tienden a no tener una alineación particular. Los mejores y los peores se encuentran entre ellos.
 
-***Size.*** Los humanos varían mucho en altura y complexión, desde apenas 1,5 metros hasta más de 1,80 metros de altura. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** Los humanos varían mucho en altura y complexión, desde apenas 1,5 metros hasta más de 1,80 metros de altura. Independientemente de su posición en ese rango, su tamaño es mediano.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***Defiant.*** Los humanos son conocidos por ser tercos y a menudo se niegan a rendirse, incluso contra las peores probabilidades. Cuando tú o una criatura que puede ver y entender hace un chequeo de habilidad, una tirada de ataque o una tirada de salvamento, puedes tirar un d4 y añadirlo a su tirada (no se requiere acción). Puedes usar esto antes o después de la tirada, pero antes de que el GM determine el resultado de la tirada. Una vez que hayas usado esta característica, debes completar un descanso corto o largo antes de poder usarla de nuevo.
+***Desafiante.*** Los humanos son conocidos por ser tercos y a menudo se niegan a rendirse, incluso contra las peores probabilidades. Cuando tú o una criatura que puede ver y entender hace un chequeo de habilidad, una tirada de ataque o una tirada de salvamento, puedes tirar un d4 y añadirlo a su tirada (no se requiere acción). Puedes usar esto antes o después de la tirada, pero antes de que el GM determine el resultado de la tirada. Una vez que hayas usado esta característica, debes completar un descanso corto o largo antes de poder usarla de nuevo.
 
 ***Habilidad.*** Se gana habilidad en una habilidad, una herramienta, y un arma de su elección.
 
@@ -413,12 +412,12 @@ Como humano, tienes los siguientes rasgos especiales.
 ___
 > ## Jawa
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Negro|
-> |***Hair Color***|&nbsp;&nbsp;|Negro|
-> |***Eye Color***|&nbsp;&nbsp;||Amarillo|
+> |***Color de Piel***|&nbsp;&nbsp;|Negro|
+> |***Color de Pelo***|&nbsp;&nbsp;|Negro|
+> |***Color de Ojos***|&nbsp;&nbsp;|Amarillo|
 > |***Distinciones***|&nbsp;&nbsp;|Estatura diminuta, aptitud mecánica, naturaleza de ladrón|
 > ___
 > #### Características físicas
@@ -430,20 +429,20 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Tatooine|
-> |***Language***|&nbsp;&nbsp;|Jawaese|
+> |***Planeta Natal***|&nbsp;&nbsp;|Tatooine|
+> |***Idiomas***|&nbsp;&nbsp;|Jawaese|
 
 <div style='margin-top:70px'></div>
 
-### Biology and Appearance
+### Biologia y Apariencia
 Los jawas son fácilmente identificables por sus tradicionales túnicas marrones con capucha, aunque no es inusual que usen otros colores. Otras características notables incluyen sus brillantes ojos amarillos, su pequeña estatura y su lenguaje agudo y rápido llamado Jawaese. Debajo de sus túnicas, las mandíbulas parecen ser demacradas, criaturas parecidas a los roedores, con caras encogidas y ojos amarillos. 
 
-### Society and Culture
+### Sociedad y Cultura
 Los jawas son una especie de carroñeros compulsivos y comunales que pasan la mayor parte de su vida dedicados a hurgar en los desiertos de Tatooine en busca de cualquier chatarra, droide o pieza mecánica que haya quedado atrás tras milenios de viajes estelares y avances tecnológicos. La mayoría de los no-mandíbulas consideran a las mandíbulas como carroñeros y ladrones, una descripción que la mayoría de las mandíbulas encuentran agradable.
 
 El lema no oficial de los jawa es "no buscar usos en un objeto recuperado, sino imaginar a alguien más que pueda encontrar un uso para él". Esto se evidencia en su interminable búsqueda de mercancías con las que comerciar con casi cualquier ser encontrado por los jawas. Tienen una especie de instinto para la maquinaria y la electrónica, notorio por saber cómo hacer que un equipo funcione lo suficientemente bien como para venderlo.
 
-### Names
+###Nombres
 Los nombres de los Jawa se pronuncian rápidamente, son complejos y a menudo se malinterpretan. Los jawas que pasan la mayor parte del tiempo con otras especies responden bien a los apodos. Los nombres masculinos y femeninos no se desvían significativamente. Los apellidos se basan en el clan.
 
 **Nombres masculinos.** Bilvu, Mnak, Penk, Plin, Vih
@@ -456,30 +455,30 @@ Los nombres de los Jawa se pronuncian rápidamente, son complejos y a menudo se m
 
 <div style='margin-top:129px'></div>
 
-### Jawa Traits
+### Rasgos Jawa 
 Como jawa, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Tu puntuación de habilidad aumenta en 2 y la de inteligencia en 1.
+***Incremento de la puntuación de característica.*** Tu puntuación de habilidad aumenta en 2 y la de inteligencia en 1.
 
 ***Edad.*** Las mandíbulas se consideran adultas cuando hacen su primera venta y viven menos de un siglo.
 
-***Alignment.*** La tendencia de las mandíbulas a robar y estafar hace que tiendan al lado oscuro, aunque hay excepciones.
+***Alineación.*** La tendencia de las mandíbulas a robar y estafar hace que tiendan al lado oscuro, aunque hay excepciones.
 
-***Size.*** Las mandíbulas miden alrededor de 3 o 4 pies de alto y pesan alrededor de 40 libras. Independientemente de su posición en ese rango, su tamaño es pequeño.
+***Tamaño.*** Las mandíbulas miden alrededor de 3 o 4 pies de alto y pesan alrededor de 40 libras. Independientemente de su posición en ese rango, su tamaño es pequeño.
 
 ***Velocidad.***  Tu velocidad base es de 25 pies.
 
-***Darkvision.*** Puedes ver en la luz tenue a 60 pies de ti como si fuera una luz brillante, y en la oscuridad como si fuera una luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** Puedes ver en la luz tenue a 60 pies de ti como si fuera una luz brillante, y en la oscuridad como si fuera una luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
-***Grovel, Cower, and Beg.*** Como una acción en tu turno, puedes encogerte patéticamente para distraer a los enemigos cercanos. Hasta el final de tu próximo turno, tus aliados ganan ventaja en tiradas de ataque contra enemigos a menos de 10 pies de ti que puedan verte. Una vez que uses este rasgo, no podrás volver a usarlo hasta que termines un descanso corto o largo.
+***Arrastrarse, acobardarse y rogar.*** Como una acción en tu turno, puedes encogerte patéticamente para distraer a los enemigos cercanos. Hasta el final de tu próximo turno, tus aliados ganan ventaja en tiradas de ataque contra enemigos a menos de 10 pies de ti que puedan verte. Una vez que uses este rasgo, no podrás volver a usarlo hasta que termines un descanso corto o largo.
 
-***Tech Dabbler.*** La explosión de iones a voluntad es un poder tecnológico. Cuando llegues al tercer nivel, puedes lanzar el poder tecnológico del droide de reparación una vez al día. Cuando llegues al quinto nivel, también puedes usar el poder técnico del droide de retención una vez al día. La inteligencia es tu habilidad para emitir estos poderes. No necesitas usar una muñequera para estos poderes.
+***Chapuzas.*** La explosión de iones a voluntad es un poder tecnológico. Cuando llegues al tercer nivel, puedes lanzar el poder tecnológico del droide de reparación una vez al día. Cuando llegues al quinto nivel, también puedes usar el poder técnico del droide de retención una vez al día. La inteligencia es tu habilidad para emitir estos poderes. No necesitas usar una muñequera para estos poderes.
 
-***Thieves.*** Ladrones. Tienes habilidad en el juego de manos.
+***Ladrones.*** Tienes habilidad en el juego de manos.
 
-***Tinker.*** Tienes habilidad con las herramientas de Tinker. Puedes usarlas y gastar 1 hora y 100 cr de materiales para construir un pequeño dispositivo (AC 5, 1 hp). Puedes tomar la acción de Usar un Objeto para que tu dispositivo cause uno de los siguientes efectos: crear una pequeña explosión, crear un ruido fuerte y repetitivo durante 1 minuto, crear humo durante 1 minuto, causar un pequeño incendio eléctrico. Puedes mantener varios de estos dispositivos hasta tu bono de habilidad a la vez, y un dispositivo deja de funcionar después de 24 horas lejos de ti. Puedes desmontar el dispositivo para recuperar los materiales usados para crearlo.
+***Manítas.*** Tienes habilidad con las herramientas de Tinker. Puedes usarlas y gastar 1 hora y 100 cr de materiales para construir un pequeño dispositivo (AC 5, 1 hp). Puedes tomar la acción de Usar un Objeto para que tu dispositivo cause uno de los siguientes efectos: crear una pequeña explosión, crear un ruido fuerte y repetitivo durante 1 minuto, crear humo durante 1 minuto, causar un pequeño incendio eléctrico. Puedes mantener varios de estos dispositivos hasta tu bono de habilidad a la vez, y un dispositivo deja de funcionar después de 24 horas lejos de ti. Puedes desmontar el dispositivo para recuperar los materiales usados para crearlo.
 
-***Undersized.*** No es un tamaño grande. Tu pequeña estatura te dificulta el uso de armas más grandes. No puedes usar escudos pesados. Además, no puedes usar armas marciales con la propiedad de dos manos a menos que también tenga la propiedad ligera, y si un arma marcial tiene la propiedad versátil, sólo puedes empuñarla en dos manos.
+***Diminuto.*** No es un tamaño grande. Tu pequeña estatura te dificulta el uso de armas más grandes. No puedes usar escudos pesados. Además, no puedes usar armas marciales con la propiedad de dos manos a menos que también tenga la propiedad ligera, y si un arma marcial tiene la propiedad versátil, sólo puedes empuñarla en dos manos.
 
 ***Idiomas.*** Puedes hablar, leer y escribir en jawaés. Puedes entender lo básico galáctico hablado y escrito, pero tus cuerdas vocales no te permiten hablarlo. El jawaés mezcla sílabas habladas rápidamente, semi-sin sentido, con olores para ser entendidos.
 
@@ -492,12 +491,12 @@ Como jawa, tienes los siguientes rasgos especiales.
 ___
 > ## Kel Dor
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
 > |***Color de piel***|&nbsp;&nbsp;|Naranja, rojo|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Negro, plateado|
+> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Ojos***|&nbsp;&nbsp;|Negro, plateado|
 > |***Distinciones***|&nbsp;&nbsp;|Rebreathers para sobrevivir en ambientes de oxígeno|
 > ___
 > #### Características físicas
@@ -509,22 +508,22 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Dorin|
-> |***Language***|&nbsp;&nbsp;|Kel Dor|
+> |***Planeta Natal***|&nbsp;&nbsp;|Dorin|
+> |***Idiomas***|&nbsp;&nbsp;|Kel Dor|
 
 <div style='margin-top:64px'></div>
 
-### Biology and Appearence
+### Biologia y Apariencia
 Debido a que Dorin tiene una atmósfera única compuesta de helio y un gas único en su mundo, los dors kel se ven obligados a usar una máscara respiratoria antioxidante y gafas protectoras siempre que se encuentren en atmósferas de diferente composición. Sin sus gafas protectoras, los dors kel se consideraban efectivamente ciegos cuando estaban lejos de Dorin. También eran capaces de sobrevivir en el vacío del espacio durante un corto tiempo, aunque se desconocía exactamente cuánto tiempo podían soportarlo.
 
 Los dorsales de kel también tienen reflejos aumentados, como resultado de los órganos extrasensoriales de sus cabezas. Son típicamente rápidos y sabios. 
 
-### Society and Culture
+### Sociedad y Cultura
 Los kel dors son conocidos por su sencillo enfoque de la justicia, y suelen ver las cuestiones morales en blanco y negro. Por un lado, los kel dor son conocidos por su hospitalidad; nunca rechazarían a un extraño necesitado. Sin embargo, los kel dors no son reacios a tomarse la justicia por su mano y no tienen reparos en dar muerte a un ladrón que sólo estaba robando para alimentarse.
 
-Los sensibles a las fuerzas kel dor suelen ser entrenados como Baran Do Sages, que tienen un lugar de honor en la cultura kel dor. A menudo sirven como consejeros de las ricas y poderosas familias kel dor. Las guerras y los desastres han sido evitados simplemente por la perspicacia de un Baran Do Sage.
+Los sensibles a las fuerzas kel dor suelen ser entrenados como Baran Do SEdads, que tienen un lugar de honor en la cultura kel dor. A menudo sirven como consejeros de las ricas y poderosas familias kel dor. Las guerras y los desastres han sido evitados simplemente por la perspicacia de un Baran Do SEdad.
 
-### Names
+###Nombres
 Los nombres de Kel dor se basan en el sonido generado por la atmósfera única de Dorin. Los apellidos se basan en antiguos oficios familiares.
 
 **Nombres masculinos.** Bil, I'zers, Nullo, Taciss, Zaln
@@ -537,22 +536,22 @@ Los nombres de Kel dor se basan en el sonido generado por la atmósfera única de 
 
 <div style='margin-top:471px'></div>
 
-### Kel Dor Traits
+### Rasgos Kel Dor 
 Como kel dor, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Su puntaje de habilidad aumenta en 2 y su puntaje de destreza aumenta en 1.
+***Incremento de la puntuación de característica.*** Su puntaje de habilidad aumenta en 2 y su puntaje de destreza aumenta en 1.
 
-***Age.*** Kel Dor llega a la edad adulta en su adolescencia tardía y vive menos de un siglo.
+***Edad.*** Kel Dor llega a la edad adulta en su adolescencia tardía y vive menos de un siglo.
 
-***Alignment.*** La naturaleza estructurada de Kel Dors hace que tiendan a un equilibrio legal, aunque hay excepciones.
+***Alineación.*** La naturaleza estructurada de Kel Dors hace que tiendan a un equilibrio legal, aunque hay excepciones.
 
-***Size.*** Kel Dor típicamente mide alrededor de 1.80 metros de altura y pesa alrededor de 90 kilos. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** Kel Dor típicamente mide alrededor de 1.80 metros de altura y pesa alrededor de 90 kilos. Independientemente de su posición en ese rango, su tamaño es mediano.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***Darkvision.*** Su evolución natural le permite ver lo que otros no ven en condiciones de oscuridad. Puedes ver en la luz tenue a 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** Su evolución natural le permite ver lo que otros no ven en condiciones de oscuridad. Puedes ver en la luz tenue a 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
-***Foreign Biology.***  No se puede respirar oxígeno. Los kel dors han creado un aparato de respiración para negar los efectos negativos de vivir en un ambiente rico en oxígeno, pero si te quitan la máscara mientras estás en ese ambiente, pierdes la conciencia.
+***Biología Extrangera.***  No se puede respirar oxígeno. Los kel dors han creado un aparato de respiración para negar los efectos negativos de vivir en un ambiente rico en oxígeno, pero si te quitan la máscara mientras estás en ese ambiente, pierdes la conciencia.
 
 ***Vida en el vacío.*** Puedes sobrevivir durante una hora en el vacío del espacio. Tienes resistencia al daño necrótico.
 
@@ -569,12 +568,12 @@ Como kel dor, tienes los siguientes rasgos especiales.
 ___
 > ## Mon Calamari
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
 > |***Color de piel***|&nbsp;&nbsp;|Marrón rojizo, marrón, rojo, cian, moteado, salmón, oro, azul, gris o blanco|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;||Amarillo, naranja, azul o gris|
+> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Ojos***|&nbsp;&nbsp;|Amarillo, naranja, azul o gris|
 > |***Distinciones***|&nbsp;&nbsp;|Grandes, ojos como de gafas, cabezas con cúpulas altas, manos palmeadas|
 > ___
 > #### Características físicas
@@ -586,18 +585,18 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Mon Cala|
-> |***Language***|&nbsp;&nbsp;|Mon Cal|
+> |***Planeta Natal***|&nbsp;&nbsp;|Mon Cala|
+> |***Idiomas***|&nbsp;&nbsp;|Mon Cal|
 
 <div style='margin-top:66px'></div>
 
-### Biology and Appearence
+### Biologia y Apariencia
 Los mon calamares son una especie anfibia bípeda, con cabezas de alto domo, manos palmeadas y grandes ojos como gafas. Además de estar palmeada, la mano del mon calamar presenta tres agujeros en la palma de la mano que parecen copas de succión, y tiene cinco dedos en forma de garras: un pulgar oponible, dos dedos medios largos y dos dedos externos muy cortos. Aunque tienen forma de aletas, sus pies pueden caber en botas diseñadas para pies de tipo humano. Las hembras se distinguen de los machos por sus áreas de pecho más prominentes.
 
-### Society and Culture
+### Sociedad y Cultura
 Los mon calamares han desarrollado una cultura muy avanzada y civilizada. Su arte, música, literatura y ciencia muestran una creatividad superada por pocos en la galaxia. La literatura de Mon calamari describe las estrellas como islas<br> en un mar galáctico, mostrando un apasionado anhelo de<br> explorar el espacio y descubrir otras civilizaciones. Mon<br> Los calamares son tanto de habla suave como gentiles, lentos para<br> la ira, y tienen la notable capacidad de mantener<br> su concentración sin ser distraídos por<br> respuestas emocionales. Son tanto inquisitivos como <br> creativos, y tienen una cualidad casi legendaria de ser <br> tanto decididos como dedicados; una vez que un mon calamari <br> decide un curso de acción, no se dejan influenciar fácilmente <br> por esa decisión. A menudo se fijan en "causas perdidas". 
 
-### Names
+###Nombres
 Los nombres de los calamares generalmente tienen un toque melódico.
 
 **Nombres masculinos.** Creaz, Fior, Hurneerth, Nurrins, Sielpa
@@ -610,24 +609,24 @@ Los nombres de los calamares generalmente tienen un toque melódico.
 
 <div style='margin-top:500px'></div>
 
-### Mon Calamari Traits
+### Rasgos Mon Calamari 
 Como mon calamares, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Tu puntuación de carisma aumenta en 2, y tu puntuación de inteligencia o sabiduría aumenta en 1.
+***Incremento de la puntuación de característica.*** Tu puntuación de carisma aumenta en 2, y tu puntuación de inteligencia o sabiduría aumenta en 1.
 
 ***Edad.*** Mon calamares llegan a la edad adulta en su adolescencia tardía y viven menos de un siglo.
 
 ***Alineación.*** El amor de Mon Calamaris por las artes hace que tiendan hacia el lado de la luz, aunque hay excepciones.
 
-***Size.***  Los calamares miden entre 1,5 y 1,6 metros de altura y rara vez pesan más de 150 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.***  Los calamares miden entre 1,5 y 1,6 metros de altura y rara vez pesan más de 150 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***Afibio. *** Puedes respirar aire y agua.
+***Afibio.*** Puedes respirar aire y agua.
 
-***Darkvision.*** Acostumbrado a la vida bajo el agua, tienes una visión superior en condiciones de poca luz. Puedes ver con luz tenue a menos de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** Acostumbrado a la vida bajo el agua, tienes una visión superior en condiciones de poca luz. Puedes ver con luz tenue a menos de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
-***Mon Calamari Resistencia.*** Tienes ventaja en los lanzamientos de salvamento contra los efectos lentos y tienes resistencia contra el daño del frío (explicado en el capítulo<br> 9).
+***Resistencia Mon Calamari.*** Tienes ventaja en los lanzamientos de salvamento contra los efectos lentos y tienes resistencia contra el daño del frío (explicado en el capítulo<br> 9).
 
 ***Musical.*** Usted tiene habilidad en un instrumento musical de su elección.
 
@@ -644,13 +643,13 @@ Como mon calamares, tienes los siguientes rasgos especiales.
 ___
 > ## Rodian
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
 > |***Color de piel***|&nbsp;&nbsp;|Azul, verde, púrpura, turquesa o amarillo|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Azul, negro, verde, púrpura o rojo|
-> |***Distinctions***|&nbsp;&nbsp;|Ojos grandes y redondos sin pupilas, hocicos, orejas puntiagudas, antenas, piel escamosa y generalmente verde.
+> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Ojos***|&nbsp;&nbsp;|Azul, negro, verde, púrpura o rojo|
+> |***Distinciones***|&nbsp;&nbsp;|Ojos grandes y redondos sin pupilas, hocicos, orejas puntiagudas, antenas, piel escamosa y generalmente verde.
 > ___
 > #### Características físicas
 > |||||
@@ -661,18 +660,18 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Rodia|
-> |***Language***|&nbsp;&nbsp;|Rodese|
+> |***Planeta Natal***|&nbsp;&nbsp;|Rodia|
+> |***Idiomas***|&nbsp;&nbsp;|Rodese|
 
 <div style='margin-top:66px'></div>
 
-### Biology and Appearence
+### Biologia y Apariencia
 Los rodianos son humanoides de piel verde del planeta Rodia. Poseen rostros distintivos: ojos grandes, redondos y multifacéticos; hocicos como de tapir; y un par de antenas en forma de platillo en sus cabezas, que sirven para detectar las vibraciones. Los hocicos flexibles aumentaban los sentidos olfativos de los rodianos, recogiendo y filtrando el aire. Sus característicos ojos grandes indicaban una ascendencia principalmente nocturna y eran capaces de ver en la parte infrarroja del espectro. Debido a su amor por la lucha y su estilo de vida activo, la mayoría de los rodias se mantenían en buenas condiciones, normalmente delgados y enjuagados; sin embargo, algunos rodias ricos se volvían complacientes y obesos.
 
-### Society and Culture
+### Sociedad y Cultura
 La cultura Rodiana está obsesionada con la violencia y la muerte, debido a comportamientos y prácticas que están arraigados desde sus primeros ancestros. Su mundo natal densamente poblado de jungla no es adecuado para la agricultura, requiriendo que los rodianos compitan con depredadores viciosos por la mayor parte de su comida, algunos de los cuales pueden arrasar con aldeas rodianas enteras. A medida que los rodianos desarrollaron astutas tácticas de caza para sobrevivir, la caza se convirtió en algo central en su cultura. Con el tiempo, habiendo llevado a la mayoría de los otros depredadores del planeta al borde de la extinción, comenzaron a cazarse entre sí en varias guerras y concursos de gladiadores.
 
-### Names
+###Nombres
 Los nombres femeninos tienden a ser más largos que los masculinos. Los apellidos son familiares.
 
 **Nombres masculinos.** Dagon, Dwedd, Gweym, Steech, Xeep
@@ -685,14 +684,14 @@ Los nombres femeninos tienden a ser más largos que los masculinos. Los apellidos
 
 <div style='margin-top:516px'></div>
 
-### Rodian Traits
+### Rasgos Rodian 
 Como rodiano, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Su puntuación de habilidad aumenta en 2, y su puntuación de constitución aumenta en 1.
+***Incremento de la puntuación de característica.*** Su puntuación de habilidad aumenta en 2, y su puntuación de constitución aumenta en 1.
 
 ***Edad.*** Los roedores llegan a la edad adulta en su adolescencia tardía y viven menos de un siglo.
 
-***Alignment.*** El enfoque violento de la cultura Rodia hace que tiendan al lado oscuro, aunque hay excepciones.
+***Alineación.*** El enfoque violento de la cultura Rodia hace que tiendan al lado oscuro, aunque hay excepciones.
 
 ***Tamaño.*** Los roedores típicamente miden entre 1,5 y 1,6 metros de altura y pesan 160 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
 
@@ -700,11 +699,11 @@ Como rodiano, tienes los siguientes rasgos especiales.
 
 ***Adeptos de la escalada.*** Tienes una velocidad de escalada de 30 pies.
 
-***Darkvision.*** Puedes ver en la luz tenue a 60 pies de ti como si fuera una luz brillante, y en la oscuridad como si fuera una luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** Puedes ver en la luz tenue a 60 pies de ti como si fuera una luz brillante, y en la oscuridad como si fuera una luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
 ***Cazador. *** Eres competente en supervivencia y sigilo.
 
-***Keen Hearing and Smell.*** Tienes ventaja en los chequeos de Sabiduría (Percepción) que involucran el oído o el olfato.
+***Oído y Olfato Agudos.*** Tienes ventaja en los chequeos de Sabiduría (Percepción) que involucran el oído o el olfato.
 
 ***Idiomas.*** Puedes hablar, leer y escribir Galactic Basic y Rodese. Los rodianos pueden comunicarse entre ellos usando feromonas. Los sensibles a la fuerza pueden detectar esta comunicación, aunque no pueden entenderla.
 
@@ -715,15 +714,15 @@ Como rodiano, tienes los siguientes rasgos especiales.
 \pagebreakNum
 
 ___
-> ## Sith Pureblood
+> ## Sith Purasangre
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
 > |*** Color de piel***|&nbsp;&nbsp;|Negro o rojo|
 > |***Color del pelo***|&nbsp;&nbsp;|Negro, marrón, gris, rojo o blanco|
 > |***Color de ojos***|&nbsp;&nbsp;|Naranja, rojo o amarillo|
-> |***Distinctions***|&nbsp;&nbsp;|Los apéndices faciales de los tentáculos, a menudo usan joyas o tienen tatuajes, espolones óseos...
+> |***Distinciones***|&nbsp;&nbsp;|Los apéndices faciales de los tentáculos, a menudo usan joyas o tienen tatuajes, espolones óseos...
 > ___
 > #### Características físicas
 > |||||
@@ -734,20 +733,20 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Korriban|
-> |***Language***|&nbsp;&nbsp;|Sith|
+> |***Planeta Natal***|&nbsp;&nbsp;|Korriban|
+> |***Idiomas***|&nbsp;&nbsp;|Sith|
 
 <div style='margin-top:80px'></div>
 
-### Biology and Appearance
+### Biologia y Apariencia
 Los Sith son una orgullosa y violenta especie de humanoides que evolucionaron en Korriban, un planeta dentro del sistema Horuset en una aislada región del Borde Exterior llamada la Caldera de Stygian. Los Sith tienen un número mayor que el promedio de individuos con potencial para usar la Fuerza en su especie, tan alto de hecho que toda la especie fue considerada fuertemente sensible a la Fuerza. 
 
 Los Sith puros se caracterizan por sus expresivos apéndices faciales, espolones óseos, cuernos craneales y mirada depredadora.
 
-### Society and Culture
+### Sociedad y Cultura
 La cultura Sith es una sociedad rígida y estratificada basada en castas. Para los Sith, la guerra y la violencia son tan parte del orden natural de la vida como la paz o la serenidad. Aunque están en un estado casi constante de guerra, su civilización es bastante sofisticada; no ven estos actos como crueles o bárbaros, sino simplemente como aspectos básicos de la existencia. Su constante guerra condujo a la disminución de la población en su mundo natal original de Korriban, así como al cultivo de una sociedad intensamente xenófoba. 
 
-### Names
+###Nombres
 Los nombres de sangre pura Sith no son convencionales. A menudo se nombran por las virtudes en la lengua Sith. Los Sith rara vez comparten apellidos, ya que no valoran los lazos familiares. Cuando un Sith de sangre pura logra un éxito o una victoria, a menudo cambian su nombre para que coincida con su nuevo estatus percibido. Como la sensibilidad a la fuerza es común en los puros Sith, y su cultura se basa en la fuerza, la mayoría de los Sith son llamados simplemente "Mi Señor", o algún otro epíteto, por sus subordinados.
 
 **Nombres masculinos.** Aqorzum, Khashai, Sihmot, Wirjol
@@ -758,26 +757,26 @@ Los nombres de sangre pura Sith no son convencionales. A menudo se nombran por l
 
 <div style='margin-top:441px'></div>
 
-### Sith Pureblood Traits
+### Rasgos Sith Purasangre 
 Como un sith purasangre, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Su puntuación de carisma aumenta en 2, y su puntuación de fuerza o destreza aumenta en 1.
+***Incremento de la puntuación de característica.*** Su puntuación de carisma aumenta en 2, y su puntuación de fuerza o destreza aumenta en 1.
 
-***Age.*** Los Sith llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
+***Edad.*** Los Sith llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
 
-***Alignment.*** La crueldad de los Sith hace que tiendan al lado oscuro caótico, aunque hay excepciones.
+***Alineación.*** La crueldad de los Sith hace que tiendan al lado oscuro caótico, aunque hay excepciones.
 
-***Size.*** El tamaño de los Sith generalmente mide entre 5 y 6 pies de altura y pesan menos de 200 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** El tamaño de los Sith generalmente mide entre 5 y 6 pies de altura y pesan menos de 200 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***Darkvision.*** La visión oscura. Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** La visión oscura. Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
 ***Sensible a la fuerza.*** Conoces el poder de la fuerza de voluntad. Cuando llegues al tercer nivel, puedes lanzar el poder de la fuerza de la maldición una vez al día. Cuando llegues al quinto nivel, también puedes usar el poder de la fuerza de la oscuridad una vez al día. El carisma es tu habilidad para predecir estos poderes.
 
 ***Amenazantes.*** Se gana destreza en la habilidad de Intimidación.
 
-***Es sádico.*** Tienes habilidad con los látigos de sable, los vibro látigos y las redes.
+***Sadismo.*** Tienes habilidad con los látigos de sable, los vibro látigos y las redes.
 
 ***Idiomas.*** Puedes hablar, leer y escribir Galactic Basic y Sith. El Sith es un lenguaje aglutinador, en el que las palabras o incluso las frases están formadas por secuencias lineales de distintas unidades significativas.
 
@@ -790,13 +789,13 @@ Como un sith purasangre, tienes los siguientes rasgos especiales.
 ___
 > ## Togruta
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Azul, verde, naranja, púrpura, rojo, blanco o amarillo|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Negro, azul, verde, naranja, púrpura, amarillo o rojo|
-> |***Distinctions***|&nbsp;&nbsp;|Dientes caninos afilados, dos montrales, tres o cuatro colas de cabeza.
+> |***Color de Piel***|&nbsp;&nbsp;|Azul, verde, naranja, púrpura, rojo, blanco o amarillo|
+> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Ojos***|&nbsp;&nbsp;|Negro, azul, verde, naranja, púrpura, amarillo o rojo|
+> |***Distinciones***|&nbsp;&nbsp;|Dientes caninos afilados, dos montrales, tres o cuatro colas de cabeza.
 > ___
 > #### Características físicas
 > |||||
@@ -807,20 +806,20 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Shili|
-> |***Language***|&nbsp;&nbsp;|Togruti|
+> |***Planeta Natal***|&nbsp;&nbsp;|Shili|
+> |***Idiomas***|&nbsp;&nbsp;|Togruti|
 
 <div style='margin-top:37px'></div>
 
-### Biology and Appearence
+### Biologia y Apariencia
 Los Togruta tienen tonos de piel oxidada que van del azul al rojo y al verde, con pigmentación blanca en sus caras, labios grisáceos y rayas blancas que adornan varias partes de sus cuerpos. El patrón de las rayas varía de un individuo a otro. Este patrón rojo y blanco fue un fenotipo que quedó del camuflaje de sus antepasados y que les ayudó a mezclarse con el entorno natural de Shili.
 
 Sus cabezas llevan dos montrales, con tres o cuatro colas de cabeza, cuyas franjas eran más oscuras que las de los montrales. Togruta tiene la capacidad de sentir la proximidad y el movimiento de los objetos físicos a su alrededor por medio de sus huecos montrales, que detectan el espacio por ultrasonido. Los montrales y la cola posterior de los jóvenes togrutas no crecen completamente hasta la adolescencia, cuando sus montrales se curvan y su cola final crece hasta la longitud de sus otras colas.
 
-### Society and Culture
+### Sociedad y Cultura
 Los Togruta tienen un fuerte sentido de unidad y unión. En su mundo natal de Shili, confían unos en otros y se unen para hacer frente a los enormes monstruos que los cazan. Las criaturas de Shili atacan más a menudo en grupo, lo que fue una razón más para que los togrutas nativos trabajaran juntos. Mientras que la mayor parte de Shili está cubierta por los matorrales donde los togrutas cazan a sus presas herbívoras, los togrutas viven en pequeñas comunidades en los valles forestales.
 
-### Names
+###Nombres
 Los nombres de los togrutas son típicamente largos. Los apellidos son familiares.
 
 **Nombres masculinos.** Acanaar, Mukraas, Obolak, Tokrym
@@ -833,22 +832,22 @@ Los nombres de los togrutas son típicamente largos. Los apellidos son familiares
 
 <div style='margin-top:426px'></div>
 
-### Togruta Traits
+### Rasgos Togruta 
 Como togruta, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Tu puntuación de sabiduría aumenta en 2 y tu puntuación de fuerza o destreza aumenta en 1.
+***Incremento de la puntuación de característica.*** Tu puntuación de sabiduría aumenta en 2 y tu puntuación de fuerza o destreza aumenta en 1.
 
 ***Edad.*** Togruta llegan a la edad adulta en su adolescencia tardía y viven menos de un siglo.
 
-***Alignment.*** La cultura Togruta se centra en la unidad que hace que tiendan hacia el lado de la luz, aunque hay excepciones.
+***Alineación.*** La cultura Togruta se centra en la unidad que hace que tiendan hacia el lado de la luz, aunque hay excepciones.
 
-***Size.*** El Togruta típicamente mide entre 1,5 y 1,6 metros de altura y pesa 150 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** El Togruta típicamente mide entre 1,5 y 1,6 metros de altura y pesa 150 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***Darkvision.*** La visión oscura. Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** La visión oscura. Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
-***Montral Reception.*** Tiene temblores a 30 pies. Puedes detectar y señalar el origen de las vibraciones en un radio específico, siempre que el monstruo y la fuente de las vibraciones estén en contacto con el mismo suelo o sustancia. Tremorsense no puede ser usado para detectar criaturas voladoras o incorpóreas
+***Recepción Montral.*** Tiene temblores a 30 pies. Puedes detectar y señalar el origen de las vibraciones en un radio específico, siempre que el monstruo y la fuente de las vibraciones estén en contacto con el mismo suelo o sustancia. Tremorsense no puede ser usado para detectar criaturas voladoras o incorpóreas
 
 ***Cazadores salvajes.*** Tienes habilidad con la habilidad de supervivencia.
 
@@ -863,12 +862,12 @@ Como togruta, tienes los siguientes rasgos especiales.
 ___
 > ## Trandoshan
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Verde, amarillo, marrón, naranja, rojo|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;||Amarillo, naranja|
+> |***Color de Piel***|&nbsp;&nbsp;|Verde, amarillo, marrón, naranja, rojo|
+> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Ojos***|&nbsp;&nbsp;|Amarillo, naranja|
 > |***Distinciones***|&nbsp;&nbsp;|Piel escamosa, propiedades regenerativas|
 > ___
 > #### Características físicas
@@ -880,18 +879,18 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Trandosha|
-> |***Language***|&nbsp;&nbsp;|Dosh|
+> |***Planeta Natal***|&nbsp;&nbsp;|Trandosha|
+> |***Idiomas***|&nbsp;&nbsp;|Dosh|
 
 <div style='margin-top:35px'></div>
 
-### Biology and Appearance
+### Biologia y Apariencia
 Los trandoshans son una especie grande, bípeda y sensible, con piel escamosa que se desprendía aproximadamente una vez cada año estándar y se pensaba que era muy duradera. Reptiles de sangre fría, los trandoshans tenían dos ojos super sensibles de color variado con pupilas horizontales negras, que podían ver muy lejos en la gama de infrarrojos. Cada una de sus cuatro extremidades termina en tres garras afiladas como una navaja. Estas son perfectas para el combate, pero no les otorgaba destreza manual, haciendo que los movimientos de los dedos de un trandoshan fueran algo torpes y poco prácticos. 
 
-### Society and Culture
+### Sociedad y Cultura
 Los trandoshans adoran a su diosa, la anotadora, a la que apaciguarían con actos que aumentarían sus puntos de Jagannath. Esto se hace viviendo un estilo de vida que era, según los estándares de los no trandoshan, abiertamente agresivo, llevando a muchos trandoshans a convertirse en cazadores de recompensas, mercenarios o esclavistas. Los trandoshans valoran especialmente las pieles de wookiees, que por consiguiente juegan un papel importante en la obtención de puntos Jagannath - capturar las pieles de wookiees particularmente infames daría al cazador un gran aumento de puntos Jagganath. Ser avergonzado o capturado durante una cacería le daría cero puntos Jagganath, haciendo que su vida se pierda a los ojos del anotador. Podrían, sin embargo, recuperar todos esos puntos matando al que puso a cero su puntuación.
 
-### Names
+###Nombres
 Los nombres de los trandoshan son bastante duros y contienen muchos sonidos alargados, así como muchas s. Las diferencias entre los nombres masculinos y femeninos son a menudo muy sutiles, pero hay una mayor probabilidad de que los nombres femeninos contengan sonidos más suaves.
 
 **Nombres masculinos.** Bossk, Tshyrrng, Varrsk, Wuikkekss
@@ -904,26 +903,26 @@ Los nombres de los trandoshan son bastante duros y contienen muchos sonidos alar
 
 <div style='margin-top:426px'></div>
 
-### Trandoshan Traits
+### Rasgos Trandoshan 
 Como trandoshan, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Su puntuación de fuerza aumenta en 2, y su puntuación de sabiduría aumenta en 1.
+***Incremento de la puntuación de característica.*** Su puntuación de fuerza aumenta en 2, y su puntuación de sabiduría aumenta en 1.
 
-***Age.*** Los trandoshans llegan a la edad adulta en su adolescencia y raramente viven más de 70 años.
+***Edad.*** Los trandoshans llegan a la edad adulta en su adolescencia y raramente viven más de 70 años.
 
 ***Alineación.*** Los trandoshans tienden hacia el lado oscuro, aunque hay excepciones.
 
-***Size.*** Los trandoshans llegan a medir hasta 2 metros y medio de altura y pueden pesar más de 300 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** Los trandoshans llegan a medir hasta 2 metros y medio de altura y pueden pesar más de 300 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***Darkvision.***  Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.***  Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
-***Hold Breath.*** No te preocupes, puedes aguantar la respiración hasta 15 minutos a la vez.
+***Mantener Respiración.*** No te preocupes, puedes aguantar la respiración hasta 15 minutos a la vez.
 
-***Regenerative.*** Cuando recibes daño, puedes usar tu reacción y gastar un dado de impacto para recuperar los puntos de impacto, siempre que el daño no reduzca tus puntos de impacto a 0.
+***Regeneración.*** Cuando recibes daño, puedes usar tu reacción y gastar un dado de impacto para recuperar los puntos de impacto, siempre que el daño no reduzca tus puntos de impacto a 0.
 
-***Saving Face.*** Los Trandoshans tienen cuidado de no mostrar debilidad frente a sus aliados, por miedo a perder su estatus. Si fallas con una tirada de ataque o fallas un chequeo de habilidad<br> o una tirada de salvamento, puedes ganar un bonus a la tirada<br> igual al número de aliados que puedas ver a 30<br> pies de ti (bonus máximo de +5). Una vez que uses este rasgo <br>, no podrás usarlo de nuevo hasta que termines un descanso corto o <br> largo.
+***Salvando Apariencias.*** Los Trandoshans tienen cuidado de no mostrar debilidad frente a sus aliados, por miedo a perder su estatus. Si fallas con una tirada de ataque o fallas un chequeo de habilidad<br> o una tirada de salvamento, puedes ganar un bonus a la tirada<br> igual al número de aliados que puedas ver a 30<br> pies de ti (bonus máximo de +5). Una vez que uses este rasgo <br>, no podrás usarlo de nuevo hasta que termines un descanso corto o <br> largo.
 
 ***Idiomas.*** Puedes hablar, leer y escribir Galactic Basic y Dosh. Dosh se caracteriza por sus duros gruñidos, silbidos y gruñidos, y su forma escrita que utiliza glifos alfabéticos.
 
@@ -936,13 +935,13 @@ Como trandoshan, tienes los siguientes rasgos especiales.
 ___
 > ## Twi'lek
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Azul, marrón, gris oscuro, verde, naranja, rosa, púrpura, rojo, bronceado, cerceta, blanco, amarillo o a rayas|
-> |***Hair Color***|&nbsp;&nbsp;|None|
-> |***Eye Color***|&nbsp;&nbsp;|Negro, azul, marrón, verde, avellana, naranja, rosa, púrpura o amarillo|
-> |***Distinciones***|&nbsp;&nbsp;||Lekku, uñas afiladas como garras, los machos a menudo se liman los dientes en punta|
+> |***Color de Piel***|&nbsp;&nbsp;|Azul, marrón, gris oscuro, verde, naranja, rosa, púrpura, rojo, bronceado, cerceta, blanco, amarillo o a rayas|
+> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Ojos***|&nbsp;&nbsp;|Negro, azul, marrón, verde, avellana, naranja, rosa, púrpura o amarillo|
+> |***Distinciones***|&nbsp;&nbsp;|Lekku, uñas afiladas como garras, los machos a menudo se liman los dientes en punta|
 > ___
 > #### Características físicas
 > |||||
@@ -953,18 +952,18 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Ryloth|
-> |***Language***|&nbsp;&nbsp;|Twi'leki|
+> |***Planeta Natal***|&nbsp;&nbsp;|Ryloth|
+> |***Idiomas***|&nbsp;&nbsp;|Twi'leki|
 
 <div style='margin-top:39px'></div>
 
-### Biology and Appearence
+### Biologia y Apariencia
 Los twi'leks suelen ser delgados, aunque se sabe que existen individuos corpulentos. Los twi'leks son omnívoros; esta dieta es esencial dado que la comida es escasa en su mundo natal, Ryloth. Los twi'leks poseen múltiples estómagos, un rasgo inusual que les permite comer casi cualquier alimento. Cuando viajan fuera de su mundo natal, los twi'leks rara vez rechazan la comida, lo que frecuentemente lleva a la obesidad entre los estelares. La sociedad twi'lek también asocia la obesidad como un signo de riqueza y éxito.
 
-### Society and Culture
+### Sociedad y Cultura
 La gracia natural y la belleza exótica de los twi'leks femeninos los convierten en un objetivo popular entre los traficantes de esclavos. La esclavitud es la principal moneda de Ryloth. Algunos la ven como una oportunidad de ganar dinero secuestrando o vendiendo niños huérfanos, mientras que otros ven la esclavitud como una forma de salvar a los niños de crecer en el duro entorno de Ryloth. Varios twi'leks creen que la esclavitud es una forma eficiente de proliferar su especie y preservar su cultura, ya que los twi'leks carecen de sus propios medios de viaje interplanetario. Independientemente de cómo se produjo, muchos twi'leks viven como esclavos o artistas y son considerados símbolos de estatus, especialmente las hembras de tonalidades de piel más raras. Los twi'leks que logran escapar del cautiverio generalmente se convierten en ladrones o prostituidos, y ambos sexos hacen uso de sus poderes de seducción.
 
-### Names
+###Nombres
 Los nombres de los Twi'lek combinan su nombre de pila y el nombre de un clan en un solo nombre, en lugar de tener un apellido separado.
 
 **Nombres masculinos.** Ecrizsati, Gaj'mogos, Ukelweko
@@ -975,12 +974,12 @@ Los nombres de los Twi'lek combinan su nombre de pila y el nombre de un clan en 
 
 <div style='margin-top:456px'></div>
 
-### Twi'lek Traits
+### Rasgos Twi'lek  
 Como twi'lek, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Tu puntuación de carisma aumenta en 2, y tu puntuación de destreza aumenta en 1.
+***Incremento de la puntuación de característica.*** Tu puntuación de carisma aumenta en 2, y tu puntuación de destreza aumenta en 1.
 
-***Age.*** Los Twi'leks llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
+***Edad.*** Los Twi'leks llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
 
 ***Alineamiento.*** La dura educación de Twi'leks hace que tiendan al lado oscuro, aunque hay excepciones.
 
@@ -988,7 +987,7 @@ Como twi'lek, tienes los siguientes rasgos especiales.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***La visión oscura.*** Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
 ***Elegantes Bailarines.*** Tienes habilidad con la habilidad de la actuación.
 
@@ -1007,12 +1006,12 @@ Como twi'lek, tienes los siguientes rasgos especiales.
 ___
 > ## Wookiee
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
-> |***Skin Color***|&nbsp;&nbsp;|Gray|
+> |***Color de Piel***|&nbsp;&nbsp;|Gray|
 > Diferentes tonos de negro, marrón y blanco en varias combinaciones.
-> |***Eye Color***|&nbsp;&nbsp;|Azul, verde, amarillo, dorado, marrón, o<br> rojo|
+> |***Color de Ojos***|&nbsp;&nbsp;|Azul, verde, amarillo, dorado, marrón, o<br> rojo|
 > |***Distinciones***|&nbsp;&nbsp;|Tall, pelo cubierto, garras de escalada retráctiles, larga vida útil|
 > ___
 > #### Características físicas
@@ -1024,18 +1023,18 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Kashyyyk|
-> |***Language***|&nbsp;&nbsp;|Shyriiwook|
+> |***Planeta Natal***|&nbsp;&nbsp;|Kashyyyk|
+> |***Idiomas***|&nbsp;&nbsp;|Shyriiwook|
 
 <div style='margin-top:53px'></div>
 
-### Biology and Appearance
+### Biologia y Apariencia
 Los wookiees son una especie alta de gigantes peludos del planeta Kashyyyk, que pueden crecer hasta una altura de más de ocho pies. Están cubiertos de pies a cabeza por una gruesa y peluda capa de pelo con propiedades de despojo de agua que se presenta en tonos marrones, negros, grises y blancos. La especie tiene dos sexos, femenino y masculino. A este último le crece una larga barba en la vida adulta. Los colores de los ojos de los wookiee suelen ser azules, verdes, amarillos, dorados, marrones o rojos.
 
-### Society and Culture
+### Sociedad y Cultura
 Los wookiees valoran mucho el honor y la lealtad. Por lo tanto, su noción de "familia" abarca mucho más que los lazos de sangre. Una parte de la más sagrada tradición era la institución social de la deuda de vida: cuando la vida de un wookiees era salvada por alguien más, sin importar la especie, frecuentemente se dedicaban a una vida de servicio a su salvador y a su familia. A través del mecanismo de la deuda de vida, la Gente de los Árboles solía desarrollar lazos irrompibles con sus compañeros de ayuda y amigos verdaderos, formando una "familia de honor".
 
-### Names
+###Nombres
 Los nombres de los wookiee son diversos; algunos nombres son simples y cortos mientras que otros son largos y complicados. La mayoría de los nombres a menudo tienen sonidos grandes más suaves y tonos más melódicos. Como los extraterrestres tienen problemas para usar los nombres reales de los wookiees, a menudo adoptan apodos más sencillos.
 
 **Nombres masculinos.** Fubbodrrl, Gurrfupayyc, Kioerrr, Lavgaeffoak, Snrowbishutchuh, Zufiaarkaykkk
@@ -1046,28 +1045,28 @@ Los nombres de los wookiee son diversos; algunos nombres son simples y cortos mi
 
 <div style='margin-top:395px'></div>
 
-### Wookiee Traits
+### Rasgos Wookiee  
 Como wookiee, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Su puntuación de fuerza aumenta en 2, y su puntuación de constitución aumenta en 1.
+***Incremento de la puntuación de característica.*** Su puntuación de fuerza aumenta en 2, y su puntuación de constitución aumenta en 1.
 
-***Age.*** Los wookiees llegan a la edad adulta a los 40 años y pueden vivir hasta los 400.
+***Edad.*** Los wookiees llegan a la edad adulta a los 40 años y pueden vivir hasta los 400.
 
 ***Alineación.*** Los wookiees tienden hacia el lado de la luz, aunque hay excepciones.
 
-***Size.*** Los wookiees tienden a sobresalir sobre otras especies, alcanzando alturas de más de 8 pies y pesando 300 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** Los wookiees tienden a sobresalir sobre otras especies, alcanzando alturas de más de 8 pies y pesando 300 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***Las garras.*** Los wookiees tienen garras retráctiles. Son hábiles con sus garras, las cuales causan un daño cinético de 1d4 en un golpe.
+***Garras.*** Los wookiees tienen garras retráctiles. Son hábiles con sus garras, las cuales causan un daño cinético de 1d4 en un golpe.
 
-***La visión oscura.*** Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
-***Escóndete. ***Tienes una piel gruesa. Cuando no llevas armadura, tu AC es 13 + tu modificador de destreza. Además, tu piel gruesa se adapta naturalmente a los climas fríos, como se describe en el capítulo 5 de la Guía del Maestro de la Mazmorra.
+***Pelaje.*** Tienes una pelaje grueso. Cuando no llevas armadura, tu AC es 13 + tu modificador de destreza. Además, tu piel gruesa se adapta naturalmente a los climas fríos, como se describe en el capítulo 5 de la Guía del Maestro de la Mazmorra.
 
-***Powerful Build.*** Cuenta como una talla más grande para determinar su capacidad de carga y el peso que puede empujar, arrastrar o levantar.
+***Cuerpo Fibrado.*** Cuenta como una talla más grande para determinar su capacidad de carga y el peso que puede empujar, arrastrar o levantar.
 
-***Treeclimber.*** Tienes una velocidad de ascenso de 30 pies. Tienes ventaja en los lanzamientos de fuerza y en los controles de fuerza que involucran la escalada.
+***Escalador.*** Tienes una velocidad de ascenso de 30 pies. Tienes ventaja en los lanzamientos de fuerza y en los controles de fuerza que involucran la escalada.
 
 ***Idiomas.*** Puedes hablar, leer y escribir Shyriiwook. Puedes entender lo básico galáctico hablado y escrito, pero tus cuerdas vocales no te permiten hablarlo.
 
@@ -1080,12 +1079,12 @@ Como wookiee, tienes los siguientes rasgos especiales.
 ___
 > ## Zabrak
 > ___
-> #### Características visuales
+> #### Características Visuales
 > ||||
 > |:--|:--|:--|
 > |***Color de piel***|&nbsp;&nbsp;|Pálido a marrón oscuro, rojo, naranja y amarillo|
-> |***Color del pelo***||||Negro, rubio, marrón, rojo o púrpura|
-> |***Eye Color***|&nbsp;&nbsp;||Amarillo, verde, naranja, marrón, azul, rojo o púrpura|
+> |***Color del pelo***|&nbsp;&nbsp;|Negro, rubio, marrón, rojo o púrpura|
+> |***Color de Ojos***|&nbsp;&nbsp;|Amarillo, verde, naranja, marrón, azul, rojo o púrpura|
 > |***Distinciones***|&nbsp;&nbsp;|Hornos, dos corazones, tatuajes faciales|
 > ___
 > #### Características físicas
@@ -1097,22 +1096,22 @@ ___
 > #### Características socioculturales
 > ||||
 > |:--|:--|:--|
-> |***Homeworld***|&nbsp;&nbsp;|Iridonia or Dathomir|
-> |***Language***|&nbsp;&nbsp;|Zabraki|
+> |***Planeta Natal***|&nbsp;&nbsp;|Iridonia or Dathomir|
+> |***Idiomas***|&nbsp;&nbsp;|Zabraki|
 
 <div style='margin-top:36px'></div>
 
-### Biology and Appearance
+### Biologia y Apariencia
 Los Zabrak son casi humanos, pero tienen una serie de características físicas significativas que los diferencian de la Humanidad de base. La más llamativa de ellas es una serie de vestigios de cuernos que coronan las cabezas de hombres y mujeres. Estos cuernos crecen en la pubertad en patrones variables y significan que su rito de paso se está acercando.
 
 Además de sus cuernos, otro de los rasgos que hacen que zabrak sea reconocible al instante son sus tatuajes faciales, que están formados por finas líneas recibidas durante su rito de paso. Éstos podrían simbolizar muchas cosas, incluyendo pero no limitándose al linaje familiar, lugar de nacimiento, o incluso un diseño que reflejara sus personalidades individuales.
 
 Por último, los zabraks poseen un segundo corazón.
 
-### Society and Culture
+### Sociedad y Cultura
 La mayoría de las demás especies consideran que Zabrak es una especie unívoca, una observación que no es terriblemente incorrecta. Esta determinación unánime proviene del hecho de que son una especie con un fuerte sentido de seguridad en sí mismos, confiados en que son capaces de realizar cualquier tarea que se propongan. Sin embargo, esto no lleva a un zabrak a desarrollar un sentido de superioridad orgullosa hacia los demás. Aunque no es raro ver competencia entre las colonias, esto no se ve como algo negativo. Los zabraks creen que las diversas experiencias de las diferentes colonias sólo sirven para aumentar el valor general de la especie en toda la galaxia.
 
-### Names
+###Nombres
 Los nombres de Zabrak suelen derivar de los animales que viven en su planeta. Los Zabraks no usan apellidos.
 
 **Nombres masculinos.** Kadro, Muraa, Neqama, Ruvroo, Xadra
@@ -1123,26 +1122,26 @@ Los nombres de Zabrak suelen derivar de los animales que viven en su planeta. Lo
 
 <div style='margin-top:455px'></div>
 
-### Zabrak Traits
+### Rasgos Zabrak 
 Como zabrak, tienes los siguientes rasgos especiales.
 
-***Ability Score Increase.*** Tu puntuación de Constitución aumenta en 2, y tu puntuación de Fuerza o Destreza aumenta en 1.
+***Incremento de la puntuación de característica.*** Tu puntuación de Constitución aumenta en 2, y tu puntuación de Fuerza o Destreza aumenta en 1.
 
-***Age.*** Los Zabraks llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
+***Edad.*** Los Zabraks llegan a la edad adulta al final de la adolescencia y viven menos de un siglo.
 
 ***Alineación.*** Los Zabraks no tienden a ninguna alineación en particular. Los mejores y los peores se encuentran entre ellos.
 
-***Size.*** Tamaño. Los Zabraks miden entre 1,5 y 2 metros de altura y pesan hasta 300 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
+***Tamaño.*** Tamaño. Los Zabraks miden entre 1,5 y 2 metros de altura y pesan hasta 300 libras. Independientemente de su posición en ese rango, su tamaño es mediano.
 
 ***Velocidad.***  Tu velocidad base es de 30 pies.
 
-***Coercitivo.*** Usted tiene habilidad con la Persuasión o Intimidación (a su elección).
+***Coactivo.*** Usted tiene habilidad con la Persuasión o Intimidación (a su elección).
 
 ***Artesanos.*** Tienes habilidad con una herramienta de artesano de tu elección.
 
-***La visión oscura.*** Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
+***Visión en la Oscuridad.*** Su visión puede fácilmente cortar la oscuridad. Puedes ver en la luz tenue dentro de 60 pies de ti como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
-***Second Heart.*** Cuando te reduzcan a 0 puntos de golpe pero no te maten de inmediato, puedes bajar a 1 punto de golpe en su lugar. No puedes usar esta característica de nuevo hasta que termines un largo descanso.
+***Segundo Corazón.*** Cuando te reduzcan a 0 puntos de golpe pero no te maten de inmediato, puedes bajar a 1 punto de golpe en su lugar. No puedes usar esta característica de nuevo hasta que termines un largo descanso.
 
 ***Combatiente desarmado.*** Sus ataques desarmados causan un daño cinético de 1d4. Puedes usar tu elección de tu modificador de Fuerza o Destreza para las tiradas de ataque y daño. Debes usar el mismo modificador para ambas tiradas.
 
@@ -1151,7 +1150,5 @@ Como zabrak, tienes los siguientes rasgos especiales.
 <img src='https://www.gmbinder.com/images/TXlLpKD.png' style='position:absolute;top:53px;right:25px;width:380px;z-index:1000' />
 
 <div class='footnote'>CAPITULO 2 | ESPECIES</div>
-
-
 
 \pagebreakNum

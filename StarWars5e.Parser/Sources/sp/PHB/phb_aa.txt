@@ -29,11 +29,11 @@ Algunas habilidades especiales y peligros ambientales, como los efectos a largo 
 ##### Nivel de agotamiento
 |Nivel|Efecto|
 |:--:|:--|
-|1|Disadvantage on ability checks|
-|2|Speed halved|
-|3|Disadvantage on attack rolls and saving throws|
+|1|DisadvantEdad on ability checks|
+|2|Velocidad halved|
+|3|DisadvantEdad on attack rolls and saving throws|
 |4|Hit point maximum halved|
-|5|Speed reduced to 0|
+|5|Velocidad reduced to 0|
 |6|Death|
 
 Si una criatura ya agotada sufre otro efecto que cause agotamiento, su nivel actual de agotamiento aumenta en la cantidad especificada en la descripción del efecto.
@@ -77,7 +77,7 @@ Terminar un largo descanso reduce el nivel de agotamiento de una criatura en 1, 
 
 <div class='footnote'>APÉNDICE A | CONDICIONES</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Poisoned
 - Una criatura envenenada tiene desventajas en los rollos de ataque y en los controles de habilidad.
@@ -117,4 +117,4 @@ Terminar un largo descanso reduce el nivel de agotamiento de una criatura en 1, 
 
 <div class='footnote'>APÉNDICE A | CONDICIONES</div>
 
-\pagebreakNum
+\pEdadbreakNum

@@ -7,13 +7,13 @@
 - Astrotech engineer pet now acts on your turn, instead of rolling its own initiative.
 - Astrotech pet only gains the Ability Score Improvement feature from engineer, not other classes if you multiclass. This change affects all of the pet classes.
 - Astrotech pet clarified to have the Armor Integration special trait.
-- Astrotech pages slightly shuffled; the pet now comes before the modifications. This is to align with other pet archetypes.
+- Astrotech pEdads slightly shuffled; the pet now comes before the modifications. This is to align with other pet archetypes.
 - Saboteur Practice replaced with Sharpshooter Practice.
 - Third-caster archetypes (Shield Specialist, Marauder Approach) now learn 4th-level powers at 17th-level instead of 19th-level. This includes archetypes not in the PHB.
 
 #### Chapter 5
 - Added some more instruments.
-- Clarified burst so that the disadvantage caveat is only related to long range.
+- Clarified burst so that the disadvantEdad caveat is only related to long range.
 - Updated text of Double to clarify that it doesn't count as dual wielding, but it works for Two-Weapon Fighting.
 
 #### Chapter 6
@@ -38,8 +38,8 @@
 #### Chapter 5
 - Armors have been renamed, removing material names, to better align with the new rules in WH.
 - Armor prices have seen some minor adjustments.
-- Armors now have properties. For instance, instead of certain armors having disadvantage on Dexterity (Stealth) checks, they now have a property that adds this feature. This has been done to align with new rules in WH.
-- There are now six shields; each shield size has a physical and generator version. Starting equipment for all classes has been updated to the physical version. Generator versions can be obtained through purchase.
+- Armors now have properties. For instance, instead of certain armors having disadvantEdad on Dexterity (Stealth) checks, they now have a property that adds this feature. This has been done to align with new rules in WH.
+- There are now six shields; each shield Tamaño has a physical and generator version. Starting equipment for all classes has been updated to the physical version. Generator versions can be obtained through purchase.
 - Consolidated cobbler's tools and synthweaver's tools.
 
 #### Chapter 6
@@ -84,7 +84,7 @@ Book is officially finalized. I will update typos as they become evident, but ot
 - Asterisk removed from new tech powers.
 
 #### Appendix B
-- New variant rule regarding overlapping unarmed strike and natural weapon damages.
+- New variant rule regarding overlapping unarmed strike and natural weapon damEdads.
 
 #### And, as always
 - Minor text fixes
@@ -116,19 +116,19 @@ Acidic Strike, Carbon Fog, Carbonite Explosion, Combustive Shot, Concealed Caltr
 - Detect Traps adjusted and buffed.
 - Elemental Bane relabeled Elemental Accelerant.
 - Freedom of Movement removed.
-- Greater Image relabeled Greater Hologram.
+- Greater images relabeled Greater Hologram.
 - Greater Salvo reworked.
-- Group Image relabeled Group Hologram.
+- Group images relabeled Group Hologram.
 - Guards and Wards relabeled Security Protocols and slightly adjusted.
-- Image relabeled Hologram.
-- Minor Image relabeled Minor Hologram.
+- images relabeled Hologram.
+- Minor images relabeled Minor Hologram.
 - Oil Slick buffed.
 - Overheat interaction with cybernetics clarified.
 - Paralyze thematically adjusted to a poison.
-- Project Image relabeled Project Hologram.
+- Project images relabeled Project Hologram.
 - Rime Strike relabeled Rime Shot.
 - Salvo reworked.
-- Scorching Ray changed to ion damage.
+- Scorching Ray changed to ion damEdad.
 - Supercharged Gas relabeled Neurotoxin.
 - Target Lock relabeled Homing Rockets.
 - Vortex Dart relabeled Vortex Shot.
@@ -139,14 +139,14 @@ Acidic Strike, Carbon Fog, Carbonite Explosion, Combustive Shot, Concealed Caltr
 ## 4/2/2019
 
 #### Chapter 2
-- Bothans are now Medium size
+- Bothans are now Medium Tamaño
 
 #### Chapter 3
 - Increased the number of force and tech points for each class/archetype with the attendant feature by their casting modifier (choice for forcecasters). This change has been made in the EC - archetypes as well.
 - Changed the Max Power Level feature for all casters to refresh on a long rest. 
 
 ##### Berserker
-- Marauder Approach capstone increased to 1d12 damage per round from 1d6.
+- Marauder Approach capstone increased to 1d12 damEdad per round from 1d6.
 
 ##### Consular
 - New 2nd-level feature: Shielded by the Force
@@ -197,7 +197,7 @@ Beacon of Hope, Bestow Curse, Danger Sense, Dark Shear, Dark Side Tendrils, Forc
 - Dominate Beast (All): Made dark side, tree slightly changed.
 - Drain Vitality: Streamlined
 - Feedback (All): Changed to Intelligence saving throws.
-- Force Camouflage (All): Improved Force Camouflage now no longer breaks on attacks. Master Force Camouflage removed.
+- Force CamouflEdad (All): Improved Force CamouflEdad now no longer breaks on attacks. Master Force CamouflEdad removed.
 - Force Enlightenment: Added Prerequisite: Guidance.
 - Mind Blank: Prerequisite changed to Mind Trap.
 - Telekinesis: Prerequisite changed to Force Throw.
@@ -223,8 +223,8 @@ Beacon of Hope, Bestow Curse, Danger Sense, Dark Shear, Dark Side Tendrils, Forc
 - Formatting adjustments
 
 #### Chapter 3
-- New feature added for all force- and tech-casters, including those who get the feature from an archetype (such as Marauder Berserker) on page 30.
-- Added ion damage to the Armormech Engineering's Resistance upgrade.
+- New feature added for all force- and tech-casters, including those who get the feature from an archetype (such as Marauder Berserker) on pEdad 30.
+- Added ion damEdad to the Armormech Engineering's Resistance upgrade.
 
 #### Chapter 7
 - Defined **expertise** as a keyword. Adjusted class features and feats accordingly.
@@ -243,10 +243,10 @@ Beacon of Hope, Bestow Curse, Danger Sense, Dark Shear, Dark Side Tendrils, Forc
 - Formatting adjustments
 
 #### Chapter 1
-- Adjusted some of the page layouts, and changed the character generation example from General Kenobi to Han Solo.
+- Adjusted some of the pEdad layouts, and changed the character generation example from General Kenobi to Han Solo.
 
 #### Chapter 3
-- Way of Lightning's Stunning Shock now keys off of any force power that deals lightning damage.
+- Way of Lightning's Stunning Shock now keys off of any force power that deals lightning damEdad.
 - Removed redundancy from the Scholar's Critical Analysis feature.
 
 #### Chapter 6
@@ -341,7 +341,7 @@ Beacon of Hope, Bestow Curse, Danger Sense, Dark Shear, Dark Side Tendrils, Forc
 - Formatting adjustments
 
 #### Chapter 2
-- Chiss: Clarified they should have advantage on all saving throws against tech powers.
+- Chiss: Clarified they should have advantEdad on all saving throws against tech powers.
 
 #### Chapter 3
 ##### Consular
@@ -369,7 +369,7 @@ Beacon of Hope, Bestow Curse, Danger Sense, Dark Shear, Dark Side Tendrils, Forc
 - Weapon Expert - Removed the melee weapon requirement from the second bullet.
 
 #### Chapter 11
-- Mind Blank - Added psychic damage to the immunities
+- Mind Blank - Added psychic damEdad to the immunities
 
 #### Appendix B
 - Defense save DC should have been 14 + saving throw modifier, not 11. This has been corrected.
@@ -384,7 +384,7 @@ Beacon of Hope, Bestow Curse, Danger Sense, Dark Shear, Dark Side Tendrils, Forc
 - Formatting adjustments
 
 #### Chapter 2
-- Corrected Sith Pureblood's Force Sensitive feature to accurately represent the alignment of the force powers.
+- Corrected Sith Pureblood's Force Sensitive feature to accurately represent the Alineación of the force powers.
 
 #### Chapter 3
 - Slightly buffed Guardian's two base Channel the Force options: Cause Harm and Lend Aid.
@@ -406,7 +406,7 @@ Beacon of Hope, Bestow Curse, Danger Sense, Dark Shear, Dark Side Tendrils, Forc
 - New vibroweapon: Electrostaff. Added to the Crushing Weapon Mastery feat.
 - New vibroweapon: Techaxe. Added to the Crushing Weapon Mastery feat as well as Berserker starting equipment.
 - New vibroweapon: Vibrobaton. Added to the Trip Weapon Mastery feat.
-- Sonic Target Imager and Shock Gloves moved to the Expanded Content: Equipment (not yet released)
+- Sonic Target imagesr and Shock Gloves moved to the Expanded Content: Equipment (not yet released)
 - New Items: Bipod and Tripod.
 
 #### Chapter 11
@@ -443,7 +443,7 @@ Beacon of Hope, Bestow Curse, Danger Sense, Dark Shear, Dark Side Tendrils, Forc
 - Reworked Fanatic feat.
 
 #### Chapter 9
-- Clarified that you can use blasters to deal subdual damage.
+- Clarified that you can use blasters to deal subdual damEdad.
 
 #### Chapter 10
 - Clarified that you can unlearn a power each time you reach a new level in a casting class.

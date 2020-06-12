@@ -77,14 +77,14 @@ Normalmente se obtienen ventajas o desventajas mediante el uso de habilidades, a
 
 <div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
-## Bono de competencia
+## Bonificador decompetencia
 Los personajes tienen una bonificación de competencia determinada por nivel, como se detalla en el capítulo 1. Los monstruos también tienen este bono, que se incorpora a sus bloques de estadísticas. El bono se utiliza en las reglas de chequeo de habilidad, ahorro de lanzamientos y tiradas de ataque.
 
 Tu bono de habilidad no puede ser añadido a una sola tirada u otro número más de una vez. Por ejemplo, si dos reglas diferentes dicen que puedes añadir tu bono de habilidad a una tirada de ahorro de Sabiduría, sin embargo, sólo añades el bono una vez cuando haces la salvada.
 
-Ocasionalmente, su bono de competencia puede ser multiplicado o dividido (doblado o dividido por la mitad, por ejemplo) antes de aplicarlo. Si una circunstancia sugiere que su bonificación de aptitud se aplica más de una vez a la misma tirada, aún así se suma sólo una vez y se multiplica o divide sólo una vez.
+Ocasionalmente, su Bonificador decompetencia puede ser multiplicado o dividido (doblado o dividido por la mitad, por ejemplo) antes de aplicarlo. Si una circunstancia sugiere que su bonificación de aptitud se aplica más de una vez a la misma tirada, aún así se suma sólo una vez y se multiplica o divide sólo una vez.
 
 Del mismo modo, si una característica o efecto le permite multiplicar su bonificación de habilidad al hacer un chequeo de habilidad que normalmente no se beneficiaría de su bonificación de habilidad, todavía no añade la bonificación al chequeo. Para esa comprobación, su bonificación de competencia es 0, dado que multiplicar 0 por cualquier número sigue siendo 0. Por ejemplo, si carece de competencia en la habilidad Lore, no obtendrá ningún beneficio de una característica que le permita duplicar su bonificación de competencia cuando haga comprobaciones de Inteligencia (Lore).
 
@@ -125,7 +125,7 @@ Si el concurso resulta en un empate, la situación sigue siendo la misma que ante
 
 <div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Skills
 Cada habilidad cubre una amplia gama de capacidades, incluyendo habilidades que un personaje o un monstruo puede dominar. Una habilidad representa un aspecto específico de la puntuación de una habilidad, y el dominio de una habilidad por parte de un individuo demuestra un enfoque en ese aspecto. (Las competencias iniciales de una habilidad de un personaje se determinan en la creación del personaje ~ y las competencias de una habilidad de un monstruo aparecen en el bloque de estado del monstruo).
@@ -142,7 +142,7 @@ Las habilidades relacionadas con cada puntuación de habilidad se muestran en la 
 
 A veces, el GM puede pedir un chequeo de habilidad usando una habilidad específica, por ejemplo, "Hacer un chequeo de Sabiduría (Percepción)". En otras ocasiones, un jugador podría preguntar al GM si el dominio de una habilidad en particular se aplica a un chequeo. En cualquier caso, el dominio de una habilidad significa que un individuo puede añadir su bono de dominio a los chequeos de habilidad que involucran esa habilidad. Sin el dominio de la habilidad, el individuo hace un chequeo de habilidad normal.
 
-Por ejemplo, si un personaje intenta escalar un peligroso acantilado, el Maestro de la Mazmorra podría pedir un chequeo de Fuerza (Atletismo). Si el personaje es competente en Atletismo, el bono de competencia del personaje se añade al chequeo de Fuerza. Si el personaje carece de esa habilidad, él o ella sólo hace un chequeo de fuerza.
+Por ejemplo, si un personaje intenta escalar un peligroso acantilado, el Maestro de la Mazmorra podría pedir un chequeo de Fuerza (Atletismo). Si el personaje es competente en Atletismo, el Bonificador decompetencia del personaje se añade al chequeo de Fuerza. Si el personaje carece de esa habilidad, él o ella sólo hace un chequeo de fuerza.
 
 \columnbreak
 
@@ -151,7 +151,7 @@ Por ejemplo, si un personaje intenta escalar un peligroso acantilado, el Maestro
 #### Variante: Habilidades con otras habilidades
 Normalmente, su dominio de una habilidad se aplica sólo a un tipo específico de comprobación de habilidades. El dominio en el atletismo, por ejemplo, normalmente se aplica a los controles de fuerza. Sin embargo, en algunas situaciones, tu competencia podría aplicarse razonablemente a un tipo diferente de comprobación. En tales casos, el GM podría pedir una comprobación utilizando una combinación inusual de habilidad y destreza, o podrías preguntarle a tu GM si puedes aplicar una competencia a una comprobación diferente. Por ejemplo, si tienes que nadar desde una isla en alta mar hasta el continente, tu GM podría pedir un chequeo de la Constitución para ver si tienes la resistencia para llegar tan lejos. En este caso, tu gerente podría permitirte aplicar tu competencia en atletismo y pedir un chequeo de la constitución (de atletismo). 
 
-Así que si eres competente en Atletismo, aplicas tu bono de competencia al cheque de la Constitución como lo harías normalmente para un cheque de Fuerza (Atletismo). Del mismo modo, cuando tu berserker de trandoshan utiliza una muestra de fuerza bruta para intimidar a un enemigo, tu GM podría pedir un chequeo de Fuerza (Intimidación), aunque la Intimidación se asocia normalmente con el Carisma.
+Así que si eres competente en Atletismo, aplicas tu Bonificador decompetencia al cheque de la Constitución como lo harías normalmente para un cheque de Fuerza (Atletismo). Del mismo modo, cuando tu berserker de trandoshan utiliza una muestra de fuerza bruta para intimidar a un enemigo, tu GM podría pedir un chequeo de Fuerza (Intimidación), aunque la Intimidación se asocia normalmente con el Carisma.
 
 ### Passive Checks
 Un chequeo pasivo es un tipo especial de chequeo de habilidades que no involucra ninguna tirada. Tal chequeo puede representar el resultado medio de una tarea realizada repetidamente, como la búsqueda de puertas secretas una y otra vez, o puede utilizarse cuando el GM quiere determinar secretamente si los personajes tienen éxito en algo sin tirar los dados, como notar un monstruo oculto.
@@ -168,7 +168,7 @@ Las normas sobre la ocultación en la sección "Destreza" que figura a continuació
 
 <div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Working Together
 A veces dos o más personajes se unen para intentar una tarea. El personaje que lidera el esfuerzo, o el que tiene el mayor modificador de habilidades, puede hacer una comprobación de habilidades con ventaja, reflejando la ayuda proporcionada por los otros personajes. En el combate, esto requiere la acción de ayuda (véase el capítulo 9).
@@ -211,7 +211,7 @@ Un chequeo de fuerza puede modelar cualquier intento de levantar, empujar, tirar
 - Volcar una estatua
 - Evitar que una roca ruede
 
-#### Attack Rolls and Damage
+#### Attack Rolls and DamEdad
 Añades tu modificador de fuerza a tu tirada de ataque y a tu tirada de daño cuando atacas con un arma de combate cuerpo a cuerpo como una vibroespada o una espada doble. Usas armas de combate cuerpo a cuerpo para hacer ataques cuerpo a cuerpo en el combate cuerpo a cuerpo, y algunas de ellas pueden ser lanzadas para hacer un ataque a distancia.
 
 #### Lifting and Carrying
@@ -221,7 +221,7 @@ Su puntuación de fuerza determina la cantidad de peso que puede soportar. Los si
 
 ***Empujar, arrastrar o levantar.*** Puedes empujar, arrastrar o levantar un peso en libras hasta el doble de tu capacidad de carga (o 30 veces tu puntuación de fuerza). Mientras empujas o arrastras un peso que excede tu capacidad de carga, tu velocidad baja a 5 pies.
 
-***Size and Strength.*** Las criaturas más grandes pueden soportar más peso, mientras que las criaturas pequeñas pueden soportar menos. Por cada categoría de tamaño superior a la mediana, duplica la capacidad de carga de la criatura y la cantidad que puede empujar, arrastrar o levantar. Para una criatura diminuta, reduce a la mitad estos pesos.
+***TamaÃ±o and Strength.*** Las criaturas más grandes pueden soportar más peso, mientras que las criaturas pequeñas pueden soportar menos. Por cada categoría de tamaño superior a la mediana, duplica la capacidad de carga de la criatura y la cantidad que puede empujar, arrastrar o levantar. Para una criatura diminuta, reduce a la mitad estos pesos.
 
 #### Variante: Carga
 Las reglas para levantar y transportar son intencionalmente simples. He aquí una variante si se buscan reglas más detalladas para determinar cómo un personaje se ve obstaculizado por el peso del equipo. Cuando uses esta variante, ignora la columna de Fuerza de la tabla de Armadura en el capítulo 5.
@@ -232,7 +232,7 @@ Si llevas un peso superior a 10 veces tu puntuación de Fuerza, hasta tu máxima c
 
 <div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Destreza
 La destreza mide la agilidad, los reflejos y el equilibrio.
@@ -257,7 +257,7 @@ Un chequeo de la destreza puede modelar cualquier intento de moverse de forma ág
 - Toca un instrumento de cuerda
 - Crear un objeto pequeño o detallado...
 
-#### Attack Rolls and Damage
+#### Attack Rolls and DamEdad
 Añades tu modificador de destreza a tu tirada de ataque y a tu tirada de daño cuando atacas con un arma de distancia, como un rifle de rayos o una pistola de arco. También puedes añadir tu modificador de Destreza a tu tirada de ataque y a tu tirada de daño cuando atacas con un arma de combate cuerpo a cuerpo que tiene la propiedad de la delicadeza, como una vibrodaga o una cuchilla técnica.
 
 #### Clase de Armadura
@@ -279,7 +279,7 @@ Al principio de cada combate, tomas la iniciativa haciendo un chequeo de destrez
 > 
 > Cuando te escondes, hay una posibilidad de que alguien te note aunque no esté buscando. Para determinar si tal criatura te nota, el GM compara tu chequeo de Destreza (Sigilo) con la puntuación de la Sabiduría (Percepción) pasiva de esa criatura, que equivale a 10 + el modificador de Sabiduría de la criatura, así como cualquier otra bonificación o penalización. Si la criatura tiene ventaja, sume 5. Para la desventaja, reste 5.
 > 
-> Por ejemplo, si un personaje de primer nivel (con un bono de competencia de +2) tiene una Sabiduría de 15 (un modificador de +2) y una competencia en Percepción, tiene una Sabiduría (Percepción) pasiva de 14.
+> Por ejemplo, si un personaje de primer nivel (con un Bonificador decompetencia de +2) tiene una Sabiduría de 15 (un modificador de +2) y una competencia en Percepción, tiene una Sabiduría (Percepción) pasiva de 14.
 > 
 > Uno de los principales factores para determinar si se puede encontrar una criatura u objeto oculto es lo bien que se puede ver en un área, que puede estar ligeramente o fuertemente oscurecida, como se explica en el capítulo 8.
 
@@ -287,7 +287,7 @@ Al principio de cada combate, tomas la iniciativa haciendo un chequeo de destrez
 
 <div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Constitution
 La Constitución mide la salud, la resistencia y la fuerza vital.
@@ -342,7 +342,7 @@ Los técnicos utilizan la inteligencia como su capacidad de emisión, lo que ayuda
 
 <div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Wisdom
 La sabiduría refleja cuán en sintonía estás con el mundo que te rodea y representa la percepción y la intuición.
@@ -381,7 +381,7 @@ Los pronosticadores utilizan la Sabiduría como su capacidad de previsión para su
 
 <div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div style='margin-top:26px'></div>
 
@@ -426,4 +426,4 @@ El resultado de un lanzamiento de salvamento exitoso o fallido también se detall
 
 <div class='footnote'>CAPITULO 7 | UTILIZANDO PUNTAJES DE HABILIDADES</div>
 
-\pagebreakNum
+\pEdadbreakNum

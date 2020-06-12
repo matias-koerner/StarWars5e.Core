@@ -54,7 +54,7 @@ Por las mismas razones que los rollos de la defensa. Los jugadores lo disfrutan,
 
 <div class='footnote'>APÉNDICE B | REGLAS VARIANTES RECOMENDADAS</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Previsión simplificada
 La versión actual del SW5e PHB hace que el jugador utilice diferentes puntuaciones de habilidad dependiendo de la alineación de las potencias que intentan lanzar: Sabiduría para el lado de la luz, Carisma para el lado oscuro, la elección del jugador para el universal.
@@ -89,7 +89,7 @@ La mayoría de los consumibles requieren una acción para su uso, lo que tiene sen
 Es una regla bastante común en la mayoría de las mesas, creo. Siempre la he usado desde que la descubrí hace años.
 
 ## Hunted
-En algunas épocas de la historia de la Guerra de las Galaxias, los pronosticadores son una rareza, y son cazados por toda la galaxia por gente como los Inquisidores, o si no tienen suerte, un Señor Oscuro de los Sith, en un intento de aplastar cualquier amenaza prevista a su gobierno. Si quieres que tus jugadores previsores experimenten este nivel adicional de drama y suspenso, aquí tienes una regla alternativa para implementar:
+En algunas épocas de la historia de la Star Wars, los pronosticadores son una rareza, y son cazados por toda la galaxia por gente como los Inquisidores, o si no tienen suerte, un Señor Oscuro de los Sith, en un intento de aplastar cualquier amenaza prevista a su gobierno. Si quieres que tus jugadores previsores experimenten este nivel adicional de drama y suspenso, aquí tienes una regla alternativa para implementar:
 
 Cada vez que un jugador lanza un poder de fuerza, otros en la galaxia pueden detectar su presencia a través de ondas en la Fuerza. Cada jugador tiene un fondo de puntos de perturbación. Este fondo de puntos de perturbación aumenta cada vez que un poder de fuerza es lanzado por un número de puntos igual al nivel del poder de fuerza utilizado (los poderes a voluntad se tratan como nivel 0). 
 
@@ -104,4 +104,4 @@ En realidad dirijo una campaña en la época de la Vieja República, así que no uso
 
 <div class='footnote'>APÉNDICE B | REGLAS VARIANTES RECOMENDADAS</div>
 
-\pagebreakNum
+\pEdadbreakNum

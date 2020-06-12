@@ -52,13 +52,13 @@ Ganarás los puntos de golpe de tu nueva clase como se describe para los niveles 
 Suma los Dados de Golpe concedidos por todas tus clases para formar tu pool de Dados de Golpe. Si los Dados son del mismo tipo de dado, puedes simplemente juntarlos. Por ejemplo, tanto el luchador como el guardián tienen un d10, así que si eres un luchador 5/guardián 5, tienes diez dados de golpe d10. Si tus clases te dan dados de diferentes tipos, mantenlos en un registro separado. Si eres un luchador 5/operativo 5, por ejemplo, tienes cinco d10 y cinco d8.
 
 ### Proficiency Bonus
-Tu bono de competencia siempre se basa en el nivel total de tu personaje, como se muestra en la tabla de avance del personaje en el capítulo 1, no en tu nivel en una clase en particular. Por ejemplo, si eres un luchador 3/operativo 2, tienes el bono de habilidad de un personaje de 5º nivel, que es +3.
+Tu Bonificador decompetencia siempre se basa en el nivel total de tu personaje, como se muestra en la tabla de avance del personaje en el capítulo 1, no en tu nivel en una clase en particular. Por ejemplo, si eres un luchador 3/operativo 2, tienes el bono de habilidad de un personaje de 5º nivel, que es +3.
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
-Si una característica o hazaña de la clase te permite renunciar a tu bono de competencia, sólo puedes hacerlo una vez.
+Si una característica o hazaña de la clase te permite renunciar a tu Bonificador decompetencia, sólo puedes hacerlo una vez.
 
 ### Proficiency
 Cuando ganas un nivel en una clase que no es la primera, sólo ganas algunas de las competencias iniciales de esa clase, como se muestra en la tabla de Competencias de Multiclasificación.
@@ -146,7 +146,7 @@ Si tienes ambos, fuerza y tecnología, determinas tus niveles máximos de potencia
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Estilos de lucha
 Ciertas características o hazañas de clase ofrecen la posibilidad de elegir el estilo de lucha. Elija entre los siguientes. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
@@ -211,7 +211,7 @@ Eres hábil en el uso de las armas de diferentes maneras. Mientras manejas un arm
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Feats
 Una hazaña representa un talento o un área de especialización que le da al personaje capacidades especiales. Encarna el entrenamiento, la experiencia y las habilidades más allá de lo que proporciona una clase. En ciertos niveles, tu clase te da la característica de Mejora de la Puntuación de Habilidad. Usando la regla de las hazañas opcionales, puedes renunciar a esa característica para realizar una hazaña de tu elección. Puedes realizar cada hazaña una sola vez, a menos que la descripción de la hazaña diga lo contrario.
@@ -268,7 +268,7 @@ Ha sido sometido a un extenso entrenamiento físico para obtener los siguientes b
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Battle Scarred
 Has pasado toda una vida luchando, con las cicatrices que lo demuestran. Obtienes los siguientes beneficios:
@@ -327,7 +327,7 @@ Has dominado el uso de tu peso a tu favor, luchando fácilmente con los objetivos
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Brawny 
 Te haces más fuerte, obteniendo los siguientes beneficios: 
@@ -385,7 +385,7 @@ Has practicado haciendo tus poderes más difíciles de evitar, aprendiendo técnica
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Crafter
 Tienes un don para la artesanía; trabajas con mayor eficiencia y produces bienes de mayor calidad. Selecciona un tipo de herramientas de artesano. Obtendrás los siguientes beneficios:
@@ -433,7 +433,7 @@ Tu maestría en la lucha con una sola arma de combate es insuperable; haces que u
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Dungeon Delver
 Alerta a las trampas ocultas y puertas secretas que se encuentran en muchas mazmorras, obtienes los siguientes beneficios:
@@ -492,7 +492,7 @@ Las habitaciones nunca se quedan sin alertar a tu presencia, y la fuerza de tu p
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Force Sensitive
 _**Pre-requisito:** Tipo de criatura humanoide.
@@ -547,7 +547,7 @@ Sus habilidades en el trueque le han otorgado los siguientes beneficios:
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Healer
 Eres un médico capaz, lo que te permite curar las heridas rápidamente y hacer que tus aliados vuelvan a la lucha. Obtienes los siguientes beneficios:
@@ -609,7 +609,7 @@ Ha estudiado idiomas y códigos, obteniendo los siguientes beneficios:
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Loremaster 
 Su estudio de la historia le recompensa con los siguientes beneficios: 
@@ -666,7 +666,7 @@ Eres excepcionalmente rápido y ágil. Obtienes los siguientes beneficios:
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Moderately Armored
 Requisito previo: dominio de las armaduras ligeras.
@@ -724,7 +724,7 @@ Ha estudiado los secretos de los venenos y toxinas, obteniendo los siguientes be
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Polearm Mastery
 Dominas el sable láser, el sable, la vibrolancia, el vibropique y el vibrospárrago. Obtienes los siguientes beneficios mientras manejas cualquiera de estas armas, si eres experto en ellas:
@@ -785,7 +785,7 @@ Elija una puntuación de habilidad. Obtendrá los siguientes beneficios:
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Rifle Mastery
 Domina el uso de la carabina de combate, el rifle de combate, el rifle de iones, el rifle de francotirador y el lanzador de bala. Obtienes los siguientes beneficios mientras manejas cualquiera de estas armas, si eres experto en ellas:
@@ -802,7 +802,7 @@ Has dominado las técnicas para aprovechar cada caída de la guardia de cualquier 
 Usted ha dominado las armas blaster y puede hacer fácilmente disparos que otros consideran imposibles. Mientras maneje un arma blaster con la que sea competente, obtendrá los siguientes beneficios:
 - Atacar a larga distancia no impone una desventaja en las tiradas de ataque de las armas a distancia.
 - Sus ataques con armas a distancia ignoran la mitad de la cobertura y tres cuartos de la cobertura.
-- Antes de hacer un ataque con un arma explosiva con la que eres competente, puedes elegir renunciar a tu bono de competencia. Si el ataque golpea, añades el doble de tu bonificación de habilidad al daño del ataque.
+- Antes de hacer un ataque con un arma explosiva con la que eres competente, puedes elegir renunciar a tu Bonificador decompetencia. Si el ataque golpea, añades el doble de tu bonificación de habilidad al daño del ataque.
 
 ### Shielding Mastery
 Has dominado el uso de un escudo para defender a tus aliados así como a ti mismo, y entiendes que los escudos no son sólo para proteger sino también para ofender. Mientras estés usando un escudo con el que eres competente, obtienes los siguientes beneficios:
@@ -836,7 +836,7 @@ Eres experto en escabullirte a través de las sombras. Obtienes los siguientes be
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Slicer
 Eres un experto en encontrar cosas en los ordenadores que no deberías. Obtienes los siguientes beneficios: 
@@ -896,7 +896,7 @@ Te vuelves temible para los demás, obteniendo los siguientes beneficios:
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Throwing Mastery
 Has dominado las técnicas de lanzamiento de armas, mezclando fácilmente las armas con tus movimientos. Mientras manejas un arma con la propiedad de lanzamiento que dominas, obtienes los siguientes beneficios:
@@ -928,7 +928,7 @@ Has dominado la lucha con dos armas, convirtiéndote en una ráfaga de movimiento.
 
 - Puedes participar en la lucha con dos armas, incluso cuando las armas que manejas carecen de la propiedad de la luz.
 - Puedes desenfundar o guardar dos armas cuando normalmente sólo podrías desenfundar o guardar una.
-- Cuando te involucras en la lucha con dos armas, puedes optar por renunciar a tu bono de competencia. Si lo haces, puedes hacer un ataque adicional de Lucha con Dos Armas, también sin tu bono de habilidad.
+- Cuando te involucras en la lucha con dos armas, puedes optar por renunciar a tu Bonificador decompetencia. Si lo haces, puedes hacer un ataque adicional de Lucha con Dos Armas, también sin tu bono de habilidad.
 
 ### Versatile Mastery
 Has dominado el arte de usar las armas de diferentes maneras, alterando tus patrones de ataque a medio camino. Mientras manejas un arma de combate cuerpo a cuerpo con la versátil propiedad con la que eres competente y sin otras armas, obtienes los siguientes beneficios:
@@ -951,4 +951,4 @@ Puedes hacer esta hazaña dos veces.
 
 <div class='footnote'>CAPITULO 6 | OPCIONES DE PERSONALIZACIÓN</div>
 
-\pagebreakNum
+\pEdadbreakNum

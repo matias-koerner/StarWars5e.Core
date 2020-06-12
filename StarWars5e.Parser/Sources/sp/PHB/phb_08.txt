@@ -4,7 +4,7 @@
 
 <img src='https://www.gmbinder.com/images/XSXXqiB.png' style='position:absolute;top:90px;left:71px;width:39px' />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">entrando en una antigua tumba Sith, deslizándose a través de</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el territorio del Sol Negro de Coruscant, cortando un nuevo camino a través de las espesas selvas de la luna del bosque de Endor, estas son las cosas de las que están hechas las aventuras de *Guerra de las Galaxias*. Tu personaje en el juego puede explorar ruinas olvidadas y tierras inexploradas, descubrir oscuros secretos y tramas siniestras, y matar monstruos asquerosos. Y si todo va bien, tu personaje sobrevivirá para reclamar ricas recompensas antes de embarcarse en una nueva aventura.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">entrando en una antigua tumba Sith, deslizándose a través de</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; el territorio del Sol Negro de Coruscant, cortando un nuevo camino a través de las espesas selvas de la luna del bosque de Endor, estas son las cosas de las que están hechas las aventuras de *Star Wars*. Tu personaje en el juego puede explorar ruinas olvidadas y tierras inexploradas, descubrir oscuros secretos y tramas siniestras, y matar monstruos asquerosos. Y si todo va bien, tu personaje sobrevivirá para reclamar ricas recompensas antes de embarcarse en una nueva aventura.
 
 Este capítulo abarca los fundamentos de la vida aventurera, desde la mecánica del movimiento hasta las complejidades de la interacción social. Las reglas para el descanso también están en este capítulo, junto con una discusión de las actividades que su personaje podría realizar entre las aventuras.
 
@@ -42,7 +42,7 @@ El GM puede resumir el movimiento de los aventureros sin calcular las distancias
 
 A veces es importante, sin embargo, saber cuánto tiempo se tarda en ir de un lugar a otro, si la respuesta es en días, horas o minutos. Las reglas para determinar el tiempo de viaje dependen de dos factores: la velocidad y el ritmo de viaje de las criaturas que se mueven y el terreno sobre el que se mueven.
 
-### Speed
+### Velocidad
 Cada personaje y monstruo tiene una velocidad, que es la distancia en pies que el personaje o monstruo puede caminar en 1 ronda. Este número supone ráfagas cortas de movimiento energético en medio de una situación de peligro de vida.
 
 Las siguientes reglas determinan cuán lejos puede moverse un personaje o un monstruo en un minuto, una hora o un día.
@@ -54,11 +54,11 @@ Mientras viajan, un grupo de aventureros puede moverse a un ritmo normal, rápido
 
 Por cada hora adicional de viaje más allá de las 8 horas, los personajes cubren la distancia que se muestra en la columna de la Hora para su ritmo, y cada personaje debe hacer un lanzamiento de ahorro de la Constitución al final de la hora. El DC es 10 + 1 por cada hora que pase de 8 horas. En un tiro de ahorro fallido, un personaje sufre un nivel de agotamiento (ver apéndice A).
 
-***Mounts, Speeders, and Vehicles.*** Durante cortos períodos de tiempo (hasta una hora), muchos animales se mueven mucho más rápido que los humanoides. Un personaje montado puede cabalgar al galope durante una hora, cubriendo el doble de la distancia habitual para un ritmo rápido. Si hay monturas frescas disponibles cada 8 o 10 millas, los personajes pueden cubrir mayores distancias a este ritmo, pero esto es muy raro excepto en áreas densamente pobladas. 
+***Mounts, Velocidaders, and Vehicles.*** Durante cortos períodos de tiempo (hasta una hora), muchos animales se mueven mucho más rápido que los humanoides. Un personaje montado puede cabalgar al galope durante una hora, cubriendo el doble de la distancia habitual para un ritmo rápido. Si hay monturas frescas disponibles cada 8 o 10 millas, los personajes pueden cubrir mayores distancias a este ritmo, pero esto es muy raro excepto en áreas densamente pobladas. 
 
 <div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 Los personajes de los transbordadores, veloces u otros vehículos eligen un ritmo normal. Dependiendo de la nave y el tamaño de la tripulación, las naves pueden viajar hasta 24 horas por día.
 
@@ -118,7 +118,7 @@ Utiliza las puntuaciones pasivas de Sabiduría (Percepción) de los personajes par
 
 <div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div style='margin-top:23px'></div>
 
@@ -133,7 +133,7 @@ Los personajes que dirigen su atención a otras tareas mientras el grupo viaja no
 
 ***Track.*** Un personaje puede seguir las huellas de otra criatura, haciendo un chequeo de Sabiduría (Supervivencia) cuando el GM lo pida. (La *Guía del Maestro del Calabozo* tiene reglas para el seguimiento.)
 
-***Forage.*** El personaje puede estar atento a las fuentes de comida y agua, haciendo un chequeo de Sabiduría (Supervivencia) cuando el GM lo pida. (La *Guía del Maestro del Calabozo* tiene reglas para buscar comida.)
+***ForEdad.*** El personaje puede estar atento a las fuentes de comida y agua, haciendo un chequeo de Sabiduría (Supervivencia) cuando el GM lo pida. (La *Guía del Maestro del Calabozo* tiene reglas para buscar comida.)
 
 > ##### Separar el Partido
 > A veces, tiene sentido dividir un grupo de aventureros, sobre todo si quieres que uno o más personajes exploren adelante. Puedes formar múltiples grupos, cada uno moviéndose a una velocidad diferente. Cada grupo tiene sus propias filas delanteras, medias y traseras.
@@ -176,11 +176,11 @@ La presencia o ausencia de luz en un ambiente crea tres categorías de iluminació
 Una criatura con visión ciega puede percibir sus alrededores sin depender de la vista, dentro de un radio específico. Las criaturas sin ojos, como Miraluka, y las criaturas con ecolocalización o sentidos elevados, como Togruta o Verpine, tienen este sentido.
 
 #### Darkvision
-Muchas criaturas en los mundos de la Guerra de las Galaxias, especialmente las que viven bajo tierra, tienen una visión oscura. Dentro de un rango específico, una criatura con visión oscura puede ver en la oscuridad como si la oscuridad fuera luz tenue, así que las áreas de oscuridad sólo están ligeramente oscurecidas en lo que respecta a esa criatura. Sin embargo, la criatura no puede discernir el color en la oscuridad, sólo tonos de gris.
+Muchas criaturas en los mundos de la Star Wars, especialmente las que viven bajo tierra, tienen una visión oscura. Dentro de un rango específico, una criatura con visión oscura puede ver en la oscuridad como si la oscuridad fuera luz tenue, así que las áreas de oscuridad sólo están ligeramente oscurecidas en lo que respecta a esa criatura. Sin embargo, la criatura no puede discernir el color en la oscuridad, sólo tonos de gris.
 
 <div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div style='margin-top:26px'></div>
 
@@ -220,11 +220,11 @@ El juego de roles es una parte de cada aspecto del juego, y se pone en primer pl
 Hay dos estilos que puedes usar cuando interpretas tu personaje: el enfoque descriptivo y el enfoque activo. La mayoría de los jugadores usan una combinación de los dos estilos. Utiliza cualquier mezcla de los dos que funcione mejor para ti.
 
 #### Descriptive Approach to Roleplaying
-Con este enfoque, describes las palabras y acciones de tu personaje al GM y a los otros jugadores. Basándote en la imagen mental de tu personaje, le dices a todo el mundo lo que hace tu personaje y cómo lo hace.
+Con este enfoque, describes las palabras y acciones de tu personaje al GM y a los otros jugadores. Basándote en la imagesn mental de tu personaje, le dices a todo el mundo lo que hace tu personaje y cómo lo hace.
 
-Por ejemplo, Chris interpreta a Tordek el Nikto. Tordek tiene un temperamento rápido y culpa al Sol Negro por la desgracia de su familia. En un bar, un detestable agente de Twi'lek se sienta en la mesa de Tordek e intenta entablar una conversación con el Nikto.
+Por ejemplo, Chris interpreta a Tordek el Nikto. Tordek tiene un temperamento rápido y culpa al Sol Negro por la desgracia de su familia. En un bar, un detestable Edadnte de Twi'lek se sienta en la mesa de Tordek e intenta entablar una conversación con el Nikto.
 
-Chris dice: "Tordek escupe en el suelo, gruñe un insulto al Twi'lek y se dirige al bar. Se sienta en un taburete y mira fijamente al agente antes de pedir otra bebida".
+Chris dice: "Tordek escupe en el suelo, gruñe un insulto al Twi'lek y se dirige al bar. Se sienta en un taburete y mira fijamente al Edadnte antes de pedir otra bebida".
 
 En este ejemplo, Chris ha transmitido el estado de ánimo de Tordek y ha dado al GM una idea clara de la actitud y las acciones de sus personajes.
 
@@ -236,7 +236,7 @@ Al usar el juego de roles descriptivo, tenga en cuenta lo siguiente:
 
 <div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div style='margin-top:27px'></div>
 
@@ -291,7 +291,7 @@ En algunos casos, el paso del tiempo es algo que ocurre con poca fanfarria o des
 
 <div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Lifestyle Expenses
 Entre las aventuras, se elige una calidad de vida particular y se paga el costo de mantener ese estilo de vida, como se describe en el capítulo 5.
@@ -347,4 +347,4 @@ El entrenamiento dura 250 días y cuesta 10 cr por día. Después de gastar la cant
 
 <div class='footnote'>CAPITULO 8 | AVENTURA</div>
 
-\pagebreakNum
+\pEdadbreakNum

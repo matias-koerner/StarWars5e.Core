@@ -1,7 +1,6 @@
 
 
-# Capítulo 1: Personajes paso a paso
-
+# Capítulo 1: Personajes Paso-a-Paso
 
 <img src='https://www.gmbinder.com/images/5CsIIIt.png' style='position:absolute;top:90px;left:72px;width:37px' />
 
@@ -17,7 +16,7 @@ A lo largo de esta sección, utilizamos el término hoja de personaje para referir
 > Cada paso de la creación de un personaje incluye un ejemplo de ese paso, con un jugador construyendo el personaje icónico Han Solo, tal y como es retratado durante los acontecimientos del Episodio IV.
 
 ### 1. Elija una especie
-Cada personaje pertenece a una especie, una de las muchas especies humanoides inteligentes de los mundos de la Guerra de las Galaxias. La especie más común en la galaxia es la humana, pero hay una miríada de especies casi humanas disponibles para jugar, incluyendo los Besaliscos de cuatro brazos, los astutos Trandoshans, los hábiles Twi'leks y el droide utilitario. El capítulo de **Especies** proporciona más información sobre estas especies.
+Cada personaje pertenece a una especie, una de las muchas especies humanoides inteligentes de los mundos de la Star Wars. La especie más común en la galaxia es la humana, pero hay una miríada de especies casi humanas disponibles para jugar, incluyendo los Besaliscos de cuatro brazos, los astutos Trandoshans, los hábiles Twi'leks y el droide utilitario. El capítulo de **Especies** proporciona más información sobre estas especies.
 
 La especie que elija contribuye a la identidad de su personaje de manera importante, estableciendo una apariencia general y los talentos naturales obtenidos de la cultura y la ascendencia. La especie de tu personaje otorga rasgos especiales particulares, como sentidos especiales, dominio de ciertas armas o herramientas, dominio de una herramienta, dominio de una o más habilidades, o la capacidad de usar poderes menores. 
 
@@ -39,29 +38,29 @@ Tu personaje recibe una serie de beneficios por la elección de la clase. Muchos 
 
 En tu hoja de personaje, anota todos los rasgos que tu clase te da en el 1er nivel.
 
-#### Level
+#### Nivel
 Típicamente, un personaje comienza en el 1er nivel y avanza en el nivel aventurándose y ganando **puntos de experiencia** (XP). Un personaje de 1er nivel no tiene experiencia en el mundo de las aventuras, aunque haya sido un soldado o un pirata y haya hecho cosas peligrosas antes.
 
 Comenzar en el primer nivel marca la entrada de tu personaje en la vida de aventuras. Si ya estás familiarizado con el juego, o si te unes a una campaña de D&D ya existente, tu GM puede decidir que empieces en un nivel más alto, suponiendo que tu personaje ya haya sobrevivido a unas cuantas aventuras desgarradoras.
 
-> ##### Quick Build
+> ##### Creación Rápida
 > Cada descripción de la clase en la sección de Clases incluye una sección que ofrece sugerencias para construir rápidamente un personaje de esa clase, incluyendo cómo asignar sus puntuaciones más altas de habilidad, un fondo adecuado a la clase, y poderes iniciales.
 
 <div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 Anota tu nivel en tu hoja de personaje. Si comienzas en un nivel más alto, registra los elementos adicionales que tu clase te da para los niveles superiores al primero. También registra tus puntos de experiencia. Un personaje de primer nivel tiene 0 XP. Un personaje de nivel superior normalmente comienza con la cantidad mínima de XP necesaria para alcanzar ese nivel (vea "Más allá del 1er nivel" más adelante en esta sección).
 
-#### Hit Points and Hit Dice
+#### Puntos de golpe y Dados de golpe
 Los puntos de golpe de tu personaje definen la dureza de tu personaje en el combate y otras situaciones peligrosas. Tus puntos de golpe se determinan por tus Dados de Golpe (abreviatura de Hit Point Dice).
 
 En el primer nivel, tu personaje tiene un dado de impacto, y el tipo de dado es determinado por tu clase. Comienzas con puntos de impacto iguales a la tirada más alta de ese dado, como se indica en la descripción de tu clase. (También añades tu modificador de Constitución, que determinarás en el paso 3.) Este también es tu **máximo de puntos de impacto**.
 
 Registra los puntos de golpe de tu personaje en tu hoja de personaje. También registra el tipo de dado de golpe que tu personaje usa y el número de dados de golpe que tienes. Después de descansar, puedes gastar Dados de Golpe para recuperar los puntos de golpe (ver "Descansar" en la sección de Aventuras). Cada vez que lances un dado de impacto para recuperar puntos de impacto, añade tu modificador de constitución a la tirada.
 
-#### Bono de competencia
-La tabla que aparece en la descripción de tu clase muestra tu bono de habilidad, que es +2 para un personaje de primer nivel. Tu bono de competencia se aplica a muchos de los números que registrarás en tu hoja de personaje:
+#### Bonificador de Competencia
+La tabla que aparece en la descripción de tu clase muestra tu bono de habilidad, que es +2 para un personaje de primer nivel. Tu Bonificador decompetencia se aplica a muchos de los números que registrarás en tu hoja de personaje:
 
 - Ruedas de ataque usando armas que conoces...
 - Los rollos de ataque con los poderes que se lanzan
@@ -76,14 +75,14 @@ Tu bono de habilidad no puede ser añadido a una sola tirada u otro número más de
 
 \columnbreak
 
-su bono de competencia podría ser modificado (duplicado o reducido a la mitad, por ejemplo) antes de aplicarlo. Si una circunstancia sugiere que su bonificación de aptitud se aplica más de una vez a la misma tirada o que debe multiplicarse más de una vez, no obstante, usted la suma sólo una vez, la multiplica sólo una vez y la reduce a la mitad sólo una vez.
+su Bonificador decompetencia podría ser modificado (duplicado o reducido a la mitad, por ejemplo) antes de aplicarlo. Si una circunstancia sugiere que su bonificación de aptitud se aplica más de una vez a la misma tirada o que debe multiplicarse más de una vez, no obstante, usted la suma sólo una vez, la multiplica sólo una vez y la reduce a la mitad sólo una vez.
 
-> ##### Building Han Solo, Step 2
-> Han Solo is best depicted as an operative, so we make a note of the operative's proficiencies and 1st-level class features on the character sheet.
+> ##### Creando a Han Solo, Paso 2
+> Han Solo se representa mejor como un operativo, por lo que tomamos nota de las habilidades del operativo y de los rasgos de clase de primer nivel en la hoja de personaje.
 >
 > Como operativo de primer nivel, Han tiene 1 Hit Die -un d8- y comienza con puntos de golpe iguales a 8 + su modificador de Constitución. Toma nota de esto; registraremos el número final después de determinar el puntaje de Constitución de Han (ver paso 3). También toma nota del bono de habilidad para un personaje de primer nivel, que es +2.
 
-### 3. Determinar las puntuaciones de habilidad
+### 3. Puntuaciones de Características
 Mucho de lo que tu personaje hace en el juego depende de sus seis habilidades: **Fuerza**, **Destreza**, **Constitución**, **Inteligencia**, **Sabiduría** y **Carisma**. Cada habilidad tiene una puntuación, que es un número que se registra en la hoja de personaje.
 
 Las seis habilidades y su uso en el juego están descritas en el capítulo **Utilización de las puntuaciones de las habilidades**. La tabla de resumen de puntuación de habilidades proporciona una referencia rápida para saber qué cualidades se miden por cada habilidad, qué especies aumentan qué habilidades y qué clases consideran cada habilidad particularmente importante.
@@ -94,25 +93,25 @@ Ahora toma tus seis números y escribe cada número al lado de una de las seis hab
 
 Después de asignar sus puntuaciones de habilidad, determine sus **modificadores de habilidad** usando la tabla de puntuaciones de habilidad y modificadores. Para determinar un modificador de habilidad sin consultar la tabla, reste 10 de la puntuación de habilidad y luego divida el resultado por 2 (redondee hacia abajo). Escribe el modificador junto a cada una de tus puntuaciones.
 
-> ##### Edificio Han Solo, Paso 3
+> ##### Creando a Han Solo, Paso 3
 > Usaremos el conjunto estándar de puntuaciones (15, 14, 13, 12, 10, 8) para las habilidades de Han. Han es talentoso y ágil, así que pondremos su mayor puntuación, 15, en Destreza. Su siguiente más alta, 14, es Carisma. Luego aplica el 13 a la Inteligencia, el 12 a la Constitución, el 10 a la Sabiduría y el 8 a la Fuerza. Después de aplicar sus beneficios especiales (incrementando la Destreza de Han en 2, y su Inteligencia y Carisma en 1), las puntuaciones de habilidad de Han y los modificadores se ven así: Fuerza 8 (-1), Destreza 17 (+3), Constitución 12 (+1), Inteligencia 14 (+2), Sabiduría 10 (+0), Carisma 15 (+2).
 > 
 > Luego llenamos los puntos de golpe final de Han: 8 + su modificador de constitución de +1, para un total de 9 puntos de golpe.
 
-<img src='https://cdn.discordapp.com/attachments/469499280994992128/539183142175637514/image0.png' style='position:absolute;bottom:-10px;left:60px;width:360px;z-index:1000' />
+<img src='https://cdn.discordapp.com/attachments/469499280994992128/539183142175637514/images0.png' style='position:absolute;bottom:-10px;left:60px;width:360px;z-index:1000' />
 
 <div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
-#### Variante: Personalización de las puntuaciones de habilidad
+#### Variante: Personalización de las puntuaciones de característica
 A elección del Game Master, puedes usar esta variante para determinar tus puntuaciones de habilidad. El método descrito aquí te permite construir un personaje con un conjunto de puntuaciones de habilidad que eliges individualmente.
 
 Tienes 27 puntos para gastar en tus puntuaciones de habilidad. El costo de cada puntaje se muestra en la tabla de Costo de Puntos de Habilidad. Por ejemplo, una puntuación de 14 cuesta 7 puntos. Usando este método, 15 es la puntuación de habilidad más alta con la que puedes terminar, antes de aplicar aumentos especiales. No puedes tener una puntuación inferior a 8.
 
 Este método para determinar las puntuaciones de habilidad permite crear un conjunto de tres números altos y tres bajos (15, 15, 15, 8, 8, 8), un conjunto de números que están por encima de la media y casi iguales (13, 13, 13, 12, 12, 12), o cualquier conjunto de números entre esos extremos.
 
-###### Ability Score Point Cost
+###### Coste de Puntuaciones de Característica
 |Score|Costes|
 |:--:|:--:|
 |8|0|
@@ -124,19 +123,19 @@ Este método para determinar las puntuaciones de habilidad permite crear un conju
 |14|7|
 |15|9|
 
-### 4. Describe tu personaje
+### 4. Describe a tu personaje
 Una vez que conozcas los aspectos básicos del juego de tu personaje, es el momento de encarnarlo como persona. Tu personaje necesita un nombre. Pasa unos minutos pensando en su aspecto y en cómo se comporta en términos generales.
 
 Usando la información del capítulo de **Personalidad y antecedentes**, puedes desarrollar la apariencia física y los rasgos de personalidad de tu personaje. Elige la **alineación** de tu personaje (la brújula moral que guía sus decisiones) y los **ideales**. El capítulo de **Personalidad y Antecedentes** también te ayuda a identificar las cosas que tu personaje aprecia más, llamadas **bonos**, y las **flagas** que podrían algún día socavarlo.
 
-Los antecedentes de tu personaje describen su procedencia, su ocupación original y su lugar en el mundo del D&D. Tu GM podría ofrecerte otros antecedentes además de los incluidos en la sección de Personalidad y Antecedentes, y podría estar dispuesto a trabajar contigo para crear un fondo que se ajuste con mayor precisión al concepto de tu personaje.
+Los **antecedentes** de tu personaje describen su procedencia, su ocupación original y su lugar en el mundo del D&D. Tu GM podría ofrecerte otros antecedentes además de los incluidos en la sección de Personalidad y Antecedentes, y podría estar dispuesto a trabajar contigo para crear un fondo que se ajuste con mayor precisión al concepto de tu personaje.
 
 Un fondo le da a tu personaje un rasgo de fondo (un beneficio general) y el dominio de dos habilidades, y también podría darte idiomas adicionales o el dominio de ciertos tipos de herramientas. Registra esta información, junto con la información de la personalidad que desarrollas, en tu hoja de personaje.
 
 \columnbreak
 
-##### Habilidades y Modificadores
-||Modificador
+##### Puntos de Característica y modificadores
+|Score|Modificador|
 |:--:|:--:|
 |1|-5|
 |2-3|-4|
@@ -159,7 +158,7 @@ Un fondo le da a tu personaje un rasgo de fondo (un beneficio general) y el domi
 
 <div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 > ##### Edificio Han Solo, Paso 4
 > Luego llenamos algunos de los detalles básicos de Han: su nombre, su sexo (masculino), su altura y peso, y su alineación (luz caótica). Su alta Destreza y Carisma representan su capacidad y poder de presencia, y su baja Fuerza representa una burbuja no excepcional.
@@ -170,7 +169,7 @@ Un fondo le da a tu personaje un rasgo de fondo (un beneficio general) y el domi
 > 
 > El bono de Han es su vuelo desde Jabba the Hutt, así que elegimos la primera opción. Su defecto es que a menudo se elige a sí mismo y a su nave por encima de los demás, así que elegimos la sexta opción.
 
-#### Your Character's Abilities
+#### Las Características de tu Personaje
 Ten en cuenta las puntuaciones de habilidad y la especie de tu personaje para mejorar su apariencia y personalidad. Un personaje muy fuerte con poca inteligencia podría pensar y comportarse de manera muy diferente a un personaje muy inteligente con poca fuerza.
 
 Por ejemplo, una alta Fuerza suele corresponder a un cuerpo corpulento o atlético, mientras que un personaje con baja Fuerza puede ser flaco o regordete.
@@ -185,7 +184,7 @@ Un personaje con gran sabiduría tiene buen juicio, empatía y una conciencia gene
 
 Un personaje con alto carisma exuda confianza, que suele mezclarse con una presencia grácil o intimidante. Un personaje con bajo Carisma puede parecer abrasivo, inarticulado o tímido.
 
-### 5. Elija el equipo
+### 5. Elije equipo
 Tu clase y antecedentes determinan el **equipo de inicio** de tu personaje, incluyendo armas, armaduras y otros equipos de aventura. Registra este equipo en tu hoja de personaje. Todos estos artículos se detallan en la sección de Equipo.
 En lugar de tomar el equipo que te dan tu clase y antecedentes, puedes comprar tu equipo de arranque. Tienes un número de **créditos** (cr) para gastar en base a tu clase, como se muestra en la sección de Equipo. En esa sección también aparecen extensas listas de equipo, con sus precios. 
 
@@ -212,29 +211,29 @@ Cuando haces un ataque con un arma, sacas un d20 y añades tu bono de habilidad (
 - Para los ataques con **armas de Melé**, usa tu modificador de fuerza para las tiradas de ataque y daño. Un arma que tiene la propiedad de la delicadeza, como un vibrador, puede usar tu modificador de Destreza en su lugar.
 - Para los ataques con **armas de alcance**, usa tu modificador de Destreza para las tiradas de ataque y daño. Un arma que tiene la propiedad de ser lanzada, como una vibrodaga, puede usar tu modificador de Fuerza en su lugar.
 
-> ##### Edificio Han Solo, Paso 5
+> ##### Creando a Han Solo, Paso 5
 > Ahora anotamos el equipo de salida de la clase operativa y el fondo de sinvergüenza. Su equipo de salida incluye un traje de combate, dándole una clase de armadura de 14.
 > 
 > Para las armas de Han, elegimos una vibrodaga y una pistola de luz. Su pistola ligera es un arma de distancia, y la vibrodaga tiene la propiedad de la delicadeza, así que Han usa su modificador de destreza para sus ataques y daños. Su bono de ataque es su modificador de Destreza (+3) más su bono de habilidad (+2), para un total de +5. La pistola de luz inflige 1d4 de daño energético, y Han añade su modificador de Destreza al daño cuando golpea, para un total de 1d4+3 de daño energético. La vibrodaga hace la misma cantidad de daño, pero es cinética en lugar de energía.
 
 <div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
-### 6. Vengan juntos
-La mayoría de los personajes de "Star Wars" no trabajan solos. Cada personaje juega un papel dentro de un **partido**, un grupo de aventureros trabajando juntos para un propósito común. El trabajo en equipo y la cooperación mejoran enormemente las posibilidades de tu grupo de sobrevivir a los muchos peligros de los mundos de *Guerra de las Galaxias*. Habla con tus compañeros de juego y con tu GM para decidir si tus personajes se conocen, cómo se conocieron y qué tipo de misiones podría emprender el grupo.
+### 6. Reunirse
+La mayoría de los personajes de "Star Wars" no trabajan solos. Cada personaje juega un papel dentro de un **partido**, un grupo de aventureros trabajando juntos para un propósito común. El trabajo en equipo y la cooperación mejoran enormemente las posibilidades de tu grupo de sobrevivir a los muchos peligros de los mundos de *Star Wars*. Habla con tus compañeros de juego y con tu GM para decidir si tus personajes se conocen, cómo se conocieron y qué tipo de misiones podría emprender el grupo.
 
-#### Beyond 1st Level
+#### Más Allá del 1er Nivel
 A medida que tu personaje avanza en las aventuras y supera los desafíos, gana experiencia, representada por los puntos de experiencia. Un personaje que alcanza un punto de experiencia específico avanza totalmente en su capacidad. Este avance se llama ganar un nivel.
 
-#### Class Features and Hit Dice
+#### Rasgos de Clase y Puntos de Golpe
 Cuando tu personaje gana un nivel, su clase suele otorgar características adicionales, como se detalla en la descripción de la clase. Algunas de estas características te permiten aumentar tus puntuaciones de habilidad, ya sea aumentando dos puntuaciones en 1 cada una o aumentando una puntuación en 2. No puedes aumentar una puntuación de habilidad por encima de 20. Además, la bonificación de habilidad de cada personaje aumenta en ciertos niveles.
 
 Cada vez que ganas un nivel, ganas 1 Hit Die adicional. Tira ese dado de impacto, añade tu modificador de constitución a la tirada y suma el total a tu máximo de puntos de impacto. Alternativamente, puedes usar el valor fijo que se muestra en tu entrada de clase, que es el resultado promedio de la tirada (redondeado al alza).
 
 ##### Avance del personaje 
 
-|Puntos de experiencia. Nivel. Bonos de habilidad.
+|Puntos de Experiencia|Nivel|Bonificación de Competencia|
 |:--:|:--:|:--:|
 |0	|1	|+2|
 |300	|2	|+2|
@@ -263,14 +262,14 @@ Cada vez que ganas un nivel, ganas 1 Hit Die adicional. Tira ese dado de impacto
 
 &emsp;Cuando tu modificador de constitución aumenta en 1, el máximo de tu punto de golpe aumenta en 1 por cada nivel que hayas alcanzado. Por ejemplo, si tu soldado de 7º nivel tiene un puntaje de Constitución de 17, cuando llega al 8º nivel, aumenta su puntaje de Constitución de 17 a 18, aumentando así su modificador de Constitución de +3 a +4. Su punto de golpe máximo entonces aumenta en 8.
 
-#### XP y Progresión de Bonos de Competencia
+#### XP y Progresión de la Bonificación de Competencia
 La tabla de avance de personajes resume los XP que necesita para avanzar en los niveles desde el nivel 1 hasta el nivel 20, y el bono de aptitud para un personaje de ese nivel. Consulta la información de la descripción de la clase de tu personaje para ver qué otras mejoras obtienes en cada nivel.
 
-<img src='https://cdn.discordapp.com/attachments/469499280994992128/538811115447255065/image0.png' style='position:absolute;bottom:20px;right:-90px;width:635px;z-index:1000' />
+<img src='https://cdn.discordapp.com/attachments/469499280994992128/538811115447255065/images0.png' style='position:absolute;bottom:20px;right:-90px;width:635px;z-index:1000' />
 
 <div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <style>
   .phb#p7:after { display:none; }
@@ -278,4 +277,4 @@ La tabla de avance de personajes resume los XP que necesita para avanzar en los 
 
 <img src='https://i.pinimg.com/originals/be/7b/15/be7b15dbe32e8a96a7b6668fa5402259.jpg' style="position:absolute; left:0px; top:-220px; width:840px;" />
 
-\pagebreakNum
+\pEdadbreakNum

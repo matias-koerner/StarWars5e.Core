@@ -5,7 +5,7 @@ Esta conversión ha sido una labor de amor. Cuando era un joven DM, hice el tonto
 
 Esta versión, a la que llamaré versión 1.0 como un absoluto desaire a mi primer intento, he estado trabajando en ella de forma bastante consistente durante unos nueve meses consecutivos. He tenido algo de ayuda de varias fuentes (que serán acreditadas como tales), pero en su mayor parte esto ha venido de mi propio cerebro.
 
-Este libro está diseñado para ser paralelo al Manual del Jugador oficial del D&D 5e. Incluye todos los capítulos relevantes, parecidos a los de La Guerra de las Galaxias. Las diferencias significativas se listan a continuación.
+Este libro está diseñado para ser paralelo al Manual del Jugador oficial del D&D 5e. Incluye todos los capítulos relevantes, parecidos a los de La Star Wars. Las diferencias significativas se listan a continuación.
 
 ## ¿Qué es diferente?
 Aunque esta expansión utiliza las reglas básicas de la 5ª edición, hay diferencias significativas que se ilustrarán aquí, desglosadas por capítulo. Hay más información en cada capítulo, según la DRS.

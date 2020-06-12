@@ -53,16 +53,16 @@ Estos artículos conservan todo su valor en el mercado, y puede cambiarlos por cr
 #### Trade Goods
 En el Borde Exterior, mucha gente realiza transacciones a través del trueque. Al igual que las gemas y los objetos de arte, el comercio de bienes -materias primas como bolsas de sal, ganado, etc.- conserva todo su valor en el mercado y puede ser utilizado como moneda.
 
-<img src='https://vignette.wikia.nocookie.net/starwars/images/e/e6/Uprising_Icon_Currency_FactionNobleCourt_03.png/revision/latest?cb=20151004065115' style='position:absolute;bottom:18px;left:200px;width:230px' />
+<img src='https://vignette.wikia.nocookie.net/starwarsimagese/e6/Uprising_Icon_Currency_FactionNobleCourt_03.png/revision/latest?cb=20151004065115' style='position:absolute;bottom:18px;left:200px;width:230px' />
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>		
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Armadura y escudos
-Los diferentes mundos de la *Guerra de las Galaxias* son un vasto tapiz formado por muchas culturas diferentes, cada una con su propio nivel de tecnología. Por esta razón, los aventureros tienen acceso a una variedad de tipos de armadura, que van desde los trajes de combate básicos hasta las armaduras de batalla pesada, con varios otros tipos de armadura en medio. La tabla de armadura recoge los tipos de armadura más comunes que se encuentran en el juego y los separa en tres categorías: armadura ligera, armadura media y armadura pesada. Muchos guerreros complementan su armadura con un escudo.
+Los diferentes mundos de la *Star Wars* son un vasto tapiz formado por muchas culturas diferentes, cada una con su propio nivel de tecnología. Por esta razón, los aventureros tienen acceso a una variedad de tipos de armadura, que van desde los trajes de combate básicos hasta las armaduras de batalla pesada, con varios otros tipos de armadura en medio. La tabla de armadura recoge los tipos de armadura más comunes que se encuentran en el juego y los separa en tres categorías: armadura ligera, armadura media y armadura pesada. Muchos guerreros complementan su armadura con un escudo.
 
-La tabla de armaduras muestra el coste, el peso y otras propiedades de los tipos comunes de armaduras que se usan en los mundos de *Guerra de las Galaxias*.
+La tabla de armaduras muestra el coste, el peso y otras propiedades de los tipos comunes de armaduras que se usan en los mundos de *Star Wars*.
 
 > ##### Variante: Tamaños del equipo
 > En la mayoría de las campañas, puedes usar o llevar cualquier equipo que encuentres en tus aventuras, dentro de los límites del sentido común. Por ejemplo, un wookiee corpulento no cabrá en un traje de combate de un jawa, y un ugnaught se tragaría una capa con capucha de un gamorreano. 
@@ -99,7 +99,7 @@ Mientras usas una armadura o un escudo con la propiedad de fuerza, tu velocidad 
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Light Armor
 Fabricada con materiales flexibles y delgados, la armadura ligera favorece a los aventureros ágiles ya que ofrece cierta protección sin sacrificar la movilidad. Si usas una armadura ligera, añades tu modificador de destreza al número base de tu tipo de armadura para determinar tu clase de armadura.
@@ -158,7 +158,7 @@ Los escudos pesados son mucho más grandes y más engorrosos, pero ofrecen más pro
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div class='classTable wide'>
 
@@ -209,10 +209,10 @@ El tiempo que toma ponerse o quitarse una armadura depende de la categoría de la
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>		
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Armas
-Su clase otorga el dominio de ciertas armas, reflejando tanto el enfoque de la clase como las herramientas que es más probable que utilice. Ya sea que estés a favor de un vibro-arma o de un blaster, tu arma y tu habilidad para manejarla efectivamente puede significar la diferencia entre la vida y la muerte mientras te aventuras. Las tablas de armas muestran las armas más comunes usadas en los mundos de *Guerra de las Galaxias*, su precio y peso, el daño que causan cuando golpean, y cualquier propiedad especial que posean. Cada arma está clasificada como un blaster, un arma ligera, o un vibro-arma. Un vibro-arma o arma ligera se utiliza para atacar un objetivo a menos de 5 pies de ti, mientras que un blaster se utiliza para atacar un objetivo a distancia. Las armas ligeras se utilizan generalmente en el combate cuerpo a cuerpo, pero debido a su naturaleza requieren una competencia separada.
+Su clase otorga el dominio de ciertas armas, reflejando tanto el enfoque de la clase como las herramientas que es más probable que utilice. Ya sea que estés a favor de un vibro-arma o de un blaster, tu arma y tu habilidad para manejarla efectivamente puede significar la diferencia entre la vida y la muerte mientras te aventuras. Las tablas de armas muestran las armas más comunes usadas en los mundos de *Star Wars*, su precio y peso, el daño que causan cuando golpean, y cualquier propiedad especial que posean. Cada arma está clasificada como un blaster, un arma ligera, o un vibro-arma. Un vibro-arma o arma ligera se utiliza para atacar un objetivo a menos de 5 pies de ti, mientras que un blaster se utiliza para atacar un objetivo a distancia. Las armas ligeras se utilizan generalmente en el combate cuerpo a cuerpo, pero debido a su naturaleza requieren una competencia separada.
 
 ### Weapon Proficiency
 Su especie, clase y hazañas pueden garantizarle el dominio de ciertas armas o categorías de armas. Las dos categorías son simple y marcial. La mayoría de la gente puede usar armas simples, que se ven comúnmente en las manos de los no especializados, con destreza. Las armas marciales, como las vibropalabras o los rifles de francotirador, requieren un entrenamiento más especializado para ser utilizadas con eficacia. La mayoría de los guerreros usan armas marciales porque estas armas dan el mejor uso a su estilo de lucha y entrenamiento. El dominio de un arma te permite añadir tu bono de dominio a la tirada de ataque para cualquier ataque que hagas con esa arma. Si haces una tirada de ataque con un arma con la que no tienes habilidad, no añades tu bonificación de habilidad a la tirada de ataque.
@@ -220,7 +220,7 @@ Su especie, clase y hazañas pueden garantizarle el dominio de ciertas armas o ca
 ### Improvised Weapons
 A veces los personajes no tienen sus armas y tienen que atacar con lo que tienen a mano. Un arma improvisada incluye cualquier objeto que puedas blandir con una o dos manos, como cristales rotos, una pata de mesa, una sartén, una rueda de carro o un jawa muerto.
 
-En muchos casos, un arma improvisada es similar a un arma real y puede ser tratada como tal. A discreción del GM, un personaje que domine un arma puede utilizar un objeto similar como si fuera esa arma y utilizar su bono de competencia.
+En muchos casos, un arma improvisada es similar a un arma real y puede ser tratada como tal. A discreción del GM, un personaje que domine un arma puede utilizar un objeto similar como si fuera esa arma y utilizar su Bonificador decompetencia.
 
 Un objeto que no se parece a un arma causa un daño cinético de 1d4. Si un personaje usa un arma de distancia para hacer un ataque cuerpo a cuerpo, o lanza un arma de cuerpo a cuerpo que no tiene la propiedad de ser lanzada, también causa 1d4 de daño. Un arma lanzada improvisada tiene un alcance normal de 20 pies y un largo alcance de 60 pies.
 
@@ -266,15 +266,15 @@ Un arma que puede ser usada para hacer un ataque a distancia tiene un rango que 
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <style>
   .phb#p7:after { display:none; }
 </style>
 
-<img src='https://cdn.discordapp.com/attachments/469499280994992128/594199212061753354/ad41f2ddd980e2bab07990795d965719.png' class='cover-image' style="position:absolute; left:-243px; width:1085px;" />
+<img src='https://cdn.discordapp.com/attachments/469499280994992128/594199212061753354/ad41f2ddd980e2bab07990795d965719.png' class='cover-images' style="position:absolute; left:-243px; width:1085px;" />
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Reach
 Esta arma añade 1,5 metros a su alcance con ella.
@@ -320,7 +320,7 @@ En lugar de las células de energía tradicionales, el lanzador de muñeca dispara 
 <div class='classTable wide' style='position:absolute;bottom:20px;left:75px;width:687px'>
 
 ##### Blasters
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties| 
+|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;Cost&nbsp;&nbsp;|DamEdad&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties| 
 |:---|---:|:---|-:|:---|
 |	_Simple Blasters_	|||||
 |&emsp;Blaster carbine		|  300 cr&nbsp;&nbsp;|1d6 energy		| 8 lb&nbsp;&nbsp;	|Ammunition (range 60/240), reload 16, two-handed |
@@ -344,12 +344,12 @@ En lugar de las células de energía tradicionales, el lanzador de muñeca dispara 
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div class='classTable wide' style='position:absolute;bottom:20px;left:75px;width:687px'>
 
 ##### Lightweapons
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|DamEdad&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 |:---|---:|:---|-:|:---|
 |	_Simple Lightweapons_	|||||||
 |&emsp;Lightclub			|  150 cr&nbsp;&nbsp;|1d10 energy		|5 lb&nbsp;&nbsp;|Luminous, two-handed|
@@ -370,7 +370,7 @@ En lugar de las células de energía tradicionales, el lanzador de muñeca dispara 
 <div style='margin-top:38px'></div>
 
 ##### Vibroweapons
-|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|Damage&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
+|Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Cost&nbsp;&nbsp;|DamEdad&emsp;&nbsp;&nbsp;|Weight&nbsp;&nbsp;|Properties&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|
 |:---|---:|:---|-:|:---|
 |	_Simple Vibroweapons_	|||||
 |&emsp;Techaxe			    |   75 cr&nbsp;&nbsp;|1d6 kinetic		|2 lb&nbsp;&nbsp;|Light, thrown (range 20/60)	|
@@ -403,7 +403,7 @@ En lugar de las células de energía tradicionales, el lanzador de muñeca dispara 
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Adventuring Gear
 En esta sección se describen los artículos que tienen normas especiales o que requieren una explicación más detallada.
@@ -474,7 +474,7 @@ Los cartuchos de bala son municiones para armas explosivas que causan daño cinét
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Communications
 #### Commlink
@@ -495,7 +495,7 @@ Un dispositivo de holotrazado es un aparato de muñeca que puede utilizarse para 
 #### Pocket Scrambler
 Un codificador de bolsillo es un simple complemento para cualquier enlace que codifica automáticamente los mensajes enviados. El mensaje transmitido sólo puede ser leído por un dispositivo equipado con un codificador compatible.
 
-### Data Recording and Storage	
+### Data Recording and StorEdad	
 #### Cilindro de código
 Los cilindros de código son dispositivos de seguridad en forma de cilindros cortos que contienen información codificada sobre sus portadores y les dan acceso a zonas seguras.
 
@@ -521,7 +521,7 @@ Un datapad es un pequeño dispositivo electrónico usado para la entrada, almacena
 |	&emsp;Holocomm	                |	 300 cr	|	2 lb		|
 |	&emsp;Holotrace device	        |  1,000 cr	|	5 lb		|
 |	&emsp;Pocket scrambler	        |	 800 cr	|	1 lb		|
-|	_Data Recording and Storage_|		|			|
+|	_Data Recording and StorEdad_|		|			|
 |	&emsp;Code cylinder	            |	  20 cr	|	1/2 lb		|
 |	&emsp;Datacard	                |	   5 cr	|	—		|
 |	&emsp;Datacron              	|  1,000 cr	|	2 lb		|
@@ -553,7 +553,7 @@ Una muñequera es un arnés con un panel de datos integrado y una interfaz de holo
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Explosives
 #### Breaking Charge
@@ -608,7 +608,7 @@ Los detonadores térmicos son armas explosivas del tamaño de la palma de la mano,
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Life Support	
 #### Aquatic Rebreather
@@ -657,7 +657,7 @@ Un medpac es una jeringa de acción rápida llena de una dosis concentrada de kolt
 |	&emsp;Traumakit	                |	  50 cr	|	3 lb		|
 |	&emsp;Medpac    	            |	 300 cr	|	1/2 lb		|
 |   &emsp;Repair kit                |	 750 cr	|	3 lb		|
-|	_Storage_	|		|			|
+|	_StorEdad_	|		|			|
 |	&emsp;Backpack              	|	  50 cr	|	5 lb		|
 |	&emsp;Crate 	                |	  20 cr	|	70 lb		|
 |	&emsp;Chest	                    |	  50 cr	|	25 lb		|
@@ -670,7 +670,7 @@ Un medpac es una jeringa de acción rápida llena de una dosis concentrada de kolt
 #### Kit de reparación
 Un kit de reparación incluía las herramientas básicas necesarias para reparar un droide después de haber sido dañado en combate. El kit tiene tres usos. Como acción, puedes gastar un uso del kit para restaurar 2d4+2 puntos de golpe a un droide o construcción dentro de 5 pies.
 
-#### Storage Container Capacity				
+#### StorEdad Container Capacity				
 |	Container	|	Capacity	|
 |	:--	|	:--	|
 |	Backpack	|	1 cubic foot, 30 pounds of gear	|
@@ -691,7 +691,7 @@ Un kit de reparación incluía las herramientas básicas necesarias para reparar un
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Utilities
 #### Binders
@@ -767,7 +767,7 @@ Instalar un perno de sujeción lleva 1 minuto. El droide debe hacer un lanzamient
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Weapon and Armor Accessories
 #### Bandolera
@@ -827,7 +827,7 @@ Un trípode es un dispositivo usado para montar un arma explosiva a dos manos par
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div class='classTable wide' style='position:absolute;bottom:20px;left:75px;width:687px;column-count:2'>
 
@@ -859,7 +859,7 @@ Un trípode es un dispositivo usado para montar un arma explosiva a dos manos par
 |	&emsp;Holocomm	                |	 300 cr	|	2 lb		|
 |	&emsp;Holotrace device	        |  1,000 cr	|	5 lb		|
 |	&emsp;Pocket scrambler	        |	 800 cr	|	1 lb		|
-|	_Data Recording and Storage_|		|			|
+|	_Data Recording and StorEdad_|		|			|
 |	&emsp;Code cylinder	            |	  20 cr	|	1/2 lb		|
 |	&emsp;Datacard   	            |	   5 cr	|	—		|
 |	&emsp;Datacron              	|  1,000 cr	|	2 lb		|
@@ -892,7 +892,7 @@ Un trípode es un dispositivo usado para montar un arma explosiva a dos manos par
 |	&emsp;Traumakit	                |	  50 cr	|	3 lb		|
 |	&emsp;Medpac    	            |	 300 cr	|	1/2 lb		|
 |   &emsp;Repair kit                |	 750 cr	|	3 lb		|
-|	_Storage_	|		|			|
+|	_StorEdad_	|		|			|
 |	&emsp;Backpack              	|	  50 cr	|	5 lb		|
 |	&emsp;Chest	                    |	  50 cr	|	25 lb		|
 |	&emsp;Crate 	                |	  20 cr	|	70 lb		|
@@ -933,19 +933,19 @@ Un trípode es un dispositivo usado para montar un arma explosiva a dos manos par
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Herramientas
-Una herramienta te ayuda a hacer algo que de otra manera no podrías hacer, como por ejemplo, hacer una artesanía o reparar un artículo, abrir una cerradura o cortar una computadora. Tu especie, clase, antecedentes o hazañas te dan competencia con ciertas herramientas, lo que te permite añadir tu bono de competencia a cualquier comprobación de habilidades que hagas con esa herramienta. El uso de las herramientas no está vinculado a una sola habilidad, ya que la competencia con una herramienta representa un conocimiento más amplio de su uso. 
+Una herramienta te ayuda a hacer algo que de otra manera no podrías hacer, como por ejemplo, hacer una artesanía o reparar un artículo, abrir una cerradura o cortar una computadora. Tu especie, clase, antecedentes o hazañas te dan competencia con ciertas herramientas, lo que te permite añadir tu Bonificador decompetencia a cualquier comprobación de habilidades que hagas con esa herramienta. El uso de las herramientas no está vinculado a una sola habilidad, ya que la competencia con una herramienta representa un conocimiento más amplio de su uso. 
 
 #### Herramientas de artesanos
 Estas herramientas especiales incluyen los artículos necesarios para ejercer una artesanía o comercio. La tabla muestra ejemplos de los tipos de herramientas más comunes, cada una de las cuales proporciona artículos relacionados con una sola artesanía. El dominio de un conjunto de herramientas de artesano te permite añadir tu bonificación de dominio a cualquier comprobación de habilidades que realices con las herramientas de tu artesanía. Cada tipo de herramienta de artesano requiere una habilidad distinta.
 
 #### Kit de Bioquímica
-Este kit incluye todos los componentes necesarios para crear y albergar suprarrenales estándar, medpacs y stimpacs. La competencia con este kit le permite añadir su bono de competencia a cualquier comprobación de habilidad que haga para identificar las glándulas suprarrenales, los medpacs y los estigmas. Además, la competencia con este kit es necesaria para crear adrenales, medpacs y estimpacs.
+Este kit incluye todos los componentes necesarios para crear y albergar suprarrenales estándar, medpacs y stimpacs. La competencia con este kit le permite añadir su Bonificador decompetencia a cualquier comprobación de habilidad que haga para identificar las glándulas suprarrenales, los medpacs y los estigmas. Además, la competencia con este kit es necesaria para crear adrenales, medpacs y estimpacs.
 
 #### Kit del Chef
-Este kit incluye todos los implementos necesarios para preparar y servir alimentos a un máximo de seis personas. La competencia con este kit le permite agregar su bono de competencia a cualquier chequeo de habilidad que haga para identificar los alimentos. Además, el dominio de este kit es necesario para crear raciones de campo.
+Este kit incluye todos los implementos necesarios para preparar y servir alimentos a un máximo de seis personas. La competencia con este kit le permite agregar su Bonificador decompetencia a cualquier chequeo de habilidad que haga para identificar los alimentos. Además, el dominio de este kit es necesario para crear raciones de campo.
 
 #### Kit de demolición
 Este kit contiene el equipo apropiado para el desarme y la colocación de explosivos. Contiene un protector de plástico para la cara y guantes de alta resistencia, así como herramientas de corte y agarre de precisión, y varios componentes comunes de granadas y minas. La habilidad con este kit te permite añadir tu bono de habilidad a cualquier chequeo de habilidad que hagas para desarmar o colocar un explosivo.
@@ -964,23 +964,23 @@ Esta pequeña caja contiene una variedad de papeles y pergaminos, plumas y tintas
 Este artículo abarca una amplia gama de piezas de juego, incluyendo dados y/o mazos de cartas. Algunos ejemplos comunes aparecen en la tabla de herramientas, pero existen otros tipos de juegos. Si eres experto en un juego, puedes añadir tu bono de habilidad a las comprobaciones de habilidad que hagas para jugar con ese juego. Cada tipo de juego requiere una habilidad distinta.
 
 #### Mechanic's Kit
-Este kit contiene todas las herramientas comúnmente requeridas para hacer reparaciones en las construcciones, como naves, velocípedos y torretas. La competencia con este kit te permite añadir tu bono de competencia a cualquier chequeo de habilidad que hagas para realizar reparaciones o instalar mejoras en la nave.
+Este kit contiene todas las herramientas comúnmente requeridas para hacer reparaciones en las construcciones, como naves, velocípedos y torretas. La competencia con este kit te permite añadir tu Bonificador decompetencia a cualquier chequeo de habilidad que hagas para realizar reparaciones o instalar mejoras en la nave.
 
 #### Instrumento musical
 Varios de los tipos más comunes de instrumentos musicales se muestran en la tabla como ejemplos. Si tienes conocimientos de un instrumento musical determinado, puedes añadir tu bono de conocimientos a cualquier comprobación de habilidades que hagas para tocar música con el instrumento. Cada tipo de instrumento musical requiere una habilidad distinta.
 
 #### Kit de envenenamiento
-Un kit de envenenamiento incluye los frascos, químicos y otros equipos necesarios para la creación de venenos. La competencia con este kit te permite añadir tu bono de competencia a cualquier comprobación de habilidad que hagas para crear o usar venenos.
+Un kit de envenenamiento incluye los frascos, químicos y otros equipos necesarios para la creación de venenos. La competencia con este kit te permite añadir tu Bonificador decompetencia a cualquier comprobación de habilidad que hagas para crear o usar venenos.
 
 #### Kit de seguridad
 Un kit de seguridad incluye las herramientas y los componentes electrónicos necesarios para evitar las cerraduras electrónicas y mecánicas. Incluye dispositivos sensores, un comunicador especializado diseñado para detectar alarmas silenciosas, un pequeño archivo, un juego de ganzúas, un pequeño espejo montado en un mango alargado, un juego de tijeras de hoja estrecha y un par de alicates. El dominio de estas herramientas te permite añadir tu bono de habilidad a cualquier control de habilidad que hagas para desarmar trampas o abrir cerraduras.
 
 #### Slicer's Kit
-Los cortadores usaban computadoras especializadas y teclas de codificación, muchas construidas por los mismos cortadores, para ganarse la vida en el mundo digital. Estos ordenadores fueron cuidadosamente custodiados y constantemente modificados y actualizados por el cortador, que rara vez discutió sus especificaciones excepto con personas de ideas afines. A menudo se utilizaban complejos códigos de acceso e incluso mecanismos de autodestrucción para evitar que la computadora de una rebanadora cayera en las manos equivocadas. La competencia con este kit le permite añadir su bono de competencia a cualquier comprobación de habilidad que haga para piratear ordenadores o burlar la seguridad.	
+Los cortadores usaban computadoras especializadas y teclas de codificación, muchas construidas por los mismos cortadores, para ganarse la vida en el mundo digital. Estos ordenadores fueron cuidadosamente custodiados y constantemente modificados y actualizados por el cortador, que rara vez discutió sus especificaciones excepto con personas de ideas afines. A menudo se utilizaban complejos códigos de acceso e incluso mecanismos de autodestrucción para evitar que la computadora de una rebanadora cayera en las manos equivocadas. La competencia con este kit le permite añadir su Bonificador decompetencia a cualquier comprobación de habilidad que haga para piratear ordenadores o burlar la seguridad.	
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div style='margin-top:26px'></div>
 
@@ -1068,7 +1068,7 @@ Un comerciante puede ser contratado por un individuo o una corporación para entr
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Droides
 Una forma común de gastar la riqueza es comprar droides. Algunos droides están construidos para la exploración, mientras que otros ofrecen habilidades avanzadas. Los droides de protocolo ayudan a comunicarse con cuerpos extraños, y los droides de combate pueden ayudar a complementar una fuerza en ciernes. La tabla de droides ofrece algunas opciones de compra.
@@ -1093,7 +1093,7 @@ Una buena montura puede ayudarte a moverte más rápido por el desierto, pero su p
 
 Un animal que tira de un carro o una carreta puede mover el peso hasta cinco veces su capacidad de carga base, incluido el peso del vehículo. Si varios animales tiran del mismo vehículo, pueden sumar su capacidad de carga.
 
-Las monturas que no están en la lista están disponibles en los mundos de *Guerra de las Galaxias*, pero son raras y normalmente no están disponibles para su compra, como la aiwhas de Kamino. Adquirir una de estas monturas es a menudo una aventura en sí misma.
+Las monturas que no están en la lista están disponibles en los mundos de *Star Wars*, pero son raras y normalmente no están disponibles para su compra, como la aiwhas de Kamino. Adquirir una de estas monturas es a menudo una aventura en sí misma.
 
 Las monturas se rigen por la competencia en el manejo de animales.
 
@@ -1108,7 +1108,7 @@ Una silla militar sujeta al jinete, ayudándole a mantener su asiento en una mont
 <div style='margin-top:28px'></div>
 
 ##### Mounts and Other Animals
-|	Item			|	Cost	|&nbsp;&nbsp;	|	Speed	|	Carrying Capacity	|
+|	Item			|	Cost	|&nbsp;&nbsp;	|	Velocidad	|	Carrying Capacity	|
 |	:--				|	--:		|:--:			|	:--:	|	--:					|
 |	Tauntaun		|	500 cr	|				|	50 ft.	|	480 lb	|
 |	Kaadu       	|	450 cr	|				|	40 ft.	|	620 lb	|
@@ -1138,17 +1138,17 @@ Una silla militar sujeta al jinete, ayudándole a mantener su asiento en una mont
 Los vehículos son más comunes en los planetas civilizados que las monturas de animales. Los vehículos no tienen acceso a los bardos y no requieren de monturas. Los vehículos varían enormemente en función del precio, la velocidad, la capacidad de carga, la capacidad de personal y los armamentos (si los hay). A continuación figuran algunos costos básicos de los tipos estándar de velocímetro.	
 
 ##### Vehicles											
-|	Item	    	|	Cost	    |	Speed	|
+|	Item	    	|	Cost	    |	Velocidad	|
 |	:--	        	|	--:	        |	--:	    |
-|   Airspeeder      |  14,500 cr    |   750 mph |
-|   Landspeeder     |  10,000 cr    |   220 mph |
-|	Speederbike    	|	6,000 cr	|	300 mph	|	
+|   AirVelocidader      |  14,500 cr    |   750 mph |
+|   LandVelocidader     |  10,000 cr    |   220 mph |
+|	Velocidaderbike    	|	6,000 cr	|	300 mph	|	
 
 <img src='https://www.gmbinder.com/images/xMlAJr5.png' style='position:absolute;bottom:-130px;right:10px;width:550px;transform:scaleX(-1)' />
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Gastos					
 Cuando no se desciende a las profundidades de la tierra, se exploran las ruinas en busca de tesoros perdidos, o se hace la guerra contra la oscuridad invasora, los aventureros se enfrentan a realidades más mundanas. Incluso en un mundo fantástico, la gente requiere necesidades básicas como refugio, sustento y ropa. Estas cosas cuestan dinero, aunque algunos estilos de vida cuestan más que otros.
@@ -1200,7 +1200,7 @@ Vives una vida de abundancia y comodidad. Te mueves en círculos poblados por la 
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Food, Drink, and Lodging					
 La mesa de comida, bebida y alojamiento da los precios de los alimentos individuales y de una sola noche de alojamiento. Estos precios están incluidos en los gastos totales de su estilo de vida.
@@ -1248,12 +1248,12 @@ Los aventureros pueden pagar a personajes no jugadores para que les ayuden o act
 
 Algunos de los tipos más básicos de contratados aparecen en la tabla de Servicios. Otros asalariados comunes incluyen a cualquiera de la amplia variedad de personas que habitan en un pueblo o ciudad típica, cuando los aventureros les pagan para realizar una tarea específica. Por ejemplo, un luchador puede encargar a un técnico en armamento la fabricación de una vibroblade especial, mientras que un erudito puede pagar a un sastre para que haga ropa exquisita para una próxima reunión con un senador. 
 
-Otros asalariados proporcionan servicios más expertos o peligrosos. Los soldados mercenarios pagados para ayudar a los aventureros a enfrentarse a un ejército trandoshan son mercenarios, así como los sabios contratados para investigar las tradiciones antiguas o esotéricas. Si un aventurero de alto nivel establece una fortaleza de algún tipo, puede contratar a todo un equipo de sirvientes y agentes para dirigir el lugar, desde un castellano o un mayordomo hasta trabajadores serviles para mantener las instalaciones limpias. Estos contratados a menudo disfrutan de un contrato a largo plazo que incluye un lugar para vivir dentro de la fortaleza como parte de la compensación ofrecida.
+Otros asalariados proporcionan servicios más expertos o peligrosos. Los soldados mercenarios pagados para ayudar a los aventureros a enfrentarse a un ejército trandoshan son mercenarios, así como los sabios contratados para investigar las tradiciones antiguas o esotéricas. Si un aventurero de alto nivel establece una fortaleza de algún tipo, puede contratar a todo un equipo de sirvientes y Edadntes para dirigir el lugar, desde un castellano o un mayordomo hasta trabajadores serviles para mantener las instalaciones limpias. Estos contratados a menudo disfrutan de un contrato a largo plazo que incluye un lugar para vivir dentro de la fortaleza como parte de la compensación ofrecida.
 
 ##### Services
 |	Service		|	Cost	|
 |	:--		|	:--	|
-|	_Speeder_		|		|
+|	_Velocidader_		|		|
 |	&emsp;	Between towns	|	3 cr per mile	|
 |	&emsp;	Within a city	|   2 cr	|
 |	_Hireling_		|		|
@@ -1267,4 +1267,4 @@ Otros asalariados proporcionan servicios más expertos o peligrosos. Los soldados
 
 <div class='footnote'>CAPITULO 5 | EQUIPO</div>
 
-\pagebreakNum
+\pEdadbreakNum

@@ -58,7 +58,7 @@ El GM podría exigirle que utilice una acción para cualquiera de estas actividade
 
 <div class='footnote'>CAPITULO 9 | COMBATE</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div style='margin-top:23px'></div>
 
@@ -134,7 +134,7 @@ Para moverse mientras se está propenso, debes arrastrarte o usar los poderes que
 
 <div class='footnote'>CAPITULO 9 | COMBATE</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Moviéndose alrededor de otras criaturas
 Puedes moverte a través del espacio de una criatura no hostil. Por el contrario, puedes moverte por el espacio de una criatura hostil sólo si la criatura es al menos dos tamaños más grande o más pequeña que tú. Recuerda que el espacio de otra criatura es un terreno difícil para ti.
@@ -146,7 +146,7 @@ Si dejas el alcance de una criatura hostil durante tu movimiento, provocas un at
 ### Flying Movement
 Las criaturas voladoras disfrutan de muchos beneficios de movilidad, pero también deben lidiar con el peligro de caídas. Si una criatura voladora es propensa a los golpes, tiene su velocidad reducida a 0, o es privada de la capacidad de moverse, la criatura cae, a menos que tenga la capacidad de flotar.
 
-### Creature Size
+### Creature TamaÃ±o
 Cada criatura ocupa una cantidad diferente de espacio. La tabla de categorías de tamaño muestra cuánto espacio controla una criatura de un tamaño determinado en el combate. Los objetos a veces usan las mismas categorías de tamaño.
 ##### Categorías de tamaño
 |...de la que se ha hecho cargo...
@@ -179,7 +179,7 @@ Una criatura puede apretarse a través de un espacio que es lo suficientemente gr
 > 
 > ***Squares.*** Cada cuadrado de la cuadrícula representa un metro y medio.
 > 
-> ***Speed.*** En lugar de moverse a pie, muévanse cuadrado a cuadrado en la cuadrícula. Esto significa que usas tu velocidad en segmentos de 1,5 metros. Esto es particularmente fácil si traduces tu velocidad en cuadrados dividiendo la velocidad por 5. Por ejemplo, una velocidad de 30 pies se traduce en una velocidad de 6 cuadrados.
+> ***Velocidad.*** En lugar de moverse a pie, muévanse cuadrado a cuadrado en la cuadrícula. Esto significa que usas tu velocidad en segmentos de 1,5 metros. Esto es particularmente fácil si traduces tu velocidad en cuadrados dividiendo la velocidad por 5. Por ejemplo, una velocidad de 30 pies se traduce en una velocidad de 6 cuadrados.
 > 
 > Si usas una cuadrícula a menudo, considera escribir tu velocidad en cuadrados en tu hoja de personaje.
 > 
@@ -203,7 +203,7 @@ Con esta acción, haces un ataque cuerpo a cuerpo o a distancia. Ver la sección "
 
 <div class='footnote'>CAPITULO 9 | COMBATE</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 &emsp;Ciertas características, como la característica de Ataque Extra del combatiente, le permiten hacer más de un ataque con esta acción.
 
@@ -215,7 +215,7 @@ Cuando haces la acción Dash, obtienes un movimiento extra para el turno actual. 
 
 Cualquier aumento o disminución de la velocidad cambia este movimiento adicional en la misma cantidad. Si su velocidad de 30 pies se reduce a 15 pies, por ejemplo, usted puede moverse hasta 30 pies en este giro si se precipita.
 
-### Disengage
+### DisengEdad
 Si tomas la acción de Desacoplamiento, tu movimiento no provoca ataques de oportunidad para el resto del turno.
 
 ### Dodge
@@ -255,7 +255,7 @@ Normalmente se interactúa con un objeto mientras se hace otra cosa, como cuando 
 
 <div class='footnote'>CAPITULO 9 | COMBATE</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Making an Attack
 Ya sea que estés atacando con un arma de combate cuerpo a cuerpo, disparando un arma a distancia, o haciendo una tirada de ataque como parte de un poder, un ataque tiene una estructura simple.
@@ -317,7 +317,7 @@ Puedes evitar provocar un ataque de oportunidad tomando la acción de Desenganche
 
 <div class='footnote'>CAPITULO 9 | COMBATE</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Grappling
 Cuando quieras agarrar una criatura o luchar con ella, puedes usar la acción Ataque para hacer un ataque especial de cuerpo a cuerpo, un forcejeo. Si eres capaz de hacer múltiples ataques con la acción Ataque, este ataque reemplaza a uno de ellos.
@@ -362,7 +362,7 @@ Un objetivo con **tres cuartas partes de cobertura** tiene una bonificación de +
 
 Un objetivo con **cobertura total** no puede ser objetivo directo de un ataque o de una potencia, aunque algunas potencias pueden llegar a tal objetivo incluyéndolo en un área de efecto. Un objetivo tiene cobertura total si está completamente oculto por un obstáculo.
 
-## Damage and Healing
+## DamEdad and Healing
 Las lesiones y el riesgo de muerte son compañeros constantes de quienes exploran los mundos de D&D. El empuje de una vibroespada, un disparo bien colocado, o el choque de un rayo de un *shock* de potencia, todos tienen el potencial de dañar, o incluso matar, a la más resistente de las criaturas.
 
 ### Hit Points
@@ -374,11 +374,11 @@ Cada vez que una criatura recibe un daño, ese daño se resta de sus puntos de imp
 
 <div class='footnote'>CAPITULO 9 | COMBATE</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 <div style='margin-top:20px'></div>
 
-### Damage Rolls
+### DamEdad Rolls
 Cada arma, poder y habilidad de un monstruo dañino especifica el daño que causa. Lanzas el dado o los dados de daño, añades los modificadores y aplicas el daño a tu objetivo. Las armas modificadas, las habilidades especiales y otros factores pueden otorgar una bonificación al daño.
 
 Cuando se ataca con un **arma,** se añade al daño el modificador de habilidad, el mismo que se usa para la tirada de ataque. Un **poder** te dice qué dados tirar para hacer daño y si debes añadir algún modificador.
@@ -421,7 +421,7 @@ Los tipos de daño siguen, con ejemplos para ayudar a un GM a asignar un tipo de 
 
 \columnbreak
 
-### Damage Resistance and Vulnerability
+### DamEdad Resistance and Vulnerability
 Algunas criaturas y objetos son extremadamente difíciles o inusualmente fáciles de lastimar con ciertos tipos de daño. Si una criatura o un objeto tiene resistencia a un tipo de daño, el daño de ese tipo se reduce a la mitad en su contra. Si una criatura o un objeto es vulnerable a un tipo de daño, el daño de ese tipo se duplica en su contra.
 
 La resistencia y luego la vulnerabilidad se aplican después de todos los demás modificadores al daño. Por ejemplo, una criatura tiene resistencia al daño cinético y es golpeada por un ataque que causa 25 daños cinéticos. La criatura también está dentro de un aura que reduce todo el daño en 5. El daño de 25 se reduce primero en 5 y luego a la mitad, por lo que la criatura recibe 10 de daño.
@@ -446,7 +446,7 @@ Cuando caes a 0 puntos de golpe, mueres directamente o caes inconsciente, como s
 
 <div class='footnote'>CAPITULO 9 | COMBATE</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 #### Instantánea Muerte
 El daño masivo puede matarte instantáneamente. Cuando el daño se reduce a 0 puntos de golpe y queda daño restante, mueres si el daño restante es igual o superior al máximo de tu punto de golpe.
@@ -484,7 +484,7 @@ A veces un atacante quiere incapacitar a un enemigo, en lugar de dar un golpe mo
 
 <div class='footnote'>CAPITULO 9 | COMBATE</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Temporary Hit Points
 Algunos poderes y habilidades especiales confieren puntos de golpe temporales a una criatura. Los puntos de golpe temporales no son puntos de golpe reales; son un amortiguador del daño, un conjunto de puntos de golpe que te protegen de las lesiones.
@@ -537,4 +537,4 @@ Las criaturas y los objetos que están totalmente sumergidos en el agua tienen re
 
 <div class='footnote'>CAPITULO 9 | COMBATE</div>
 
-\pagebreakNum
+\pEdadbreakNum

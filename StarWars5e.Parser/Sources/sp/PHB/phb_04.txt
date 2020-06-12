@@ -64,14 +64,14 @@ Para muchas criaturas pensantes, la alineación es una elección moral. Los humano
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ### Idiomas
 Tu especie indica los idiomas que tu personaje puede hablar por defecto, y tus antecedentes pueden darte acceso a uno o más idiomas adicionales de tu elección. Anota estos idiomas en tu hoja de personaje.
 
 Elija sus idiomas en función de las especies con las que suele interactuar. Si tienes un compañero wookiee, podrías entender, si no hablar, el idioma de los sirios. Alternativamente, si comúnmente comercias con Jawas, podrías hablar Jawaese.
 
-Una lista de los idiomas más comúnmente hablados de *Guerra de las Galaxias* se puede encontrar más abajo en la tabla de Idiomas Comunes.
+Una lista de los idiomas más comúnmente hablados de *Star Wars* se puede encontrar más abajo en la tabla de Idiomas Comunes.
 
 ##### Lenguas comunes
 
@@ -136,7 +136,7 @@ Finalmente, elige un defecto para tu personaje. El defecto de tu personaje repre
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Inspiración
 La inspiración es una regla que el maestro del juego puede utilizar para recompensarte por jugar con tu personaje de una forma que sea fiel a sus rasgos de personalidad, ideal, vínculo y defecto. Al usar la inspiración, puedes recurrir a tu rasgo de personalidad de compasión por los oprimidos para darte una ventaja en la negociación con el Príncipe Mendigo. O la inspiración puede permitirte recurrir a tu vínculo con la defensa de tu pueblo natal para superar el efecto de un poder que se te ha impuesto.
@@ -152,7 +152,7 @@ Si tienes inspiración, puedes gastarla cuando hagas una tirada de ataque, un lan
 Además, si tienes inspiración, puedes recompensar a otro jugador por su buen juego de rol, su pensamiento inteligente o simplemente por hacer algo emocionante en el juego. Cuando el personaje de otro jugador hace algo que realmente contribuye a la historia de una forma divertida e interesante, puedes renunciar a tu inspiración para darle inspiración a ese personaje.
 
 ## Backgrounds
-Cada historia tiene un principio. Los antecedentes de tu personaje revelan de dónde vienes, cómo te convertiste en aventurero y tu lugar en el mundo. Tu luchador podría haber sido un luchador de la mina o un soldado canoso. Tu consular podría haber sido un estudiante o un enviado. Tu operativo podría haber sobrevivido como agente del gobierno o haber comandado audiencias como animador.
+Cada historia tiene un principio. Los antecedentes de tu personaje revelan de dónde vienes, cómo te convertiste en aventurero y tu lugar en el mundo. Tu luchador podría haber sido un luchador de la mina o un soldado canoso. Tu consular podría haber sido un estudiante o un enviado. Tu operativo podría haber sobrevivido como Edadnte del gobierno o haber comandado audiencias como animador.
 
 Elegir un fondo te proporciona importantes pistas de historia sobre la identidad de tu personaje. La pregunta más importante que debes hacerte sobre tu trasfondo es ¿qué ha cambiado? ¿Por qué dejaste de hacer lo que sea que describe tu pasado y empezaste a aventurarte? ¿De dónde sacaste el dinero para comprar tu equipo de arranque, o, si vienes de un entorno rico, por qué no tienes más dinero? ¿Cómo aprendiste las habilidades de tu clase? ¿Qué te diferencia de la gente común y corriente que comparte tus antecedentes?
 
@@ -186,17 +186,17 @@ Puede que quieras retocar algunas de las características de un fondo para que se
 
 <img src='https://www.gmbinder.com/images/fCleZ2B.png' style='position:absolute;bottom:-30px;right:0px;width:855px;transform:scaleX(-1);z-index:1000;' />
 
-\pagebreakNum
+\pEdadbreakNum
 
-## Agente
-Muchas organizaciones activas en la galaxia no están sujetas a las restricciones de la geografía. Estas facciones llevan a cabo sus programas sin tener en cuenta las fronteras políticas, y sus miembros operan en cualquier lugar que la organización considere necesario. Estos grupos emplean a oyentes, rumiantes, contrabandistas, mercenarios, guardianes de alijos (personas que custodian alijos de riqueza o artículos para uso de los operativos de la facción), guardianes de refugios, y cuidadores de mensajes, por nombrar algunos. En el centro de cada facción están aquellos que no sólo cumplen una pequeña función para esa organización, sino que sirven como sus manos, cabeza y corazón. Como preludio a su carrera aventurera (y en preparación para ella), usted sirvió como agente de una facción en particular. Podrías haber operado abiertamente o en secreto, dependiendo de la facción y sus objetivos, así como de cómo esos objetivos encajan con los tuyos. Convertirse en un aventurero no requiere necesariamente que renuncies a ser miembro de tu facción (aunque puedes elegir hacerlo), y puede mejorar tu estatus en la facción.
+## Edadnte
+Muchas organizaciones activas en la galaxia no están sujetas a las restricciones de la geografía. Estas facciones llevan a cabo sus programas sin tener en cuenta las fronteras políticas, y sus miembros operan en cualquier lugar que la organización considere necesario. Estos grupos emplean a oyentes, rumiantes, contrabandistas, mercenarios, guardianes de alijos (personas que custodian alijos de riqueza o artículos para uso de los operativos de la facción), guardianes de refugios, y cuidadores de mensajes, por nombrar algunos. En el centro de cada facción están aquellos que no sólo cumplen una pequeña función para esa organización, sino que sirven como sus manos, cabeza y corazón. Como preludio a su carrera aventurera (y en preparación para ella), usted sirvió como Edadnte de una facción en particular. Podrías haber operado abiertamente o en secreto, dependiendo de la facción y sus objetivos, así como de cómo esos objetivos encajan con los tuyos. Convertirse en un aventurero no requiere necesariamente que renuncies a ser miembro de tu facción (aunque puedes elegir hacerlo), y puede mejorar tu estatus en la facción.
 ___
 - **Skill Proficiencies:** Elija dos de Decepción, Investigación, Conocimiento y Persuasión
 - **Idiomas:** Dos de tu elección
 - **Equipamiento:** Placa o emblema de su facción, una copia de un texto seminal de la facción (o un libro de códigos para una facción encubierta), un conjunto de ropa común, y una bolsa que contiene 150 cr
 
 ### Feature: Refugio seguro
-Como agente de una facción, tienes acceso a una red secreta de partidarios y operativos que pueden ayudarte en tus aventuras. Conoces un conjunto de señales y contraseñas secretas que puedes usar para identificar a dichos operativos, que pueden proporcionarte acceso a una casa segura oculta, alojamiento y comida gratis, o ayuda para encontrar información. Estos agentes nunca arriesgan sus vidas por ti o se arriesgan a revelar sus verdaderas identidades.
+Como Edadnte de una facción, tienes acceso a una red secreta de partidarios y operativos que pueden ayudarte en tus aventuras. Conoces un conjunto de señales y contraseñas secretas que puedes usar para identificar a dichos operativos, que pueden proporcionarte acceso a una casa segura oculta, alojamiento y comida gratis, o ayuda para encontrar información. Estos Edadntes nunca arriesgan sus vidas por ti o se arriesgan a revelar sus verdaderas identidades.
 
 ### Background Feat
 Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
@@ -220,7 +220,7 @@ Como una encarnación más de la experiencia y el entrenamiento de sus antecedente
 </div>
 
 #### Características sugeridas
-Los agentes están formados por su experiencia en las comunidades de su facción. Su estudio de la historia y los principios de su facción y sus relaciones con ella afectan a sus manierismos e ideales. Sus defectos pueden ser una hipocresía oculta o una idea herética, o un ideal o un vínculo llevado al extremo.
+Los Edadntes están formados por su experiencia en las comunidades de su facción. Su estudio de la historia y los principios de su facción y sus relaciones con ella afectan a sus manierismos e ideales. Sus defectos pueden ser una hipocresía oculta o una idea herética, o un ideal o un vínculo llevado al extremo.
 
 \columnbreak
 
@@ -266,16 +266,16 @@ Los agentes están formados por su experiencia en las comunidades de su facción. 
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Cazador de recompensas 
 Antes de convertirse en aventurero, su vida ya estaba llena de conflictos y emociones, porque se ganaba la vida rastreando gente por dinero. A diferencia de algunas personas que recogen recompensas, sin embargo, no eres un salvaje que sigue a la cantera en o a través de la naturaleza. Estás involucrado en un lucrativo negocio, en el lugar donde vives, que rutinariamente pone a prueba tus habilidades e instintos de supervivencia. Además, no estás solo, como lo estaría un cazarrecompensas en la naturaleza: interactúas rutinariamente tanto con la subcultura criminal como con otros cazarrecompensas, manteniendo contactos en ambas áreas para ayudarte a tener éxito.
 
-Podrías ser un astuto cazador de ladrones, merodeando por los tejados para atrapar a uno de los innumerables ladrones de la ciudad. Quizás eres alguien que tiene el oído en la calle, consciente de las acciones de las bandas callejeras. Puede que seas un cazarrecompensas de "máscara de terciopelo", uno que se mezcla con la alta sociedad y los círculos nobles para atrapar a los criminales que se aprovechan de los ricos, ya sean carteristas o estafadores. Como miembro de un grupo de aventureros, puede que le resulte más difícil seguir una agenda personal que no encaje con los objetivos del grupo, pero por otro lado, puede derribar objetivos mucho más formidables con la ayuda de sus compañeros.
+Podrías ser un astuto cazador de ladrones, merodeando por los tejados para atrapar a uno de los innumerables ladrones de la ciudad. Quizás eres alguien que tiene el oído en la calle, consciente de las acciones de las bandas callejeras. Puede que seas un cazarrecompensas de "máscara de terciopelo", uno que se mezcla con la alta sociedad y los círculos nobles para atrapar a los criminales que se aprovechan de los ricos, ya sean carteristas o estafadores. Como miembro de un grupo de aventureros, puede que le resulte más difícil seguir una Edadnda personal que no encaje con los objetivos del grupo, pero por otro lado, puede derribar objetivos mucho más formidables con la ayuda de sus compañeros.
 ___
 - **Skill Proficiencies:** Choose two from Deception, Insight, Persuasion, and Stealth
 - **Tool Proficiencies:** Your choice of demolitions kit, security kit, or slicer's kit
-- **Languages:** One of your choice
+- **Idiomas:** One of your choice
 - **Equipment:** A set of clothes appropriate to your duties, a set of binders, and a pouch containing 200 cr
 
 ### Feature: Oído a la tierra
@@ -349,7 +349,7 @@ Su vínculo puede involucrar a otros cazadores de recompensas o a las organizacio
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Criminal
 Usted es un criminal experimentado con un historial de violación de la ley. Has pasado mucho tiempo entre otros criminales y aún tienes contactos dentro del submundo criminal. Estás mucho más cerca que la mayoría de la gente del mundo del asesinato, el robo y la violencia que impregna los bajos fondos de la civilización, y has sobrevivido hasta este punto burlándote de las reglas y regulaciones de la sociedad.
@@ -450,7 +450,7 @@ Los criminales pueden parecer villanos en la superficie, y muchos de ellos son v
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Entertainer
 Uno prospera frente a un público, sabiendo cómo entrar en él, entretenerlo e incluso inspirarlo. Tu poética puede conmover los corazones de los que te escuchan, despertando la pena o la alegría, la risa o la ira. Tu música eleva sus espíritus o captura su dolor. Tus pasos de baile cautivan, tu humor corta a lo rápido. Cualquiera que sea la técnica que uses, tu arte es tu vida.
@@ -553,7 +553,7 @@ Los artistas de éxito tienen que ser capaces de captar y mantener la atención de
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Gambler
 Eres un hábil jugador que pasa la mayor parte de su tiempo en casinos, bares y salas de juego. ¿Sus actividades son legales, o infringe la ley? ¿Alguna vez has hecho trampa en un juego, o juegas según las reglas? No importa lo que pase, su vida ha sido una de excitación, azar y peligro.
@@ -633,7 +633,7 @@ El juego es tu pasión, para bien o para mal. La mayoría de los jugadores ven sus
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Jedi
 Eres un devoto seguidor de la Orden Jedi: una antigua organización monástica de mantenimiento de la paz unida en su observancia del lado de la luz de la Fuerza. Una noble orden de protectores conocidos por su habilidad para aprovechar el poder de la Fuerza, los Jedi sirven como guardianes de la paz y la justicia en la República Galáctica. Siguen el Código Jedi:
@@ -727,7 +727,7 @@ Los Jedi se forman por su experiencia en su templo. Su estudio de la historia y 
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Mandalorian
 Eres un hijo de Mandalore. Como miembro de la cultura guerrera más renombrada de la historia, tu pueblo es conocido por ser fuerte y resistente. La cultura mandaloriana se construye alrededor del honor y la gloria que se obtienen de la victoria en la batalla.
@@ -830,7 +830,7 @@ Los mandalorianos son una meritocracia donde el lugar de nacimiento, el rango, e
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Mercenario
 Como un vendedor de espadas que luchó en batallas por monedas, estás bien familiarizado con arriesgar la vida y la integridad física por una oportunidad de compartir un tesoro. Ahora, espera luchar contra los enemigos y cosechar mayores recompensas como aventurero. Tu experiencia te hace familiar con los entresijos de la vida de mercenario, y probablemente tengas historias horribles de eventos en el campo de batalla. Puede que hayas servido con un gran equipo o con un grupo más pequeño de espadas de venta, tal vez incluso más de uno. 
@@ -880,7 +880,7 @@ Los mercenarios están formados por su naturaleza vivaz, para bien y para mal. Ti
 |3|I face problems head-on. A simple, direct solution is the best path to success.|
 |4|I find it good luck to have a flask of ale on me even when the most of my other belongings are gone.|
 |5|I ask a lot of questions.|
-|6|I never pass up a friendly wager.|
+|6|I never pass up a friendly wEdadr.|
 |7|I am always polite and respectful when speaking to those above my station.|
 |8|I like a job well done, especially if I'm not the one doing it.|
 
@@ -913,7 +913,7 @@ Los mercenarios están formados por su naturaleza vivaz, para bien y para mal. Ti
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Noble
 Entiendes la riqueza, el poder y los privilegios. Tienes un título de nobleza, y tu familia posee tierras, recauda impuestos y ejerce una importante influencia política. Puedes ser un aristócrata mimado que no está familiarizado con el trabajo manual, un antiguo comerciante recién elevado a la nobleza, o un honesto y trabajador terrateniente que se preocupa profundamente por la gente que vive y trabaja en tu tierra.
@@ -1004,7 +1004,7 @@ Los nobles nacen y se crían con un estilo de vida muy diferente al que la mayorí
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Científico
 Nada te excita más que empujar los límites del conocimiento científico. La mayor parte del tiempo se pasa en un laboratorio realizando experimentos para fomentar sus intereses. Pocas personas entienden el trabajo que haces. Puedes resolver problemas complejos que la mayoría de la gente no puede empezar a entender, y puedes resolver problemas simples de maneras inesperadas que sorprenden a la mayoría de la gente. 
@@ -1109,7 +1109,7 @@ Los científicos se interesan por cosas que a la mayoría no les importan. Su inve
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Sinvergüenza
 Siempre has tenido una forma de tratar a la gente. Puedes sacar los deseos de su corazón después de unos minutos de conversación, y con unas cuantas preguntas guía puedes leerlos como si fueran libros para niños. Es un talento útil, y uno que estás perfectamente dispuesto a usar para tu beneficio. Sabes lo que la gente quiere y prometes cumplirlo, persuadiendo a la gente para que tome decisiones tontas. Haces que lo improbable suene plausible, y te adelantas a cada trato.
@@ -1205,7 +1205,7 @@ Los sinvergüenzas son personajes coloridos que ocultan su verdadero ser detrás d
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Sith
 Eres un acólito de la Orden Sith: una antigua orden de guerreros dedicados al lado oscuro de la Fuerza. Emergiendo como una facción divergente de la Orden Jedi, los Sith son enemigos mortales de los Jedi y luchan contra ellos. Impulsados por emociones como el odio, la ira y la codicia, los Sith son engañosos y están obsesionados con acumular poder a cualquier precio. Sigues el Código Sith:
@@ -1300,7 +1300,7 @@ Los Sith están formados por su entrenamiento. Estudian el código Sith y lo usan 
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Contrabandista
 Has pasado tu vida escondiéndote en la oscuridad, haciendo tratos turbios a puerta cerrada. ¿Qué te llevó a comprometerte en una vida de crimen? ¿Anhela la emoción de violar la ley, o entró en la profesión para pagar una deuda, arriesgando su pellejo en nombre de un noble menos honorable? Un contrabandista es un individuo entrenado en el arte de la adquisición, un matón profesional que puede entregar cualquier cosa... por un precio. Los contrabandistas tienden a ser criminales más audaces que la mayoría, prefiriendo el soborno o la distracción al subterfugio y el sigilo.
@@ -1380,7 +1380,7 @@ Los contrabandistas pueden parecer villanos en la superficie, y muchos de ellos 
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Soldado
 La guerra ha sido tu vida desde que te preocupas por recordar. Te entrenaste de joven, estudiaste el uso de armas y armaduras, aprendiste técnicas básicas de supervivencia, incluyendo cómo mantenerte vivo en el campo de batalla. Puede que hayas formado parte de un ejército nacional permanente, una compañía de mercenarios, o quizás un miembro de una milicia local que se hizo famosa durante una guerra reciente.
@@ -1449,7 +1449,7 @@ Los horrores de la guerra combinados con la rígida disciplina del servicio milit
 |d8|Personality Trait|
 |:---:|:----------|
 |1|I'm always polite and respectful.|
-|2|I'm haunted by memories of war. I can't get the images of violence out of my mind.|
+|2|I'm haunted by memories of war. I can't get the imagess of violence out of my mind.|
 |3|I've lost too many friends, and I'm slow to make new ones.|
 |4|I'm full of inspiring and cautionary tales from my military experience relevant to almost every combat situation.|
 |5|I can stare down a hell hound without flinching.|
@@ -1486,7 +1486,7 @@ Los horrores de la guerra combinados con la rígida disciplina del servicio milit
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
 
 ## Spacer
 A bordo de una nave estelar en el frío vacío del espacio es donde te sientes más a gusto. Has pasado la mayor parte de tu vida viajando por las estrellas. La vida a bordo de las naves te ha dado una buena comprensión de su funcionamiento interno. Puede ser especialmente hábil como mecánico de naves, piloto o personal de apoyo.
@@ -1555,7 +1555,7 @@ Los espaciadores provienen de todas las clases sociales, y las responsabilidades
 |3|I enjoy traveling into new systems and making new friends over a drink.|
 |4|I stretch the truth for the sake of a good story.|
 |5|To me, a bar brawl is a nice way to get to know a new city.|
-|6|I never pass up a friendly wager.|
+|6|I never pass up a friendly wEdadr.|
 |7|The best way to get me to do something is to tell me I can't do it.|
 |8|I like a job well done, especially if I can convince someone else to do it.|
 
@@ -1581,11 +1581,11 @@ Los espaciadores provienen de todas las clases sociales, y las responsabilidades
 |:---:|:----------|
 |1|	I follow orders, even if I think they're wrong.|
 |2|	I'll say anything to avoid having to do extra work.|
-|3|Once someone questions my courage, I never back down no matter how dangerous the situation.|
+|3|Once someone questions my courEdad, I never back down no matter how dangerous the situation.|
 |4|	Once I start drinking, it's hard for me to stop.|
 |5|	I can't help but pocket loose coins and other trinkets I come across.|
 |6|My pride will probably lead to my destruction.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pagebreakNum
+\pEdadbreakNum
