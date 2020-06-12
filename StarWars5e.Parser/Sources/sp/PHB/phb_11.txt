@@ -1,28 +1,28 @@
 
 
-# Chapter 11: Force Powers
+# Capítulo 11: Poderes de la Fuerza
 
 <div style='column-count:4' class='wide'>
 
 #### At-Will
 ___
-- Affect Mind
+- Afecta a la mente
 - Burst
-- <div style="color:red">Denounce</div>
+- <div style="color:red">Denunciar</div>
 - <div style="color:red">Enfeeble</div>
 - <div style="color:red">Feedback</div>
-- Force Disarm
-- Force Push/Pull
-- <div style="color:blue">Force Technique</div>
-- <div style="color:blue">Give Life</div>
-- <div style="color:blue">Guidance</div>
-- <div style="color:red">Lightning Charge</div>
-- Mind Trick
-- <div style="color:red">Necrotic Charge</div>
-- <div style="color:red">Psychic Charge</div>
-- Resistance
-- Saber Reflect
-- Saber Throw
+- Desarmar la fuerza
+- Fuerza Empuje/Tire
+- <div style="color:blue">Técnica de fuerza</div>
+- <div style="color:blue">Dar Vida</div>
+- <div style="color:blue">Orientación</div>
+- <div style="color:red">Carga del rayo</div>
+- Truco de la mente
+- <div style="color:red">Carga necrótica</div>
+- <div style="color:red">Carga Psíquica</div>
+- Resistencia
+- Reflejo del sable
+- Lanzamiento de sable
 - Saber Ward
 - <div style="color:red">Shock</div>
 - <div style="color:red">Slow</div>
@@ -30,22 +30,22 @@ ___
 - <div style="color:blue">Spare the Dying</div>
 - <div style="color:blue">Turbulence</div>
 
-#### 1st-level
+#### 1er nivel
 ___
-- Battle Precognition
+- Precognición de la batalla
 - <div style="color:blue">Beast Trick</div>
-- Breath Control
-- Burst of Speed
+- Control de la respiración
+- Ráfaga de velocidad
 - <div style="color:blue">Cloud Mind</div>
 - <div style="color:red">Curse</div>
 - <div style="color:red">Dark Side Tendrils</div>
-- Disperse Force
-- <div style="color:red">Fear</div>
-- Force Body
-- Force Jump
-- Force Mask
+- Fuerza de dispersión
+- <div style="color:red">Miedo</div>
+- Cuerpo de la Fuerza
+- Salto de fuerza
+- Máscara de la Fuerza
 - <div style="color:blue">Heal</div>
-- <div style="color:blue">Heroism</div>
+- <div style="color:blue">Heroísmo</div>
 - <div style="color:red">Hex</div>
 - <div style="color:red">Improved Feedback</div>
 - Phasestrike
@@ -56,14 +56,14 @@ ___
 \columnbreak
 
 ___
-- Sense Emotion
-- Sense Force
-- Slow Descent
-- Tremor
+- Sentir la emoción
+- Fuerza de los Sentidos
+- Descenso lento
+- Temblor
 - <div style="color:blue">Valor</div>
 - <div style="color:red">Wound</div>
 
-#### 2nd-level
+#### 2º nivel
 ___
 - <div style="color:red">Affliction</div>
 - Animate Weapon
@@ -90,7 +90,7 @@ ___
 - <div style="color:blue">Stun</div>
 - <div style="color:blue">Stun Droid</div>
 
-#### 3rd-level
+#### 3er nivel
 ___
 - <div style="color:blue">Aura of Vigor</div>
 - <div style="color:blue">Beacon of Hope</div>
@@ -211,7 +211,7 @@ ___
 
 <img src='https://www.gmbinder.com/images/hBOGYMT.png' style='position:absolute;bottom:-10px;right:110px;width:880px;z-index:1000;' />
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
@@ -222,9 +222,9 @@ ___
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
 
-Choose a target within range that isn't hostile toward you. The target must make a Wisdom saving throw. On a failed save, you have advantage on all Charisma checks directed at that target. 
+Elija un objetivo dentro del rango que no sea hostil hacia usted. El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, tienes ventaja en todos los chequeos de Carisma dirigidos a ese objetivo. 
 
-On a successful save, the creature does not realize that you tried to use the Force to influence its mood, but it becomes immune to this power for one day. This power has no effect on droids or constructs.
+En una salvada exitosa, la criatura no se da cuenta que trató de usar la Fuerza para influenciar su estado de ánimo, pero se vuelve inmune a este poder por un día. Este poder no tiene efecto sobre los droides o las construcciones.
 
 #### Affliction
 _2nd-level dark side power_
@@ -234,11 +234,11 @@ ___
 - **Range:** 30 feet
 - **Duration:** Concentration, up to 1 minute
 
-Choose a creature that you can see within range. That creature must make a Constitution saving throw. On a failed save, the target's speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or items, it can't make more than one melee or ranged attack during its turn.
+Elija una criatura que pueda ver dentro del rango. Esa criatura debe hacer un lanzamiento de ahorro de la Constitución. En una parada fallida, la velocidad del objetivo se reduce a la mitad, hace una penalización de -2 a los lanzamientos de salvamento de AC y Dexterity, y no puede usar reacciones. A su vez, puede usar una acción o una acción de bonificación, no ambas. Independientemente de las habilidades o los objetos de la criatura, no puede hacer más de un ataque cuerpo a cuerpo o a distancia durante su turno.
 
-If the creature attempts to cast a power with a casting time of 1 action, roll a d20. On an 11 or higher, the power doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the power. If it can't, the power is wasted.	
+Si la criatura intenta lanzar una potencia con un tiempo de lanzamiento de 1 acción, lanza un d20. En un 11 o más, el poder no tiene efecto hasta el siguiente turno de la criatura, y la criatura debe usar su acción en ese turno para completar el poder. Si no puede, el poder se desperdicia.	
 
-The creatures makes another Constitution saving throw at the end of its turn. On a successful save, the effect ends.
+Las criaturas hacen otro lanzamiento de ahorro de la Constitución al final de su turno. En una salvada exitosa, el efecto termina.
 
 #### Animate Weapon
 _2nd-level universal power_
@@ -248,15 +248,15 @@ ___
 - **Range:** 60 feet
 - **Duration:** 1 minute
 
-You select a melee weapon you wield, or one melee weapon within range that is not worn or carried by a conscious creature, and use the Force to cause it to levitate, acting as an extension of your will for the duration or until you cast this power again. When you use this power, you can cause the weapon to move up to 20 feet and make a melee force attack against a creature within 5 feet of it. On a hit, the target takes 1d8 + your forcecasting ability modifier damage. The type is of the normal damage dealt by the weapon.
+Seleccionas un arma de combate que empuñas, o un arma de combate dentro del rango que no es usada o llevada por una criatura consciente, y usas la Fuerza para hacerla levitar, actuando como una extensión de tu voluntad por la duración o hasta que lances este poder de nuevo. Cuando usas este poder, puedes hacer que el arma se mueva hasta 20 pies y hacer un ataque de fuerza cuerpo a cuerpo contra una criatura a 5 pies de distancia. En un golpe, el objetivo recibe 1d8 + tu daño de modificador de habilidad de pronóstico. El tipo es del daño normal que causa el arma.
 
-While the weapon is animated, on each of your turns you can use a bonus action to move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it. At any time, you can end this force power to return the animated weapon to your hand.
+Mientras el arma está animada, en cada uno de tus turnos puedes usar una acción extra para mover el arma hasta 20 pies y repetir el ataque contra una criatura a menos de 5 pies de distancia. En cualquier momento, puedes terminar este poder de fuerza para devolver el arma animada a tu mano.
 
 \columnbreak
 
 <div style='margin-top:16px'></div>
 
-&emsp;An enemy can attempt to gain control of the weapon by making a Strength (Athletics) check against your force save DC. On a success, the creature gains control of the weapon and the power ends.
+&emsp;Un enemigo puede intentar ganar el control del arma haciendo un chequeo de Fuerza (Atletismo) contra tu fuerza salvo DC. Si tiene éxito, la criatura obtiene el control del arma y el poder termina.
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, the weapon's damage increases by 1d8 for every two slot levels above 2nd.
 
@@ -278,7 +278,7 @@ ___
 - **Range:** Self (30-foot radius)
 - **Duration:** Concentration, up to 1 minute
 
-Envigorating energy radiates from you in a 30-foot radius. Until the power ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) deals an extra 1d4 damage with weapon attacks.
+La energía vigorizante irradia de ti en un radio de 30 pies. Hasta que la energía termina, el aura se mueve contigo, centrada en ti. Cada criatura no hostil en el aura (incluyéndote a ti) inflige un daño extra de 1d4 con los ataques de las armas.
 
 #### Battle Meditation
 _2nd-level universal power_
@@ -287,13 +287,13 @@ ___
 - **Range:** Self (5-foot radius)
 - **Duration:** Concentration, up to 1 minute
 
-You exude an aura out to 5 feet that boosts the morale and overall battle prowess you and your allies while simultaneously reducing the opposition's combat-effectiveness by eroding their will to fight. 
+Exudas un aura a 1,5 metros que eleva la moral y la destreza en la batalla en general, tanto tuya como de tus aliados, mientras que simultáneamente reduces la efectividad en el combate de la oposición al erosionar su voluntad de luchar. 
 
-Whenever you or a friendly creature within your meditation makes an attack roll or a saving throw, they can roll a d4 and add the number rolled to the attack roll or saving throw. 
+Cada vez que tú o una criatura amiga dentro de tu meditación hace una tirada de ataque o una tirada de salvamento, pueden tirar un d4 y sumar el número tirado a la tirada de ataque o a la tirada de salvamento. 
 
-Whenever a hostile creature starts enters your meditation or starts its turn there, it must make a Charisma saving throw. On a failed save, it must roll a d4 and subtract the number rolled from each attack roll or saving throw it makes before the end of your next turn. On a successful save, it is immune to this power for 1 day.
+Cada vez que una criatura hostil entra en tu meditación o comienza su turno allí, debe hacer un lanzamiento de ahorro de Carisma. En una salvada fallida, debe tirar un d4 y restar el número de cada tirada de ataque o salvada que haga antes del final de tu próximo turno. En una salvada exitosa, es inmune a este poder por un día.
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
@@ -304,42 +304,42 @@ ___
 - **Range:** Self
 - **Duration:** 8 hours
 
-Your attunement to the Force warns you when you are about to enter danger. Until the power ends, your base AC becomes 13 + your Dexterity modifier. This power has no effect if you are wearing armor.
+Su sintonía con la Fuerza le avisa cuando está a punto de entrar en peligro. Hasta que la energía termine, tu CA base se convierte en 13 + tu modificador de destreza. Este poder no tiene efecto si llevas una armadura.
 
 #### Beacon of Hope 
 _3rd-level light side power_
 ___
-- **Prerequisite:** Heroism 
-- **Casting Time:** 1 action 
-- **Range:** 30 feet 
-- **Duration:** Concentration, up to 1 minute
+- **Prerrequisito:** Heroísmo 
+- **Casting Time:** 1 acción 
+- **Rango:** 30 pies 
+- **Duración:** Concentración, hasta 1 minuto
 
-This power bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
+Este poder otorga esperanza y vitalidad. Elija cualquier número de criaturas dentro del rango. Durante el tiempo que dure, cada objetivo tiene ventaja en los lanzamientos de salvamento de la sabiduría y los lanzamientos de salvamento de la muerte, y recupera el máximo número de puntos de golpe posibles de cualquier curación.
 
 #### Beast Trick
 _1st-level light side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 30 feet
-- **Duration:** 24 hours
+- **Casting Time:** 1 acción
+- **Rango:** 30 pies
+- **Duración:** 24 horas
 
-This power lets you distract a beast. Choose a beast that you can see within range. If the beast's Intelligence is 4 or higher, the power fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the power's duration. If you or one of your companions harms the target, the power ends.
+Este poder te permite distraer a una bestia. Elige una bestia que puedas ver dentro del rango. Si la inteligencia de la bestia es 4 o más, el poder falla. De lo contrario, la bestia debe tener éxito en un lanzamiento de ahorro de sabiduría o ser encantada por ti durante la duración del poder. Si tú o uno de tus compañeros dañan al objetivo, el poder termina.
 
-***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
+***Cuando lanzas este poder usando un slot de fuerza de 2º nivel o superior, puedes afectar a una bestia adicional por cada slot de nivel superior al 1º.
 
 #### Bestow Curse
 _3rd-level dark side power_
 ___
-- **Prerequisite:** Curse
-- **Casting Time:** 1 action
-- **Range:** Touch
-- **Duration:** Concentration, up to 1 minute
+- **Prerrequisito:** Maldición
+- **Casting Time:** 1 acción
+- **Rango:** Toca
+- **Duración:** Concentración, hasta 1 minuto
 
-You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the power. When you cast this power, choose the nature of the curse from the following options:
-- Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
-- While cursed, the target has disadvantage on attack rolls against you.
-- While cursed, the target must make a Wisdom saving throw at the start of each of its turns. lf it fails, it wastes its action that turn doing nothing.
-- While the target is cursed, your attacks and powers deal an extra 1d8 necrotic damage to the target.
+Si tocas a una criatura, ésta debe tener éxito en un lanzamiento de salvación de la Sabiduría o ser maldecida mientras dure el poder. Cuando lances este poder, elige la naturaleza de la maldición entre las siguientes opciones:
+- Elija una puntuación de habilidad. Aunque está maldito, el objetivo tiene desventajas en los controles de habilidad y en los lanzamientos de salvamento hechos con esa puntuación de habilidad.
+- Mientras esté maldito, el objetivo tiene desventaja en las tiradas de ataque contra ti.
+- Mientras está maldito, el objetivo debe hacer un lanzamiento de salvación de la Sabiduría al comienzo de cada uno de sus giros. Si falla, desperdicia su acción que gira sin hacer nada.
+- Mientras el objetivo está maldito, tus ataques y poderes infligen un daño necrótico extra de 1d8 al objetivo.
 
 \columnbreak
 
@@ -354,76 +354,76 @@ ___
 - **Range:** Self
 - **Duration:** 10 minutes
 
-You are able to slow your metabolism in such a way that you can stop breathing and resist the effect of toxins in your body. If you are poisoned, you neutralize the poison. If more than one poison afflicts you, you neutralize one poison that you know is present, or you neutralize one at random.
+Es capaz de ralentizar su metabolismo de tal manera que puede dejar de respirar y resistir el efecto de las toxinas en su cuerpo. Si te envenenas, neutralizas el veneno. Si más de un veneno te aflige, neutralizas un veneno que sabes que está presente, o neutralizas uno al azar.
 
-For the duration, you have advantage on saving throws against being poisoned, resistance to poison damage, and you no longer need to breathe.
+Durante el tiempo que dure, tienes la ventaja de salvar los lanzamientos contra el envenenamiento, la resistencia a los daños del veneno, y ya no necesitas respirar.
 
 #### Burst
 _At-will universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Self (5-foot sphere)
-- **Duration:** Instantaneous	 
+- **Casting Time:** 1 acción
+- **Rango:** Auto (esfera de 5 pies)
+- **Duración:** Instantánea 
 
-You cause the earth to burst from beneath your feet. Each creature within range, other than you, must succeed on a Dexterity saving throw or take 1d6 kinetic damage.
+Haces que la tierra estalle bajo tus pies. Cada criatura dentro del rango, aparte de ti, debe tener éxito en un lanzamiento de ahorro de destreza o recibir 1d6 de daño cinético.
 
-This power's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+El daño de este poder aumenta en 1d6 cuando llegas al 5º nivel (2d6), 11º nivel (3d6) y 17º nivel (4d6).
 
 #### Burst of Speed
 _1st-level universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Touch
-- **Duration:** 1 hour 
+- **Casting Time:** 1 acción
+- **Rango:** Toca
+- **Duración:** 1 hora 
 
-You touch a creature. The target's speed increases by 10 feet until the power ends.
+Tocas una criatura. La velocidad del objetivo aumenta en 3 metros hasta que la potencia se acaba.
 
 ***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
 #### Calm Emotions
 _2nd-level light side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Concentration, up to 1 minute 
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Concentración, hasta 1 minuto 
 
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
-- You can suppress any effect causing a target to be charmed or frightened. When this power ends, any suppressed effect resumes, provided that its duration has not expired in the meantime. 
-- You can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a power or if it witnesses any of its friends being harmed. 
+Intentas suprimir las emociones fuertes en un grupo de personas. Cada humanoide en una esfera de 20 pies de radio centrada en un punto que usted elija dentro del rango debe hacer un lanzamiento salvador de Carisma una criatura puede elegir fallar este lanzamiento salvador si lo desea. Si una criatura falla su tiro salvador, elige uno de los dos efectos siguientes.
+- Puedes suprimir cualquier efecto que cause que un objetivo sea encantado o asustado. Cuando este poder termina, cualquier efecto suprimido se reanuda, siempre que su duración no haya expirado mientras tanto. 
+- Puedes hacer que un objetivo sea indiferente a las criaturas de tu elección hacia las que es hostil. Esta indiferencia termina si el objetivo es atacado o dañado por una potencia o si es testigo de que alguno de sus amigos es dañado. 
 
-When the power ends, the creature becomes hostile again, unless the GM rules otherwise.
+Cuando el poder termina, la criatura se vuelve hostil de nuevo, a menos que el GM decida lo contrario.
 
 #### Choke
 _3rd-level dark side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Instantaneous
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Instantánea
 
-You make a constricting gesture at a creature within range. The target must make a Constitution saving throw. On a failed save target takes 5d8 force damage and is restrained until the end of your next turn. On a successful save, the target takes half as much damage and is not restrained.
+Haces un gesto de constricción a una criatura a su alcance. El objetivo debe hacer un tiro de salvamento de la Constitución. Si el objetivo falla en el tiro de salvamento, recibirá 5d8 de daño y será retenido hasta el final de su próximo turno. En una salvada exitosa, el objetivo recibe la mitad del daño y no es retenido.
 
-You can use a bonus action while the target is restrained to move the target up to 5 feet in any direction.
+Puedes usar una acción extra mientras el objetivo está sujeto para moverlo hasta 5 pies en cualquier dirección.
 
 ***Force Potency.*** When you cast this power using a force slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 
 #### Cloud Mind
 _1st-level light side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 90 feet
-- **Duration:** 1 minute
+- **Casting Time:** 1 acción
+- **Alcance:** 90 pies
+- **Duración:** 1 minuto
 
-Roll 5d8; the total is how many hit points of creatures this power can affect. Creatures within 20 feet of a point you choose are affected in order of their current hit points.
+Rueda 5d8; el total es el número de puntos de golpe de las criaturas que este poder puede afectar. Las criaturas que se encuentren a menos de 6 metros de un punto elegido se verán afectadas en el orden de sus puntos de impacto actuales.
 
-Starting with the creature that has the lowest current hit points, each creature affected by this power falls unconscious. If the power ends, the sleeper takes damage, or someone uses an action wake the sleeper, they will be awoken.
+Empezando por la criatura que tiene los puntos de golpe de corriente más bajos, cada criatura afectada por este poder cae inconsciente. Si el poder termina, el durmiente sufre daños, o alguien usa una acción para despertar al durmiente, será despertado.
 
-Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected.
+Reste los puntos de golpe de cada criatura del total antes de pasar a la criatura con los siguientes puntos de golpe más bajos. Los puntos de impacto de una criatura deben ser iguales o menores que el total restante para que esa criatura se vea afectada.
 
-This power has no effect on droids or constructs.
+Este poder no tiene efecto sobre los droides o las construcciones.
 
 \columnbreak
 
@@ -434,380 +434,380 @@ This power has no effect on droids or constructs.
 #### Coerce Mind
 _2nd-level universal power_
 ___
-- **Prerequisite:** Affect Mind
-- **Casting Time:** 1 action
-- **Range:** 30 feet
-- **Duration:** Concentration, up to 8 hours 
+- **Prerrequisito:** Afecta a la mente
+- **Casting Time:** 1 acción
+- **Rango:** 30 pies
+- **Duración:** Concentración, hasta 8 horas 
 
-You suggest a course of activity (limited to a sentence or two) and influence with the Force a creature you can see within range that can hear and understand you.  Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to harm itself automatically negates the effect of the power.
+Sugieres un curso de actividad (limitado a una o dos frases) e influyes con la Fuerza a una criatura que puedes ver dentro del rango que puede oírte y entenderte. Las criaturas que no pueden ser encantadas son inmunes a este efecto. La sugerencia debe ser redactada de tal manera que el curso de acción suene razonable. Pedirle a la criatura que se haga daño a sí misma automáticamente anula el efecto del poder.
 
-The target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the power ends when the subject finishes what it was asked to do.
+El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, sigue el curso de acción que describiste lo mejor posible. El curso de acción sugerido puede continuar durante toda la duración. Si la actividad sugerida puede ser completada en un tiempo más corto, el poder termina cuando el sujeto termina lo que se le pidió que hiciera.
 
-You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a soldier give her speeder to the first vagrant she meets. If the condition isn't met before the power expires, the activity isn't performed.
+También puede especificar las condiciones que desencadenarán una actividad especial durante la duración. Por ejemplo, puede sugerir que un soldado le dé su velocímetro al primer vagabundo que encuentre. Si la condición no se cumple antes de que la energía expire, la actividad no se realiza.
 
-If you or any of your companions damage the target, the power ends. This power has no effect on droids or constructs.
+Si usted o alguno de sus compañeros dañan el objetivo, el poder se acaba. Este poder no tiene efecto sobre los droides o las construcciones.
 
 #### Convulsion
 _3rd-level universal power_
 ___
-- **Prerequisite:** Tremor
-- **Casting Time:** 1 action
-- **Range:** 120 feet
-- **Duration:** Instantaneous
+- **Prerrequisito:** Temblor
+- **Casting Time:** 1 acción
+- **Alcance:** 120 pies
+- **Duración:** Instantánea
 
-Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 kinetic damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand.
+Elija un punto que pueda ver en el suelo dentro del alcance. Una fuente de tierra removida y piedra erupciona en un cubo de 20 pies centrado en ese punto. Cada criatura en esa área debe hacer un lanzamiento de ahorro de destreza. Una criatura recibe 3d12 de daño cinético en una salvada fallida, o la mitad de daño en una exitosa. Además, el terreno en esa área se convierte en terreno difícil hasta que se despeja. Cada porción de 5 pies cuadrados del área requiere al menos 1 minuto para despejar a mano.
 
 ***Force Potency.*** When you cast this power using a force slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
 #### Crush
 _6th-level dark side power_
 ___
-- **Prerequisite:** Choke
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Instantaneous
+- **Prerrequisito:** Ahogarse
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Instantánea
 
-You make a crushing gesture at a creature within range. The target must make a Constitution saving throw. On a failed save target takes 10d8 force damage and is paralyzed until the end of your next turn. On a successful save, the target takes half as much damage and is not paralyzed.
+Haces un gesto de aplastamiento a una criatura a su alcance. El objetivo debe hacer un tiro de salvamento de la Constitución. En un tiro de salvamento fallido el objetivo recibe 10d8 de daño de fuerza y queda paralizado hasta el final de su siguiente turno. En una salvada exitosa, el objetivo recibe la mitad del daño y no se paraliza.
 
-You can use a bonus action while the target is paralyzed to move the target up to 10 feet in any direction.
+Puedes usar una acción extra mientras el objetivo está paralizado para moverlo hasta 3 metros en cualquier dirección.
 
 ***Force Potency.*** When you cast this power using a force slot of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
 
 #### Curse 
 _1st-level dark side power_
 ___
-- **Prerequisite:** Denounce
-- **Casting Time:** 1 action 
-- **Range:** 30 feet 
-- **Duration:** Concentration, up to 1 minute
+- **Prerrequisito:** Denunciar
+- **Casting Time:** 1 acción 
+- **Rango:** 30 pies 
+- **Duración:** Concentración, hasta 1 minuto
 
-Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the power ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+Hasta tres criaturas de tu elección que puedas ver dentro del rango deben hacer lanzamientos de ahorro de Carisma. Cuando un objetivo que falla este lanzamiento salvador hace una tirada de ataque o un lanzamiento salvador antes de que la potencia termine, el objetivo debe tirar un d4 y restar el número obtenido de la tirada de ataque o del lanzamiento salvador.
 
 ***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 #### Danger Sense
 _2nd-level universal power_
 ___
-- **Casting Time:** 1 bonus action
-- **Range:** Self
-- **Duration:** Instantaneous
+- **Casting Time:** 1 acción extra
+- **Rango:** Auto
+- **Duración:** Instantánea
 
-You put your faith in the Force, feeling out the future and seeing whether your actions will lead to fortune or ruin. The GM chooses from the following possible omens:
-- **Peace**, for results which are not dangerous
-- **Danger**, for results which are dangerous but perhaps still worth the danger
-- **Ruin**, for results which are certain to end in death or tragedy
+Pones tu fe en la Fuerza, sintiendo el futuro y viendo si tus acciones te llevarán a la fortuna o a la ruina. El GM elige entre los siguientes posibles presagios:
+- **Paz**, para resultados que no son peligrosos
+- Peligro, para resultados que son peligrosos pero que tal vez valgan la pena.
+- *Ruin*, para resultados que seguramente terminarán en muerte o tragedia.
 
-The power doesn't take into account any possible circumstances that might change the outcome, such as the use of additional powers or the loss or gain of a companion.
+El poder no tiene en cuenta ninguna circunstancia posible que pueda cambiar el resultado, como el uso de poderes adicionales o la pérdida o ganancia de un compañero.
 
-If you use this power two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a neutral result regardless of the actual outcome.
+Si utiliza este poder dos o más veces antes de completar su próximo descanso largo, hay un 25 por ciento de probabilidad acumulativa para cada lanzamiento después del primero de que obtenga un resultado neutral independientemente del resultado real.
 
 \columnbreak
 
 #### Dark Shear
 _2nd-level dark side power_
 ___
-- **Casting Time:** 1 bonus action
-- **Range:** Self
-- **Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 acción extra
+- **Rango:** Auto
+- **Duración:** Concentración, hasta 1 minuto
 
-You create a weapon of imperceptible Force energy that lasts until the power ends. It counts as a simple lightweapon with which you are proficient. It deals 2d6 psychic damage, and has the finesse, light, and thrown properties (range 20/60). When you attack while within dim light or darkness, you have advantage.
+Creas un arma de energía de fuerza imperceptible que dura hasta que la energía termina. Cuenta como un simple arma ligera con la que eres competente. Reparte daño psíquico de 2d6, y tiene la delicadeza, la luz y las propiedades de lanzamiento (rango 20/60). Cuando atacas dentro de la luz tenue o la oscuridad, tienes ventaja.
 
-If you drop the weapon or throw it, it disappears at the end of the turn. While the power lasts, you can use a bonus action to make the weapon reappear in your hand.
+Si sueltas el arma o la arrojas, desaparece al final del turno. Mientras dure el poder, puedes usar una acción extra para hacer que el arma reaparezca en tu mano.
 
-***Force Potency.*** When you cast this power using a 3rd or 4th level force slot, the damage increases by 1d6 (3d6). At 5th or 6th level, the damage increases by 2d6 (4d6). At 7th level or higher, the damage increases by 3d6 (5d6). 
+***Potencia de fuerza.*** Cuando lanzas esta potencia usando una ranura de fuerza de 3º o 4º nivel, el daño aumenta en 1d6 (3d6). En el 5º o 6º nivel, el daño aumenta en 2d6 (4d6). En el 7º nivel o superior, el daño aumenta en 3d6 (5d6). 
 
 #### Dark Side Tendrils
 _1st-level dark side power_
 ___
-- **Casting Time:** 1 action 
-- **Range:** Self (10-foot radius) 
-- **Duration:** Instantaneous
+- **Casting Time:** 1 acción 
+- **Rango:** Auto (radio de 10 pies) 
+- **Duración:** Instantánea
 
-Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can't take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
+Diez mil toneladas de energía oscura salen de ti y golpean a todas las criaturas que se encuentran a menos de tres metros de ti. Cada criatura en esa área debe hacer un lanzamiento de ahorro de fuerza. En una salvada fallida, el objetivo recibe 2d6 de daño necrótico y no puede reaccionar hasta el siguiente turno. En una parada exitosa, la criatura recibe la mitad del daño, pero no sufre ningún otro efecto.
 
 ***Force Potency.*** When you cast this power using a power slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 #### Darkness
 _2nd-level dark side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Concentration, up to 10 minutes
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Concentración, hasta 10 minutos
 
-Darkness spreads from a point you choose within range to fill a 15-foot-radius sphere until the power ends. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and unenhanced light can't illuminate it.
+La oscuridad se extiende desde un punto que eliges dentro del rango para llenar una esfera de 15 pies de radio hasta que el poder termina. La oscuridad se extiende por las esquinas. Una criatura con visión oscura no puede ver a través de esta oscuridad, y la luz sin realzar no puede iluminarla.
 
-If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness comes from the object and moves with it. Completely covering the source of the darkness with an opaque object blocks the darkness.
+Si el punto que eliges está en un objeto que sostienes o uno que no se usa o se lleva, la oscuridad viene del objeto y se mueve con él. Cubrir completamente la fuente de la oscuridad con un objeto opaco bloquea la oscuridad.
 
-If this power's area overlaps with light created by a 2nd-level power or lower, this power and the light are dispelled.
+Si el área de este poder se superpone con la luz creada por un poder de segundo nivel o inferior, este poder y la luz se disipan.
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
 #### Denounce
 _At-will dark side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 30 feet
-- **Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 acción
+- **Rango:** 30 pies
+- **Duración:** Concentración, hasta 1 minuto
 
-A target of your choice within range must make a Charisma saving throw. On a failed save, when the target makes their next attack roll or saving throw they must roll a d4 and subtract the number from it. The power then ends.
+Un objetivo de su elección dentro del rango debe hacer un tiro de salvamento de Carisma. En una salvada fallida, cuando el objetivo hace su próxima tirada de ataque o de salvada debe tirar un d4 y restarle el número. El poder entonces termina.
 
 #### Death Field
 _8th-level dark side power_
 ___
-- **Prerequisite:** Siphon Life
-- **Casting Time:** 1 action
-- **Range:** 90 feet (30-foot cube)
-- **Duration:** Instantaneous
+- **Prerrequisito:** Vida de Sifón
+- **Casting Time:** 1 acción
+- **Rango:** 90 pies (30 pies cúbicos)
+- **Duración:** Instantánea
 
-You draw the life force from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. A creature takes 10d8 necrotic damage on a failed save, or half as much damage on a successful one. If you reduce a hostile creature to 0, you gain temporary hit points equal to half the damage dealt. This power has no effect on droids or constructs.
+Se extrae la fuerza de vida de cada criatura en un cubo de 30 pies centrado en un punto que se elige dentro del rango. Cada criatura en esa área debe hacer un lanzamiento de ahorro de la Constitución. Una criatura recibe 10d8 de daño necrótico en una salvada fallida, o la mitad de daño en una salvada exitosa. Si reduces una criatura hostil a 0, obtienes puntos de impacto temporales iguales a la mitad del daño infligido. Este poder no tiene efecto sobre los droides o las construcciones.
 
 #### Destroy Droid
 _7th-level light side power_
 ___
-- **Prerequisite:** Disable Droid
-- **Casting Time:** 1 action
-- **Range:** 120 feet (30-foot cube)
-- **Duration:** Concentration, up to 1 minute 
+- **Prerrequisito:** Deshabilitar el droide
+- **Casting Time:** 1 acción
+- **Rango:** 120 pies (30 pies cúbicos)
+- **Duración:** Concentración, hasta 1 minuto 
 
-Choose a point that you can see within range. Each droid must succeed on a Constitution saving throw or be paralyzed for the duration. At the beginning of each of its turns, the droid takes energy damage equal to twice your forcecasting ability modifier and then repeats this saving throw. On a success, the power ends on the target.
+Elija un punto que pueda ver dentro del rango. Cada droide debe tener éxito en un lanzamiento de salvamento de la Constitución o estar paralizado durante el tiempo que dure. Al principio de cada uno de sus turnos, el droide recibe un daño de energía igual al doble de su modificador de capacidad de previsión y luego repite este tiro salvador. Si tiene éxito, la energía termina en el objetivo.
 
 #### Disable Droid
 _4th-level light side power_
 ___
-- **Prerequisite:** Stun Droid
-- **Casting Time:** 1 action
-- **Range:** 90 feet (15-foot cube)
-- **Duration:** Concentration, up to 1 minute 
+- **Prerrequisito:** Droide aturdidor
+- **Casting Time:** 1 acción
+- **Rango:** 90 pies (15 pies cúbicos)
+- **Duración:** Concentración, hasta 1 minuto 
 
-Choose a point that you can see within range. Each droid must succeed on a Constitution saving throw or be paralyzed for the duration. At the beginning of each of its turns, the droid takes energy damage equal to your forcecasting ability modifier and then repeats this saving throw. On a success, the power ends on the target.
+Elija un punto que pueda ver dentro del rango. Cada droide debe tener éxito en un lanzamiento de salvamento de la Constitución o estar paralizado durante el tiempo que dure. Al principio de cada uno de sus turnos, el droide recibe un daño de energía igual a su modificador de capacidad de previsión y luego repite este tiro de ahorro. Si tiene éxito, la energía termina en el objetivo.
 
 \columnbreak
 
 #### Disperse Force
 _1st-level universal power_
 ___
-- **Prerequisite:** Saber Ward
-- **Casting Time:** 1 reaction, which you take when you take cold, energy, fire, ion, lightning, or sonic damage
-- **Range:** Self
-- **Duration:** 1 round
+- **Prerrequisito:** Saber Ward
+- **Casting Time:** 1 reacción, que se toma cuando se toma frío, energía, fuego, iones, rayos o daño sónico
+- **Rango:** Auto
+- **Duración:** 1 ronda
 
-This power absorbs damage from incoming energy attacks, lessening its effect on you and distributing it throughout your body. You have resistance to the triggering damage type until the start of your next turn. Also, you gain 5 temporary hit points to potentially absorb the attack. These temporary hit points last until the start of your next turn.
+Este poder absorbe el daño de los ataques de energía entrantes, disminuyendo su efecto sobre usted y distribuyéndolo por todo su cuerpo. Tienes resistencia al tipo de daño desencadenante hasta el comienzo de tu siguiente turno. Además, ganas 5 puntos de golpe temporales para absorber potencialmente el ataque. Estos puntos de golpe temporales duran hasta el comienzo de tu siguiente turno.
 
 ***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, the temporary hit points increases by 5 for each slot level above 1st.
 
 #### Dominate Beast
 _4th-level dark side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Concentración, hasta 1 minuto
 
-A beast you can see must succeed on a Wisdom save or be charmed. If you or your companions are fighting it, it has advantage on this saving throw.
+Una bestia que se puede ver debe tener éxito en un salvamento de la sabiduría o ser encantada. Si tú o tus compañeros están luchando contra ella, tiene ventaja en este tiro salvador.
 
-While it's charmed, you have a telepathic link to it if you're on the same planet. You can use this link to issue commands while you are conscious, no action required, which it does its best to obey. You can specify a simple and general course of action. If it completes the order and doesn't receive further orders, it focuses on defending itself.
+Mientras esté encantado, tienes un enlace telepático con él si estás en el mismo planeta. Puedes usar este enlace para dar órdenes mientras estás consciente, sin necesidad de hacer nada, lo cual hace lo mejor para obedecer. Puede especificar un curso de acción simple y general. Si completa la orden y no recibe más órdenes, se centra en defenderse.
 
-You can use your action to take total control of the target. Until the end of your next turn, the beast takes only the actions you decide and nothing you don't allow it to. You can also have the beast use a reaction, but this takes your reaction as well.
+Puedes usar tu acción para tomar el control total del objetivo. Hasta el final de tu próximo turno, la bestia sólo toma las acciones que tú decides y nada que tú no le permitas. También puedes hacer que la bestia utilice una reacción, pero esto también requiere tu reacción.
 
-If the beast takes damage, it makes another Wisdom save. On a success, the power ends.
+Si la bestia sufre daños, hace que otra Sabiduría se salve. En un éxito, el poder termina.
 
-***Force Potency.*** When you cast this power using a 5th-level force slot, the duration is up to 10 minutes. At a 6th-level slot, the duration is up to 1 hour. At a slot of 7th or higher, the duration is up to 8 hours.
+***Potencia de fuerza.*** Cuando lanzas esta potencia usando una ranura de fuerza de 5º nivel, la duración es de hasta 10 minutos. En una ranura de 6º nivel, la duración es de hasta 1 hora. En un slot de 7º o superior, la duración es de hasta 8 horas.
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
 #### Dominate Mind
 _5th-level dark side power_
 ___
-- **Prerequisite:** Dominate Beast
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Concentration, up to 1 minute 
+- **Prerrequisito:** Domina a la Bestia
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Concentración, hasta 1 minuto 
 
-You attempt to beguile a humanoid that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
+Intentas engañar a un humanoide que puedes ver dentro del rango. Debe tener éxito en un lanzamiento de salvación de la sabiduría o ser encantado por ti mientras dure. Si tú o las criaturas que son amigas tuyas están luchando contra él, tiene ventaja en el tiro salvador.
 
-While the target is charmed, you have a telepathic link with it as long as you are within 1 mile of it. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
+Mientras el objetivo esté encantado, tienes un enlace telepático con él siempre y cuando estés a menos de 1 milla de él. Puedes usar este enlace telepático para dar órdenes a la criatura mientras estás consciente (no se requiere ninguna acción), que hace todo lo posible por obedecer. Puedes especificar un curso de acción simple y general, como "Ataca a esa criatura", "Corre hacia allá" o "Busca ese objeto". Si la criatura completa la orden y no recibe más instrucciones de usted, se defiende y se preserva lo mejor posible.
 
-You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+Puedes usar tu acción para tomar un control total y preciso del objetivo. Hasta el final de tu próximo turno, la criatura sólo realiza las acciones que tú elijas, y no hace nada que tú no le permitas hacer. Durante este tiempo también puedes hacer que la criatura use una reacción, pero esto requiere que uses tu propia reacción también.
 
-Each time the target takes damage, it makes a new Wisdom saving throw against the power. If the saving throw succeeds, the power ends. This power has no effect on droids or constructs.
+Cada vez que el objetivo recibe daño, hace un nuevo lanzamiento de ahorro de sabiduría contra el poder. Si el tiro salvador tiene éxito, el poder termina. Este poder no tiene efecto sobre los droides o las construcciones.
 
-***Force Potency.*** When you cast this power using a 6th-level force slot, the duration is 10 minutes. When you use a 7th-level force slot, the duration is 1 hour. When you use a force slot of 8th level or higher, the duration is 8 hours.
+***Potencia de fuerza.*** Cuando lanzas esta potencia usando una ranura de fuerza de 6º nivel, la duración es de 10 minutos. Cuando usas una ranura de fuerza de 7º nivel, la duración es de 1 hora. Cuando usas un slot de fuerza de 8º nivel o superior, la duración es de 8 horas.
 
 #### Dominate Monster
 _8th-level dark side power_
 ___
-- **Prerequisite:** Dominate Mind
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Concentration, up to 1 hour 
+- **Prerrequisito:** Domina la mente
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Concentración, hasta 1 hora 
 
-You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
+Intentas engañar a una criatura que puedes ver a tu alcance. Debe tener éxito en un lanzamiento de salvación de la sabiduría o ser encantado por ti durante el tiempo que dure. Si tú o las criaturas que son amigas tuyas están luchando contra él, tiene ventaja en el tiro salvador.
 
-While the creature is charmed, you have a telepathic link with it as long as you are within 1 mile of it. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
+Mientras la criatura esté encantada, tendrás un enlace telepático con ella siempre que estés a menos de 1 milla de ella. Puedes usar este enlace telepático para dar órdenes a la criatura mientras estás consciente (no se requiere ninguna acción), que hace todo lo posible por obedecer. Puedes especificar un curso de acción simple y general, como "Ataca a esa criatura", "Corre hacia allá" o "Busca ese objeto". Si la criatura completa la orden y no recibe más instrucciones de usted, se defiende y se preserva lo mejor posible.
 
 \columnbreak
 
 <div style='margin-top:16px'></div>
 
-&emsp;You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+&emsp;Puede usar su acción para tomar un control total y preciso del objetivo. Hasta el final de tu próximo turno, la criatura sólo realiza las acciones que tú elijas, y no hace nada que tú no le permitas hacer. Durante este tiempo, también puedes hacer que la criatura use una reacción, pero esto requiere que uses tu propia reacción también.
 
-Each time the target takes damage, it makes a new Wisdom saving throw against the power. If the saving throw succeeds, the power ends.
+Cada vez que el objetivo recibe daño, hace un nuevo lanzamiento de ahorro de sabiduría contra el poder. Si el tiro salvador tiene éxito, el poder termina.
 
-***Force Potency.*** When you cast this power with a 9th-level force slot, the duration is concentration, up to 8 hours.
+***Potencia de fuerza.*** Cuando lanzas esta potencia con una ranura de fuerza de 9º nivel, la duración es de concentración, hasta 8 horas.
 
 #### Drain Life
 _4th-level dark side power_
 ___
-- **Prerequisite:** Drain Vitality
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Instantaneous
+- **Prerrequisito:** Drenar la vitalidad
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Instantánea
 
-You draw the life force from a creature you can see within range. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. If you reduce a hostile creature to 0, you gain temporary hit points equal to half the damage dealt. This power has no effect on droids or constructs.
+Se extrae la fuerza vital de una criatura que se puede ver dentro del rango. El objetivo debe hacer un tiro de salvamento de la Constitución. El objetivo recibe 8d8 de daño necrótico en una salvada fallida, o la mitad de daño en una exitosa. Si reduces una criatura hostil a 0, obtienes puntos de impacto temporales iguales a la mitad del daño causado. Este poder no tiene efecto sobre los droides o las construcciones.
 
 ***Force Potency.*** When you cast this power using a force slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
 
 #### Drain Vitality
 _2nd-level dark side power_
 ___
-- **Prerequisite:** Sap Vitality
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Concentration, up to 1 minute
+- **Prerrequisito:** Vitalidad de la savia
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Concentración, hasta 1 minuto
 
-You draw the willpower from a creature you can see within range. Make a ranged force attack against the target. On a hit, the target takes 2d6 necrotic damage and it deals only half damage with weapon attacks that use Strength until the power ends.
+Se extrae la fuerza de voluntad de una criatura que se puede ver dentro de su alcance. Haz un ataque de fuerza a distancia contra el objetivo. En un golpe, el objetivo recibe 2d6 de daño necrótico y sólo hace la mitad del daño con ataques de armas que usan la Fuerza hasta que el poder termina.
 
-At the end of each of the target's turns, it can make a Constitution saving throw against the power. On a success, the power ends.
+Al final de cada uno de los giros del objetivo, puede hacer un lanzamiento de ahorro de la Constitución contra el poder. En caso de éxito, el poder termina.
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
 #### Earthquake
 _8th-level universal power_
 ___
-- **Prerequisite:** Eruption
-- **Casting Time:** 1 action
-- **Range:** 500 feet
-- **Duration:** Concentration, up to 1 minute 
+- **Prerrequisito:** Erupción
+- **Casting Time:** 1 acción
+- **Alcance:** 500 pies
+- **Duración:** Concentración, hasta 1 minuto 
 
-You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
+Creas una perturbación sísmica en un punto del suelo que puedes ver dentro del rango. Durante el tiempo que dure, un intenso temblor rasga el suelo en un círculo de 100 pies de radio centrado en ese punto y sacude a las criaturas y estructuras en contacto con el suelo en esa área.
 
-The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature's concentration is broken.
+El terreno en la zona se convierte en un terreno difícil. Cada criatura en el suelo que se concentra debe hacer un tiro de salvamento de la Constitución. En una salvada fallida, la concentración de la criatura se rompe.
 
-When you cast this power and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked prone. 
+Cuando lanzas este poder y al final de cada turno que pasas concentrándote en él, cada criatura en el suelo en el área debe hacer un lanzamiento de ahorro de Destreza. En una salvada fallida, la criatura es propensa a ser golpeada. 
 
-This power can have additional effects depending on the terrain in the area, as determined by the GM.
+Esta potencia puede tener efectos adicionales dependiendo del terreno en el área, según lo determinado por el GM.
 
-***Fissures.*** Fissures open throughout the power's area at the start of your next turn after you cast the power. A total of 1d6 such fissures open in locations chosen by the GM. Each is 1d10 x 10 feet deep, 10 feet wide, and extends from one edge of the power's area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Dexterity saving throw or fall in. A creature that successfully saves moves with the fissure's edge as it opens.
+***Fissures.*** Las fisuras se abren en toda el área de poder al comienzo de tu siguiente turno después de lanzar el poder. Un total de 1d6 de estas fisuras se abren en lugares elegidos por el GM. Cada una de ellas es de 1d10 x 10 pies de profundidad, 10 pies de ancho, y se extiende desde un borde del área de la potencia hasta el lado opuesto. Una criatura que se encuentre en un lugar donde se abre una fisura debe tener éxito en un lanzamiento de ahorro de destreza o caer en él. Una criatura que salva con éxito se mueve con el borde de la fisura al abrirse.
 
-A fissure that opens beneath a structure causes it to automatically collapse (see below).
+Una fisura que se abre debajo de una estructura hace que ésta se colapse automáticamente (ver abajo).
 
-***Structures.*** The tremor deals 50 kinetic damage to any structure in contact with the ground in the area when you cast the power and at the start of each of your turns until the power ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity saving throw. On a failed save, the creature takes 5d6 kinetic damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The GM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried.
+***Structures.*** El temblor causa 50 daños cinéticos a cualquier estructura en contacto con el suelo en el área cuando lanzas la potencia y al comienzo de cada uno de tus giros hasta que la potencia termina. Si una estructura cae a 0 puntos de golpe, se derrumba y potencialmente daña a las criaturas cercanas. Una criatura a la mitad de la distancia de la altura de una estructura debe hacer un lanzamiento de ahorro de destreza. En una salvada fallida, la criatura recibe 5d6 de daño cinético, es propensa a los golpes y queda enterrada entre los escombros, requiriendo un chequeo de Fuerza DC 20 (Atletismo) como acción para escapar. El GM puede ajustar el DC más o menos, dependiendo de la naturaleza de los escombros. Si se salva con éxito, la criatura recibe la mitad de los daños y no se cae o queda enterrada.
 
 #### Enfeeble
 _At-will dark side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Instantaneous
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Instantánea
 
-Dark energy courses from your hand at a creature within range. The target must succeed on a Wisdom saving throw. If it is missing any hit points, it takes 1d12 necrotic damage. Otherwise, it takes 1d8.
+La energía oscura fluye de tu mano hacia una criatura a su alcance. El objetivo debe tener éxito en un lanzamiento de ahorro de sabiduría. Si le falta algún punto de golpe, recibirá 1d12 de daño necrótico. De lo contrario, toma 1d8.
 
-The power's damage increases by one die when you reach 5th, 11th, and 17th level.
+El daño del poder aumenta en un dado cuando llegas al 5º, 11º y 17º nivel.
 
 \columnbreak
 
 #### Eruption
 _6th-level universal power_
 ___
-- **Prerequisite:** Convulsion
-- **Casting Time:** 1 action
-- **Range:** 120 feet
-- **Duration:** Instantaneous
+- **Prerrequisito:** Convulsión
+- **Casting Time:** 1 acción
+- **Alcance:** 120 pies
+- **Duración:** Instantánea
 
-You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10 - foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.
+Haces que hasta seis pilares de piedra se revienten en lugares del suelo que puedes ver dentro del alcance. Cada pilar es un cilindro que tiene un diámetro de 5 pies y una altura de hasta 30 pies. El suelo donde aparece un pilar debe ser lo suficientemente ancho para su diámetro, y puedes apuntar al suelo debajo de una criatura si ésta es de tamaño medio o más pequeño. Cada pilar tiene AC 5 y 30 puntos de golpe. Cuando se reduce a 0 puntos de impacto, un pilar se desmorona en escombros, lo que crea un área de terreno difícil con un radio de 10 pies que dura hasta que se limpian los escombros. Cada porción de 5 pies de diámetro del área requiere al menos 1 minuto para despejar a mano.
 
-If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save. 
+Si se crea un pilar bajo una criatura, esa criatura debe tener éxito en un lanzamiento de ahorro de destreza o ser levantada por el pilar. Una criatura puede elegir fallar la salvada. 
 
-If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 kinetic damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature's choice) against the power's save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
+Si un pilar no puede alcanzar su altura total debido a un techo u otro obstáculo, una criatura en el pilar sufre un daño cinético de 6d6 y queda atrapada, pellizcada entre el pilar y el obstáculo. La criatura restringida puede usar una acción para hacer un chequeo de Fuerza o Destreza (a elección de la criatura) contra la corriente continua de ahorro de energía. En caso de éxito, la criatura ya no está restringida y debe moverse del pilar o caerse de él.
 
-***Force Potency.*** When you cast this power using a force slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
+***Potencia de fuerza.*** Cuando lanzas este poder usando una ranura de fuerza de 7º nivel o superior, puedes crear dos pilares adicionales para cada nivel de ranura por encima del 6º.
 
 #### Fear 
 _1st-level dark side power_
 ___
-- **Casting Time:** 1 action 
-- **Range:** 60 feet 
-- **Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 acción 
+- **Rango:** 60 pies 
+- **Duración:** Concentración, hasta 1 minuto
 
-You awaken the sense of mortality in one creature you can see within range. The target must succeed on a Wisdom saving throw or become frightened for the duration. A target with 25 hit points or fewer makes the saving throw with disadvantage. This power has no effect on constructs or droids.
+Despiertas la sensación de mortalidad en una criatura que puedes ver dentro del rango. El objetivo debe tener éxito en un lanzamiento de ahorro de sabiduría o asustarse durante el tiempo que dure. Un objetivo con 25 puntos de golpe o menos hace el tiro salvador con desventaja. Este poder no tiene efecto en las construcciones o los droides.
 
 #### Feedback
 _At-will dark side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Instantaneous 
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Instantánea 
 
-You unleash a burst of psychic energy at a target within range. If the target can hear you (though it need not understand you), it must succeed on an Intelligence saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+Desencadenas un estallido de energía psíquica en un objetivo dentro del rango. Si el objetivo puede oírte (aunque no tiene por qué entenderte), debe tener éxito en una tirada de ahorro de Inteligencia o recibir 1d4 de daño psíquico y estar en desventaja en la siguiente tirada de ataque que haga antes del final de su siguiente turno.
 
-This power's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+El daño de este poder aumenta en 1d4 cuando llegas al 5º nivel (2d4), 11º nivel (3d4) y 17º nivel (4d4).
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
 #### Force Barrier
 _2nd-level light side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 30 feet
-- **Duration:** 8 hours
+- **Casting Time:** 1 acción
+- **Rango:** 30 pies
+- **Duración:** 8 horas
 
-This power bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.
+Este poder refuerza a tus aliados con dureza y resolución. Elige hasta tres criaturas dentro del rango. El punto de ataque máximo de cada objetivo y los puntos de ataque actuales se incrementan en 5 durante el tiempo que dure.
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
 
 #### Force Blind/Deafen
 _2nd-level light side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 30 feet
-- **Duration:** 1 minute
+- **Casting Time:** 1 acción
+- **Rango:** 30 pies
+- **Duración:** 1 minuto
 
-You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the power ends.
+Puedes cegar o dejar sordo a un enemigo. Elija una criatura que pueda ver dentro del rango para hacer un lanzamiento de ahorro de la Constitución. Si falla, el objetivo queda ciego o ensordecido (a su elección) durante el tiempo que dure. Al final de cada uno de sus turnos, el objetivo puede hacer un tiro de salvamento de la Constitución. En caso de éxito, el poder termina.
 
 ***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 #### Force Body
 _1st-level universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Self
-- **Duration:** 1 hour
+- **Casting Time:** 1 acción
+- **Rango:** Auto
+- **Duración:** 1 hora
 
-This power enables you to use your health to fuel your force powers. For the duration, when you cast a force power, half the cost is paid by your force points (rounded up) and half the cost is paid by your hit points (rounded down). Additionally, your maximum hit points are decreased by this amount while the power is active.
+Este poder te permite usar tu salud para alimentar tus poderes de fuerza. Durante el tiempo que dure el lanzamiento de un poder de fuerza, la mitad del costo se paga con los puntos de fuerza (redondeado al alza) y la mitad del costo se paga con los puntos de golpe (redondeado al alza). Además, tus puntos de golpe máximos se reducen en esta cantidad mientras el poder está activo.
 
-You may end this effect at any time. If you cast a force power that would reduce your hit points to 0, the power automatically fails and this effect ends.
+Puedes terminar este efecto en cualquier momento. Si lanzas un poder de fuerza que reduzca tus puntos de golpe a 0, el poder falla automáticamente y este efecto termina.
 
 #### Force Breach
 _5th-level universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 120 feet (20-foot cube)
-- **Duration:** Instantaneous
+- **Casting Time:** 1 acción
+- **Rango:** 120 pies (20 pies cúbicos)
+- **Duración:** Instantánea
 
-Choose a spot within range. All force powers of 5th level or lower in the area end. For each force power of 6th level or higher in the area, make an ability check using your forcecasting ability. The DC equals 10 + the power's level. On a successful check, the force power ends.
+Elija un lugar dentro del rango. Todos los poderes de fuerza de 5º nivel o inferiores en el área terminan. Por cada poder de fuerza de 6º nivel o superior en el área, haz un chequeo de habilidad usando tu capacidad de previsión. La CC es igual a 10 + el nivel de potencia. En un chequeo exitoso, el poder de fuerza termina.
 
 ***Force Potency.*** When you cast this power using a force slot of 6th level or higher, you automatically end the effects of a force power on the target if the power's level is equal to or less than the level of the force slot you used.
 
@@ -816,81 +816,81 @@ Choose a spot within range. All force powers of 5th level or lower in the area e
 #### Force Camouflage
 _2nd-level universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Self
-- **Duration:** Concentration, up to 1 hour 
+- **Casting Time:** 1 acción
+- **Rango:** Auto
+- **Duración:** Concentración, hasta 1 hora 
 
-You become invisible until the power ends. Anything you are wearing or carrying is invisible as long as it is on your person. The power ends if you attack or cast a power.
+Te vuelves invisible hasta que el poder se acaba. Cualquier cosa que lleves puesta o en la mano es invisible mientras esté en tu persona. El poder termina si atacas o lanzas un poder.
 
 #### Force Chain Lightning
 _6th-level dark side power_
 ___
-- **Prerequisite:** Force Lightning
-- **Casting Time:** 1 action
-- **Range:** 150 feet
-- **Duration:** Instantaneous
+- **Prerrequisito:** Relámpago de fuerza
+- **Casting Time:** 1 acción
+- **Alcance:** 150 pies
+- **Duración:** Instantánea
 
-You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.
+Creas un rayo que se proyecta hacia un objetivo de tu elección que puedes ver dentro del rango. Tres rayos entonces saltan de ese objetivo a tantos como otros tres objetivos, cada uno de los cuales debe estar dentro de los 30 pies del primer objetivo. Un objetivo puede ser una criatura o un objeto y puede ser apuntado por sólo uno de los rayos.
 
-A target must make a Dexterity saving throw. The target takes 10d8 lightning damage on a failed save, or half as much damage on a successful one.
+Un objetivo debe hacer un lanzamiento de ahorro de destreza. El objetivo recibe 10d8 de daño por rayo en una salvada fallida, o la mitad de daño en una exitosa.
 
 ***Force Potency.*** When you cast this power using a force slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
 #### Force Confusion
 _2nd-level universal power_
 ___
-- **Preqrequisite:** Mind Trick
-- **Casting Time:** 1 action
-- **Range:** 120 feet
-- **Duration:** Concentration, up to 1 minute
+- **Pre-requisito:** Truco de la mente
+- **Casting Time:** 1 acción
+- **Alcance:** 120 pies
+- **Duración:** Concentración, hasta 1 minuto
 
-One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration. The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose.
+Un humanoide de su elección que pueda ver dentro del rango debe tener éxito en un lanzamiento de ahorro de sabiduría o ser encantado por usted durante el tiempo que dure. El objetivo encantado debe usar su acción antes de moverse en cada uno de sus turnos para hacer un ataque cuerpo a cuerpo contra una criatura que no sea ella misma y que tú elijas mentalmente.
 
-The target can act normally on its turn if you choose no creature or if none are within its reach.
+El objetivo puede actuar normalmente en su turno si no elige ninguna criatura o si ninguna está a su alcance.
 
-On your subsequent turns, you must use your action to maintain control over the target, or the power ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the power ends.
+En los turnos siguientes, debes usar tu acción para mantener el control sobre el objetivo, o el poder se acaba. Además, el objetivo puede hacer un lanzamiento de ahorro de sabiduría al final de cada uno de sus turnos. En caso de éxito, el poder termina.
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
 #### Force Disarm
 _At-will universal power_
 ___ 
-- **Casting Time:** 1 action
-- **Range:** 30 feet
-- **Duration:** Instantaneous
+- **Casting Time:** 1 acción
+- **Rango:** 30 pies
+- **Duración:** Instantánea
 
-You select a weapon or object being worn or carried by a Large or smaller creature within range. The creature must make a Strength or Dexterity saving throw (the creature chooses the ability to use). If the item is being worn, this save is made with disadvantage. On a failed save, the creature takes 1d4 force damage and the item is pulled directly to you. If you have a free hand, you catch the weapon. Otherwise, it lands at your feet.
+Usted selecciona un arma u objeto que es usado o llevado por una criatura grande o pequeña dentro del rango de alcance. La criatura debe hacer un lanzamiento de ahorro de Fuerza o Destreza (la criatura elige la habilidad de usar). Si el objeto está siendo usado, esta salvada se hace con desventaja. En una salvada fallida, la criatura recibe 1d4 de daño de fuerza y el objeto se tira directamente hacia ti. Si tienes una mano libre, atrapas el arma. De lo contrario, cae a tus pies.
 
-This power's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+El daño de este poder aumenta en 1d4 cuando llegas al 5º nivel (2d4), 11º nivel (3d4) y 17º nivel (4d4).
 
 #### Force Enlightenment
 _2nd-level light side power_
 ___
-- **Prerequisite:** Guidance
-- **Casting Time:** 1 action
-- **Range:** Touch
-- **Duration:** Concentration, up to 1 hour 
+- **Prerrequisito:** Orientación
+- **Casting Time:** 1 acción
+- **Rango:** Toca
+- **Duración:** Concentración, hasta 1 hora 
 
-You touch a creature and enhance it with the Force. Choose one of the following effects; the target gains that effect until the power ends.
-- ***Endurance.*** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the power ends.
-- ***Strength.*** The target has advantage on Strength checks, and his or her carrying capacity doubles.
-- ***Dexterity.*** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.
-- ***Splendor.*** The target has advantage on Charisma checks.
-- ***Cunning.*** The target has advantage on Intelligence checks.
-- ***Wisdom.*** The target has advantage on Wisdom checks.
+Tocas una criatura y la realzas con la Fuerza. Escoge uno de los siguientes efectos; el objetivo gana ese efecto hasta que el poder termina.
+- ***Endurance.*** El objetivo tiene ventaja en los cheques de la Constitución. También gana 2d6 puntos de golpe temporal, que se pierden cuando se acaba el poder.
+- ***Strength.*** El objetivo tiene ventaja en los controles de fuerza, y su capacidad de carga se duplica.
+- ***Dexterity.*** El objetivo tiene ventaja en los controles de destreza. Además, no sufre daños por caer a 20 pies o menos si no está incapacitado.
+- ***Splendor.*** El objetivo tiene ventaja en los cheques de Carisma.
+- ***Cunning.*** El objetivo tiene ventaja en los controles de Inteligencia.
+- ***Wisdom.*** El objetivo tiene ventaja en los controles de Sabiduría.
 
-***Force Potency.*** When you cast this power using a force slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+***Force Potency.*** Cuando lanzas este poder usando una ranura de fuerza de 3er nivel o superior, puedes apuntar a una criatura adicional por cada ranura de nivel superior al 2º.
 
 #### Force Immunity
 _4th-level universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Self
-- **Duration:** Concentration, up to 1 minute 
+- **Casting Time:** 1 acción
+- **Rango:** Auto
+- **Duración:** Concentración, hasta 1 minuto 
 
-An immobile, faintly shimmering barrier springs into existence around you and remains for the duration. The barrier moves with you. Any force power of 3rd level or lower cast from outside the barrier can't affect you, even if the power is cast using a higher level force slot. Such a power can target you, but the power has no effect on you. Similarly, the area within the barrier is excluded from the areas affected by such powers.
+Una barrera inmóvil, débilmente brillante, surge a su alrededor y permanece durante todo el tiempo. La barrera se mueve contigo. Cualquier poder de fuerza de 3er nivel o inferior lanzado desde fuera de la barrera no puede afectarte, incluso si el poder se lanza usando una ranura de fuerza de nivel superior. Tal poder puede dirigirse a ti, pero el poder no tiene ningún efecto en ti. Del mismo modo, el área dentro de la barrera está excluida de las áreas afectadas por tales poderes.
 
 ***Force Potency.*** When you cast this power using a force slot of 5th level or higher, the barrier blocks powers of one level higher for each slot level above 4th.
 
@@ -899,160 +899,160 @@ An immobile, faintly shimmering barrier springs into existence around you and re
 #### Force Jump
 _1st-level universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Self
-- **Duration:** Instantaneous
+- **Casting Time:** 1 acción
+- **Rango:** Auto
+- **Duración:** Instantánea
 
-Using the Force to augment the strength in your legs, you leap up to 30 feet to an unoccupied space you can see.
+Usando la Fuerza para aumentar la fuerza en tus piernas, saltas hasta 30 pies a un espacio desocupado que puedes ver.
 
 ***Force Potency.*** When you cast this power using a force slot of 2nd level or higher, your jump distance increases by 5 feet for each slot level above 1st.
 
 #### Force Lightning 
 _3rd-level dark side power_
 ___
-- **Prerequisite:** Shock
-- **Casting Time:** 1 action
-- **Range:** Self (100-foot line)
-- **Duration:** Instantaneous 
+- **Prerrequisito:** Choque
+- **Casting Time:** 1 acción
+- **Rango:** Auto (línea de 100 pies)
+- **Duración:** Instantánea 
 
-A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one. 
+Un rayo que forma una línea de 100 pies de largo y 5 pies de ancho sale de ti en la dirección que elijas. Cada criatura en la línea debe hacer un lanzamiento de ahorro de destreza. Una criatura recibe 8d6 de daño por rayo en una salvada fallida, o la mitad de daño en una exitosa. 
 
-The lightning ignites flammable objects in the area that aren't being worn or carried.
+El rayo enciende objetos inflamables en la zona que no se llevan o se transportan.
 
 ***Force Potency.*** When you cast this power using a force slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
 #### Force Lightning Cone
 _7th-level dark side power_
 ___
-- **Prerequisite:** Force Chain Lightning
-- **Casting Time:** 1 action
-- **Range:** Self (60-foot cone)
-- **Duration:** Instantaneous
+- **Prerrequisito:** Relámpago de la cadena de fuerza
+- **Casting Time:** 1 acción
+- **Rango:** Auto (cono de 60 pies)
+- **Duración:** Instantánea
 
-Lightning arcs from your hands. Each creature in a 60-foot cone must make a Dexterity saving throw. A creatures takes 12d6 lightning damage on a failed save, or half as much on a successful one.
+Arcos de rayos de tus manos. Cada criatura en un cono de 60 pies debe hacer un lanzamiento de ahorro de destreza. Una criatura recibe 12d6 de daño por rayo en una salvada fallida, o la mitad en una exitosa.
 
 ***Force Potency.*** When you cast this power using a force slot of 8th level or higher, the damage increases by 2d6 for each slot level above 7th.
 
 #### Force Link
 _8th-level universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Unlimited
-- **Duration:** 24 hours 
+- **Casting Time:** 1 acción
+- **Rango:** Ilimitado
+- **Duración:** 24 horas 
 
-You create a telepathic link between yourself and a willing creature with which you are familiar. Until the power ends, you and the target can instantaneously share words, images, sounds, and other sensory messages with one another through the link, and the target recognizes you as the creature it is communicating with. The power enables a creature with an Intelligence score of at least 1 to understand the meaning of your words and take in the scope of any sensory messages you send to it.
+Creas un vínculo telepático entre tú y una criatura dispuesta con la que estás familiarizado. Hasta que el poder termine, usted y el objetivo pueden compartir instantáneamente palabras, imágenes, sonidos y otros mensajes sensoriales entre sí a través del enlace, y el objetivo le reconoce como la criatura con la que se está comunicando. El poder permite a una criatura con un puntaje de inteligencia de al menos 1 entender el significado de tus palabras y tomar el alcance de cualquier mensaje sensorial que le envíes.
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
 #### Force Mask
 _1st-level universal power_
 ___
-- **Prerequisite:** Mind Trick
-- **Casting Time:** 1 action
-- **Range:** Self
-- **Duration:** 1 hour
+- **Prerrequisito:** Truco de la mente
+- **Casting Time:** 1 acción
+- **Rango:** Auto
+- **Duración:** 1 hora
 
-Until the power ends or you use an action to dismiss it, you can disguise yourself through use of the Force in many ways. You can appear to be shorter or taller by about a foot and change the appearance of your body and weight, but you cannot change the basic structure of your body. This effect can include your clothes, weapons, and other belongings on your person.
+Hasta que el poder termine o uses una acción para destituirlo, puedes disfrazarte mediante el uso de la Fuerza de muchas maneras. Puedes aparentar ser más bajo o más alto por aproximadamente un pie y cambiar la apariencia de tu cuerpo y el peso, pero no puedes cambiar la estructura básica de tu cuerpo. Este efecto puede incluir tu ropa, armas y otras pertenencias en tu persona.
 
-This effect is only visual, so any sort of physical contact will only interact with the real size and shape of you. A creature that uses its action to examine you can identify this effect with a successful Intelligence (Investigation) check against your force save DC. This power has no effect on droids or constructs.
+Este efecto es sólo visual, así que cualquier tipo de contacto físico sólo interactuará con el tamaño y la forma real de usted. Una criatura que usa su acción para examinarte puede identificar este efecto con un exitoso chequeo de Inteligencia (Investigación) contra tu fuerza, salvo DC. Este poder no tiene ningún efecto en los droides o las construcciones.
 
 #### Force Mend
 _7th-level light side power_
 ___
-- **Casting time:** 1 minute
-- **Range:** Touch
-- **Duration:** 1 hour
+- **Tiempo de emisión:** 1 minuto
+- **Rango:** Toca
+- **Duración:** 1 hora
 
-You touch a creature and stimulate its natural healing ability. The target regains 4d8+15 hit points. For the duration of the power, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).
+Tocas a una criatura y estimulas su capacidad natural de curación. El objetivo recupera 4d8+15 puntos de golpe. Durante el tiempo que dure el poder, el objetivo recupera 1 punto de golpe al comienzo de cada uno de sus turnos (10 puntos de golpe cada minuto).
 
-If the creature has a severed part you hold it to the stump, the power instantaneously causes the limb to knit to the stump.
+Si la criatura tiene una parte cortada que se sujeta al muñón, la fuerza hace que el miembro se una instantáneamente al muñón.
 
-This power has no effect on droids or constructs.
+Este poder no tiene efecto sobre los droides o las construcciones.
 
 #### Force Project
 _7th-level universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Self
-- **Duration:** Concentration, up to 1 day
+- **Casting Time:** 1 acción
+- **Rango:** Auto
+- **Duración:** Concentración, hasta 1 día
 
-You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you but is intangible. If the illusion takes any damage, it disappears, and the power ends. 
+Creas una copia ilusoria de ti mismo que dura toda la duración. La copia puede aparecer en cualquier lugar que hayas visto antes, sin importar los obstáculos que interfieran. La ilusión se parece y suena como tú pero es intangible. Si la ilusión sufre algún daño, desaparece, y el poder termina. 
 
-You can use your action to move this illusion up to twice your speed, and make it gesture, speak, and behave in whatever way you choose. It mimics your mannerisms perfectly.
+Puedes usar tu acción para mover esta ilusión hasta el doble de tu velocidad, y hacer que gesticule, hable y se comporte de la manera que quieras. Imitan perfectamente sus modales.
 
-You can see through its eyes and hear through its ears as if you were in its space. On your turn as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings.
+Puedes ver a través de sus ojos y oír a través de sus oídos como si estuvieras en su espacio. En tu turno como acción extra, puedes cambiar de usar sus sentidos a usar los tuyos propios, o volver de nuevo. Mientras estás usando sus sentidos, estás ciego y sordo con respecto a tu propio entorno.
 
 \columnbreak
 
 <div style='margin-top:16px'></div>
 
-&emsp;Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your force save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
+La interacción física con la imagen revela que es una ilusión, porque las cosas pueden pasar a través de ella. Una criatura que utiliza su acción para examinar la imagen puede determinar que es una ilusión con un exitoso chequeo de Inteligencia (Investigación) contra su fuerza salvo DC. Si una criatura discierne la ilusión por lo que es, la criatura puede ver a través de la imagen, y cualquier ruido que haga suena hueco a la criatura.
 
 #### Force Push/Pull
 _At-will universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** 60 feet
-- **Duration:** Instantaneous
+- **Casting Time:** 1 acción
+- **Rango:** 60 pies
+- **Duración:** Instantánea
 
-You gain the minor ability to move or manipulate creatures and objects with the Force. You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial. Alternatively, you can push or pull a creature or object you can see. 
+Obtienes la habilidad menor de mover o manipular criaturas y objetos con la Fuerza. Puedes ejercer un control fino sobre los objetos con tu agarre telequinético, como manipular una simple herramienta, abrir una puerta o un contenedor, guardar o recuperar un objeto de un contenedor abierto, o verter el contenido de un frasco. Alternativamente, puedes empujar o tirar de una criatura u objeto que puedas ver. 
 
-You use the Force to move a Medium or smaller creature or object not being worn or carried within range. The target must make a Strength saving throw. An object automatically fails this saving throw. On a failed save, the creature or object moves a number of feet in a direction of your choice based on its size. A Tiny creature or object can be moved up to 20 feet, a Small creature or object can be moved up to 10 feet, and a Medium creature or object can be moved up to 5 feet. If at the end of this movement the creature or object strikes another creature or object, they both take 1d4 kinetic damage.
+Utilizas la Fuerza para mover una criatura u objeto mediano o más pequeño que no se lleva puesto o que no está a su alcance. El objetivo debe hacer un lanzamiento de ahorro de fuerza. Un objeto falla automáticamente este tiro de salvamento. En una salvada fallida, la criatura u objeto se mueve un número de pies en una dirección de su elección basada en su tamaño. Una criatura u objeto pequeño puede moverse hasta 20 pies, una criatura u objeto pequeño puede moverse hasta 10 pies, y una criatura u objeto mediano puede moverse hasta 5 pies. Si al final de este movimiento la criatura u objeto golpea a otra criatura u objeto, ambos reciben 1d4 de daño cinético.
 
-This power improves when you reach higher levels. At 5th level, you can move a Tiny creature or object up to 30 feet, a Small creature or object up to 20 feet, a Medium creature or object up to 10 feet, and the power's damage increases to 2d4 kinetic damage. At 11th level, you can move a Small creature or object up to 30 feet, a Medium creature up to 20 feet, and the power's damage increases to 3d4 kinetic damage. At 17th level, you can move a Medium creature to up 30 feet, and the power's damage increases to 4d4 kinetic damage.
+Este poder mejora cuando se alcanzan niveles más altos. En el 5º nivel, puedes mover una criatura u objeto diminuto hasta 30 pies, una criatura u objeto pequeño hasta 20 pies, una criatura u objeto mediano hasta 10 pies, y el daño del poder aumenta a 2d4 de daño cinético. En el nivel 11, puedes mover una criatura u objeto pequeño hasta 30 pies, una criatura u objeto mediano hasta 20 pies, y el daño de la potencia aumenta a 3d4 de daño cinético. En el 17º nivel, puedes mover una criatura mediana hasta 30 pies, y el daño del poder aumenta hasta 4d4 de daño cinético.
 
 #### Force Repulse
 _3rd-level universal power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Self (20-foot radius)
-- **Duration:** Instantaneous
+- **Casting Time:** 1 acción
+- **Rango:** Auto (radio de 20 pies)
+- **Duración:** Instantánea
 
-You release an omnidirectional telekinetic burst. Each creature within 20 feet must make a Dexterity saving throw. On a failed save, a creature takes 8d6 force damage and is pushed back 5 feet. On a successful save, a creature takes half damage and isn't pushed.
+Liberas un estallido telequinético omnidireccional. Cada criatura en un radio de 20 pies debe hacer un lanzamiento de ahorro de destreza. En una salvada fallida, la criatura recibe 8d6 de daño de fuerza y es empujada hacia atrás 5 pies. En una salvada exitosa, la criatura recibe la mitad del daño y no es empujada.
 
-All small objects that are not worn or carried are also pushed 5 feet back.
+Todos los objetos pequeños que no se usan o se llevan, también se empujan 5 pies hacia atrás.
 
 ***Force Potency.*** When you cast this power using a force slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
 
-<div class='footnote'>CHAPTER 11 | FORCE POWERS</div>
+<div class='footnote'>CAPITULO 11 | PODERES DE FUERZA</div>
 
 \pagebreakNum
 
 #### Force Scream
 _3rd-level dark side power_
 ___
-- **Casting Time:** 1 action
-- **Range:** Self (15-foot radius)
-- **Duration:** Instantaneous 
+- **Casting Time:** 1 acción
+- **Rango:** Auto (radio de 15 pies)
+- **Duración:** Instantánea 
 
-You emit a scream imbued with the power of the Force. Each creature you choose within 15 feet of you must succeed on a Constitution saving throw. On a failed save, a creature take 4d6 psychic damage, 4d6 sonic damage, and is deafened until the end of its next turn. On a successful save, it takes half as much damage and isn't deafened.
+Emites un grito imbuido del poder de la Fuerza. Cada criatura que elijas a menos de 15 pies de ti debe tener éxito en un lanzamiento de ahorro de la Constitución. En una salvada fallida, la criatura recibe 4d6 de daño psíquico, 4d6 de daño sónico, y es ensordecida hasta el final de su siguiente turno. En una salvada exitosa, toma la mitad del daño y no es ensordecida.
 
 #### Force Sight
 _2nd-level universal power_
 ___
-- **Prerequisite:** Sense Force
-- **Casting Time:** 1 action
-- **Range:** Self 
-- **Duration:** Concentration, up to 10 minutes
+- **Prerrequisito:** Fuerza de los sentidos
+- **Casting Time:** 1 acción
+- **Rango:** Auto 
+- **Duración:** Concentración, hasta 10 minutos
 
-You shift your vision to see through use of the Force; colors fade and inanimate objects appear as shades of gray. You gain the following benefits.
-- Living things glow with the power of the Force. Those with an affinity for the light side glow blue, those with an affinity for the dark side glow red, and those with no attunement to either side of the Force glow yellow. How bright they glow is determined by how strong their connection to the Force is.
-- You gain blindsight to 30 feet.
-- You have advantage on Wisdom (Perception) checks that rely on sight against living targets within 30 feet.
+Cambias tu visión para ver a través del uso de la Fuerza; los colores se desvanecen y los objetos inanimados aparecen como sombras de gris. Obtienes los siguientes beneficios.
+- Los seres vivos brillan con el poder de la Fuerza. Los que tienen afinidad con el lado claro brillan en azul, los que tienen afinidad con el lado oscuro brillan en rojo, y los que no tienen afinidad con ninguno de los lados de la Fuerza brillan en amarillo. El brillo que tienen está determinado por la fuerza de su conexión con la Fuerza.
+- Se gana en visión ciega a 30 pies.
+- Tienes ventaja en los chequeos de Sabiduría (Percepción) que dependen de la vista contra objetivos vivos dentro de los 30 pies.
 
 #### Force Storm
 _9th-level dark side power_
 ___
-- **Prerequisite:** Force Lightning Cone
-- **Casting Time:** 1 action
-- **Range:** 150 feet (60-foot cylinder)
-- **Duration:** Concentration, up to 1 minute
+- **Prerrequisito:** Cono de Rayos de Fuerza
+- **Casting Time:** 1 acción
+- **Alcance:** 150 pies (60 pies de cilindro)
+- **Duración:** Concentración, hasta 1 minuto
 
-A crackling storm of lightning appears in a location you choose within range. Whenever a creature enters the storm or starts its turn there, it must make a Dexterity saving throw. On a failed save, it takes 30d6 lightning damage or half as much as a successful one.
+Una tormenta de relámpagos aparece en un lugar que usted elige dentro del rango. Cada vez que una criatura entra en la tormenta o comienza su turno allí, debe hacer un lanzamiento de ahorro de destreza. En una salvada fallida, toma 30d6 de daño por rayo o la mitad de lo que toma una salvada exitosa.
 
-The power damages objects in the area and ignites flammable objects that aren't being worn or carried.
+La energía daña los objetos de la zona y enciende los objetos inflamables que no se llevan puestos o transportados.
 
 \columnbreak
 
