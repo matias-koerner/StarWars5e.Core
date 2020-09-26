@@ -1,10 +1,11 @@
 
 
+
 # Capítulo 2: Especies
 
-<img src='https://www.gmbinder.com/images/TP83mUX.png' style='position:absolute;top:90px;left:75px;width:35px' />
+ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">visita a cualquiera de las grandes ciudades en los mundos de</span><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Star Wars* abruma los sentidos. Las voces parlotean en incontables idiomas diferentes. Los olores de la cocina en docenas de cocinas diferentes se mezclan con los olores de las calles atestadas y la falta de higiene. Los edificios de innumerables estilos arquitectónicos muestran los diversos orígenes de sus habitantes. 
+<span style="font-variant: small-caps">Visita a cualquiera de las grandes ciudades en los mundos de</span><br>  *Star Wars* abruma los sentidos. Las voces parlotean en incontables idiomas diferentes. Los olores de la cocina en docenas de cocinas diferentes se mezclan con los olores de las calles atestadas y la falta de higiene. Los edificios de innumerables estilos arquitectónicos muestran los diversos orígenes de sus habitantes. 
 
 Y la propia gente, gente de diferentes tamaños, formas y colores, vestida con un deslumbrante espectro de estilos y tonos, representa a muchas especies diferentes, desde los diminutos bothans y los robustos cereans hasta los majestuosos twi'leks y los altísimos wookiees, mezclándose entre una variedad de etnias humanas.
 
@@ -204,7 +205,7 @@ ___
 > |:--|:--|:--|
 > |*** Color de piel***|&nbsp;&nbsp;|Azul o plata|
 > |***Color del pelo***|&nbsp;&nbsp;|Negro, azul o plateado|
-> |***Color de Ojos***|&nbsp;&nbsp;|Red|
+> |***Color de Ojos***|&nbsp;&nbsp;|Rojo|
 > |***Distinciones***|&nbsp;&nbsp;|Ojos rojos brillantes, visión nocturna superior a la media.
 > ___
 > #### Características físicas
@@ -249,11 +250,11 @@ Como un beso, tienes los siguientes rasgos especiales.
 
 ***Velocidad.*** La velocidad de tu base es de 30 pies.
 
-***Tech Resistance.***  Crecer alrededor de la tecnología deja un impacto en el bienestar. Tienes ventaja en la destreza y la inteligencia, ahorrando lanzamientos contra los poderes de la tecnología.
+***Resistencia Tecnologica.***  Crecer alrededor de la tecnología deja un impacto en el bienestar. Tienes ventaja en la destreza y la inteligencia, ahorrando lanzamientos contra los poderes de la tecnología.
 
 ***Visión en la Oscuridad.***  Tienes una vista aguda, especialmente en la oscuridad. Puedes ver en la luz tenue a 120 pies de ti como si fuera una luz brillante, y en la oscuridad como si fuera una luz tenue. No puedes discernir el color en la oscuridad, sólo sombras de gris.
 
-***Martial Proficiency.*** Tienes habilidad con armaduras ligeras y medianas, así como con la pistola de rayos y el rifle de francotirador.
+***Competencia Marcial.*** Tienes habilidad con armaduras ligeras y medianas, así como con la pistola blaster y el rifle de francotirador.
 
 ***Idiomas.*** Puedes hablar, leer y escribir Galactic Basic y Cheunh. Cheunh es un lenguaje complejo que es difícil de aprender para los que no son expertos. Chiss se enorgullece de esta dificultad.
 
@@ -270,8 +271,8 @@ ___
 > ||||
 > |:--|:--|:--|
 > |*** Color de piel***|&nbsp;&nbsp;|Azul, verde|
-> |***Color de Pelo***|&nbsp;&nbsp;|None|
-> |***Color de Ojos***|&nbsp;&nbsp;|Red|
+> |***Color de Pelo***|&nbsp;&nbsp;|Ninguno|
+> |***Color de Ojos***|&nbsp;&nbsp;|Rojo|
 > |***Distinciones***|&nbsp;&nbsp;| Sin nariz, grandes ojos rojos, afinidad con los viajes espaciales.
 > ___
 > #### Características físicas
@@ -495,7 +496,7 @@ ___
 > ||||
 > |:--|:--|:--|
 > |***Color de piel***|&nbsp;&nbsp;|Naranja, rojo|
-> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Pelo***|&nbsp;&nbsp;|Ninguno|
 > |***Color de Ojos***|&nbsp;&nbsp;|Negro, plateado|
 > |***Distinciones***|&nbsp;&nbsp;|Rebreathers para sobrevivir en ambientes de oxígeno|
 > ___
@@ -572,7 +573,7 @@ ___
 > ||||
 > |:--|:--|:--|
 > |***Color de piel***|&nbsp;&nbsp;|Marrón rojizo, marrón, rojo, cian, moteado, salmón, oro, azul, gris o blanco|
-> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Pelo***|&nbsp;&nbsp;|Ninguno|
 > |***Color de Ojos***|&nbsp;&nbsp;|Amarillo, naranja, azul o gris|
 > |***Distinciones***|&nbsp;&nbsp;|Grandes, ojos como de gafas, cabezas con cúpulas altas, manos palmeadas|
 > ___
@@ -647,7 +648,7 @@ ___
 > ||||
 > |:--|:--|:--|
 > |***Color de piel***|&nbsp;&nbsp;|Azul, verde, púrpura, turquesa o amarillo|
-> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Pelo***|&nbsp;&nbsp;|Ninguno|
 > |***Color de Ojos***|&nbsp;&nbsp;|Azul, negro, verde, púrpura o rojo|
 > |***Distinciones***|&nbsp;&nbsp;|Ojos grandes y redondos sin pupilas, hocicos, orejas puntiagudas, antenas, piel escamosa y generalmente verde.
 > ___
@@ -793,7 +794,7 @@ ___
 > ||||
 > |:--|:--|:--|
 > |***Color de Piel***|&nbsp;&nbsp;|Azul, verde, naranja, púrpura, rojo, blanco o amarillo|
-> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Pelo***|&nbsp;&nbsp;|Ninguno|
 > |***Color de Ojos***|&nbsp;&nbsp;|Negro, azul, verde, naranja, púrpura, amarillo o rojo|
 > |***Distinciones***|&nbsp;&nbsp;|Dientes caninos afilados, dos montrales, tres o cuatro colas de cabeza.
 > ___
@@ -866,7 +867,7 @@ ___
 > ||||
 > |:--|:--|:--|
 > |***Color de Piel***|&nbsp;&nbsp;|Verde, amarillo, marrón, naranja, rojo|
-> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Pelo***|&nbsp;&nbsp;|Ninguno|
 > |***Color de Ojos***|&nbsp;&nbsp;|Amarillo, naranja|
 > |***Distinciones***|&nbsp;&nbsp;|Piel escamosa, propiedades regenerativas|
 > ___
@@ -939,7 +940,7 @@ ___
 > ||||
 > |:--|:--|:--|
 > |***Color de Piel***|&nbsp;&nbsp;|Azul, marrón, gris oscuro, verde, naranja, rosa, púrpura, rojo, bronceado, cerceta, blanco, amarillo o a rayas|
-> |***Color de Pelo***|&nbsp;&nbsp;|None|
+> |***Color de Pelo***|&nbsp;&nbsp;|Ninguno|
 > |***Color de Ojos***|&nbsp;&nbsp;|Negro, azul, marrón, verde, avellana, naranja, rosa, púrpura o amarillo|
 > |***Distinciones***|&nbsp;&nbsp;|Lekku, uñas afiladas como garras, los machos a menudo se liman los dientes en punta|
 > ___
