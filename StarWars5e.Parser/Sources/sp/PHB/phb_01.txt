@@ -2,9 +2,9 @@
 
 # Capítulo 1: Personajes Paso-a-Paso
 
-<img src='https://www.gmbinder.com/images/5CsIIIt.png' style='position:absolute;top:90px;left:72px;width:37px' />
+ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">nuestro primer paso para jugar a ser un aventurero en el juego <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dungeons and Dragons</span> es imaginar y crear un personaje propio. Tu personaje es una combinación de estadísticas de juego, ganchos de juego de rol y tu imaginación. Eliges una especie (como un humano o twi'lek) y una clase (como un centinela o un explorador). También inventas la personalidad, la apariencia y la historia de tu personaje. Una vez completado, tu personaje sirve como tu representante en el juego, tu avatar en la galaxia de *Star Wars*.
+<span style="font-variant: small-caps">Nuestro primer paso para jugar a ser un aventurero en el juego <br> Dungeons and Dragons</span> es imaginar y crear un personaje propio. Tu personaje es una combinación de estadísticas de juego, ganchos de juego de rol y tu imaginación. Eliges una especie (como un humano o twi'lek) y una clase (como un centinela o un explorador). También inventas la personalidad, la apariencia y la historia de tu personaje. Una vez completado, tu personaje sirve como tu representante en el juego, tu avatar en la galaxia de *Star Wars*.
 
 Antes de que te sumerjas en el paso 1, piensa en el tipo de aventurero que quieres jugar. Podrías ser un valiente luchador, un sinvergüenza escurridizo, un ferviente consular o un cruel guardián. O puede que te interese más un personaje poco convencional, como un sinvergüenza musculoso al que le gusta el combate cuerpo a cuerpo, o un francotirador que se deshace de los enemigos a distancia. ¿Te gustan las especies no humanas como los Twi'leks o los Wookiees? Intenta construir un personaje de una de esas especies. ¿Quieres que tu personaje sea el aventurero más duro de la mesa? Considera la clase de luchador. Si no sabes por dónde empezar, echa un vistazo a las ilustraciones de cualquier libro de *Star Wars* para ver qué es lo que te interesa.
 
@@ -12,10 +12,10 @@ Una vez que tengas un personaje en mente, sigue estos pasos en orden, tomando de
 
 A lo largo de esta sección, utilizamos el término hoja de personaje para referirnos a cualquier cosa que utilice para rastrear su personaje, ya sea una **hoja de personaje formal** (como la que se encuentra al final de estas reglas), algún tipo de registro digital o un pedazo de papel de cuaderno. Una hoja de personaje oficial de D&D es un buen lugar para empezar hasta que sepas qué información necesitas y cómo la usas durante el juego.
 
-> ##### Edificio Han Solo
+> ##### Creando a Han Solo
 > Cada paso de la creación de un personaje incluye un ejemplo de ese paso, con un jugador construyendo el personaje icónico Han Solo, tal y como es retratado durante los acontecimientos del Episodio IV.
 
-### 1. Elija una especie
+### 1. Elije una especie
 Cada personaje pertenece a una especie, una de las muchas especies humanoides inteligentes de los mundos de la Star Wars. La especie más común en la galaxia es la humana, pero hay una miríada de especies casi humanas disponibles para jugar, incluyendo los Besaliscos de cuatro brazos, los astutos Trandoshans, los hábiles Twi'leks y el droide utilitario. El capítulo de **Especies** proporciona más información sobre estas especies.
 
 La especie que elija contribuye a la identidad de su personaje de manera importante, estableciendo una apariencia general y los talentos naturales obtenidos de la cultura y la ascendencia. La especie de tu personaje otorga rasgos especiales particulares, como sentidos especiales, dominio de ciertas armas o herramientas, dominio de una herramienta, dominio de una o más habilidades, o la capacidad de usar poderes menores. 
@@ -28,13 +28,13 @@ Tu especie también aumenta una o más de tus puntuaciones de habilidad, que deter
 
 Registra los rasgos otorgados por tu especie en tu hoja de personaje. Asegúrate de anotar tus idiomas de partida y tu velocidad base también.
 
-> ##### Edificio Han Solo, Paso 1
+> ##### Creando a Han Solo, Paso 1
 > Como Han Solo es un humano, registramos todos los rasgos especiales de los humanos en nuestro personaje, incluyendo su velocidad de 30 pies y los idiomas que conoce: Galactic Basic y Shyriiwook.
 
-### 2. Elija una clase
+### 2. Elije una clase
 Cada aventurero es un miembro de una clase. La clase describe ampliamente la vocación de un personaje, qué talentos especiales posee, y las tácticas que es más probable que emplee cuando explora una ciudad, lucha contra monstruos o participa en una negociación tensa. Las clases de personajes se describen en el capítulo **Clases**.
 
-Tu personaje recibe una serie de beneficios por la elección de la clase. Muchos de estos beneficios son **características de clase** - capacidades (incluyendo fuerza o tecnología) que diferencian a tu personaje de los miembros de otras clases. También obtienes un número de **proficiencias**: armadura, armas, habilidades, lanzamientos de salvamento, y a veces herramientas. Tus habilidades definen muchas de las cosas que tu personaje puede hacer particularmente bien, desde usar ciertas armas hasta decir una mentira convincente.
+Tu personaje recibe una serie de beneficios por la elección de la clase. Muchos de estos beneficios son **características de clase** - capacidades (incluyendo fuerza o tecnología) que diferencian a tu personaje de los miembros de otras clases. También obtienes un número de **competencias**: armadura, armas, habilidades, lanzamientos de salvamento, y a veces herramientas. Tus habilidades definen muchas de las cosas que tu personaje puede hacer particularmente bien, desde usar ciertas armas hasta decir una mentira convincente.
 
 En tu hoja de personaje, anota todos los rasgos que tu clase te da en el 1er nivel.
 
@@ -55,7 +55,7 @@ Anota tu nivel en tu hoja de personaje. Si comienzas en un nivel más alto, regis
 #### Puntos de golpe y Dados de golpe
 Los puntos de golpe de tu personaje definen la dureza de tu personaje en el combate y otras situaciones peligrosas. Tus puntos de golpe se determinan por tus Dados de Golpe (abreviatura de Hit Point Dice).
 
-En el primer nivel, tu personaje tiene un dado de impacto, y el tipo de dado es determinado por tu clase. Comienzas con puntos de impacto iguales a la tirada más alta de ese dado, como se indica en la descripción de tu clase. (También añades tu modificador de Constitución, que determinarás en el paso 3.) Este también es tu **máximo de puntos de impacto**.
+En el primer nivel, tu personaje tiene un dado de impacto, y el tipo de dado es determinado por tu clase. Comienzas con puntos de impacto iguales a la tirada más alta de ese dado, como se indica en la descripción de tu clase. (También añades tu modificador de Constitución, que determinarás en el paso 3.) Este también es tu **máximo de puntos de golpe**.
 
 Registra los puntos de golpe de tu personaje en tu hoja de personaje. También registra el tipo de dado de golpe que tu personaje usa y el número de dados de golpe que tienes. Después de descansar, puedes gastar Dados de Golpe para recuperar los puntos de golpe (ver "Descansar" en la sección de Aventuras). Cada vez que lances un dado de impacto para recuperar puntos de impacto, añade tu modificador de constitución a la tirada.
 
@@ -102,7 +102,7 @@ Después de asignar sus puntuaciones de habilidad, determine sus **modificadores 
 
 <div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
-\pEdadbreakNum
+\pagereakNum
 
 #### Variante: Personalización de las puntuaciones de característica
 A elección del Game Master, puedes usar esta variante para determinar tus puntuaciones de habilidad. El método descrito aquí te permite construir un personaje con un conjunto de puntuaciones de habilidad que eliges individualmente.
@@ -112,7 +112,7 @@ Tienes 27 puntos para gastar en tus puntuaciones de habilidad. El costo de cada 
 Este método para determinar las puntuaciones de habilidad permite crear un conjunto de tres números altos y tres bajos (15, 15, 15, 8, 8, 8), un conjunto de números que están por encima de la media y casi iguales (13, 13, 13, 12, 12, 12), o cualquier conjunto de números entre esos extremos.
 
 ###### Coste de Puntuaciones de Característica
-|Score|Costes|
+|Puntuación|Costes|
 |:--:|:--:|
 |8|0|
 |9|1|
@@ -126,11 +126,11 @@ Este método para determinar las puntuaciones de habilidad permite crear un conju
 ### 4. Describe a tu personaje
 Una vez que conozcas los aspectos básicos del juego de tu personaje, es el momento de encarnarlo como persona. Tu personaje necesita un nombre. Pasa unos minutos pensando en su aspecto y en cómo se comporta en términos generales.
 
-Usando la información del capítulo de **Personalidad y antecedentes**, puedes desarrollar la apariencia física y los rasgos de personalidad de tu personaje. Elige la **alineación** de tu personaje (la brújula moral que guía sus decisiones) y los **ideales**. El capítulo de **Personalidad y Antecedentes** también te ayuda a identificar las cosas que tu personaje aprecia más, llamadas **bonos**, y las **flagas** que podrían algún día socavarlo.
+Usando la información del capítulo de **Personalidad y Trasfondo**, puedes desarrollar la apariencia física y los rasgos de personalidad de tu personaje. Elige la **alineación** de tu personaje (la brújula moral que guía sus decisiones) y los **ideales**. El capítulo de **Personalidad y Trasfondo** también te ayuda a identificar las cosas que tu personaje aprecia más, llamadas **vínculos** y los **defectos** que podrían un día socavar su ánimo.
 
-Los **antecedentes** de tu personaje describen su procedencia, su ocupación original y su lugar en el mundo del D&D. Tu GM podría ofrecerte otros antecedentes además de los incluidos en la sección de Personalidad y Antecedentes, y podría estar dispuesto a trabajar contigo para crear un fondo que se ajuste con mayor precisión al concepto de tu personaje.
+El **trasfondo** de tu personaje describen su procedencia, su ocupación original y su lugar en el mundo del D&D. Tu GM podría ofrecerte otros antecedentes además de los incluidos en la sección de Personalidad y Antecedentes, y podría estar dispuesto a trabajar contigo para crear un fondo que se ajuste con mayor precisión al concepto de tu personaje.
 
-Un fondo le da a tu personaje un rasgo de fondo (un beneficio general) y el dominio de dos habilidades, y también podría darte idiomas adicionales o el dominio de ciertos tipos de herramientas. Registra esta información, junto con la información de la personalidad que desarrollas, en tu hoja de personaje.
+Un trasfondo le da a tu personaje un rasgo de fondo (un beneficio general) y el dominio de dos habilidades, y también podría darte idiomas adicionales o el dominio de ciertos tipos de herramientas. Registra esta información, junto con la información de la personalidad que desarrollas, en tu hoja de personaje.
 
 \columnbreak
 
@@ -158,9 +158,9 @@ Un fondo le da a tu personaje un rasgo de fondo (un beneficio general) y el domi
 
 <div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
-> ##### Edificio Han Solo, Paso 4
+> ##### Creando a Han Solo, Paso 4
 > Luego llenamos algunos de los detalles básicos de Han: su nombre, su sexo (masculino), su altura y peso, y su alineación (luz caótica). Su alta Destreza y Carisma representan su capacidad y poder de presencia, y su baja Fuerza representa una burbuja no excepcional.
 >
 > Han es un sinvergüenza notorio, así que elegimos el fondo de sinvergüenza. Toma nota de las habilidades y características especiales que este fondo da. Elegimos la hazaña de la Lengua de Plata para la hazaña de fondo de Han, añadiendo el bono al Carisma de Han, llevando el total a 16, y el modificador a +3.
@@ -185,19 +185,19 @@ Un personaje con gran sabiduría tiene buen juicio, empatía y una conciencia gene
 Un personaje con alto carisma exuda confianza, que suele mezclarse con una presencia grácil o intimidante. Un personaje con bajo Carisma puede parecer abrasivo, inarticulado o tímido.
 
 ### 5. Elije equipo
-Tu clase y antecedentes determinan el **equipo de inicio** de tu personaje, incluyendo armas, armaduras y otros equipos de aventura. Registra este equipo en tu hoja de personaje. Todos estos artículos se detallan en la sección de Equipo.
+Tu clase y antecedentes determinan el **equipo inicial** de tu personaje, incluyendo armas, armaduras y otros equipos de aventura. Registra este equipo en tu hoja de personaje. Todos estos artículos se detallan en la sección de Equipo.
 En lugar de tomar el equipo que te dan tu clase y antecedentes, puedes comprar tu equipo de arranque. Tienes un número de **créditos** (cr) para gastar en base a tu clase, como se muestra en la sección de Equipo. En esa sección también aparecen extensas listas de equipo, con sus precios. 
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-Tu puntuación de fuerza limita la cantidad de equipo que puedes llevar. Intente no comprar equipo con un peso total (en libras) que exceda su puntuación de fuerza por 15. "**Utilizando los puntajes de habilidad**" tiene más información sobre la capacidad de carga.
+Tu puntuación de fuerza limita la cantidad de equipo que puedes llevar. Intente no comprar equipo con un peso total (en libras) que exceda su puntuación de fuerza por 15. "**Utilizando las puntuaciones de habilidad**" tiene más información sobre la capacidad de carga.
 
 #### Clase de Armadura
-Tu **Clase de Armadura** (AC) representa lo bien que tu personaje evita ser herido en la batalla. Las cosas que contribuyen a tu AC incluyen la armadura que llevas, el escudo que llevas y tu modificador de destreza. Sin embargo, no todos los personajes usan armadura o llevan escudos.
+Tu **Clase de Armadura** (CA) representa lo bien que tu personaje evita ser herido en la batalla. Las cosas que contribuyen a tu CA incluyen la armadura que llevas, el escudo que llevas y tu modificador de destreza. Sin embargo, no todos los personajes usan armadura o llevan escudos.
 
-Sin armadura ni escudo, la CA de tu personaje es igual a 10 + su modificador de destreza. Si tu personaje usa armadura, lleva un escudo o ambos, calcula tu AC usando las reglas de la sección de Equipo. Registra tu AC en la hoja de tu personaje.
+Sin armadura ni escudo, la CA de tu personaje es igual a 10 + su modificador de destreza. Si tu personaje usa armadura, lleva un escudo o ambos, calcula tu CA usando las reglas de la sección de Equipo. Registra tu CA en la hoja de tu personaje.
 
 Tu personaje necesita ser competente con la armadura y los escudos para usarlos y usarlos eficazmente, y tus habilidades con la armadura y los escudos son determinadas por tu clase. Hay desventajas de usar una armadura o llevar un escudo si no tienes la habilidad requerida, como se explica en la sección de Equipo.
 
@@ -208,8 +208,8 @@ Por cada arma que tu personaje empuñe, calcula el modificador que usas cuando at
 
 Cuando haces un ataque con un arma, sacas un d20 y añades tu bono de habilidad (pero sólo si eres experto en el arma) y el modificador de habilidad apropiado.
 
-- Para los ataques con **armas de Melé**, usa tu modificador de fuerza para las tiradas de ataque y daño. Un arma que tiene la propiedad de la delicadeza, como un vibrador, puede usar tu modificador de Destreza en su lugar.
-- Para los ataques con **armas de alcance**, usa tu modificador de Destreza para las tiradas de ataque y daño. Un arma que tiene la propiedad de ser lanzada, como una vibrodaga, puede usar tu modificador de Fuerza en su lugar.
+- Para los ataques con **armas cuerpo a cuerpo**, usa tu modificador de fuerza para las tiradas de ataque y daño. Un arma que tiene la propiedad de la delicadeza, como un vibrador, puede usar tu modificador de Destreza en su lugar.
+- Para los ataques con **armas a distancia**, usa tu modificador de Destreza para las tiradas de ataque y daño. Un arma que tiene la propiedad de ser lanzada, como una vibrodaga, puede usar tu modificador de Fuerza en su lugar.
 
 > ##### Creando a Han Solo, Paso 5
 > Ahora anotamos el equipo de salida de la clase operativa y el fondo de sinvergüenza. Su equipo de salida incluye un traje de combate, dándole una clase de armadura de 14.
@@ -221,7 +221,7 @@ Cuando haces un ataque con un arma, sacas un d20 y añades tu bono de habilidad (
 \pEdadbreakNum
 
 ### 6. Reunirse
-La mayoría de los personajes de "Star Wars" no trabajan solos. Cada personaje juega un papel dentro de un **partido**, un grupo de aventureros trabajando juntos para un propósito común. El trabajo en equipo y la cooperación mejoran enormemente las posibilidades de tu grupo de sobrevivir a los muchos peligros de los mundos de *Star Wars*. Habla con tus compañeros de juego y con tu GM para decidir si tus personajes se conocen, cómo se conocieron y qué tipo de misiones podría emprender el grupo.
+La mayoría de los personajes de "Star Wars" no trabajan solos. Cada personaje juega un papel dentro de un **grupo**. Un grupo de aventureros trabajando juntos para un propósito común. El trabajo en equipo y la cooperación mejoran enormemente las posibilidades de tu grupo de sobrevivir a los muchos peligros de los mundos de *Star Wars*. Habla con tus compañeros de juego y con tu GM para decidir si tus personajes se conocen, cómo se conocieron y qué tipo de misiones podría emprender el grupo.
 
 #### Más Allá del 1er Nivel
 A medida que tu personaje avanza en las aventuras y supera los desafíos, gana experiencia, representada por los puntos de experiencia. Un personaje que alcanza un punto de experiencia específico avanza totalmente en su capacidad. Este avance se llama ganar un nivel.
@@ -269,7 +269,7 @@ La tabla de avance de personajes resume los XP que necesita para avanzar en los 
 
 <div class='footnote'>CAPITULO 1 | CARACTERISTICAS PASO A PASO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 <style>
   .phb#p7:after { display:none; }
@@ -277,4 +277,4 @@ La tabla de avance de personajes resume los XP que necesita para avanzar en los 
 
 <img src='https://i.pinimg.com/originals/be/7b/15/be7b15dbe32e8a96a7b6668fa5402259.jpg' style="position:absolute; left:0px; top:-220px; width:840px;" />
 
-\pEdadbreakNum
+\pagebreakNum

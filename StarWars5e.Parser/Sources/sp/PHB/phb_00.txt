@@ -2,9 +2,9 @@
 
 # Introducción
 
-<img src='https://www.gmbinder.com/images/PqYzVdr.png' style='position:absolute;top:90px;left:75px;width:29px' />
+ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">l juego de rol Dungeons & Dragons trata sobre</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; contar historias en mundos de espadas y brujería. Comparte elementos con los juegos infantiles de fingir y jugar a ser personajes imaginarios. Como esos juegos, D&D esta conducido por la imaginación. Se trata de imaginarse un castillo en la noche, bajo un tormentoso cielo y figurarse como un aventurero de fantasía podría reaccionar a los desafíos que la escena presenta.
+<span style="font-variant: small-caps">El juego de rol Dungeons & Dragons trata sobre</span> contar historias en mundos de espadas y brujería. Comparte elementos con los juegos infantiles de fingir y jugar a ser personajes imaginarios. Como esos juegos, D&D esta conducido por la imaginación. Se trata de imaginarse un castillo en la noche, bajo un tormentoso cielo y figurarse como un aventurero de fantasía podría reaccionar a los desafíos que la escena presenta.
 
 Esta revisión está diseñada como una modificacion *Star Wars* del juego <span style="font-variant: small-caps">Dungeons & Dragons</span>. Las reglas son generalmente las mismas, por lo que un jugador experimentado de la 5ª edición no debería tener problemas para saltar directamente a una campaña temática de *Star Wars*. Para el jugador menos experimentado, esta introducción cubrirá los fundamentos de la 5ª Edición de <span style="font-variant: small-caps">Dungeons & Dragons</span>, debidamente resintonizados para el escenario.
 
@@ -69,9 +69,9 @@ Los muchos mundos del juego *Star Wars* <span style="font-variant: small-caps">D
 
 <div class='footnote'>INTRODUCCIÓN</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
-Naturalmente, esta conversión está diseñada para explorar la miríada de mundos del universo de *Star Wars*. Yo personalmente lo diseñé para ser usado en la era de la Antigua República, caracterizada por los juegos de **Knights of the Old Republic** y **The Old Republic** MMORPG. La utilización de este marco de tiempo permite una mayor justificación para el predominio de los que ejercen la fuerza.
+Naturalmente, esta conversión está diseñada para explorar la miríada de mundos del universo de *Star Wars*. Yo personalmente lo diseñé para ser usado en la era de la Antigua República, caracterizada por los juegos de **Knights of the Old Republic/Caballeros de la Vieja Republica ** y **The Old Republic**. La utilización de este marco de tiempo permite una mayor justificación para el predominio de los que ejercen la fuerza.
 
 Todos estos mundos comparten características, pero cada mundo se distingue por su propia historia y culturas, monstruos y especies distintivas, geografía fantástica, ruinas antiguas y villanos intrigantes. Algunos mundos están dominados por una gran historia, como la guerra de los separatistas contra Ord Mantell. En última instancia, todos son mundos de *Star Wars*, y puedes usar las reglas de este libro para crear un personaje y jugar en cualquiera de ellos.
 
@@ -86,7 +86,7 @@ El *Manual del Jugador* está dividido en doce capítulos.
 
 **Capítulos 10-12** es todo sobre la Fuerza y la tecnología. Cubre la naturaleza del casting en los mundos de *Star Wars*, las reglas para ellos, y la enorme variedad de poderes disponibles para los personajes del juego.
 
-## How to Play
+## Como Jugar
 El juego de las <span style="font-variant: small-caps">Dungeons & Dragons</span> se desarrolla según este patrón básico.
 
 **1. El GM describe el entorno.** El GM le dice a los jugadores dónde están sus aventureros y lo que les rodea, presentando el alcance básico de las opciones que se presentan (cuántas puertas salen de una habitación, qué hay en una mesa, quién está en la cantina, y así sucesivamente).
@@ -116,9 +116,9 @@ La misma notación d aparece en las expresiones "1d3" y "1d2". Para simular el ro
 
 <div class='footnote'>INTRODUCCIÓN</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
-### The D20
+### El D20
 ¿El columpio de un aventurero con vibroblas duele un rencor o sólo rebota en su piel curtida? ¿Creerá el guardia un escandaloso farol? ¿Puede un personaje nadar a través de un río embravecido? ¿Puede un personaje evitar el estallido principal de una *tormenta de fuerza* Sith, o recibe todo el daño de la tormenta? En los casos en que el resultado de una acción es incierto, el juego <span style="font-variant: small-caps">Dungeons & Dragons</span> se basa en tiradas de un dado de 20 caras, un d20, para determinar el éxito o el fracaso. 
 
 Cada personaje y monstruo del juego tiene capacidades definidas por seis **puntuaciones de capacidad**. Las habilidades son Fuerza, Destreza, Constitución, Inteligencia, Sabiduría y Carisma, y normalmente van de 3 a 18 para la mayoría de los aventureros. (Los monstruos pueden tener puntuaciones tan bajas como 1 o tan altas como 30.) Estas puntuaciones de habilidad, y los **modificadores de habilidad** derivados de ellas, son la base de casi todas las tiradas de d20 que un jugador hace en nombre de un personaje o de un monstruo.
@@ -131,7 +131,7 @@ Los chequeos de habilidad, las tiradas de ataque y las tiradas de salvamento son
 
 **3. Compara el total con un número de objetivo.** Si el total es igual o superior al número de objetivo, el chequeo de habilidad, la tirada de ataque o el lanzamiento de salvamento es un éxito. De lo contrario, es un fracaso. El GM suele ser el que determina los números objetivo y le dice a los jugadores si sus chequeos de habilidad, tiradas de ataque y lanzamientos de salvamento tienen éxito o no.
 
-El número de objetivo para un chequeo de habilidad o un tiro de salvamento se llama **Clase de Dificultad** (DC). El número de objetivo para una tirada de ataque se llama una **Clase de Armadura** (AC).
+El número de objetivo para un chequeo de habilidad o un tiro de salvamento se llama **Clase de Dificultad** (CD). El número de objetivo para una tirada de ataque se llama una **Clase de Armadura** (CA).
 
 El capítulo 7 proporciona reglas más detalladas para usar el d20 en el juego.
 
@@ -155,7 +155,7 @@ La aventura es el corazón del juego, una historia con un principio, un medio y u
 
 <div class='footnote'>INTRODUCCIÓN</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 <div style='margin-top:23px'></div>
 
@@ -192,4 +192,4 @@ El combate, el tema central del capítulo 9, implica que los personajes y otras c
 
 <div class='footnote'>INTRODUCTION</div>
 
-\pEdadbreakNum
+\pagebreakNum

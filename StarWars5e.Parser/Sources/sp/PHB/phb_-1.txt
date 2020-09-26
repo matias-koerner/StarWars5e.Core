@@ -1,62 +1,61 @@
 
 
 ## Prefacio
-Esta conversión ha sido una labor de amor. Cuando era un joven DM, hice el tonto esfuerzo de intentar la primera versión de esta revisión, que fue cómicamente terrible. Presentaba cuatro clases, que eran sólo versiones severamente bastardas de sus contrapartes estándar.
+Esta conversión ha sido una labor de amor. Cuando era un joven DM, hice el necio esfuerzo de intentar la primera versión de esta revisión, que fue cómicamente terrible. Presentaba cuatro clases, que eran sólo versiones severamente bastardas de sus contrapartes estándar.
 
 Esta versión, a la que llamaré versión 1.0 como un absoluto desaire a mi primer intento, he estado trabajando en ella de forma bastante consistente durante unos nueve meses consecutivos. He tenido algo de ayuda de varias fuentes (que serán acreditadas como tales), pero en su mayor parte esto ha venido de mi propio cerebro.
 
-Este libro está diseñado para ser paralelo al Manual del Jugador oficial del D&D 5e. Incluye todos los capítulos relevantes, parecidos a los de La Star Wars. Las diferencias significativas se listan a continuación.
+Este libro está diseñado para ser paralelo al Manual del Jugador oficial de D&D 5e. Incluye todos los capítulos relevantes, siendo un "skin" de Star Wars. Las diferencias significativas se listan a continuación.
 
 ## ¿Qué es diferente?
-Aunque esta expansión utiliza las reglas básicas de la 5ª edición, hay diferencias significativas que se ilustrarán aquí, desglosadas por capítulo. Hay más información en cada capítulo, según la DRS.
+Aunque esta expansión utiliza las reglas básicas de la 5ª edición, hay diferencias significativas que se ilustrarán aquí, desglosadas por capítulo. Hay más información en cada capítulo, según la referencia.
 
 ### Capítulo 1: Personajes paso a paso
 Respetuoso con el entorno, sin diferencias notables.
 
 ### Capítulo 2: Especies
-Razas re-etiquetadas a especies, todas ellas nuevas.
+Razas reskineadas a especies, todas ellas nuevas.
 
 ### Capítulo 3: Clases
-Hay diez clases. Berserker, Monje, Operativo y Scout, son *mayormente* parecidos, con alguna variación para ajustarse al escenario. El combatiente utiliza un equipo casero de superioridad en el combate base. Engineer se basa en Artificer, pero extrapolado para ser un lanzador completo. Guardián se basa en Paladín, y Consulado en Hechicero, con cambios para adaptarse mejor a un forzudo. Sentinel es una reimaginación de un monje, pero como 2/3 de un lanzador. Scholar es una clase completamente nueva.
+Hay diez clases. Berserker, Monje, Operativo y Scout, son *mayormente* reskins, con alguna variación para ajustarse al escenario. El guerrero utiliza reglas caseras de superioridad en el combate base. El Ingeniero se basa en el Artificiero, pero extrapolado para ser un lanzador/emisor completo. Guardián se basa en Paladín, y Consulado en Hechicero, con cambios para adaptarse mejor a un sensible a la fuerza. Centinela es una reimaginación de un monje, pero como 2/3 de un lanzador/emisor. Scholar es una clase completamente nueva.
 
-### Capítulo 4: Fondos
-En su mayor parte, estos se parecen a los 5E con una gran diferencia; cada fondo también ofrece una elección de hazaña. Esta es una regla de casa que he estado usando por un tiempo y que se ha vuelto muy popular. Puedes ignorar fácilmente esta regla si te inclinas por ella.
+### Capítulo 4: Trasfondos
+En su mayor parte, estos se parecen a los 5E con una gran diferencia; cada trasfondo también ofrece una elección de Dotes. Esta es una regla casera que he estado usando por un tiempo y que se ha vuelto muy popular. Puedes ignorar fácilmente esta regla si no te inclinas por ella.
 
 ### Capítulo 5: Equipo
-La moneda ha sido cambiada a créditos, con aproximadamente 1 gp = 10 cr. Los objetos mágicos se reimplantan como objetos mejorados o modificados, según corresponda, con rarezas diseñadas para imitar las de Star Wars: la Antigua República. El equipo funciona de manera similar, con la excepción de la descomposición de las armas; en lugar de ser simplemente simple y marcial, se descompone en blasters, sables de luz y vibroarmas. También se utilizan algunas reglas de la casa: escudos ligeros, medianos y pesados con destrezas colapsadas en la armadura apropiada, nuevas características de las armas, etc.
+La moneda ha sido cambiada a créditos, con aproximadamente 1 gp = 10 cr. Los objetos mágicos se reimplantan como objetos mejorados o modificados, según corresponda, con rarezas diseñadas para imitar las de Star Wars: la Antigua República. El equipo funciona de manera similar, con la excepción de la division de las armas; en lugar de ser simplemente simple y marcial, se dividen en blasters, sables de luz y vibroarmas. También se utilizan algunas reglas de la casa: escudos ligeros, medianos y pesados con competencias dedicadas a la armadura apropiada, nuevas características de las armas, etc.
 
 ### Capítulo 6: Opciones de personalización
-Nuevos requisitos/eficiencias de multiclasificación, y con la excepción de la variante del punto de hechizo (analizada en el capítulo 10), la única diferencia estriba en nuevas o diferentes hazañas.
+Nuevos requisitos/competences para la multiclase, y con la excepción de la variante del punto de hechizo (analizada en el capítulo 10), la única diferencia son estilos de combate nuevos o diferentes y dotes.
 
 ### Capítulo 7: Usando los puntajes de habilidad
-Generalmente lo mismo, con la excepción de las habilidades; Arcana, Historia y Religión se han colapsado en la Tradición, siendo el Pilotaje y la Tecnología las nuevas habilidades. 
+Generalmente lo mismo, con la excepción de las habilidades; Arcana, Historia y Religión se han convertido en la Tradición, el Pilotaje y la Tecnología. 
 
 ### Capítulo 8: Aventura
 Básicamente idéntico con algo de reskinamiento.
 
 ### Capítulo 9: Combate
-Básicamente es idéntico con algunos resquebrajamientos con la excepción de los tipos de daños. 
-- El apaleamiento, la perforación y el corte se derrumban en el daño cinético.
-- El ión es un nuevo daño con una eficacia mejorada contra las construcciones, los droides y la electrónica.
-- El radiante se ha convertido en un daño energético.
-- El trueno se ha convertido en un daño sónico.
+Básicamente es idéntico con algunos reskins con la excepción de los tipos de daños. 
+- El daño contundente, el perforante y el cortante se convierten en el daño cinético.
+- El ión es un nuevo tipo de daño con una eficacia mejorada contra las construcciones, los droides y la electrónica.
+- El radiante se ha convertido en daño energético.
+- El trueno se ha convertido en daño sónico.
 
-### Chapter 10:<br> Force- and Tech-casting
+### Chapter 10:<br> La Fuerza y las Tecnologias
 Hay dos cambios importantes en esta sección:
-- Los hechizos se llaman ahora poderes.
-- Los cantrips se llaman ahora poderes a voluntad.
-- Una interpretación y simplificación de la variante del punto de hechizo de la DMG. Básicamente, lanzar una potencia a un nivel determinado cuesta ese nivel + 1 punto.
-- La fundición de hechizos se ha separado en fundición de fuerza y técnica.
-&emsp;La previsión utiliza los puntos de sabiduría/carisma y fuerza, que se regeneran en un largo descanso.<br>
-Techcasting usa puntos de inteligencia y tecnología, que se regeneran con un breve descanso.
-Mientras que un personaje puede tener tanto fuerza como tecnología, se mantienen completamente separados.
+- Los hechizos se llaman ahora poderes de La Fuerza.
+- Los trucos se llaman ahora poderes a voluntad.
+- Una interpretación y simplificación de la variante del punto de hechizo de la GDM. Básicamente, lanzar un poder a un nivel determinado cuesta ese nivel + 1 punto.
+- El lanzamiento de hechizos se ha separado en lanzamientos de fuerza y tecnologias.
+&emsp;Lanzamientos de La Fuerza utilizan los puntos de sabiduría/carisma y fuerza, que se regeneran en un descanso prolongado.<br>
+Los lazamientos de poderes tecnologicos usan puntos de inteligencia y tecnología, que se regeneran con un descanso corto.
+Cuando un personaje puede usar tanto la fuerza como la tecnología, los puntos se mantienen completamente separados.
 
-### Capítulos 11 y 12:<br> Fuerza y Poderes Técnicos
-El capítulo 11 se ha dividido en dos capítulos para mantener separados los poderes de la fuerza y la tecnología.
+### Capítulos 11 y 12:<br> Poderes de La Fuerza y Tecnologicos
+El capítulo 11 se ha dividido en dos capítulos para mantener separados los poderes de La Fuerza y la tecnología.
 
 ### Monster Manual
-Hay un Manual del Monstruo listo para usar.
+Hay un Manual del Monstruos listo para usar.
 
-### Starships of the Galaxy
+### Naves de la Galaxia
 Hay un conjunto de reglas opcionales de expansión espacial llamado "Naves estelares de la galaxia", en honor al libro de la edición Saga.
-
