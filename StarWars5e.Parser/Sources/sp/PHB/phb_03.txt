@@ -2,9 +2,9 @@
 
 # Capítulo 3: Clases
 
-<img src='https://www.gmbinder.com/images/TP83mUX.png' style='position:absolute;top:90px;left:75px;width:35px' />
+ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">aventureros son personas extraordinarias, impulsados por una sed</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; por la emoción en una vida que otros nunca se atreverían a llevar. Son héroes, obligados a explorar los lugares oscuros del mundo y a asumir los retos que las mujeres y hombres menores no pueden enfrentar. 
+<span style="font-variant: small-caps">Los aventureros son personas extraordinarias, impulsados por una sed</span><br> por la emoción en una vida que otros nunca se atreverían a llevar. Son héroes, obligados a explorar los lugares oscuros del mundo y a asumir los retos que las mujeres y hombres menores no pueden enfrentar. 
 
 La clase es la principal definición de lo que tu personaje puede hacer. Es más que una profesión; es la vocación de tu personaje. La clase da forma a la forma en que piensas sobre el mundo e interactúas con él y tu relación con otras personas y poderes en la galaxia. Un luchador, por ejemplo, podría ver el mundo en términos pragmáticos de estrategia y maniobras, y verse a sí mismo como un peón en un juego mucho más grande. Un consular, por el contrario, podría verse a sí mismo como un sirviente de la Fuerza. Mientras que el combatiente tiene contactos en una compañía mercenaria o un ejército, el consular podría conocer a un número de Jedi o Sith que comparten su fe.
 
@@ -27,16 +27,16 @@ Elija entre las siguientes opciones de clase:
 ##### Clases
 |Clase|Descripción|Dado<br> Golpe|Característica<br> Primaria|Competencias<br> Tirada Salvación|
 |:--|:--|:--|:--|:--|
-|Berserker|Melee combatant who utilizes rage to increase prowess|d12|Strength|Strength & Constitution|
-|Cónsul|Force-wielder who focuses on utilizing force powers|d6|Wisdom|Wisdom & Charisma|
-|Especialista Técnico|Tech caster who enhances items to benefit allies|d8|Intelligence|Constitution & Intelligence|
-|Soldado|Versatile combatant who excels at both range and in melee|d10|Strength|Strength & Constitution|
-|Guardián|Force-wielder specializing in melee combat|d10|Strength|Constitution & Charisma|
-|Monje|Unarmed combatant who uses focus to fuel abilities|d8|Dexterity|Strength & Dexterity|
-|Granuja|Controller who focuses on stealth and techniques|d8|Dexterity|Dexterity & Intelligence|
-|Noble|Academic who uses wits and allies to control the battlefield|d8|Intelligence|Wisdom & Intelligence|
-|Explorador|Versatile combatant who blends tech powers with weapons|d10|Dexterity|Strength & Dexterity|
-|Centinela|Force-wielder who blends melee combat with the Force|d8|Dexterity|Dexterity & Charisma|
+|Berserker|Luchador cuerpo a cuerpo que utilza furia para aumentar su proeza|d12|Fuerza|Fuerza y Constitución|
+|Cónsul|Practicante de La Fuerza enfocado a usar sus poderes|d6|Sabiduría|Sabiduría y Carisma|
+|Ingeniero|Especialista tecnológico que aumenta objetos para beneficiar a sus aliados|d8|Inteligencia|Constitución y Inteligencia|
+|Soldado|Combatiente versatil que sobresale tanto a distancia como en el combate cerrado|d10|Fuerza|Fuerza y Constitución|
+|Guardián|Practicante de La Fuerza enfocado al combate cuerpo a cuerpo|d10|Fuerza|Constitución y Carisma|
+|Monje|Combatiente desarmado que usa concentración para desatar sus habilidades|d8|Destreza|Fuerza y Destreza|
+|Granuja|Regulador centrado en el sigilo y otras tecnicas|d8|Destreza|Destreza e Inteligencia|
+|Noble|Academico que usa su ingenio y aliados para controlar el campo de batalla|d8|Inteligencia|Sabiduría e Inteligencia|
+|Explorador|Combatiente versatil que une poderes tecnologicos y las armas|d10|Destreza|Fuerza y Destreza|
+|Centinela|Practicante de La Fuerza que combina los poderes de La Fuerza y el combate cuerpo a cuerpo|d8|Destreza|Destreza y Carisma|
 </div>
 
 <img src='https://www.gmbinder.com/images/I1BaV1C.png' style='position:absolute;bottom:24px;left:-50px;width:200px;z-index:1000;'/>
@@ -59,7 +59,7 @@ Elija entre las siguientes opciones de clase:
 \pagebreak
 
 ## Berserker
-<span style="font-variant: small-caps">Un enorme cazador de wookiee merodea por el bosque, hefting</span> su vibroaxe. Con un rugido ataca a la pareja de trandoshans que se atrevió a cazar a sus parientes. 
+<span style="font-variant: small-caps">Un enorme cazador de wookiee merodea por el bosque, hefting</span> su vibrohacha. Con un rugido ataca a la pareja de transoshanos que se atrevió a cazar a sus parientes. 
 
 Un gamorreo gruñe en el último desafío a su autoridad sobre su tribu salvaje, listo para romperse el cuello con sus propias manos como lo hizo con los últimos seis rivales. 
 
@@ -123,7 +123,7 @@ Puedes hacer un berserker rápidamente siguiendo estas sugerencias. Primero, pon 
 |	17	|	+6	|	Crítico Brutal (3 dados)	    		|	6	|	+4	|
 |	18	|	+6	|	Fuerza Indómita           				|	6	|	+4	|
 |	19	|	+6	|	Mejora de Puntuación de Característica  |	6	|	+4	|
-|	20	|	+6	|	Primal Champion	                		| Ilimitada	|	+4	|
+|	20	|	+6	|	Campeón Primario                		| Ilimitada	|	+4	|
 
 </div>
 
@@ -132,18 +132,18 @@ Como berserker, obtienes las siguientes características de clase.
 
 #### Puntos de Golpe
 ___
-- **Dado de Golpe:** 1d12 per berserker level
-- **Puntos de Golpe en primer nivel:** 12 + your Constitution modifier
-- **Puntos de Golpe a niveles superiores:** 1d12 (or 7) + your Constitution modifier per berserker level after 1
+- **Dado de Golpe:** 1d12 por nivel de berserker
+- **Puntos de Golpe en primer nivel:** 12 + el modificador de Constitución
+- **Puntos de Golpe a niveles superiores:** 1d12 (or 7) + el modificador de Constitución por nivel de berserker despues del 1°
 
 #### Competencias
 ___
-- **Armadura:** Light armor, medium armor
-- **Armas:** All vibroweapons, simple blasters
-- **Herramientas:** None
+- **Armadura:** Armadura ligera, armadura media
+- **Armas:** Todas las vibroarmas, blasters simples
+- **Herramientas:** Ninguna
 ___
-- **Tiradas de Salvación**: Strength, Constitution
-- **Habilidades:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, Survival
+- **Tiradas de Salvación**: Fuerza, Constitución
+- **Habilidades:** Elige dos de entre Trato de Animales, Atletismo, Intimidación, Naturaleza, Percepción, Supervivencia
 
 \columnbreak
 
@@ -153,8 +153,8 @@ ___
 Comienza con el siguiente equipo, además del que le otorgan sus antecedentes:
 
 - *(a)* un vibro-arma marcial y un escudo físico ligero o medio o *(b)* dos vibro-armas marciales
-- *(a)* dos techaxes o *(b)* dos vibrosparas
-- Una manada de exploradores
+- *(a)* dos tecnohachas o *(b)* dos vibrosparas
+- Un equipo de explorador
 
 #### Variante: Riqueza inicial 
 En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
@@ -224,7 +224,7 @@ Cada vez que usas esta función después de la primera, el DC aumenta en 5. Cuando
 ### Furia Persistente
 A partir del nivel 15, tu rabia es tan feroz que sólo termina pronto si caes inconsciente o si eliges terminarla.
 
-### Indomable Might
+### Fuerza Indónmita
 A partir del nivel 18, si el total del chequeo de fuerza es menor que su puntuación de fuerza, puede usar esa puntuación en lugar del total.
 
 ### Campeón Primario
@@ -294,7 +294,7 @@ Mientras estás enfureciendo a cualquier criatura a menos de 5 pies de ti que te 
 #### Sobrecarga Hidraulica
 Mientras estás furioso puedes usar una acción extra en tu turno para golpear a una criatura grande o más pequeña cuando la golpees con un ataque de arma de fuego cuerpo a cuerpo.
 
-#### Boosters Integrados
+#### Reactores Integrados
 Mientras que la furia tiene una velocidad de vuelo igual a su actual velocidad de marcha. Este beneficio funciona sólo en ráfagas cortas; te caes si terminas tu turno en el aire y nada más te mantiene en el aire.
 
 #### Malla de condensadores de Ysalamir
@@ -459,7 +459,7 @@ Los consulares que siguen el lado de la luz de la Fuerza, usando sus poderes par
 
 <img src='https://www.gmbinder.com/images/LbMaFdP.png' style='position:absolute;top:37px;right:-50px;width:600px;mix-blend-mode:darken;transform:scaleX(-1)' />
 
-### Creando un Consular
+### Creando un Cónsul
 Al crear su consulado, considere su filosofía personal con respecto a la Fuerza y sus practicantes más famosos - los Jedi y los Sith. ¿Es usted miembro de una de las dos órdenes, o camina por un camino diferente? Tal vez fue expulsado de su primitivo pueblo por superstición o celos. Puede que hayas sido brutalmente entrenado desde joven en el lado oscuro, alimentando tu sed innata de poder, o quizás fuiste entrenado como padawan en uno de los templos Jedi. ¿Cómo tratas a los extraños, y cómo te tratan ellos una vez que conocen tus habilidades? ¿Cómo era tu familia, o qué tenías en lugar de una familia? ¿Ves la Fuerza como clara y oscura, o como un río imparcial de color gris? 
 
 #### Creación Rápida
@@ -474,26 +474,26 @@ Puede hacer un consulado rápidamente siguiendo estas sugerencias. Primero, haz d
 ##### El Cónsul
 |	Nivel	|	Bonificación<br> de<br> Competencia	|	Rasgos	|	Poderes de<br> La Fuerza<br> conocidos	|Puntos de<br> La Fuerza| Nivel de<br> Poder Máximo|
 |:--:|:--:|:--|:--:|:--:|:--:|
-|	1	|	+2	|	Invocacion de La Fuerza, Recuperación de Fuerza		|	 8	|	 4	|	 1	|
-|	2	|	+2	|	Invocacion de Fuerza, Escudo de Fuerza		|	 9	|	 8	|	 1	|
-|	3	|	+2	|	Tradición de Cónsul, Fuerza oculta			|	11	|	12	|	 2	|
-|	4	|	+2	|	Mejora de Puntuación de Característica	    |	12	|	16	|	 2	|
-|	1	|	+3	|	—								    		|	14	|	20	|	 3	|
-|	6	|	+3	|	Rasgo de Tradición					    	|	15	|	24	|	 3	|
-|	7	|	+3	|	—						        			|	17	|	28	|	 4	|
-|	8	|	+3	|	Mejora de Puntuación de Característica		|	18	|	32	|	 4	|
-|	9	|	+4	|	—				        					|	20	|	36	|	 1	|
-|	10	|	+4	|	Rasgo de Tradición		        			|	21	|	40	|	 1	|
-|	11	|	+4	|	—								        	|	23	|	44	|	 6	|
-|	12	|	+4	|	Mejora de Puntuación de Característica      |	24	|	48	|	 6	|
-|	13	|	+5	|	—								        	|	26	|	52	|	 7	|
-|	14	|	+5	|	Rasgo de Tradición						    |	27	|	56	|	 7	|
-|	11	|	+5	|	—	        								|	29	|	60	|	 8	|
-|	16	|	+5	|	Mejora de Puntuación de Característica      |	30	|	64	|	 8	|
-|	17	|	+6	|	—							        		|	32	|	68	|	 9	|
-|	18	|	+6	|	Rasgo de Tradición			        		|	33	|	72	|	 9	|
-|	19	|	+6	|	Mejora de Puntuación de Característica	    |	34	|	76	|	 9	|
-|	20	|	+6	|	Uno con La Fuerza			        		|	35	|	80	|	 9	|
+|	1	|	+2	|	Invocacion de La Fuerza, Recuperación de Fuerza	|	 8	|	 4	|	 1	|
+|	2	|	+2	|	Invocacion de Fuerza, Escudo de Fuerza			|	 9	|	 8	|	 1	|
+|	3	|	+2	|	Tradición de Cónsul, Fuerza oculta				|	11	|	12	|	 2	|
+|	4	|	+2	|	Mejora de Puntuación de Característica	    	|	12	|	16	|	 2	|
+|	1	|	+3	|	—								    			|	14	|	20	|	 3	|
+|	6	|	+3	|	Rasgo de Tradición					    		|	15	|	24	|	 3	|
+|	7	|	+3	|	—						        				|	17	|	28	|	 4	|
+|	8	|	+3	|	Mejora de Puntuación de Característica			|	18	|	32	|	 4	|
+|	9	|	+4	|	—				        						|	20	|	36	|	 1	|
+|	10	|	+4	|	Rasgo de Tradición		        				|	21	|	40	|	 1	|
+|	11	|	+4	|	—								        		|	23	|	44	|	 6	|
+|	12	|	+4	|	Mejora de Puntuación de Característica    	  	|	24	|	48	|	 6	|
+|	13	|	+5	|	—								        		|	26	|	52	|	 7	|
+|	14	|	+5	|	Rasgo de Tradición						  	  	|	27	|	56	|	 7	|
+|	11	|	+5	|	—	        									|	29	|	60	|	 8	|
+|	16	|	+5	|	Mejora de Puntuación de Característica      	|	30	|	64	|	 8	|
+|	17	|	+6	|	—							        			|	32	|	68	|	 9	|
+|	18	|	+6	|	Rasgo de Tradición			        			|	33	|	72	|	 9	|
+|	19	|	+6	|	Mejora de Puntuación de Característica	  	  	|	34	|	76	|	 9	|
+|	20	|	+6	|	Uno con La Fuerza			        			|	35	|	80	|	 9	|
 
 </div>
 
@@ -502,18 +502,18 @@ Como consular, usted obtiene las siguientes características de clase.
 
 #### Puntos de Golpe
 ___
-- **Dado de Golpe:** 1d6 per consular level
-- **Puntos de Golpe en primer nivel:** 6 + your Constitution modifier
-- **Puntos de Golpe a niveles superiores:** 1d6 (or 4) + your Constitution modifier per consular level after 1
+- **Dado de Golpe:** 1d6 por nivel de cónsul
+- **Puntos de Golpe en primer nivel:** 6 + el modificador de Constitución
+- **Puntos de Golpe a niveles superiores:** 1d6 (or 4) + el modificador de Constitución por nivel de cónsul superior a 1
 
 #### Competencias
 ___
-- **Armadura:** None
-- **Armas:** Simple lightweapons, simple vibroweapons
-- **Herramientas:** None
+- **Armadura:** Ninguna
+- **Armas:** Armas de luz sencillas, vibroarmas sencillas
+- **Herramientas:** Ninguna
 ___
-- **Tiradas de Salvación**:  Wisdom, Charisma
-- **Habilidades:** Choose two from Deception, Insight, Intimidation, Investigation, Lore, Medicine, and Persuasion.
+- **Tiradas de Salvación**:  Sabiduría, Carisma
+- **Habilidades:** Elige dos de entre Engaño, Perspicacia, Intimidación, Investigación, Historia, Medicina, y Persuasión.
 
 \columnbreak
 
@@ -538,67 +538,67 @@ En lugar del equipo otorgado por su clase y antecedentes, puede optar por compra
 ### Invocar La Fuerza
 En tus meditaciones sobre la fuerza, has aprendido poderes, fragmentos de conocimiento que te confieren una capacidad de fuerza duradera. Ver el capítulo 10 para las reglas generales de previsión y el capítulo 11 para la lista de poderes de la fuerza.
 
-#### Force Powers Known
+#### Poderes de La Fuerza conocidos
 Aprendes 8 poderes de fuerza de tu elección, y aprendes más en niveles más altos, como se muestra en la columna de Poderes de Fuerza Conocidos de la tabla de la clase consular. No puedes aprender un poder de fuerza de un nivel más alto que tu Nivel de Máximo Poder, y puedes aprender un poder de fuerza al mismo tiempo que aprendes su prerrequisito.
 
-#### Force Points
+#### Puntos de La Fuerza
 Usted tiene un número de puntos de fuerza igual a su nivel consular x 4, como se muestra en la columna de puntos de fuerza de la tabla de clases consulares, + su modificador de Sabiduría o Carisma (a su elección). Usas estos puntos de fuerza para lanzar poderes de fuerza. Recuperas todos los puntos de fuerza gastados cuando terminas un largo descanso.
 
-#### Max Power Level
+#### Nivel de Poder Máximo
 Muchos poderes de fuerza pueden ser superados, consumiendo más puntos de fuerza para crear un mayor efecto. Se pueden dominar estas habilidades hasta un nivel máximo, que aumenta en los niveles más altos, como se muestra en la columna de Nivel de Poder Máximo de la tabla de clases consulares.
 
 Sólo puedes lanzar poderes de fuerza en el 6º, 7º, 8º y 9º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
-#### Invocar La Fuerza Ability
+#### Invocar La Fuerza
 Su capacidad de previsión varía según la alineación de los poderes que se le otorgan. Usas tu Sabiduría para los poderes del lado de la luz, Carisma para los del lado de la oscuridad, y Sabiduría o Carisma para los poderes universales (a tu elección). Utilizas este modificador de puntuación de habilidades siempre que un poder se refiera a tu capacidad de previsión. Además, usas este modificador de puntuación de habilidad cuando estableces el tiro salvador DC para una potencia de fuerza que lanzas y cuando haces una tirada de ataque con una.
 
 ___
 
 <div align="center">
 
-**Force save DC** = 8 + your proficiency bonus + <br>your Invocacion de La Fuerza ability modifier
+**CD Salvación de La Fuerza** = 8 + el bonificador de competencia + <br> el modificador de habilidad de invocacion de La Fuerza 
 
 ___
 
-**Force attack modifier** = your proficiency bonus + <br>your Invocacion de La Fuerza ability modifier
+**Modificador de ataque de La Fuerza** = el bonificador de competencia + <br>el modificador de habilidad de invocacion de La Fuerza
 
 </div>
 
 ___
 
-### Force Recovery
+### Recuperación de La Fuerza
 También en el primer nivel, has aprendido a recuperar algo de tu energía meditando brevemente. Cuando termines un breve descanso, podrás recuperar un número de puntos de fuerza igual a la mitad de tu nivel consular (redondeado hacia abajo) + tu modificador de Sabiduría o Carisma (a tu elección, mínimo uno). Una vez que hayas utilizado esta función, debes completar un largo descanso antes de poder utilizarla de nuevo.
 
 \columnbreak
 
-### Force-Empowered Casting
+### Invocacion Empoderada de La Fuerza
 En el 2º nivel, obtienes la habilidad de retorcer tus poderes para adaptarlos a tus necesidades. Cuando lanzas un poder de fuerza, puedes gastar puntos de fuerza adicionales para modificar el poder. Obtienes dos de las siguientes opciones de poder de tu elección. Ganas otra en el 10º y 17º nivel.
 
 Sólo puedes usar una opción de potenciación en un poder cuando lo lanzas, a menos que se indique lo contrario.
 
-#### Careful Power
+#### Poder Cuidadoso
 Cuando lanzas un poder que obliga a otras criaturas a hacer un lanzamiento salvador, puedes proteger a algunas de esas criaturas de la fuerza total del poder. Para ello, gastas 1 punto de fuerza adicional y eliges un número de esas criaturas hasta tu modificador de Sabiduría o Carisma (a tu elección, mínimo uno). Una criatura elegida tiene éxito automáticamente en su lanzamiento salvador contra el poder.
 
-#### Distant Power
+#### Poder Distante
 Cuando lanzas una potencia que tiene un rango de 5 pies o más, puedes gastar 1 punto de fuerza adicional para doblar el rango de la potencia.
 
 Cuando lanzas una potencia que tiene un rango de toque, puedes gastar 1 punto de fuerza adicional para hacer que el rango de la potencia sea de 30 pies.
 
-#### Extended Power
+#### Poder Extendido
 Cuando lanzas una potencia que tiene una duración de 1 minuto o más, puedes gastar 1 punto de fuerza adicional para duplicar su duración, hasta una duración máxima de 24 horas.
 
-#### Heightened Power
+#### Poder Aumentado
 Cuando lanzas una potencia que obliga a una criatura a hacer un lanzamiento salvador para resistir sus efectos, puedes gastar 3 puntos de fuerza adicionales para dar a un objetivo de la desventaja de la potencia en su primer lanzamiento salvador hecho contra la potencia.
 
-#### Improved Power
+#### Poder Mejorado
 Cuando tiras el daño para una potencia, puedes gastar 1 punto de fuerza adicional para volver a tirar un número de dados de daño hasta tu modificador de Sabiduría o Carisma (a tu elección, mínimo uno). Debes usar las nuevas tiradas.
 
 Puedes usar el Poder Mejorado incluso si ya has usado una opción de Poder diferente durante el lanzamiento del poder.
 
-#### Ling Ling Ling Ling
+#### Poder Constante
 Cuando lanzas una potencia que requiere concentración para mantenerla puedes elegir gastar 3 puntos de fuerza adicionales. Si lo haces, cuando pierdas la concentración en la potencia, ésta no terminará hasta el final de tu siguiente turno.
 
-#### Pinpoint Power 
+#### Poder Preciso
 Cuando lanzas un poder que te permite forzar a las criaturas de un área a hacer un lanzamiento de salvamento, puedes en cambio gastar 1 punto de fuerza y hacer un ataque de fuerza a distancia contra un solo objetivo que estaría en el rango. En un golpe, el objetivo sufre los efectos como si fallara su lanzamiento de salvamento.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -607,34 +607,34 @@ Cuando lanzas un poder que te permite forzar a las criaturas de un área a hacer 
 
 <div style='margin-top:23px'></div>
 
-#### Quickened Power
+#### Poder Acelerado
 Cuando lanzas una potencia que tiene un tiempo de lanzamiento de 1 acción, puedes gastar 2 puntos de fuerza adicionales para cambiar el tiempo de lanzamiento a 1 acción de bonificación para este lanzamiento.
 
-#### Refocused Power 
+#### Poder Reenfocado
 Cuando te obligan a hacer un tiro de salvamento de la Constitución para mantener la concentración en un poder puedes usar tu reacción y gastar 2 puntos de fuerza para tener éxito automáticamente en el tiro de salvamento. Puedes usar esta opción incluso si ya has usado una opción de potencia diferente durante el lanzamiento de la potencia. 
 
-#### Twinned Power
+#### Poder Emparejado
 Cuando lanzas una potencia que tiene como objetivo una sola criatura y no tiene un rango de autodeterminación, puedes gastar un número de puntos de fuerza adicionales igual al nivel de la potencia para tener como objetivo una segunda criatura en el rango con la misma potencia (1 punto de fuerza si la potencia está a voluntad).
 
-### Force Shield
+### Escudo de Fuerza
 También en el 2º nivel, aprendes a defenderte sólo con tu fuerza con la Fuerza. Cuando eres golpeado por un ataque, puedes usar tu reacción para envolverte en la energía de la Fuerza. Hasta el comienzo de tu próximo turno, tienes un bonus a AC igual a tu modificador de Sabiduría o Carisma (a tu elección, un mínimo de +1). Esto incluye el ataque desencadenante.
 
 Puedes usar esta función dos veces. Ganarás un uso adicional en los niveles 5, 11 y 17 de esta clase. Recuperas todos los usos gastados cuando terminas un largo descanso.
 
 \columnbreak
 
-### Consular Tradition
+### Tradición Consular
 Cuando llegas al 3er nivel, eliges una tradición consular, que se detalla al final de la descripción de la clase. Su elección le otorga características en el 3er nivel y de nuevo en el 6º, 10º, 14º y 18º nivel.
 
-### Hidden Force
+### Fuerza Oculta
 También en el 3er nivel, se aprende a ocultar el lanzamiento de sus poderes de fuerza. Cuando lanzas un poder de fuerza, puedes elegir ocultar la presencia de ese lanzamiento a los demás. Una criatura que te vea lanzar el poder de fuerza puede hacer una investigación (Inteligencia) contra tu fuerza universal excepto DC. En caso de éxito, pueden determinar que usaste la Fuerza de alguna manera. Si una criatura tiene el poder de fuerza de *vista* activo, automáticamente tiene éxito en esta comprobación. Una criatura que no puede verte automáticamente falla este chequeo.
 
 Puede utilizar esta función un número de veces igual a su modificador de Sabiduría o Carisma (a su elección, un mínimo de una vez). Recuperas todos los usos gastados cuando terminas un largo descanso.
 
-### Ability Score Improvement
+### Mejora de la Puntuación de Habilidad
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
-### One with the Force
+### Uno con La Fuerza
 En el nivel 20, su sintonía con la Fuerza es absoluta. Tu puntuación de Sabiduría o Carisma aumenta en 4, y tu máximo para esta puntuación aumenta en 4. Además, ganas maestría sobre una sola fuerza <br> poder, y puedes lanzarla con poco esfuerzo. Elige un <br> poder de fuerza de tercer nivel que conoces como tu poder de firma. Puedes lanzarlo una vez en el 3er nivel sin gastar puntos de fuerza. Cuando lo hagas, no podrás hacerlo de nuevo hasta que termines un descanso corto o largo.
 
 Si quieres lanzarlo a un nivel más alto, debes gastar los puntos de fuerza de manera normal.
@@ -648,10 +648,10 @@ Los diferentes consulares seleccionan diferentes tradiciones, llamadas caminos, 
 
 \pagebreakNum
 
-## Way of Balance
+## Camino del Equilibrio
 Hay serenidad en el equilibrio, y nadie lo sabe mejor que el consulado. Los consulares que siguen la Vía del Equilibrio se centran en utilizar la Fuerza para igualar el campo de batalla. Doblan la Fuerza para proteger a sus aliados y exponer a sus enemigos.
 
-### Force Barrier
+### Barrera de Fuerza
 Cuando eliges esta tradición en el 3er nivel, puedes tejer la Fuerza a tu alrededor para protegerte. Cuando lanzas un poder universal de 1er nivel o superior, puedes manipular simultáneamente la Fuerza para crear una barrera sobre ti mismo que dure hasta que termines un largo descanso. La barrera tiene puntos de impacto iguales al doble de tu nivel consular + tu modificador de Sabiduría o Carisma (a tu elección). La barrera no puede tener puntos de golpe<br> mayores que el doble de su nivel consular +<br> su modificador de Sabiduría o Carisma<br> (a elección).
 
 Cada vez que se toma el daño, la barrera toma el daño en su lugar. Si este daño<br> reduce la barrera a 0 puntos de golpe, tomas<br> cualquier daño restante.
@@ -660,20 +660,20 @@ Mientras que la barrera tiene 0 puntos de impacto, no puede absorber el daño, pe
 
 Una vez que creas la barrera, no puedes crearla de nuevo hasta que termines un largo descanso.
 
-### Projected Barrier
+### Barrera Proyectada
 En el 6º nivel, cuando una criatura que puedes ver a menos de 30 pies de ti recibe daño, puedes usar tu reacción para hacer que tu Barrera de Fuerza absorba ese daño. Si este daño reduce la barrera a 0 puntos de golpe, la criatura protegida recibe el daño restante.
 
-### At-Will Barrier
+### Barrera a Voluntad
 A partir del 10º nivel, tus poderes universales a voluntad dan un pequeño impulso a tu Barrera de la Fuerza. Cuando lanzas un poder universal a voluntad, la barrera recupera 1 punto de golpe.
 
-### Improved Suppression
+### Supresion Mejorada
 En el nivel 14, cuando lanzas un poder de fuerza que requiere que hagas un chequeo de habilidad como parte del lanzamiento de ese poder (como en *sever force* y *force suppression*), añades tu bono de habilidad a ese chequeo de habilidad.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Force Resistance
+### Resistencia de La Fuerza
 A partir del nivel 18, tienes ventaja para salvar los lanzamientos contra los poderes de la fuerza. Además, tienes resistencia contra el daño de los poderes de fuerza.
 
 <img src='https://www.gmbinder.com/images/KuUWgUr.png' style='position:absolute;bottom:-100px;right:-380px;width:1063px;transform:scaleX(-1);z-index:1000;' />
@@ -682,18 +682,18 @@ A partir del nivel 18, tienes ventaja para salvar los lanzamientos contra los po
 
 \pagebreakNum
 
-## Way of Lightning
+## Camino del Rayo
 De todas las artes oscuras de la Fuerza, poco puede igualar el espectáculo y la devastación del rayo de la Fuerza. Aquellos consulares que siguen el Camino del Relámpago convocan intensas descargas de pura energía de la Fuerza, abrumando a los enemigos con un daño punitivo a distancia, dejándolos sacudidos y vulnerables... si no muertos.
 
-### Shocking Affinity
+### Afinidad Electrizante
 Cuando eliges esta tradición en el tercer nivel, cuando lanzas una fuerza de poder que inflige daños por rayos, puedes usar la Sabiduría o el Carisma como tu capacidad de previsión para ello.
 
 Además, cuando lanzas un daño que reparte una fuerza que requiere una tirada de ataque o un lanzamiento de salvamento, puedes hacer que esa fuerza reparta el daño del rayo. Si el poder requiere una tirada salvadora que no sea de Destreza, en su lugar requiere una tirada salvadora de Destreza. Si golpeas con la potencia, o el objetivo falla el tiro salvador de la potencia, las criaturas afectadas quedan *shockadas* hasta el comienzo de tu próximo turno. Puedes usar esta característica un número de veces igual a tu modificador de Sabiduría o Carisma (a tu elección, un mínimo de una vez). Recuperarás todos los usos gastados cuando termines un descanso corto o largo.
 
-### Potent Lightning
+### Rayo Potente
 En el 6º nivel se añade el modificador Sabiduría o Carisma (a elegir, un mínimo de +1) a cualquier daño que se haga con los poderes de la fuerza que infligen el daño de los rayos.
 
-### Blistering Rebuke
+### Represión Abrasadora
 A partir del nivel 10, cuando una criatura a menos de 5 pies de ti que puedas ver te golpea con un ataque, puedes usar tu reacción para hacer que la criatura haga un tiro de salvamento de Destreza. En una salvada fallida, la criatura recibe 1d10 más tu nivel consular de daño por rayo,<br> es empujada hacia atrás 10 pies, y se convierte en *shocked* hasta<br> el final de su siguiente turno. En una salvada exitosa,<br> la criatura toma la mitad del daño y no es <br> movida o *shocked*.
 
 Puedes usar esta característica un número<br> de veces igual a tu modificador de Sabiduría o Carisma<br> (a tu elección, un mínimo de<br> una vez). Recuperas todos los usos gastados cuando<br> terminas un largo descanso.
@@ -702,10 +702,10 @@ Puedes usar esta característica un número<br> de veces igual a tu modificador de
 
 <div style='margin-top:27px'></div>
 
-### Electric Attunement
+### Sintonía Electrica
 En el nivel 14, se gana resistencia a los daños de los rayos. Además, los poderes de fuerza que lanzas ignoran la resistencia a los daños de los rayos.
 
-### Unlimited Power
+### Poder Ilimitado
 A partir del nivel 18, puedes aumentar la potencia de tus poderes de fuerza de relámpago más simples. Cuando lanzas un poder de fuerza de 6º nivel o inferior que cause daños por relámpagos, puedes causar el máximo daño con ese poder.
 
 Puede utilizar esta característica sin efectos adversos un número de veces igual a su modificador de Sabiduría o Carisma (a su elección, un mínimo de una vez). Si usas esta característica más allá de esto antes de que termines un largo descanso, recibirás 2d12 de daño necrótico por cada nivel de la potencia, inmediatamente después de que <br> lo lances. Cada vez que usas <br> esta característica de nuevo antes de <br> terminar un largo descanso, el <br> daño necrótico por <br> nivel de poder aumenta <br> en 1d12. Este daño<br> no puede ser reducido<br> de ninguna manera.
@@ -729,19 +729,19 @@ En el 6º nivel, como acción, puedes canalizar la Fuerza y evocar la energía cura
 
 Puedes usar esta característica un número de veces igual a tu modificador de Sabiduría o Carisma <br> (a tu elección, un mínimo de <br> una vez). Recuperas todos los <br> usos gastados cuando <br> terminas un largo descanso.
 
-### Blessed Healer
+### Bendito Sanador
 A partir del 10º nivel, los poderes de curación que lanzas a otros te curan a ti también. Cuando lanzas un poder de fuerza<br> que restaura los puntos de golpe a una criatura<br> que no seas tú, recuperas los puntos de golpe<br> iguales a 2 + el nivel del poder.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Blessed by the Force
+### Bendecido por La Fuerza
 En el nivel 14 se obtiene la capacidad de superar lesiones graves. Como acción extra cuando te quede menos de la mitad de tus puntos de golpe, puedes recuperar un número de puntos de golpe igual a la mitad de tu máximo de puntos de golpe.
 
 Una vez que hayas usado esta función, no podrás volver a usarla hasta que termines un largo descanso.
 
-### Supreme Healing
+### Curación Suprema
 A partir del nivel 18, cuando normalmente tirarías uno o más dados para restaurar los puntos de golpe con una potencia, en su lugar usas el número más alto posible para cada dado. Por ejemplo, en lugar de restaurar 2d6 puntos de golpe a una criatura, restauras 12.
 
 <img src='https://www.gmbinder.com/images/Aceclyv.png' style='position:absolute;bottom:0px;right:-100px;width:700px;z-index:1000;' />
@@ -761,12 +761,12 @@ Cada máquina necesita un ingeniero que la maneje, y una tripulación viva no es d
 
 <div style='margin-top:100px'></div>
 
-### Behind the Curtain
+### Detras de la Cortina
 Aunque tal vez no tan intimidante como un soldado con armadura pesada, o tan exótico como un guardián con sable ligero, los ingenieros no son menos vitales para la dinámica del grupo. Son armeros y armeros, electricistas y soldadores, o cualquier otra faceta que se encuentre en las instalaciones de toda la galaxia. Su trabajo, a menudo olvidado, es lo que mantiene intactas a las naves estelares (y a su tripulación).
 
 <div style='margin-top:100px'></div>
 
-### Unflappable
+### Imperturbable
 Se necesita valor para que un soldado entre en el campo de batalla. Tal vez se necesita más para alguien que no está armado y no está entrenado en combate, para hacer lo mismo. Los ingenieros arriesgan sus vidas para ganarse la vida, ya sea por elección o reconociendo sus dificultades como un riesgo laboral. Tanto si proceden de una academia de formación de élite como si han aprendido su talento sobreviviendo en los barrios marginales, no son ajenos al peligro y al conflicto.
 
 \columnbreak
@@ -775,7 +775,7 @@ Se necesita valor para que un soldado entre en el campo de batalla. Tal vez se n
 
 <img src='https://www.gmbinder.com/images/aqHXyAc.png' style='position:absolute;top:25px;right:10px;width:420px;mix-blend-mode:darken' />
 
-### Creando unn Engineer
+### Creando un Ingeniero
 Al crear tu personaje de ingeniero, considera cuál es tu principal conjunto de habilidades y cómo lo usas. Podrías ser un mecánico de calle que aprendió a arreglar bicicletas de paseo cuando era adolescente. Tal vez seas un recién graduado de una prestigiosa facultad de medicina, o un piloto novato de la incipiente Alianza Rebelde. ¿Cuál es la habilidad número uno por la que eres conocido? ¿Por qué estás dispuesto a entrar en batallas cuando no tienes entrenamiento de combate? ¿Cómo ve a los miembros más aventureros de su grupo, y cómo le ven a usted y a su papel?
 
 #### Creación Rápida
@@ -788,28 +788,28 @@ Puedes hacer un ingeniero rápidamente siguiendo estas sugerencias. Primero, haz 
 <div class='classTable wide'>
 
 ##### The Engineer
-|	Nivel	|	Proficiency<br> Bonus   | Features	|   Tech Powers<br> Known	|	Tech<br> Points	| Max Power<br> Level| Modification<br> Slots|
+|	Nivel	|	Bonificador de<br> Competencia	| Rasgos	|   Poderes Tecnologicos<br> Conocidos	|	Puntos<br> Technologicos	| Nivel de Poder<br> Máximo| Modification<br> Slots|
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|
-|	 1	|	+2	|	Techcasting, Potent Aptitude (d6)			|	 6	|	  2	|	1	| — |
-|	 2	|	+2	|	Infuse Item, Tool Expertise				    |	 7	|	  4	|	1	| — |
-|	 3	|	+2	|	Engineering Discipline                      |	 9	|	  6	|	2	| 4 |
-|	 4	|	+2	|	Ability Score Improvement					|	10	|	  8	|	2	| 4 |
-|	 5	|	+3	|	Potent Aptitude	(d8), Quick Thinking    	|	11	|	 10	|	3	| 5 |
-|	 6	|	+3	|	Engineering Discipline feature				|	12	|	 12	|	3	| 5 |
-|	 7	|	+3	|	—                       					|	13	|	 14	|	4	| 5 |
-|	 8	|	+3	|	Ability Score Improvement               	|	14	|	 16	|	4	| 6 |
-|	 9	|	+4	|	—											|	15	|	 18	|	1	| 6 |
-|	10	|	+4	|	Potent Aptitude	(d10)           			|	16	|	 20	|	1	| 6 |
-|	11	|	+4	|	—                       					|	17	|	 22	|	6	| 7 |
-|	12	|	+4	|	Ability Score Improvement					|	18	|	 24	|	6	| 7 |
-|	13	|	+5	|	—											|	19	|	 26	|	7	| 7 |
-|	14	|	+5	|	Engineering Discipline feature				|	20	|	 28	|	7	| 8 |
-|	15	|	+5	|	Potent Aptitude	(d12)        				|	21	|	 30	|	8	| 8 |
-|	16	|	+5	|	Ability Score Improvement					|	22	|	 32	|	8	| 8 |
-|	17	|	+6	|	—											|	23	|	 34	|	9	| 9 |
-|	18	|	+6	|	Engineering Discipline feature				|	24	|	 36	|	9	| 9 |
-|	19	|	+6	|   Ability Score Improvement					|	25	|	 38	|	9	| 9 |
-|	20	|	+6	|	Tech Mastery								|	26	|	 40	|	9	| 9 |
+|	 1	|	+2	|	Tecnoinvocacion, Aptitud Potente (d6)		|	 6	|	  2	|	1°	| — |
+|	 2	|	+2	|	Infundir Objeto, Experto en Herramienta	    |	 7	|	  4	|	1°	| — |
+|	 3	|	+2	|	Disciplina de Ingeniería                    |	 9	|	  6	|	2°	| 4 |
+|	 4	|	+2	|	Mejora de Puntuación de Habilidad			|	10	|	  8	|	2°	| 4 |
+|	 5	|	+3	|	Aptitud Potente	(d8), Pensamiento Rápido   	|	11	|	 10	|	3°	| 5 |
+|	 6	|	+3	|	Rasgo de Disciplina de Ingeniería			|	12	|	 12	|	3°	| 5 |
+|	 7	|	+3	|	—                       					|	13	|	 14	|	4°	| 5 |
+|	 8	|	+3	|	Mejora de Puntuación de Habilidad           |	14	|	 16	|	4°	| 6 |
+|	 9	|	+4	|	—											|	15	|	 18	|	5°	| 6 |
+|	10	|	+4	|	Aptitud Potente	(d10)           			|	16	|	 20	|	5°	| 6 |
+|	11	|	+4	|	—                       					|	17	|	 22	|	6°	| 7 |
+|	12	|	+4	|	Mejora de Puntuación de Habilidad			|	18	|	 24	|	6°	| 7 |
+|	13	|	+5	|	—											|	19	|	 26	|	7°	| 7 |
+|	14	|	+5	|	Rasgo de Disciplina de Ingeniería 			|	20	|	 28	|	7°	| 8 |
+|	15	|	+5	|	Aptitud Potente	(d12)        				|	21	|	 30	|	8°	| 8 |
+|	16	|	+5	|	Mejora de Puntuación de Habilidad			|	22	|	 32	|	8°	| 8 |
+|	17	|	+6	|	—											|	23	|	 34	|	9°	| 9 |
+|	18	|	+6	|	Rasgo de Disciplina de Ingeniería			|	24	|	 36	|	9°	| 9 |
+|	19	|	+6	|   Mejora de Puntuación de Habilidad			|	25	|	 38	|	9°	| 9 |
+|	20	|	+6	|	Maestria Tecnologica						|	26	|	 40	|	9°	| 9 |
 
 </div>
 
@@ -818,15 +818,15 @@ Como ingeniero, obtienes las siguientes características de clase.
 
 #### Puntos de Golpe
 ___
-- **Dado de Golpe:** 1d8 per engineer level
-- **Puntos de Golpe en primer nivel:** 8 + your Constitution modifier
-- **Puntos de Golpe a niveles superiores:** 1d8 (or 5) + your Constitution modifier per engineer level after 1
+- **Dado de Golpe:** 1d8 por nivel de Ingeniero
+- **Puntos de Golpe en primer nivel:** 8 + el modificador de Constitución 
+- **Puntos de Golpe a niveles superiores:** 1d8 (or 5) + el modificador de Constitución  por nivel de ingeniero superior a 1
 
 #### Competencias
 ___
-- **Armadura:** Light armor
-- **Armas:** Simple blasters, simple vibroweapons
-- **Herramientas:** Tinker's tools and one of your choice
+- **Armadura:** Armadura ligera
+- **Armas:** Blasters sencillos, Vibroarmas sencillas
+- **Herramientas:** Herramientas del Manitas y una a tu elección
 ___
 - **Salvando Lanzamientos:** Constitución, Inteligencia
 - **Habilidades:** Elija tres de Investigación, Conocimiento, Medicina, Naturaleza, Pilotaje y Tecnología
@@ -835,58 +835,58 @@ ___
 
 <div style='margin-top:54.5px'></div>
 
-#### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
-- *(a)* a simple vibroweapon or *(b)* a simple blaster and two power cells
-- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
-- Combat suit, a set of tinker's tools, a vibrodagger, and a wristpad
+#### Equipamiento
+Comienza con el siguiente equipo, además del que te otorga el trasfondo:
+- *(a)* una vibroarma sencilla o *(b)* un blaster sencillo y dos células de energia
+- *(a)* un equipo de exploración de mazmorras o *(b)* un equipo de exploración
+- Traje de combate, un juego de herramientas del manitas, una vibrodaga y un ordenador de muñeca.
 
-#### Variant: Starting Wealth 
-In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using the criteria below:
+#### Variante: Riqueza inicial 
+En lugar del equipo otorgado por su clase y trasfondo, puedes optar por comprar tu equipo inicial. Si lo haces, no recibirás ningún equipo de tu clase y trasfondo, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
-|	Class			|	Funds		|						
+|	Clase			|	Fondos		|						
 |	:--				|	--:			|
-|	Engineer    	|	1,000 + 3d4 x 100 cr|
+|	Ingeniero    	|	1,000 + 3d4 x 100 cr|
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Techcasting
+### Tecnoinvocacion
 Durante tu entrenamiento has derivado poderes de los esquemas con la ayuda de tu muñequera. Ver el capítulo 10 para las reglas generales del techcasting y el capítulo 12 para la lista de poderes técnicos.
 
 #### Poderes tecnológicos conocidos
 Aprendes 6 poderes tecnológicos de tu elección, y aprendes más en los niveles superiores, como se muestra en la columna de Poderes Tecnológicos Conocidos de la tabla de la clase de ingeniería. No puedes aprender un poder técnico de un nivel superior al de tu nivel de potencia máxima.
 
-#### Tech Points
+#### Puntos Tecnologicos
 Tienes un número de puntos técnicos igual a tu nivel de ingeniero x 2, como se muestra en la columna de Puntos Técnicos de la tabla de clases de ingenieros, + tu modificador de Inteligencia. Usas estos puntos técnicos para lanzar poderes técnicos. Recuperas todos los puntos técnicos gastados cuando terminas un descanso corto o largo.
 
-#### Max Power Level
+#### Nivel de Poder Máximo
 Muchos poderes tecnológicos pueden ser sobrecargados, consumiendo más puntos tecnológicos para crear un mayor efecto. Puedes sobrecargar estos poderes a un nivel máximo, que aumenta a niveles más altos, como se muestra en la columna de Nivel de Poder Máximo de la tabla de clases de ingenieros.
 
 Sólo puedes lanzar poderes tecnológicos en el 6º, 7º, 8º y 9º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
-#### Techcasting Ability
+#### Habilidad de Tecnoinvocacion
 La inteligencia es su capacidad de emisión de tecnología para sus poderes tecnológicos. Utilizas tu inteligencia siempre que un poder se refiere a tu capacidad de tecnicismos. Además, usas tu modificador de inteligencia cuando estableces el tiro de salvamento DC para un poder tecnológico que lanzas y cuando haces una tirada de ataque con uno.
 
 ___
 
 <div align="center">
 
-**Tech save DC** = 8 + tu bono de habilidad + <br>tu modificador de Inteligencia
+**CD Salvación Tecnologica** = 8 + tu bonificación de habilidad + <br>tu modificador de Inteligencia
 
 ___
 
-**Modificador de ataque técnico** = tu bono de habilidad + <br>tu modificador de inteligencia
+**Modificador de ataque técnologico** = tu bonificación de habilidad + <br>tu modificador de inteligencia
 
 </div>
 
 ___
 
-#### Techcasting Focus
+#### Enfoque de Tecnoinvocacion
 Utilizas una muñequera (que se encuentra en el capítulo 5) o tus habilidades con las herramientas otorgadas por esta clase como un enfoque de techcasting para tus poderes tecnológicos.
 
-### Potente Aptitud
+### Aptitud Potente
 Su experiencia tecnológica le da una visión poco común que puede usar para reforzar a sus aliados. Para ello, usas una acción extra en tu turno para elegir una criatura que no seas tú mismo a menos de 60 pies de ti que pueda oírte. Esa criatura gana un dado de Aptitud Potencial, un d6.
 
 Una vez dentro de los próximos 10 minutos, la criatura puede tirar el dado y sumar el número tirado a un chequeo de habilidad, una tirada de ataque o una tirada de salvamento que haga. La criatura puede esperar hasta después de tirar el d20 antes de decidir usar el dado de Aptitud Potencial, pero debe decidir antes de que el GM diga si la tirada tiene éxito o no. Una vez que se tira el dado de la Aptitud Potencial, se pierde.
@@ -901,23 +901,23 @@ Puede utilizar esta característica un número de veces igual al de su modificador
 
 Tu muerte de Aptitud Potencial cambia cuando alcanzas ciertos niveles en esta clase. El dado se convierte en un d8 en el 5º nivel, un d10 en el 10º nivel y un d12 en el 15º nivel.
 
-### Infuse Item
+### Infundir Objeto
 En el 2º nivel, obtienes la habilidad de mejorar temporalmente un arma o armadura. Al final de un largo descanso, puedes tocar un objeto no mejorado que es una armadura o un arma simple o marcial. Hasta el final de tu próximo largo descanso o hasta que mueras, el objeto se convierte en un objeto mejorado, otorgando un bono +1 a AC si es una armadura o un bono +1 para atacar y tiradas de daño si es un arma. 
 Una vez que hayas usado esta función, no podrás volver a usarla hasta que termines un largo descanso.
 
-### Tool Expertise
+### Experto en Herramienta
 También en el 2º nivel, se adquiere experiencia en las habilidades de las herramientas que se obtienen de esta clase.
 
-### Engineering Discipline
+### Disciplina de Ingeniería
 A partir del 3er nivel, se empieza a enfocar en una disciplina específica de ingeniería, que se detalla al final de la descripción de la clase. Tu disciplina te otorga características en el 3er nivel y de nuevo en el 6º, 14º y 18º nivel.
 
-### Ability Score Improvement
+### Mejora de Puntuación de Habilidad
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
-### Quick Thinking
+### Pensamiento Rápido
 Comenzando cuando llegas al 5º nivel, recuperas todos tus usos gastados de Aptitud Potencial cuando terminas un descanso corto o largo.
 
-### Tech Mastery
+### Maestria Tecnologica
 En el nivel 20, su dominio de la tecnología no tiene rival. Sus puntuaciones de Constitución e Inteligencia aumentan en 2. Su máximo para esas puntuaciones aumenta en 2.
 
 Además, cuando tomas la iniciativa y no te queda ningún uso de la Aptitud Potencial, recuperas un uso.
@@ -932,10 +932,10 @@ La amplia gama de aplicaciones de las herramientas da lugar a distinciones bien 
 ## Ingeniería de armamento
 Los ingenieros que eligen la disciplina de ingeniería armamentística se centran en la capacidad de trabajar con metales duros y blindaje electrónico para construir y mejorar todo tipo de armaduras personales.
 
-### Bonus Proficiency
+### Competencia Adiccional
 Al elegir esta disciplina en el 3er nivel, se gana en destreza en las herramientas de armamento, en la armadura media y en la armadura pesada. Además, cuando te dedicas a la artesanía con herramientas de armadura, la velocidad a la que lo haces se duplica.
 
-### Modified Armor
+### Armadura Modificada
 También en el tercer nivel, aprendes a modificar una armadura o escudo sin mejorar utilizando tus conocimientos de armamento. En el transcurso de un largo descanso, puedes gastar materiales equivalentes a la mitad del costo de la armadura para modificarla. Debes tener la armadura, los materiales y las herramientas de la armadura para poder realizar esta modificación.
 
 Su armadura modificada es mejorada, requiere afinación, sólo puede ser usada por usted, y cuenta como un foco tecnológico para sus poderes tecnológicos mientras usted está sintonizado con ella. Tu armadura modificada tiene 4 ranuras de modificación, y gana más en los niveles superiores, como se muestra en la columna de ranuras de modificación de la tabla de clase de ingenieros. Por cada modificación instalada, el máximo de tu punto técnico se reduce en 1. En el transcurso de un largo descanso, puedes reemplazar o eliminar un número de modificaciones hasta tu modificador de Inteligencia (mínimo de uno).
@@ -947,7 +947,7 @@ En el 9º nivel, puedes mantener tanto una armadura modificada como un escudo. Ca
 ### Damage Absorption
 Por último, en el tercer nivel, cuando se toma el daño, se puede utilizar la reacción y gastar un uso de la Aptitud Potencial para absorber parte de ese daño. Cuando lo haces, el daño que recibes del ataque se reduce por la cantidad tirada en el dado + tu modificador de Inteligencia (mínimo de uno).
 
-### Armormech's Celerity
+### Celeridad Armamechanica
 A partir del 6º nivel, al realizar la acción de Ataque, puedes hacer un ataque con un arma como acción extra.
 
 Puedes usar esta característica un número de veces<br> igual a tu modificador de Inteligencia (a<br> mínimo de una vez). Recuperas todos los <br> usos gastados cuando <br> completas un largo descanso.
@@ -956,10 +956,10 @@ Puedes usar esta característica un número de veces<br> igual a tu modificador de
 
 <div style='margin-top:27px'></div>
 
-### Casting Celerity
+### Celeridad de Invocacion
 En el nivel 14, cuando usas tu acción para lanzar un poder tecnológico, puedes usar la función Celeridad de Armormech.
 
-### Suit Reliability
+### Traje Fiable
 A partir del nivel 18, tu traje es como una segunda piel. Cada vez que hagas un chequeo de habilidad o un tiro de salvamento que use Fuerza, Destreza o Constitución, puedes tratar un rollo de d20 de 9 o menos como un 10. Debes usar tu armadura modificada para obtener este beneficio.
 
 <img src='https://www.gmbinder.com/images/68MyqCJ.png' style='position:absolute;bottom:28px;right:0px;width:570px;z-index:1000;' />
@@ -968,7 +968,7 @@ A partir del nivel 18, tu traje es como una segunda piel. Cada vez que hagas un 
 
 \pagebreakNum
 
-### Armormech Modifications
+### Modificaciones Armamechanicas
 Si una modificación tiene requisitos previos, debe cumplirlos para instalarla. Puede instalar la modificación al mismo tiempo que cumple sus requisitos previos.
 
 #### Escudo de absorción
@@ -985,7 +985,7 @@ Reduces el peso del bulto de tu armadura modificada y aumentas la potencia de la
 _**Pre-requisito:** Armadura_<br>
 Integras ganchos y aletas desplegables en tu armadura, aumentando su movilidad. Mientras usas tu armadura modificada, ganas una velocidad de ascenso igual a la de tu caminata, y puedes moverte arriba, abajo y a través de superficies verticales y al revés a lo largo de los techos, mientras dejas tus manos libres. Además, ganas una velocidad de nado igual a tu velocidad de caminar.
 
-#### Advanced Power Fist
+#### Puños de Poder Avanzados
 _**Pre-requisito:** 11º nivel, Armadura_<br>
 _**Pre-requisito:** Prototipo del Puño de Poder_<br>
 Modificas más el guante de tu armadura modificada con un mayor refuerzo y peso. El ataque sin armas de tu armadura modificada inflige un daño cinético de 1 a 8. Además, tus ataques desarmados obtienen un golpe crítico con una tirada de 19 o 20.
@@ -996,7 +996,7 @@ Instalas una inteligencia artificial en tu armadura modificada. Mientras usas tu
 
 Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas todos los usos gastados cuando completas un largo descanso.
 
-#### Bonded Plates
+#### Placas adheridas
 _**Pre-requisito:** 5º nivel_<br>
 Ganas un bono +1 a AC contra los ataques cuerpo a cuerpo. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
@@ -1010,15 +1010,15 @@ Tu armadura modificada puede colapsar en un estuche para facilitar su almacenami
 
 su peso normal. Como acción puedes ponerte o quitarte la armadura, permitiendo que se transforme según sea necesario.
 
-#### Darkvision Visor
+#### Visor de Oscuridad
 _**Prerequisito:** Armadura.
 Mientras llevas tu armadura modificada, tienes una visión oscura a un rango de 60 pies. Si ya tienes la visión oscura, esta modificación aumenta su alcance en 30 pies.
 
-#### Enhanced Endurance
+#### Resistencia Mejorada
 _**Prerequisite:**: Armadura.
 Cuando se te reduce a 0 puntos de golpe mientras llevas tu armadura modificada pero no mueres en el acto, puedes bajar a 1 punto de golpe en su lugar. No puedes usar esta característica de nuevo hasta que termines un largo descanso.
 
-#### Electroshock Shield
+#### Escudo Electrizante
 _**Prerequisito:** Generador de escudo.
 Instalas electroshockers en tu generador de escudo. Cuando un enemigo te falla con un ataque cuerpo a cuerpo, puedes usar tu reacción para hacer 1d4 + tu modificador de Inteligencia el daño de un rayo al atacante.
 
@@ -1026,7 +1026,7 @@ Instalas electroshockers en tu generador de escudo. Cuando un enemigo te falla c
 _**Prerequisito:** 9º nivel, Armadura.
 Integras un sistema de propulsión en tu armadura modificada. Mientras usas tu armadura modificada tienes una velocidad de vuelo mejorada de 30 pies.
 
-#### Grappling Harpoon
+#### Arpón de Agarre
 _**Prerequisito:** Armadura.
 Su armadura modificada obtiene un arpón de agarre integrado en su guante. Con este arpón, puedes hacer un ataque con un arma a distancia con un rango de 30/60. En un golpe, inflige un daño cinético de 1d6. Este ataque puede apuntar a una superficie, un objeto o una criatura.
 
@@ -1036,7 +1036,7 @@ Mientras el arpón está desplegado, puedes usar tu acción extra para activar el c
 
 Una vez que has usado esta característica, no puedes volver a usarla hasta que te recuperes y vuelvas a insertar el arpón como una acción.
 
-#### Heavy Suit
+#### Traje Pesado
 _**Pre-requisito:** 5º nivel, Armadura_<br>
 Mejoras tu traje, lo que dificulta el movimiento. Como acción extra, puedes anclar tus pies al suelo. Mientras estés anclado, tu velocidad es 0, tienes ventaja en los chequeos de fuerza y en los lanzamientos de ahorro de fuerza, y cuentas como una talla más al determinar tu capacidad de carga y el peso que puedes empujar, arrastrar o levantar. 
 
@@ -1054,26 +1054,26 @@ El dispositivo de camuflaje recupera todos los gastos después de un largo descan
 _**Pre-requisito:** Escudo Físico_<br>
 Modificas tu escudo físico de tal manera que cuando un ataque con arma cuerpo a cuerpo te falla por una cantidad menor o igual que tu bono a AC de tu escudo, la criatura atacante debe hacer un chequeo de Fuerza contra tu tecnología salvo DC. En una salvada fallida, el arma de la criatura se adhiere al escudo. Como acción, la criatura puede repetir este chequeo. Si tiene éxito, el arma se libera. 
 
-#### Overload Shield
+#### Escudo de Sobrecarga
 _**Pre-requisito:** Generador de escudo_<br>
 Modifica su generador de escudos para sobrecargarlo. Como acción, puedes sobrecargar tu escudo. Cada criatura grande o pequeña dentro de 5 pies de ti debe hacer un lanzamiento de ahorro de Destreza o Fuerza (su elección) contra tu DC de ahorro de tecnología. En un salvamento fallido, son empujados hacia atrás 1,5 metros y se les golpea en la cabeza.
 
 Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
-#### Power Fist
+#### Puños de Poder
 _**Pre-requisito:** Armadura_<br>
 Modifica su guantelete de armadura modificado con mayor refuerzo y peso. El ataque sin armas de tu armadura modificada inflige un daño cinético de 1d4.
 
 Además, cuando realizas la acción de Ataque y haces un ataque desarmado, puedes hacer un ataque desarmado adicional como acción extra.
 
-#### Prototipo de Puño de Poder
+#### Prototipo de Puños de Poder
 _**Pre-requisito:** 7º nivel, Armadura_<br>
 _**Pre-requisito:** Puño de Poder_<br>
 Modificaste tu guante de armadura modificado con un mayor refuerzo y peso. El ataque sin armas de tu armadura modificada causa un daño cinético de 1d6 y tiene la siguiente propiedad.
 
 Si tú o tu objetivo se mueven al menos 10 pies en línea recta inmediatamente antes de hacer un ataque desarmado, el primer ataque desarmado que hagas causará un daño adicional igual al de tu modificador de Inteligencia.
 
-#### Reinforced Underlay
+#### Capa de Base Reforzada
 _**Pre-requisito:** 5º nivel_<br>
 Ganas un bono +1 a AC contra los ataques a distancia. Este bonus aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
@@ -1085,30 +1085,30 @@ Puede seleccionar esta modificación varias veces. Cada vez que lo hagas, debes e
 
 \columnbreak
 
-#### Sealed Suit
+#### Traje Sellado
 _**Pre-requisito:** 5º nivel, Armadura_<br>
 Como acción extra puedes sellar herméticamente tu armadura modificada, dándote un suministro de aire por hasta 1 hora y haciéndote inmune al veneno (pero no curándote de las condiciones de envenenamiento existentes). Tu armadura recupera 1 minuto de aire por cada minuto que no estés sumergido y la armadura no esté sellada.
 
 Además, mientras lleves tu armadura modificada se considera que estás adaptado a climas fríos y cálidos, así como a la altura, como se describe en el capítulo 5 de la Guía del Maestro de la Mazmorra. 
 
-#### Sentient Armor
+#### Armadura Consciente
 _**Pre-requisito:** 13º nivel_<br>
 _**Pre-requisito:** Inteligencia Artificial_<br>
 Tu inteligencia artificial ha aprendido a controlar el traje sin que tú estés en él. Ahora es un objetivo válido de la potencia tecnológica de la interfaz del droide rastreador.
 
 Mientras que tu armadura actúa de forma independiente, utiliza tus puntuaciones de habilidad, lanzamientos de salvamento y habilidades, y tiene puntos de golpe iguales a tu nivel de ingeniero. Si se reduce a 0 puntos de golpe, cae directamente al suelo, y no puede volver a equiparse hasta que termines un largo descanso.
 
-#### Shield Amplifier
+#### Amplificador de Escudo
 _**Pre-requisito:** Generador de escudo_<br>
 Modifica su generador de escudos para proyectarse hacia el exterior. Como acción extra, puedes amplificar tu escudo hasta el comienzo de tu próximo turno. Cada criatura que se encuentre dentro de un radio de 1,5 metros de ti gana un bonus a AC igual al bonus de tu escudo.
 
 Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
-#### Shield Anchor
+#### Escudo Anclado
 _**Pre-requisito:** Escudo Físico_<br>
 Modifica su escudo para ser usado como una fuente portátil de cobertura. Como acción, puedes anclar o recuperar el escudo. Mientras esté anclado, no obtendrá ningún beneficio de un escudo, y no requiere el uso de una mano. En cambio, mientras está anclado, un escudo ligero proporciona un cuarto de cobertura, un escudo mediano proporciona la mitad de cobertura, y un escudo grande proporciona tres cuartos de cobertura.
 
-#### Tech Blast
+#### Explosión Tecnologica
 _**Pre-requisito:** Armadura_<br>
 Modifica su guante de armadura modificado para permitirle hacer un ataque tecnológico a distancia. El arma dispara ráfagas de energía que infligen 1d8 + tu modificador de inteligencia de daño energético con un alcance de 30 pies. Cuando haces un ataque con un arma de distancia, puedes usar este ataque de distancia en su lugar.
 
@@ -1123,10 +1123,10 @@ Puedes integrar una sola arma que no pese más de 8 libras en tu armadura. Mientr
 ## Ingeniería Armstech
 Los ingenieros que eligen la disciplina de ingeniería Armstech se centran en la habilidad de construir y modificar explosivos y armas vibratorias.
 
-### Bonus Proficiency
+### Competencia Adicional
 Al elegir esta disciplina en el 3er nivel, se adquiere competencia en las herramientas de Armstech, armadura media, explosiones marciales y armas de fuego marciales. Además, cuando te dedicas a la artesanía con las herramientas de Armstech, la velocidad a la que lo haces se duplica.
 
-### Modified Weaponry
+### Armamento Modificado
 También en el tercer nivel, aprendes a modificar un arma no mejorada con la que eres competente utilizando tu experiencia en tecnología de armas. En el transcurso de un largo descanso, puedes gastar materiales equivalentes a la mitad del costo de un arma para modificarla. Usted debe tener el arma, los materiales y las herramientas de Armstech para realizar esta modificación.
 
 Su arma modificada está mejorada, requiere afinación, sólo puede ser usada por usted, y cuenta como un foco tecnológico para sus poderes tecnológicos mientras está afinado. Tu arma modificada tiene 4 ranuras de modificación, y gana más en los niveles superiores, como se muestra en la columna de ranuras de modificación de la tabla de clase de ingenieros. Por cada modificación instalada, el máximo de tu punto técnico se reduce en 1. En el transcurso de un largo descanso, puedes reemplazar o eliminar un número de modificaciones hasta tu modificador de Inteligencia (mínimo de uno).
@@ -1135,10 +1135,10 @@ Algunos efectos de modificación requieren tiros de salvamento. Cuando usas un ef
 
 En el 9º nivel, puede mantener dos armas modificadas. Cada arma modificada tiene ranuras de modificación como se muestra en la columna de ranuras de modificación de la tabla de la clase de ingenieros.
 
-### Close Call
+### Por los Pelos
 Por último, en el tercer nivel, cuando haces una tirada de ataque con tu arma modificada y fallas, puedes usar tu Aptitud Potencial para intentar convertir esa falla en un golpe. Lanza el dado y añádelo a la tirada de ataque. 
 
-### Armstech's Strike
+### Golpe Armatecnologico
 A partir del 6º nivel, una vez por ronda, cuando le hagas daño a una criatura con tu arma modificada, puedes aumentar el daño en 1d6. El daño es del mismo tipo que el del arma.
 
 El daño aumenta a 2d6 en el 11º nivel y a 3d6 en el 17º nivel.
@@ -1147,12 +1147,12 @@ El daño aumenta a 2d6 en el 11º nivel y a 3d6 en el 17º nivel.
 
 <div style='margin-top:27px'></div>
 
-### Targeting Matrix
+### Matriz de Apuntado
 En el nivel 14, cuando lanzas un poder tecnológico que te permite forzar a las criaturas de una zona a hacer un lanzamiento de salvamento, puedes hacer una tirada de ataque con tu arma modificada contra un solo objetivo que esté en el rango de la potencia. En un golpe, el objetivo sufre los efectos como si hubiera fallado su lanzamiento de salvación. Si el poder afectara a más de una criatura, sólo afectaría a una.
 
 Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas cualquier uso gastado cuando terminas un largo descanso.
 
-### Armstech's Salvo
+### Salva Armatecnologica
 A partir del nivel 18, cuando uses la función de la Matriz de Objetivos, y la potencia tecnológica afecte a más de una criatura, podrás atacar a cada criatura afectada que esté en el rango de la potencia. Haz una tirada de ataque separada para cada objetivo. En un golpe, cada objetivo sufre los efectos como si fallara su lanzamiento de salvación.
 
 <img src='https://www.gmbinder.com/images/96P54SK.png' style='position:absolute;bottom:15px;right:-135px;width:700px;transform:scaleX(-1);z-index:1000;' />
@@ -1161,7 +1161,7 @@ A partir del nivel 18, cuando uses la función de la Matriz de Objetivos, y la po
 
 \pagebreakNum
 
-### Armstech Modificaciones
+### Modificaciones Armatecnologicas
 Si una modificación tiene requisitos previos, debe cumplirlos para instalarla. Puede instalar la modificación al mismo tiempo que cumple sus requisitos previos.
 
 #### Focalización de la precisión
@@ -1176,26 +1176,26 @@ Ganarás un bono +1 por las tiradas de daño hechas con esta arma. Este bono aumen
 _**Pre-requisito:** Blaster_<br>
 Pones una hoja corta en el cañón de tu arma explosiva modificada, lo que te permite hacer un ataque cuerpo a cuerpo con ella. La cuchilla es un arma de combate cuerpo a cuerpo con la propiedad de la delicadeza con la que eres experto, y causa un daño cinético de 1 a 6.
 
-#### Burst Core
+#### Nucleo de Rafaga
 _**Pre-requisito:** Blaster_<br>
-Su arma gana la propiedad de estallar, con un número de estallido igual a su número de recarga.
+Tu arma gana la propiedad de hacer rafagas, con un número de rafagas igual a su número de recarga.
 
-#### Booming Strikes
+#### Golpes Resonantes
 _**Pre-requisito:** 7º nivel_<br>
 Usted carga con energía extra en su arma modificada. Una vez por turno, cuando golpeas con el arma, puedes hacer un daño adicional de 1d6. Si lo haces, el arma hace un fuerte estruendo que se puede escuchar a 100 pies de distancia. Si estás escondido, las comprobaciones de Inteligencia (Investigación) y Sabiduría (Percepción) hechas para localizarte que se basan en el sonido tienen ventaja.
 
-#### Celerity Oscillator
+#### Oscilador de Celeridad
 Una vez por turno, cuando infliges daño con tu arma modificada, tu velocidad al caminar aumenta en 10 pies hasta el comienzo del siguiente turno, y la criatura dañada no puede hacer ataques de oportunidad contra ti durante el resto de tu turno.
 
 #### Marco Colapsable
 _**Pre-requisito:** Vibro-arma_<br>
 Instalas una empuñadura extensible en tu arma modificada. Su arma modificada gana la propiedad de alcance.
 
-#### Contoured Grip 
+#### Empuñadura Contorneada
 _**Pre-requisito:** 5º nivel, Vibroarmas_<br>
 Ganas un bono +1 por atacar las tiradas hechas con esta arma. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
-#### Revista Expandida
+#### Cargador Expandido
 _**Pre-requisito:** Blaster_<br>
 Su arma modificada puede ser recargada más eficientemente. Puedes recargar tu arma modificada una vez sin usar una acción. No puedes usar esta característica de nuevo hasta que recargues el arma con una acción.
 
@@ -1203,10 +1203,10 @@ Su arma modificada puede ser recargada más eficientemente. Puedes recargar tu ar
 
 <div style='margin-top:23px'></div>
 
-#### Flashlight
+#### Linterna
 Pones una luz de objetivo en tu arma. Como acción extra, puedes encender o apagar la luz. Mientras está encendida, tu arma arroja una luz brillante en un cono de 60 pies.
 
-#### Harpoon Reel
+#### Harpon con Carrete
 Instalas un modo de fuego secundario que lanza un arpón unido a una cuerda bien enrollada. Con este arpón, puedes hacer un ataque de arma de fuego a distancia con un rango de 30/60. En un golpe, causa un daño cinético de 1d6. Este ataque puede apuntar a una superficie, un objeto o una criatura.
 
 Una criatura golpeada por este ataque es empalada por el arpón. Como acción, una criatura puede intentar quitar el arpón. Quitar el arpón requiere un chequeo de fuerza. Mientras el arpón está clavado en el objetivo, está conectado al objetivo por un cable de 60 pies.
@@ -1215,16 +1215,16 @@ Mientras estés conectado de esta manera, puedes usar tu acción extra para activa
 
 Una vez que has usado esta característica, no puedes volver a usarla hasta que te recuperes y vuelvas a insertar el arpón como una acción.
 
-#### Imbue Weapon
+#### Imbuir Arma
 _**Pre-requisito:** 9º nivel_<br>
 Modifica su arma para llevar una carga. En el transcurso de un breve descanso, puede lanzar una potencia tecnológica a voluntad, canalizándola en su arma. La próxima vez que golpees con tu arma, el poder almacenado será liberado. Si el poder requiere una tirada de ataque, haz una tirada de ataque técnico. Si el poder requiere un tiro de salvamento, el objetivo debe hacer el tiro de salvamento como es normal. En un golpe, o un fracaso, el objetivo sufre los efectos normales del poder. 
 
-#### Improved Burst Core
+#### Nucleo de Rafaga Mejorado
 _**Pre-requisito:** 9º nivel_<br>
 _**Pre-requisito:** "Burst Core"_<br>
 El número de explosiones de su arma se reduce a la mitad de su número de recarga.
 
-#### Revista Integrada
+#### Cargador Integrado
 _**Pre-requisito:** Revista expandida_<br>
 Su arma modificada puede ser recargada más eficientemente. Puedes recargar tu arma modificada dos veces sin usar una acción. No puedes usar esta característica de nuevo hasta que recargues el arma con una acción.
 
@@ -1241,22 +1241,22 @@ Su arma ahora anota un golpe crítico en una tirada de 19 o 20.
 
 \pagebreakNum
 
-#### Neutronium Edge
+#### Filo de Neutronium
 _**Pre-requisito:** 5º nivel, Vibroarmas_<br>
 Ganarás un bono +1 por las tiradas de daño hechas con esta arma. Este bono aumenta a +2 en el 9º nivel y a +3 en el 13º nivel.
 
-#### Overcharge Weapon
+#### Sobrecargar Arma
 _**Pre-requisito:** 11º nivel_<br>
 _**Pre-requisito:** "Huelgas en auge"_<br>
 Obtienes la habilidad de canalizar tu poder tecnológico para mejorar el daño de tu arma. Puedes gastar una ranura tecnológica para hacer más daño al objetivo. El daño adicional es de 1d6 para un tech slot de primer nivel, más 1d6 por cada slot de nivel superior al primero, hasta un máximo de 5d6. El daño es del mismo tipo que el daño del arma. Si también utilizas tus Booming Strikes con un ataque, añades este daño al daño extra de tus Booming Strikes.
 
-#### Power Loop
+#### Bucle de Potencia
 _**Pre-requisito:** 7º nivel_<br>
 Cuando golpeas con el arma, puedes elegir canalizar la energía generada, obteniendo puntos de golpe temporales iguales a la mitad del daño causado.
 
 Una vez que haya utilizado esta función, debe completar un largo descanso antes de poder usarla de nuevo.
 
-#### Recoil Dampener
+#### Amortiguador de Retroceso
 _**Pre-requisito:**** Blaster con la propiedad de la fuerza_<br>
 Instalas un amortiguador de retroceso en tu dinamitero modificado, quitándole la propiedad de resistencia.
 
@@ -1264,16 +1264,16 @@ Instalas un amortiguador de retroceso en tu dinamitero modificado, quitándole la
 _**Pre-requisito:** Vibro-arma_<br>
 Instalas una cadena retráctil en tu vibro-arma modificada. Si el arma no tiene ya la propiedad de ser lanzada, la gana con un rango de 20/60. Además, obtiene la propiedad de retorno.
 
-#### Screening Weapon
+#### Arma de detección
 Modifica su arma modificada con un módulo de amortiguación de sonido. Cuando haces un ataque con tu arma mientras está escondida, las comprobaciones de Investigación y Percepción hechas para localizarte que dependen del sonido tienen la desventaja.
 
 #### Arma de asedio
 Modifica su arma para que sea más efectiva contra las barreras. Su arma hace un doble daño contra las estructuras.
 
-#### Shock Absorber
+#### Amortiguador de Choque
 Añades un dispositivo de recuperación a tu arma modificada para recoger la energía de los alrededores cuando está presente. Mientras empuñas tu arma modificada, puedes lanzar el poder de la tecnología de _absorción de energía_ y el daño extra del poder se aplica tanto a los ataques cuerpo a cuerpo como a los ataques con armas de distancia.
 
-#### Shock Harpoon
+#### Arpón de Choque
 _**Pre-requisito:** 9º nivel_<br>
 _**Pre-requisito:** Arpón, carrete, arpón_<br>
 Después de golpear a una criatura con el modo de fuego de arpón, puedes usar la conexión para entregar un poder tecnológico a voluntad. Como acción extra, puedes lanzar un poder tecnológico a voluntad al objetivo como si estuvieras parado en el
@@ -1286,13 +1286,13 @@ el espacio del objetivo. Si la potencia requiere un tiro de salvamento, el objet
 
 Una vez que hayas usado esta función, no podrás volver a usarla hasta que recuperes el arpón.
 
-#### Shocking Oscillator
+#### Oscilador de Descarga
 _**Pre-requisito:** 9º nivel, Vibroarmas_<br>
 Cuando golpeas con el arma, puedes crear un estallido electrónico. Cada criatura en un cono de 15 pies centrado en la criatura que golpeas debe hacer un lanzamiento de ahorro de destreza contra tu DC de ahorro de tecnología, recibiendo 1d8 de daño por relámpago en una salvada fallida o la mitad en una exitosa.
 
 Una vez que haya utilizado esta función, debe completar un largo descanso antes de poder usarla de nuevo.
 
-#### Snap Fire
+#### Fuego Rápido
 _**Pre-requisito:** 9º nivel, Blaster_<br>
 Modifica su arma explosiva modificada para disparos rápidos. Puedes usar tu reacción para tomar un ataque de oportunidad con tu arma modificada si un enemigo se acerca a 10 pies de ti. Tienes una desventaja en este ataque. 
 
@@ -1306,16 +1306,16 @@ Cuando golpeas con el arma, puedes forzar al objetivo a hacer un lanzamiento de 
 
 Una vez que haya utilizado esta función, debe completar un corto o largo descanso antes de poder usarla de nuevo.
 
-#### Tracker
+#### Rastreador
 _**Pre-requisito:** 5º nivel_<br>
 Añades un mecanismo de rastreo a tu arma modificada. El rastreador tiene 3 cargas. Como acción puedes usar 1 carga para lanzar el bloqueo del objetivo. Como una acción puedes usar 2 cargas para lanzar _detectar invisibilidad_.
 
 El rastreador recupera todos los gastos después de un largo descanso.
 
-#### Truelight
+#### Luz Real
 _**Pre-requisito:** 11º nivel_<br>
 _**Pre-requisito:** Linterna_<br>
-Cuando se enciende, la linterna ahora disipa automáticamente las ilusiones y puede detectar la invisibilidad, como con la luz real.
+Cuando se enciende, la linterna ahora disipa automáticamente las ilusiones y puede detectar la invisibilidad, como con vision real.
 
 #### Oscilador venenoso
 _**Pre-requisito:** 9º nivel, Vibroarmas_<br>
@@ -1330,10 +1330,10 @@ Una vez que haya utilizado esta función, debe completar un largo descanso antes 
 ## Ingeniería Astrotécnica
 Los ingenieros que eligen la disciplina de Ingeniería Astrotécnica se centran en la creación y mejora de sus compañeros droides.
 
-### Bonus Proficiency
+### Competencia Adicional
 Al elegir esta disciplina en el 3er nivel, se obtiene un dominio de las herramientas de la astrología. Además, cuando te dedicas a la artesanía con las herramientas de la astrotécnica, la velocidad a la que haces artesanías se duplica.
 
-### Droid Companion
+### Compañero Droide
 También en el 3er nivel, aprendes a emplear todo el conocimiento que has acumulado para crear y personalizar tu propio compañero droide personalizado.
 
 Elija su droide, que se detalla al final de esta disciplina. En el transcurso de 8 horas, que se pueden hacer durante un largo descanso, puedes gastar 500 cr de materiales para finalmente terminar tu droide.
@@ -1354,16 +1354,16 @@ Además, puedes modificar tu droide. Tu compañero droide tiene 4 ranuras de modif
 
 <div style='margin-top:26px'></div>
 
-### Potente Integración
+### Integración Potente
 Por último, en el tercer nivel, cuando tu droide hace una tirada de ataque, puedes usar tu reacción para gastar un uso de tu Aptitud Potencial para darle un impulso. Lanza el dado y añádelo a las tiradas de ataque y de daño, si el ataque impacta.
 
 ### Ataque coordinado
 A partir del 6º nivel, cuando realizas la acción de Ataque, si tu compañero puede verte, puede usar su reacción para hacer un ataque con armas contra la misma criatura.
 
-### Droid Defense
+### Defensa Droide
 En el nivel 14, mientras que tu droide puede verte, tiene ventaja en todos los lanzamientos de salvamento.
 
-### Superior Droid Defense
+### Defensa Droide Superior
 A partir del nivel 18, cuando un atacante que tu droide puede ver lo golpea con un ataque, puede usar su reacción para reducir a la mitad el daño del ataque contra él.
 
 <img src='https://www.gmbinder.com/images/QLbAs0t.png' style='position:absolute;bottom:-2px;right:-65px;width:520px;transform:scaleX(-1);z-index:1000;' />
@@ -1386,7 +1386,7 @@ ___
 - **Resistencias de los droides:** Tu droide es resistente a los daños necróticos, venenosos y psíquicos, e inmune a los venenos y enfermedades.
 - **Vulnerabilidad de los droides:** Su droide es vulnerable al daño de los iones. Además, tu droide tiene la desventaja de ahorrar lanzamientos contra los efectos que causarían daños por iones o rayos.
 
-#### Traits
+#### Rasgos
 ___
 - **Tipo de criatura:** Droide
 - **Integración de la armadura:** Tu droide no puede llevar armadura, pero puedes tener la armadura integrada profesionalmente en su chasis. En el transcurso de un largo descanso, puedes gastar materiales equivalentes a la mitad del costo de la armadura para integrarla. Este trabajo debe ser realizado por alguien que domine las herramientas de la astrotécnica. Tu droide debe ser experto en armaduras para poder integrarlo.
@@ -1402,7 +1402,7 @@ ___
 - **Puntos de golpe en el primer nivel:** 8 + tu modificador de constitución de droide
 - **Puntos de golpe en niveles superiores:** 1d8 (o 5) + el modificador de la Constitución de tu droide por nivel de droide clase I después del 1er
 
-#### Proficiency
+#### Competencia
 ___
 - **Blindaje: ** Blindaje ligero
 - **Armas:** simples explosivos, simples armas de fuego
@@ -1431,7 +1431,7 @@ ___
 - **Puntos de golpe en el primer nivel:** 6 + tu modificador de la constitución de droide
 - **Puntos de impacto en niveles superiores:** 1d6 (o 4) + el modificador de la constitución de tu droide por cada nivel de droide clase II después del 1er.
 
-#### Proficiency
+#### Competencias
 ___
 - Armadura: Armadura ligera, armadura media. 
 - **Armas:** simples explosivos y simples armas de vibro con la propiedad de la luz
@@ -1457,7 +1457,7 @@ ___
 - **Puntos de golpe en el primer nivel:** 8 + tu modificador de constitución de droide
 - **Puntos de impacto en niveles superiores:** 1d8 (o 5) + el modificador de la constitución de tu droide por nivel de droide clase III después del 1er.
 
-#### Proficiency
+#### Competencias
 ___
 - **Armadura:** Armadura ligera
 - **Armas:** simples explosivos, simples armas de fuego
@@ -1467,7 +1467,7 @@ ___
 - **Salvando Lanzamientos:** Sabiduría, Carisma
 - **Habilidades:** Ninguna
 
-#### Features
+#### Rasgos
 ___
 - **Tamaño:** Medio
 - **Velocidad:** 25 pies.
@@ -1487,7 +1487,7 @@ ___
 - **Puntos de golpe en el primer nivel:** 8 + tu modificador de constitución de droide
 - **Puntos de golpe en niveles superiores:** 1d8 (o 5) + el modificador de la Constitución de tu droide por nivel de droide clase IV después del 1er
 
-#### Proficiency
+#### Competencias
 ___
 - **Armadura:** Toda la armadura
 - **Armas:** Todos los explosivos, todos los vibroarmas
@@ -1497,7 +1497,7 @@ ___
 - **Salvando tiros:** Fuerza, Destreza
 - **Habilidades:** Ninguna
 
-#### Features
+#### Rasgos
 ___
 - **Tamaño:** Medio
 - **Velocidad:** 30 pies.
@@ -1513,7 +1513,7 @@ ___
 - **Puntos de golpe en el primer nivel:** 8 + tu modificador de constitución de droide
 - **Puntos de golpe en niveles superiores:** 1d8 (o 5) + el modificador de la Constitución de tu droide por nivel de droide clase V después del 1er
 
-#### Proficiency
+#### Competencias
 ___
 - Armadura: Armadura ligera, armadura media.
 - **Armas:** Todas las vibroarmas, simples explosivos
@@ -1523,7 +1523,7 @@ ___
 - **Salvando Lanzamientos:** Fuerza, Constitución
 - **Habilidades:** Atletismo
 
-#### Features
+#### Rasgos
 ___
 - **Tamaño:** Medio
 - **Velocidad:** 30 pies.
@@ -1535,7 +1535,7 @@ ___
 ### Modificaciones de Astrotech
 Si una modificación tiene requisitos previos, debe cumplirlos para instalarla. Puede instalar la modificación al mismo tiempo que cumple sus requisitos previos.
 
-#### Advanced Power Core
+#### Nucleo de Potencia Avanzado
 _**Pre-requisito:** 7º nivel, d10 Golpea a Die_<br>
 Mejoran mucho el núcleo de energía de su droide. Su Hit Die se convierte en un d12.
 
@@ -1550,7 +1550,7 @@ Tu droide puede analizar un objetivo, desarrollar un plan sobre cómo superar mej
 - Cuando analiza una criatura hostil, sus rollos de ataque y daño hechos con armas con la propiedad de la delicadeza o armas explosivas contra ese objetivo puede usar su modificador de Inteligencia en lugar de Fuerza o Destreza.
 - Cuando analiza una criatura amiga, el objetivo puede terminar el Protocolo de Análisis de tu droide en ellos (no se requiere ninguna acción) para añadir la mitad del modificador de Inteligencia de tu droide (redondeado hacia abajo, mínimo de +1) a una tirada de ataque, chequeo de habilidad o lanzamiento de salvamento. Una vez que una criatura amiga se ha beneficiado de esta habilidad, no puede volver a hacerlo hasta que complete un descanso corto o largo.
 
-#### Arm Cannons
+#### Brazos-Cañón
 Instalas cañones de doble brazo en tu droide. Los cañones de brazo tienen dos cargas. Como acción, tu droide puede usar cargas para lanzar la potencia tecnológica de la *sobrecarga*, usando una carga por nivel. El lanzamiento de salvamento se hace contra el DC de salvamento tecnológico de tu droide (8 + el bono de habilidad de tu droide + el modificador de Inteligencia de tu droide).
 
 Puedes elegir esta modificación varias veces. Cada vez que lo haces, los cañones de brazo ganan otra carga, hasta un máximo de 4. Los cañones de brazo recuperan todas las cargas después de un largo descanso.
@@ -1565,12 +1565,12 @@ Una vez que tu droide use esta característica, debe terminar un corto o largo de
 
 \pagebreakNum
 
-#### Celerity Augment
+#### Aumento de Celeridad
 Aumenta tu droide para que se mueva un poco más rápido. La velocidad de tu droide aumenta en 1,5 metros.
 
 Puedes elegir esta modificación dos veces.
 
-#### Charisma Chip
+#### Chip de Carisma
 Pre-requisito: un droide de clase III.
 Instalas un chip de carisma en tu droide. Cuando un aliado que tu droide puede ver hace un chequeo de habilidad, un lanzamiento de ataque o un lanzamiento de salvamento, tu droide puede usar su reacción para darle ventaja en el lanzamiento. Puede hacerlo antes o después de que tiren el d20, pero antes de que el GM diga que la tirada tiene éxito o falla. Una vez que tu droide usa esta habilidad, no puede volver a usarla hasta que termine un descanso corto o largo.
 
@@ -1584,7 +1584,7 @@ Requisito: 15º nivel.
 Pre-requisito: Protocolo de respaldo.
 Modifica el protocolo de respaldo de su droide. Cuando se inicia el protocolo de respaldo de tu droide, puede usar inmediatamente su reacción para hacer que un ataque ruede contra un objetivo a su alcance. Si el objetivo es la fuente del daño que redujo a tu droide a 0, la tirada de ataque tiene ventaja.
 
-#### Energy Shield
+#### Escudo de Energia
 Instalas un escudo de energía en tu droide. El escudo de energía tiene una carga. Como acción, tu droide puede usar 1 carga para lanzar el poder de la tecnología del *escaparate de energía*.
 
 Puedes elegir esta modificación varias veces. Cada vez que lo haces, el escudo de energía gana otra carga, hasta un máximo de 3. El escudo de energía recupera todas las cargas gastadas después de un largo descanso.
@@ -1602,7 +1602,7 @@ Instalas un protocolo de pánico en tu droide. Como reacción a la toma de daños, 
 #### Protocolo de Estilo de Lucha
 Tu droide adopta un estilo particular de lucha como su especialidad. Elige una de las opciones de estilo de lucha, detalladas en el capítulo 6. Tu droide no puede tomar una opción de Estilo de lucha más de una vez, incluso si más tarde tiene que elegir de nuevo.
 
-#### Flamethrower
+#### Lanzallamas
 Instalas un lanzallamas en tu droide. El lanzallamas tiene una carga. Como acción, tu droide puede lanzar el *chorro de llama* potencia tecnológica o usar 1 carga para lanzar el *barrido de llama* potencia tecnológica en el 1er nivel. El lanzamiento de salvamento se hace contra el DC de salvamento tecnológico de tu droide (8 + el bono de habilidad de tu droide + el modificador de Inteligencia de tu droide).
 
 Puedes elegir esta modificación varias veces. Cada vez que lo haces, el lanzallamas gana otra carga, hasta un máximo de 3. Si el lanzallamas tiene varias cargas, puedes usar varias cargas para lanzar el *barrido de llamas* a un nivel más alto, 1 punto por carga. El lanzallamas recupera todas las cargas gastadas después de un largo descanso.
@@ -1613,11 +1613,11 @@ Instalas dos brazos adicionales para mejorar la capacidad de combate de tu droid
 
 Mientras que tu droide tiene al menos 3 brazos libres, tiene una velocidad de ascenso igual a su velocidad de andar.
 
-#### Heavy Plating
+#### Chapado Pesado
 Pre-requisito: Competencia en armadura media.
 Tu droide gana destreza en armaduras pesadas. Si tu droide ya es competente en armadura pesada, en su lugar el daño cinético y energético que tu droide recibe de las armas no mejoradas se reduce en una cantidad igual a su bono de competencia.
 
-#### Light Plating
+#### Chapado Ligero
 Tu droide gana destreza en la armadura ligera. Si tu droide ya es competente en armadura ligera, en su lugar la velocidad de tu droide aumenta en 5 pies mientras la armadura ligera está integrada. 
 
 #### Protocolo Marcial
@@ -1630,7 +1630,7 @@ Tu droide tiene un entrenamiento marcial que le permite realizar maniobras espec
 
 \pagebreakNum
 
-#### Medium Plating
+#### Chapado Medio
 Pre-requisito: la habilidad de la Armadura Ligera.
 Tu droide gana destreza en la armadura media. Si tu droide ya domina la armadura media, el bono de destreza máxima que tu droide puede añadir a AC aumenta de 2 a 3 mientras la armadura media está integrada.
 
@@ -1651,15 +1651,15 @@ Modifica el chip de carisma de su droide, otorgando los siguientes beneficios:
 - Tu droide tiene ventaja en los controles de Carisma (Rendimiento).
 - Tu droide también puede usar su acción extra para motivar a un aliado a menos de 30 pies de distancia. Hasta el comienzo del siguiente turno de tu droide, el aliado puede añadir el modificador de carisma del droide (mínimo de +1) a la primera tirada de ataque, al chequeo de habilidad o a la tirada de salvamento que haga. Tu droide puede usar esta característica un número de tiempo igual al de su modificador Carisma, y recupera todos los usos gastados después de completar un largo descanso.
 
-#### Powerful Droid
+#### Droide Poderoso
 Pre-requisito: droide de clase V.
 Su cuenta de droides es una talla más grande cuando se determina su capacidad de carga y el peso que puede empujar, arrastrar o levantar.
 
-#### Powerful Grip
+#### Apretón Poderoso
 Requisito: 7º nivel, clase V de droides.
 Cuando tu droide golpea a una criatura con un ataque de arma de fuego cuerpo a cuerpo en su turno y tiene una mano libre, puede usar una acción de bonificación para intentar agarrar el objetivo. Si lo hace, y el forcejeo tiene éxito, tu droide puede hacer un ataque adicional contra el objetivo (no se requiere ninguna acción).
 
-#### Premium Power Core
+#### Nucleo de Energia Premium
 Mejora el núcleo de energía de tu droide. Su Hit Die se convierte en un d8.
 
 #### Protocolo de Competencia
@@ -1671,7 +1671,7 @@ Instalas un protocolo en tu droide que le otorga competencia en una herramienta 
 Pre-requisito: d8 Golpea a Die...
 Mejoran aún más el núcleo de energía de su droide. Su Hit Die se convierte en un d10.
 
-#### Repulsor Coil
+#### Bobina Repulsora
 Requisito: 7º nivel, droide de clase II.
 Instalas bobinas repulsoras en las patas de tu droide. Tu droide gana una velocidad de vuelo igual a su velocidad de marcha.
 
@@ -1682,7 +1682,7 @@ Aumenta tu droide con un sensor avanzado, otorgando los siguientes beneficios:
 - Tu droide tiene resistencia al daño causado por las trampas.
 - Tu droide puede buscar trampas mientras viaja a un ritmo normal, en lugar de sólo a un ritmo lento.
 
-#### Stun Ray
+#### Rayo Paralizador
 Instalas un rayo aturdidor en tu droide. El rayo aturdidor tiene una carga. Como acción, tu droide puede usar 1 carga para lanzar el *droide de retención* o *paralizar el poder tecnológico humanoide*. El lanzamiento de salvamento se hace contra el DC de salvamento tecnológico de tu droide (8 + el bono de habilidad de tu droide + el modificador de Inteligencia de tu droide).
 
 Puedes elegir esta modificación varias veces. Cada vez que lo haces, el rayo aturdidor gana otra carga, hasta un máximo de 3. El rayo aturdidor recupera todas las cargas gastadas después de un largo descanso.
@@ -1702,7 +1702,7 @@ Modificas el módulo de durabilidad de tu droide, otorgando el siguiente benefici
 \pagebreakNum
 
 ## Fighter
-<span style="font-variant: small-caps">A Trandoshan runs frantically across rooftops, constantly</span> looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back and renders<br> him unconscious. His blurry vision barely<br> makes out the figure of a masked woman<br> who casually approaches, ready to collect her<br> bounty.
+<span style="font-variant: small-caps">A Trandoshan runs frantically across rooftops, constantly</span> looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back y renders<br> him unconscious. His blurry vision barely<br> makes out the figure of a masked woman<br> who casually approaches, ready to collect her<br> bounty.
 
 Con sus musculosos brazos abiertos, un Wookiee de aspecto canoso sonríe a su sedienta multitud. Se vuelve a <br> su oponente de la arena justo a tiempo para <br> ver al Besalisco dar un golpe. Él<br> se agacha, golpeando al luchador de cuatro brazos<br> en las tripas. Dos salvajes <br> herreros después, y él se para <br> solo como el <br> gladiador <br> campeón. 
 
@@ -1743,22 +1743,22 @@ Puedes hacer un luchador rápidamente siguiendo estas sugerencias. Primero, haz q
 |	 1st	|	+2	|	Fighting Style, Second Wind	                        |—|—|
 |	 2nd	|	+2	|	Action Surge (one use), Combat Superiority        	|2|2|
 |	 3rd	|	+2	|	Fighter Specialty	                                |2|2|
-|	 4th	|	+2	|	Ability Score Improvement                       	|2|2|
+|	 4th	|	+2	|	Mejora de Puntuación de Habilidad                       	|2|2|
 |	 5th	|	+3	|	Extra Attack                                    	|2|2|
-|	 6th	|	+3	|	Ability Score Improvement                       	|2|2|
+|	 6th	|	+3	|	Mejora de Puntuación de Habilidad                       	|2|2|
 |	 7th	|	+3	|	Fighter Specialty feature                       	|3|3|
-|	 8th	|	+3	|	Ability Score Improvement                       	|3|3|
+|	 8th	|	+3	|	Mejora de Puntuación de Habilidad                       	|3|3|
 |	 9th	|	+4	|	Indomitable (one use)                               |3|3|
 |	10th	|	+4	|	Fighter Specialty feature                       	|3|3|
 |	11th	|	+4	|	Greater Extra Attack                               	|3|4|
-|	12th	|	+4	|	Ability Score Improvement                       	|3|4|
+|	12th	|	+4	|	Mejora de Puntuación de Habilidad                       	|3|4|
 |	13th	|	+5	|	Indomitable (two uses)                          	|3|4|
-|	14th	|	+5	|	Ability Score Improvement                       	|3|4|
+|	14th	|	+5	|	Mejora de Puntuación de Habilidad                       	|3|4|
 |	15th	|	+5	|	Fighter Specialty feature	                        |4|5|
-|	16th	|	+5	|	Ability Score Improvement                       	|4|5|
+|	16th	|	+5	|	Mejora de Puntuación de Habilidad                       	|4|5|
 |	17th	|	+6	|	Action Surge (two uses), Indomitable (three uses)	|4|5|
 |	18th	|	+6	|	Fighter Specialty feature                       	|4|5|
-|	19th	|	+6	|	Ability Score Improvement                       	|4|5|
+|	19th	|	+6	|	Mejora de Puntuación de Habilidad                       	|4|5|
 |	20th	|	+6	|	Master of Combat                                	|4|5|
 
 </div>
@@ -1904,7 +1904,7 @@ Cuando le das a una criatura con un ataque de arma, puedes gastar un dado de sup
 ### Fighter Specialty
 En el tercer nivel, eliges una especialidad que te esfuerzas por emular en tus estilos y técnicas de combate, que se detalla al final de la descripción de la clase. El arquetipo que elijas te otorgará características en el 3er nivel y de nuevo en el 7º, 10º, 15º y 18º nivel.
 
-### Ability Score Improvement
+### Mejora de Puntuación de Habilidad
 Cuando alcances el 4º nivel, y de nuevo en el 6º, 8º, 12º, 14º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Extra Attack
@@ -2115,7 +2115,7 @@ En el nivel 18, puedes elegir una segunda firma o una maniobra. Además,<br> cuan
 \pagebreakNum
 
 ## Guardian
-<span style="font-variant: small-caps">A dark-skinned human quickly runs down a corridor, the</span> metal armor under his grey cloak clanking with each step. He rounds the corner into the prison while the lights and power are still out, urging the weakened prisoners to escape. Just then a handful of slavers arrive and ready their blasters. The man draws and ignites a white-bladed lightsaber, ready to die for the strangers behind him. 
+<span style="font-variant: small-caps">A dark-skinned human quickly runs down a corridor, the</span> metal armor under his grey cloak clanking with each step. He rounds the corner into the prison while the lights y power are still out, urging the weakened prisoners to escape. Just then a handful of slavers arrive y ready their blasters. The man draws y ignites a white-bladed lightsaber, ready to die for the strangers behind him. 
 
 Un sith de sangre pura, vestido de pies a cabeza con armadura negra y roja, carga hacia una línea de soldados. Disparo tras disparo se desvía de su armadura hasta que llega a su presa, donde desata su furia en una serie de devastadores barridos de sable láser. 
 
@@ -2157,22 +2157,22 @@ Puedes hacer un tutor rápidamente siguiendo estas sugerencias. Primero, haz de l
 |	 1st	|	+2	|	Forcecasting, Channel the Force	    		| 	 4	|	 2	|	 1st	|
 |	 2nd	|	+2	|	Force-Empowered Strikes, Guardian Aura		|	 5	|	 4	|	 1st	|
 |	 3rd	|	+2	|	Guardian Focus                        		|	 6	|	 6	|	 1st	|
-|	 4th	|	+2	|	Ability Score Improvement					|	 7	|	 8	|	 1st	|
+|	 4th	|	+2	|	Mejora de Puntuación de Habilidad					|	 7	|	 8	|	 1st	|
 |	 5th	|	+3	|	Extra Attack								|	 9	|	10	|	 2nd	|
 |	 6th	|	+3	|	Force Purity    							|	10	|	12	|	 2nd	|
 |	 7th	|	+3	|	Focus feature   							|	11	|	14	|	 2nd	|
-|	 8th	|	+3	|	Ability Score Improvement					|	12	|	16	|	 2nd	|
+|	 8th	|	+3	|	Mejora de Puntuación de Habilidad					|	12	|	16	|	 2nd	|
 |	 9th	|	+4	|	—											|	14	|	18	|	 3rd	|
 |	10th	|	+4	|	Additional Aura 	    					|	15	|	20	|	 3rd	|
 |	11th	|	+4	|	Improved Force-Empowered Strikes			|	16	|	22	|	 3rd	|
-|	12th	|	+4	|	Ability Score Improvement					|	17	|	24	|	 3rd	|
+|	12th	|	+4	|	Mejora de Puntuación de Habilidad					|	17	|	24	|	 3rd	|
 |	13th	|	+5	|	—											|	19	|	26	|	 4th	|
 |	14th	|	+5	|	Cleansing Touch								|	20	|	28	|	 4th	|
 |	15th	|	+5	|	Focus feature	    						|	21	|	30	|	 4th	|
-|	16th	|	+5	|	Ability Score Improvement					|	22	|	32	|	 4th	|
+|	16th	|	+5	|	Mejora de Puntuación de Habilidad					|	22	|	32	|	 4th	|
 |	17th	|	+6	|	—											|	24	|	34	|	 5th	|
 |	18th	|	+6	|	Aura Improvements   						|	25	|	36	|	 5th	|
-|	19th	|	+6	|	Ability Score Improvement					|	26	|	38	|	 5th	|
+|	19th	|	+6	|	Mejora de Puntuación de Habilidad					|	26	|	38	|	 5th	|
 |	20th	|	+6	|	Focus feature	    						|	27	|	40	|	 5th	|
 
 </div>
@@ -2275,7 +2275,7 @@ Además, en el 2º nivel, se obtiene un aura de su elección, como se describe al f
 ### Guardian Focus
 Al llegar al 3er nivel, se comienza a enfocar los estudios en una forma específica de sable láser, que se detalla al final de la descripción de la clase. Tu enfoque te otorga características en el 3er nivel y otra vez en el 7º, 15º y 20º nivel. 
 
-### Ability Score Improvement
+### Mejora de Puntuación de Habilidad
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Extra Attack
@@ -2506,7 +2506,7 @@ Los monjes estudian cuidadosamente una energía mística que la mayoría de las órd
 
 <div style='margin-top:47px'></div>
 
-### Training and Asceticism
+### Training y Asceticism
 La mayoría de los monjes viven completamente separados de la población circundante, aislados de cualquier cosa que pueda impedir su progreso espiritual. Otros juran aislamiento, emergiendo sólo para servir como espías o asesinos a las órdenes de su líder, un noble patrón o algún otro poder.
 
 La mayoría de los monjes no rehúyen a sus vecinos, visitando frecuentemente las ciudades o pueblos cercanos e intercambiando sus servicios por comida y otros bienes. Como guerreros versátiles, los monjes a menudo terminan protegiendo a sus vecinos de monstruos o bandidos.
@@ -2541,22 +2541,22 @@ Puedes hacer un monje rápidamente siguiendo estas sugerencias. Primero, haz de l
 |	1st	|+2	|	Unarmored Defense, Martial Arts	|	d4	|	—	|	—			|
 |	2nd	|+2	|	Focus, Unarmored Movement	|	d4	|	2	|+10 ft.		|
 |	3rd	|+2	|	Monastic Order, Deflect Missiles	|	d4	|	3	|+10 ft.		|
-|	4th	|+2	|	Ability Score Improvement, Slow Fall	|	d4	|	4	|+10 ft.	|
+|	4th	|+2	|	Mejora de Puntuación de Habilidad, Slow Fall	|	d4	|	4	|+10 ft.	|
 |	5th	|+3	|	Extra Attack, Stunning Strike	|	d6	|	5	|+10 ft.	|
 |	6th	|+3	|	Focused Strikes, Monastic Order feature	|	d6	|	6	|+15 ft.	|
 |	7th	|+3	|	Evasion, Stillness of Mind	|	d6	|	7	|+15 ft.	|
-|	8th	|+3	|	Ability Score Improvement	|	d6	|	8	|+15 ft.	|
+|	8th	|+3	|	Mejora de Puntuación de Habilidad	|	d6	|	8	|+15 ft.	|
 |	9th	|+4	|	Unarmored Movement Improvement	|	d6	|	9	|+15 ft.	|
 |	10th	|+4	|	Purity of Body	|	d6	|	10	|+20 ft.	|
 |	11th	|+4	|	Monastic Order feature	|	d8	|	11	|+20 ft.	|
-|	12th	|+4	|	Ability Score Improvement	|	d8	|	12	|+20 ft.	|
-|	13th	|+5	|	Tongue of the Sun and Moon	|	d8	|	13	|+20 ft.	|
+|	12th	|+4	|	Mejora de Puntuación de Habilidad	|	d8	|	12	|+20 ft.	|
+|	13th	|+5	|	Tongue of the Sun y Moon	|	d8	|	13	|+20 ft.	|
 |	14th	|+5 |	Diamond Soul	|	d8	|	14	|+25 ft.	|
 |	15th	|+5	|	Timeless Body	|	d8	|	15	|+25 ft.	|
-|	16th	|+5	|	Ability Score Improvement	|	d8	|	16	|+25 ft.	|
+|	16th	|+5	|	Mejora de Puntuación de Habilidad	|	d8	|	16	|+25 ft.	|
 |	17th	|+6	|	Monastic Order feature	|	d10	|	17	|+25 ft.	|
 |	18th	|+6 |	Empty Body	|	d10	|	18	|+30 ft.	|
-|	19th	|+6	|	Ability Score Improvement	|	d10	|	19	|+30 ft.	|
+|	19th	|+6	|	Mejora de Puntuación de Habilidad	|	d10	|	19	|+30 ft.	|
 |	20th	|+6	|	Perfect Self	|	d10	|	20	|+30 ft.	|
 
 </div>
@@ -2577,7 +2577,7 @@ ___
 - **Herramientas:** Ninguna
 ___
 - **Salvando tiros:** Fuerza, Destreza
-- **Habilidades:** Escoge dos de Acrobacia, Atletismo, Insight, Lore, Percepción y Sigilo
+- **Habilidades:** Escoge dos de Acrobacia, Atletismo, Perspicacia, Historia, Percepción y Sigilo
 
 \columnbreak
 
@@ -2656,7 +2656,7 @@ A partir del tercer nivel, puedes usar tu reacción para desviar un proyectil cua
 
 Si reduces el daño a 0, y el daño es de energía o de iones, puedes redirigirlo a otro objetivo si tienes un arma capaz de hacerlo. Puedes gastar 1 punto de enfoque para hacer un ataque a distancia mientras desvías el proyectil, como parte de la misma reacción. Haces este ataque con destreza, independientemente de la destreza de tu arma, y el proyectil cuenta como un arma de monje para el ataque.
 
-### Ability Score Improvement
+### Mejora de Puntuación de Habilidad
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Slow Fall
@@ -2684,7 +2684,7 @@ A partir del 7º nivel, puedes usar tu acción para acabar con un efecto en ti mis
 ### Purity of Body
 En el décimo nivel, tu dominio del foco que fluye a través de ti te hace inmune a las enfermedades y al veneno.
 
-### Tongue of the Sun and Moon
+### Tongue of the Sun y Moon
 A partir del nivel 13, aprendes a tocar el foco de otras mentes para que entiendas todos los idiomas hablados. Además, cualquier criatura que pueda entender un idioma puede entender lo que dices.
 
 ### Diamond Soul
@@ -2858,22 +2858,22 @@ Puedes hacer un operativo rápidamente siguiendo estas sugerencias. Primero, haz 
 |	 1st	|	+2	|   Expertise, Sneak Attack	    |   1d6 |
 |	 2nd	|	+2	|   Bad Feeling, Cunning Action	|   1d6 |
 |	 3rd	|	+2	|   Operative Practice          |   2d6 |
-|	 4th	|	+2	|   Ability Score Improvement	|   2d6 |
+|	 4th	|	+2	|   Mejora de Puntuación de Habilidad	|   2d6 |
 |	 5th	|	+3	|   Uncanny Dodge	            |   3d6 |
 |	 6th	|	+3	|   Expertise	                |   3d6 |
 |	 7th	|	+3	|   Evasion	                    |   4d6 |
-|	 8th	|	+3	|   Ability Score Improvement	|   4d6 |
+|	 8th	|	+3	|   Mejora de Puntuación de Habilidad	|   4d6 |
 |	 9th	|	+4	|   Practice feature        	|   5d6 |
-|	10th	|	+4	|   Ability Score Improvement	|   5d6 |
+|	10th	|	+4	|   Mejora de Puntuación de Habilidad	|   5d6 |
 |	11th	|	+4	|   Reliable Talent         	|   6d6 |
-|	12th	|	+4	|   Ability Score Improvement	|   6d6 |
+|	12th	|	+4	|   Mejora de Puntuación de Habilidad	|   6d6 |
 |	13th	|	+5	|   Practice feature        	|   7d6 |
 |	14th	|	+5	|   Blindsense	                |   7d6 |
 |	15th	|	+5	|   Slippery Mind	            |   8d6 |
-|	16th	|	+5	|   Ability Score Improvement	|   8d6 |
+|	16th	|	+5	|   Mejora de Puntuación de Habilidad	|   8d6 |
 |	17th	|	+6	|   Practice feature        	|   9d6 |
 |	18th	|	+6	|   Elusive	                    |   9d6 |
-|	19th	|	+6	|   Ability Score Improvement	|  10d6 |
+|	19th	|	+6	|   Mejora de Puntuación de Habilidad	|  10d6 |
 |	20th	|	+6	|   Stroke of Luck	            |  10d6 |
 
 </div>
@@ -2884,17 +2884,17 @@ Como operativo, tienes las siguientes características de clase.
 #### Hit Points
 ___
 - **Hit Dice:** 1d8 per operative level
-- **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per operative level after 1st
+- **Hit Points at 1st Level:** 8 + el modificador de Constitución 
+- **Hit Points at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per operative level after 1st
 
 #### Proficiencies
 ___
-- **Armor:** Light armor
-- **Weapons:** Simple blasters, simple vibroweapons, blaster pistol, hidden blade, techblade, vibrorapier
+- **Armor:** Armadura ligera
+- **Weapons:** Blasters sencillos, Vibroarmas sencillas, blaster pistol, hidden blade, techblade, vibrorapier
 - **Tools:** Your choice of demolitions kit, disguise kit, forgery kit, poisoner's kit, security kit, or slicer's kit
 ___
-- **Saving Throws:** Dexterity, Intelligence
-- **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Piloting, Sleight of Hand, Stealth, and Technology
+- **Saving Throws:** Destreza, Inteligencia
+- **Skills:** Choose four from Acrobatics, Atletismo, Engaño, Perspicacia, Intimidación, Investigación, Percepción, Performance, Persuasión, Piloting, Sleight of Hand, Stealth, y Technology
 
 \columnbreak
 
@@ -2942,7 +2942,7 @@ También en el 2º nivel, tu rapidez de pensamiento y agilidad te permite moverte 
 ### Operative Practice
 En el 3er nivel, eliges una práctica que emulas en el ejercicio de tus habilidades operativas, que se detalla al final de la descripción de la clase. Su elección de la práctica le otorga características en el 3er nivel y luego otra vez en el 9º, 13º y 17º nivel.
 
-### Ability Score Improvement
+### Mejora de Puntuación de Habilidad
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 10º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 \columnbreak
@@ -3115,7 +3115,7 @@ ___
 
 <div align="center">
 
-**Placed Shot save DC** = 8 + your proficiency bonus + <br>your Dexterity modifier
+**Placed Shot save DC** = 8 + el bonificador de competencia + <br>your Destreza modifier
 
 </div>
 
@@ -3196,22 +3196,22 @@ Puedes hacer un erudito rápidamente siguiendo estas sugerencias. Primero, haga d
 |  1st | +2 | Academic Superiority, Critical Analysis           |  d6  | 2 |  2 | — |
 |  2nd | +2 | Discovery, Sage Advice (long rest)                |  d6  | 2 |  2 | 2 |
 |  3rd | +2 | Expertise, Academic Pursuit                       |  d6  | 4 |  4 | 2 |
-|  4th | +2 | Ability Score Improvement                         |  d6  | 4 |  4 | 2 |
+|  4th | +2 | Mejora de Puntuación de Habilidad                         |  d6  | 4 |  4 | 2 |
 |  5th | +3 | Multitasker                                       |  d6  | 4 |  4 | 3 |
 |  6th | +3 | Pursuit feature                                   |  d6  | 4 |  4 | 3 |
 |  7th | +3 | —                                                 |  d8  | 6 |  6 | 4 |
-|  8th | +3 | Ability Score Improvement                         |  d8  | 6 |  6 | 4 |
+|  8th | +3 | Mejora de Puntuación de Habilidad                         |  d8  | 6 |  6 | 4 |
 |  9th | +4 | Pursuit feature                                   |  d8  | 6 |  6 | 5 |
 | 10th | +4 | Expertise                                         |  d8  | 6 |  6 | 5 |
 | 11th | +4 | —                                   				| d10  | 6 |  8 | 5 |
-| 12th | +4 | Ability Score Improvement                         | d10  | 6 |  8 | 6 |
+| 12th | +4 | Mejora de Puntuación de Habilidad                         | d10  | 6 |  8 | 6 |
 | 13th | +5 | Sage Advice (short rest)                          | d10  | 6 |  8 | 6 |
-| 14th | +5 | Calm and Collected                                | d10  | 6 |  8 | 6 |
+| 14th | +5 | Calm y Collected                                | d10  | 6 |  8 | 6 |
 | 15th | +5 | —                                                 | d12  | 8 | 10 | 7 |
-| 16th | +5 | Ability Score Improvement                         | d12  | 8 | 10 | 7 |
+| 16th | +5 | Mejora de Puntuación de Habilidad                         | d12  | 8 | 10 | 7 |
 | 17th | +6 | Pursuit feature                                   | d12  | 8 | 10 | 7 |
 | 18th | +6 | Adaptable Intellectual                            | d12  | 8 | 10 | 8 |
-| 19th | +6 | Ability Score Improvement                         | d12  | 8 | 10 | 8 |
+| 19th | +6 | Mejora de Puntuación de Habilidad                         | d12  | 8 | 10 | 8 |
 | 20th | +6 | Knowledge Unbound                                 | d12  | 8 | 10 | 8 |
 </div>
 
@@ -3221,25 +3221,25 @@ Como estudioso, obtienes las siguientes características de la clase:
 #### Hit Points
 ___
 - **Hit Dice:** 1d8 per scholar level
-- **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per scholar level after 1st
+- **Hit Points at 1st Level:** 8 + el modificador de Constitución 
+- **Hit Points at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per scholar level after 1st
 
 #### Proficiency
 ___
-- **Armor:** Light armor
-- **Weapons:** Simple blasters, simple vibroweapons, techblades
+- **Armor:** Armadura ligera
+- **Weapons:** Blasters sencillos, Vibroarmas sencillas, techblades
 - **Tools:** Any one
 ___
-- **Saving Throws:** Wisdom, Intelligence
-- **Skills:** Choose three from Deception, Insight, Intimidation, Investigation, Lore, Medicine, Nature, Persuasion, and Survival
+- **Saving Throws:** Sabiduría, Inteligencia
+- **Skills:** Elige tres de entre Engaño, Perspicacia, Intimidación, Investigación, Historia, Medicina, Naturaleza, Persuasión, y Supervivencia
 
 \columnbreak
 
 <div style='margin-top:54.5px'></div>
 
 #### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
-- *(a)* a simple vibroweapon or *(b)* a simple blaster and two power cells
+Comienza con el siguiente equipo, además del que te otorga el trasfondo:
+- *(a)* una vibroarma sencilla o *(b)* un blaster sencillo y two power cells
 - *(a)* scholar's pack or *(b)* explorer's pack
 - a combat suit
 - any tool of your choice
@@ -3345,7 +3345,7 @@ En el décimo nivel, puedes elegir otras dos competencias (en habilidades o herra
 ### Academic Pursuit
 En el 3er nivel, dedicas tus estudios a una persecución, que se detalla al final de la descripción de la clase. La persecución que elijas te otorga características en el 3er nivel, y de nuevo en el 6º, 9º y 17º nivel.
 
-### Ability Score Improvement
+### Mejora de Puntuación de Habilidad
 Cuando alcanzas el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta característica. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Multitasker
@@ -3416,19 +3416,19 @@ Cuando usas la función de Consejos de Sabio, las criaturas objetivo retienen el 
 <div style='margin-top:27px'></div>
 
 #### Master's Advice
-When you use your Sage Advice feature, the first time each targeted creature makes the chosen skill check, they gain an additional bonus to the roll equal to your Intelligence modifier.
+When you use your Sage Advice feature, the first time each targeted creature makes the chosen skill check, they gain an additional bonus to the roll equal to your Inteligencia modifier.
 
 #### Perfect Maneuver
 *Prerequisite: 15th level*<br>
-When you roll a 1 on a superiority die, you can reroll the die and must use the new roll. 
+When you roll a 1 on a superiority die, you can reroll the die y must use the new roll. 
 
 #### Quick Analysis
 *Prerequisite: 9th level*<br>
-When you roll initiative and aren't surprised, you can use your reaction to use your Critical Analysis feature.
+When you roll initiative y aren't surprised, you can use your reaction to use your Critical Analysis feature.
 
 #### Reliable Sources
 *Prerequisite: 9th level*<br>
-When you make an Intelligence (Lore) or Intelligence (Nature) skill check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+When you make an Inteligencia (Historia) or Inteligencia (Naturaleza) skill check that lets you add el bonificador de competencia, you can treat a d20 roll of 9 or lower as a 10.
 
 #### Resuelto
 Cuando haces un tiro de salvamento para resistir los efectos del encanto y el miedo, puedes añadir tu modificador de Inteligencia al rollo.
@@ -3629,7 +3629,7 @@ Puedes gastar una muerte de superioridad para dar un discurso de aliento, pasar 
 En tu turno, puedes usar una acción y gastar un dado de superioridad para reforzar la resolución de uno de los aliados. Cuando lo hagas, elige un aliado que pueda verte u oírte a menos de 30 pies de ti. El aliado puede añadir tu modificador de inteligencia a cada tirada de daño que haga hasta el comienzo de tu próximo turno. 
 
 #### Overwhelming Presence
-Como acción, puedes hacer una comprobación de habilidades de Carisma (Persuasión) o Carisma (Intimidación) y gastar un dado de superioridad para intentar encantar o asustar a una criatura humanoide que puede verte o escucharte a menos de 60 pies. Suma el dado de superioridad a la tirada. El objetivo hace un chequeo de Sabiduría (Insight) disputado. Si el chequeo tiene éxito, el objetivo es encantado por ti si usas Persuasión, o asustado de ti si usas Intimidación, hasta el final de tu próximo turno.
+Como acción, puedes hacer una comprobación de habilidades de Carisma (Persuasión) o Carisma (Intimidación) y gastar un dado de superioridad para intentar encantar o asustar a una criatura humanoide que puede verte o escucharte a menos de 60 pies. Suma el dado de superioridad a la tirada. El objetivo hace un chequeo de Sabiduría (Perspicacia) disputado. Si el chequeo tiene éxito, el objetivo es encantado por ti si usas Persuasión, o asustado de ti si usas Intimidación, hasta el final de tu próximo turno.
 
 #### Self-Preservation
 Como reacción cuando haces un lanzamiento de ahorro contra un efecto, puedes ver que puedes gastar un dado de superioridad y sumar el resultado. Puedes usar esta maniobra <br> antes o <br> después de hacer el <br> tiro salvador,<br> pero antes de que cualquier <br> efecto del <br> tiro salvador <br> sea det-<br>erminado.
@@ -3801,7 +3801,7 @@ Puedes añadir tu modificador de Inteligencia a cualquier comprobación de habilid
 
 #### Studied Commander
 *Prerrequisito: Táctica de persecución* 
-Cuando haces un chequeo de Inteligencia (Lore) o Inteligencia (Tecnología) relacionado con batallas, tácticas o armamento, puedes gastar un dado de superioridad y añadirlo a la tirada.
+Cuando haces un chequeo de Inteligencia (Historia) o Inteligencia (Tecnología) relacionado con batallas, tácticas o armamento, puedes gastar un dado de superioridad y añadirlo a la tirada.
 
 #### Retiro Táctico
 *Prerrequisito: Táctica de persecución* 
@@ -3866,22 +3866,22 @@ Puedes hacer un explorador rápidamente siguiendo estas sugerencias. Primero, haz
 |	 1st|	+2	|	Swift Response, Ranger's Quarry 			| d4 |	 —	|	—	|	—	|
 |	 2nd|	+2	|	Fighting Style, Techcasting 				| d4 |	 4	|	 2	|	1st	|
 |	 3rd|	+2	|	Pathfinder, Scout Technique		    	    | d4 |	 5	|	 3	|	1st	|
-|	 4th|	+2	|	Ability Score Improvement					| d4 |	 6	|	 4	|	1st	|
+|	 4th|	+2	|	Mejora de Puntuación de Habilidad					| d4 |	 6	|	 4	|	1st	|
 |	 5th|	+3	|	Extra Attack								| d6 |	 7	|	 5	|	2nd	|
 |	 6th|	+3	|	Expertise           						| d6 |	 8	|	 6 	|	2nd	|
 |	 7th|	+3	|	Technique feature				    		| d6 |	 9	|	 7	|	2nd	|
-|	 8th|	+3	|	Ability Score Improvement               	| d6 |	10	|	 8	|	2nd	|
+|	 8th|	+3	|	Mejora de Puntuación de Habilidad               	| d6 |	10	|	 8	|	2nd	|
 |	 9th|	+4	|	—											| d8 |	11	|	 9	|	3rd	|
 |	10th|	+4	|	Commando        							| d8 |	12	|	10	|	3rd	|
 |	11th|	+4	|	Technique feature				    		| d8 |	13	|	11	|	3rd	|
-|	12th|	+4	|	Ability Score Improvement					| d8 |	14	|	12	|	3rd	|
+|	12th|	+4	|	Mejora de Puntuación de Habilidad					| d8 |	14	|	12	|	3rd	|
 |	13th|	+5	|	—											| d10|	15	|	13	|	4th	|
 |	14th|	+5	|	Combat Tech									| d10|	16	|	14	|	4th	|
 |	15th|	+5	|	Technique feature					    	| d10|	16	|	15	|	4th	|
-|	16th|	+5	|	Ability Score Improvement					| d10|	16	|	16	|	4th	|
+|	16th|	+5	|	Mejora de Puntuación de Habilidad					| d10|	16	|	16	|	4th	|
 |	17th|	+6	|	—											| d12|	17	|	17	|	5th	|
 |	18th|	+6	|	Supreme Awareness							| d12|	17	|	18	|	5th	|
-|	19th|	+6	|	Ability Score Improvement					| d12|	17	|	19	|	5th	|
+|	19th|	+6	|	Mejora de Puntuación de Habilidad					| d12|	17	|	19	|	5th	|
 |	20th|	+6	|	Foe Slayer									| d12|	18	|	20	|	5th	|
 
 </div>
@@ -3892,32 +3892,32 @@ Como explorador, obtienes las siguientes características de la clase.
 #### Hit Points
 ___
 - **Hit Dice:** 1d10 per scout level
-- **Hit Points at 1st Level:** 10 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per scout level after 1st
+- **Hit Points at 1st Level:** 10 + el modificador de Constitución 
+- **Hit Points at Higher Levels:** 1d10 (or 6) + el modificador de Constitución  per scout level after 1st
 
 #### Proficiency
 ___
-- **Armor:** Light armor, medium armor
+- **Armor:** Armadura ligera, armadura media
 - **Weapons:** All blasters, all vibroweapons
-- **Tools:** None
+- **Tools:** Ninguna
 ___
-- **Saving Throws:** Strength, Dexterity
-- **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Perception, Piloting, Stealth, Survival, and Technology
+- **Saving Throws:** Fuerza, Destreza
+- **Skills:** Elige tres de entre Trato de Animales, Atletismo, Perspicacia, Investigación, Percepción, Piloting, Stealth, Supervivencia, y Technology
 
 \columnbreak
 
 <div style='margin-top:54.5px'></div>
 
 #### Equipment
-You start with the following equipment, in addition to the equipment granted by your background.
-- *(a)* mesh armor or *(b)* combat suit, blaster carbine, and two power cells
-- *(a)* a simple vibroweapon and a light or medium physical shield or *(b)* two simple vibroweapons
-- *(a)* a hold-out and a power cell or *(b)* two vibrodaggers
+Comienza con el siguiente equipo, además del que te otorga el trasfondo.
+- *(a)* mesh armor or *(b)* combat suit, blaster carbine, y two power cells
+- *(a)* a simple vibroweapon y a light or medium physical shield or *(b)* two Vibroarmas sencillas
+- *(a)* a hold-out y a power cell or *(b)* two vibrodaggers
 - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
 - A wristpad
 
 #### Variant: Starting Wealth 
-In lieu of the equipment granted by your class and background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class and background, and instead roll for your starting wealth using the criteria below:
+In lieu of the equipment granted by your class y background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class y background, y instead roll for your starting wealth using the criteria below:
 
 |	Class		|	Funds		|						
 |	:--			|	--:			|
@@ -3995,7 +3995,7 @@ A partir del tercer nivel, eres hábil en la navegación por los bosques salvajes.
 ### Scout Technique 
 También en el 3er nivel, eliges enfocarte en una técnica específica de exploración, que se detalla al final de la descripción de la clase. Tu elección te otorga características en el 3er nivel y de nuevo en el 7º, 11º y 15º nivel.
 
-### Ability Score Improvement 
+### Mejora de Puntuación de Habilidad 
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Extra Attack
@@ -4296,22 +4296,22 @@ Puedes hacer un centinela rápidamente siguiendo estas sugerencias. Primero, haz 
 |	 1st	|	+2	|	Forcecasting, Kinetic Combat				| 	d4	|	 6	|	 3	|	 1st	|
 |	 2nd	|	+2	|	Force-Empowered Self, Sentinel Ideals		|	d4	| 	 7	|	 6	|	 1st	|
 |	 3rd	|	+2	|	Sentinel Calling		    				|	d4	|	 9	|	 9	|	 2nd	|
-|	 4th	|	+2	|	Ability Score Improvement					|	d4	|	10	|	12	|	 2nd	|
+|	 4th	|	+2	|	Mejora de Puntuación de Habilidad					|	d4	|	10	|	12	|	 2nd	|
 |	 5th	|	+3	|   Extra Attack								|	d6	|	11	|	15	|	 2nd	|
 |	 6th	|	+3	|	—											|	d6	|	13	|	18	|	 3rd	|
 |	 7th	|	+3	|	Calling feature   				    		|	d6	|	14	|	21	|	 3rd	|
-|	 8th	|	+3	|	Ability Score Improvement					|	d6	|	15	|	24	|	 3rd	|
+|	 8th	|	+3	|	Mejora de Puntuación de Habilidad					|	d6	|	15	|	24	|	 3rd	|
 |	 9th	|	+4	|	—   										|	d6	|	17	|	27	|	 4th	|
 |	10th	|	+4	|	Battle Readiness   							|	d6	|	18	|	30	|	 4th	|
 |	11th	|	+4	|	—											|	d8	|	20	|	33	|	 5th	|
-|	12th	|	+4	|	Ability Score Improvement					|	d8	|	21	|	36	|	 5th	|
+|	12th	|	+4	|	Mejora de Puntuación de Habilidad					|	d8	|	21	|	36	|	 5th	|
 |	13th	|	+5	|	Calling feature			    				|	d8	|	22	|	39	|	 5th	|
 |	14th	|	+5	|	—           								|	d8	|	24	|	42	|	 6th	|
 |	15th	|	+5	|	Enlightened Evasion							|	d8	|	25	|	45	|	 6th	|
-|	16th	|	+5	|	Ability Score Improvement					|	d8	|	26	|	48	|	 6th	|
+|	16th	|	+5	|	Mejora de Puntuación de Habilidad					|	d8	|	26	|	48	|	 6th	|
 |	17th	|	+6	|	—   										|  d10	|	28	|	51	|	 7th	|
 |	18th	|	+6	|	Calling feature	        					|  d10	|	29	|	54	|	 7th	|
-|	19th	|	+6	|	Ability Score Improvement					|  d10	|	30	|	57	|	 7th	|
+|	19th	|	+6	|	Mejora de Puntuación de Habilidad					|  d10	|	30	|	57	|	 7th	|
 |	20th	|	+6	|	Center of the Force                			|  d10	|	30	|	60	|	 7th	|
 
 </div>
@@ -4322,28 +4322,28 @@ Como centinela, obtienes las siguientes características de clase.
 #### Hit Points
 ___
 - **Hit Dice:** 1d8 per sentinel level
-- **Hit Points at 1st Level:** 8 + your Constitution modifier
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per sentinel level after 1st
+- **Hit Points at 1st Level:** 8 + el modificador de Constitución 
+- **Hit Points at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per sentinel level after 1st
 
 #### Proficiencies
 ___
-- **Armor:** Light armor
+- **Armor:** Armadura ligera
 - **Weapons:** Simple vibroweapons, simple lightweapons, chakram, doubleblade, doublesaber, doubleshoto, doublesword, hidden blade, lightfoil, light ring, saberwhip, vibrorapier, vibrowhip
 - **Tools:** Your choice of demolitions kit, security kit, or slicer's kit
 ___
-- **Saving Throws:** Dexterity, Charisma
-- **Skills:** Choose two from Acrobatics, Animal Handling, Insight, Intimidation, Perception, Persuasion, Piloting, Stealth, and Technology
+- **Saving Throws:** Destreza, Carisma
+- **Skills:** Elige dos de entre Acrobatics, Trato de Animales, Perspicacia, Intimidación, Percepción, Persuasión, Piloting, Stealth, y Technology
 
 \columnbreak
 
 <div style='margin-top:54.5px'></div>
 
 #### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+Comienza con el siguiente equipo, además del que te otorga el trasfondo:
 - *(a)* two simple lightweapons or vibroweapons or *(b)* one martial lightweapon or vibroweapon with which you are proficient
 - *(a)* a dungeoneer's pack or *(b)* an explorer's pack
 - *(a)* a demolitions kit, *(b)* a security kit, or *(c)* a slicer's kit
-- a combat suit and a light physical shield
+- a combat suit y a light physical shield
 
 #### Variante: Riqueza inicial 
 En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
@@ -4414,7 +4414,7 @@ Puedes manifestar tus ideales dos veces. Ganarás un uso adicional en el 11º nive
 ### Sentinel Calling
 Cuando llegas al 3er nivel, eliges una llamada de centinela, que se detalla al final de la descripción de la clase. Tu llamada te otorga características en el 3er nivel y otra vez en el 7º, 13º y 18º nivel.
 
-### Ability Score Improvement
+### Mejora de Puntuación de Habilidad
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Extra Attack
