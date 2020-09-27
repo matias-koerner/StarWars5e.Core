@@ -3224,7 +3224,7 @@ ___
 - **Puntos de Golpe a 1er Nivel:** 8 + el modificador de Constitución 
 - **Puntos de Golpe a Niveles Superiores:** 1d8 (or 5) + el modificador de Constitución por nivel de erudito superior a 1
 
-#### Proficiency
+#### Competencias
 ___
 - **Armadura:** Armadura ligera
 - **Armas:** Blasters sencillos, Vibroarmas sencillas, tecnocuchillas
@@ -3818,7 +3818,7 @@ Aprendes a mandar a tus aliados a la victoria desde lejos. Su rango de análisis 
 \pagebreakNum
 
 ## Explorador
-<span style="font-variant: small-caps">Mirada áspera y canosa, un humano acecha solo a través de las sombras de los árboles, cazando la cantera que sabe que está planeando una incursión en un asentamiento cercano. Agarrando una cuchilla técnica en cada mano, se convierte en un torbellino de acero, cortando un enemigo tras otro.
+<span style="font-variant: small-caps">Mirada áspera y canosa, un humano acecha solo a través de</span> las sombras de los árboles, cazando la cantera que sabe que está planeando una incursión en un asentamiento cercano. Agarrando una cuchilla técnica en cada mano, se convierte en un torbellino de acero, cortando un enemigo tras otro.
 
 Después de caerse de la metralla de la explosión de un misil, un bothan encuentra sus pies y dispara dos tiros de su carabina al tanque que se aproxima. Encogiéndose de hombros ante la ola de miedo que amenaza con impregnar todo su ser, dispara alrededor de su enemigo, disparando un tiro tras otro para intentar penetrar la gruesa armadura del tanque.
 
@@ -3828,14 +3828,14 @@ Los exploradores son los primeros en el camino y los últimos en perderlo, siguie
 
 <div style='margin-top:40px'></div>
 
-### Deadly Hunters
+### Cazadores Letales
 Guerreros por derecho propio, los exploradores se especializan en el seguimiento y la caza de los monstruos que amenazan a la civilización: asaltantes humanoides, bestias y monstruosas desbocadas, terribles blandidores de la Fuerza y droides renegados. Aprenden a rastrear a su presa como lo hace un depredador, moviéndose sigilosamente a través de cualquier terreno y escondiéndose entre la maleza y los escombros. Los exploradores centran su entrenamiento de combate en técnicas que son particularmente útiles contra sus enemigos favoritos.
 
 Los exploradores adquieren la habilidad de lanzar poderes tecnológicos a través de la utilización de una muñequera. Sus poderes, como sus habilidades de combate, enfatizan la velocidad, el sigilo y la caza. Los talentos y habilidades de un explorador se perfeccionan con el <br> enfoque mortal en la sombría tarea de proteger la <br> civilización.
 
 <div style='margin-top:40px'></div>
 
-### Independent Adventurers
+### Aventureros Independientes
 Aunque un explorador puede ganarse la vida como cazador de recompensas, guía o rastreador, su verdadera vocación es defender la civilización de los estragos de los monstruos y las hordas de humanoides que la oprimen. En algunos lugares, los exploradores se reúnen en órdenes secretas, aunque muchos de ellos son independientes casi hasta el límite, sabiendo que, cuando un rencor o una banda de piratas ataca, un explorador puede ser la primera y posiblemente la última línea de defensa. Esta feroz independencia hace que los exploradores sean muy adecuados para la aventura, ya que están acostumbrados a vivir lejos de las comodidades de una cama seca y un baño caliente. Enfrentados a los aventureros de la ciudad que se quejan de las dificultades de la naturaleza, los exploradores responden con una mezcla de diversión, frustración y compasión. Pero rápidamente aprenden que otros aventureros que pueden llevar su propio peso en la lucha contra los enemigos de la civilización valen cualquier carga extra. La gente mimada de la ciudad puede no saber cómo alimentarse o encontrar agua fresca en la naturaleza, pero lo compensan de otras maneras.
 
 \columnbreak
@@ -3844,7 +3844,7 @@ Aunque un explorador puede ganarse la vida como cazador de recompensas, guía o r
 
 <img src='https://www.gmbinder.com/images/8Nj1Jxq.png' style='position:absolute;top:22px;right:10px;width:386px;z-index:1000' />
 
-### Creating a Scout
+### Creando un Explorador
 Al crear tu personaje de explorador, considera la naturaleza del entrenamiento que te dio tus capacidades particulares. ¿Entrenaste con un solo mentor, siguiendo juntos hasta dominar los caminos del explorador? ¿Dejaste tu aprendizaje, o tu mentor fue asesinado, tal vez por algún tipo de monstruosidad bestial de la que has jurado venganza? O tal vez aprendiste tus habilidades como parte de una banda de mercenarios. 
 
 ¿Cuál es la fuente de su odio particular hacia cierto tipo de enemigo? ¿Un monstruo mató a alguien que amaba o destruyó su pueblo natal? ¿O vio demasiada destrucción de estos monstruos y se comprometió a controlar sus depredaciones? ¿Es su carrera aventurera una continuación de su trabajo, o un cambio significativo?
@@ -3861,28 +3861,28 @@ Puedes hacer un explorador rápidamente siguiendo estas sugerencias. Primero, haz
 <div class='classTable wide'>
 
 ###### The Scout
-|Nivel|Proficiencia<br> Bonos|Cartera	 de los Rangers<br> Daños a la Muerte |Poderes Técnicos<br>    Conocidos<br> Puntos|Poder	 Máximo<br>	 Nivel|
+|	Nivel	|	Bonificación<br> de Competencia	|	Rasgos	|	Dados de<br> Daño |   Poderes Tecnologicos<br> Conocidos	|	Puntos<br> Tecnologicos	| Nivel de Poder<br> Máximo|
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|
-|	 1st|	+2	|	Swift Response, Ranger's Quarry 			| d4 |	 —	|	—	|	—	|
-|	 2nd|	+2	|	Fighting Style, Techcasting 				| d4 |	 4	|	 2	|	1st	|
-|	 3rd|	+2	|	Pathfinder, Scout Technique		    	    | d4 |	 5	|	 3	|	1st	|
-|	 4th|	+2	|	Mejora de Puntuación de Característica					| d4 |	 6	|	 4	|	1st	|
-|	 5th|	+3	|	Extra Attack								| d6 |	 7	|	 5	|	2nd	|
-|	 6th|	+3	|	Expertise           						| d6 |	 8	|	 6 	|	2nd	|
-|	 7th|	+3	|	Technique feature				    		| d6 |	 9	|	 7	|	2nd	|
-|	 8th|	+3	|	Mejora de Puntuación de Característica               	| d6 |	10	|	 8	|	2nd	|
-|	 9th|	+4	|	—											| d8 |	11	|	 9	|	3rd	|
-|	10th|	+4	|	Commando        							| d8 |	12	|	10	|	3rd	|
-|	11th|	+4	|	Technique feature				    		| d8 |	13	|	11	|	3rd	|
-|	12th|	+4	|	Mejora de Puntuación de Característica					| d8 |	14	|	12	|	3rd	|
-|	13th|	+5	|	—											| d10|	15	|	13	|	4	|
-|	14th|	+5	|	Combat Tech									| d10|	16	|	14	|	4	|
-|	15th|	+5	|	Technique feature					    	| d10|	16	|	15	|	4	|
-|	16th|	+5	|	Mejora de Puntuación de Característica					| d10|	16	|	16	|	4	|
-|	17th|	+6	|	—											| d12|	17	|	17	|	5	|
-|	18th|	+6	|	Supreme Awareness							| d12|	17	|	18	|	5	|
-|	19th|	+6	|	Mejora de Puntuación de Característica					| d12|	17	|	19	|	5	|
-|	20th|	+6	|	Foe Slayer									| d12|	18	|	20	|	5	|
+|	 1|	+2	|	Respuesta Rápida, Presa del Explorador		| d4 |	 —	|	—	|	—	|
+|	 2|	+2	|	Estilo de Combate, Invocación Tecnologica	| d4 |	 4	|	 2	|	1	|
+|	 3|	+2	|	Orientación, Tecnica de Exploración    	    | d4 |	 5	|	 3	|	1	|
+|	 4|	+2	|	Mejora de Puntuación de Característica		| d4 |	 6	|	 4	|	1	|
+|	 5|	+3	|	Ataque Extra								| d6 |	 7	|	 5	|	2	|
+|	 6|	+3	|	Especialidad           						| d6 |	 8	|	 6 	|	2	|
+|	 7|	+3	|	Rasgo de Técnica				    		| d6 |	 9	|	 7	|	2	|
+|	 8|	+3	|	Mejora de Puntuación de Característica     	| d6 |	10	|	 8	|	2	|
+|	 9|	+4	|	—											| d8 |	11	|	 9	|	3	|
+|	10|	+4	|	Comando        								| d8 |	12	|	10	|	3	|
+|	11|	+4	|	Rasgo de Técnica				    		| d8 |	13	|	11	|	3	|
+|	12|	+4	|	Mejora de Puntuación de Característica		| d8 |	14	|	12	|	3	|
+|	13|	+5	|	—											| d10|	15	|	13	|	4	|
+|	14|	+5	|	Tecnologia de Combate						| d10|	16	|	14	|	4	|
+|	15|	+5	|	Rasgo de Técnica					    	| d10|	16	|	15	|	4	|
+|	16|	+5	|	Mejora de Puntuación de Característica		| d10|	16	|	16	|	4	|
+|	17|	+6	|	—											| d12|	17	|	17	|	5	|
+|	18|	+6	|	Sentidos Salvajes							| d12|	17	|	18	|	5	|
+|	19|	+6	|	Mejora de Puntuación de Característica		| d12|	17	|	19	|	5	|
+|	20|	+6	|	Asesino de Enemigos							| d12|	18	|	20	|	5	|
 
 </div>
 
@@ -3891,49 +3891,49 @@ Como explorador, obtienes las siguientes características de la clase.
 
 #### Puntos de Golpe
 ___
-- **Dados de Golpe:** 1d10 per scout level
-- **Puntos de Golpe at 1st Nivel:** 10 + el modificador de Constitución 
-- **Puntos de Golpe at Higher Levels:** 1d10 (or 6) + el modificador de Constitución  per scout level after 1st
+- **Dados de Golpe:** 1d10 por nivel de explorador
+- **Puntos de Golpe a 1er nivel:** 10 + el modificador de Constitución 
+- **Puntos de Golpe a niveles superiores:** 1d10 (or 6) + el modificador de Constitución  por nivel de explorador superior a 1
 
 #### Proficiency
 ___
 - **Armadura:** Armadura ligera, armadura media
-- **Armas:** All blasters, all vibroweapons
+- **Armas:** Todos los blasters, todas las vibroarmas
 - **Herramientas:** Ninguna
 ___
 - **Tiradas de Salvación:** Fuerza, Destreza
-- **Habilidades:** Elige tres de entre Trato de Animales, Atletismo, Perspicacia, Investigación, Percepción, Piloting, Stealth, Supervivencia, y Technology
+- **Habilidades:** Elige tres de entre Trato de Animales, Atletismo, Perspicacia, Investigación, Percepción, Pilotaje, Stealth, Supervivencia, y Tecnologia
 
 \columnbreak
 
 <div style='margin-top:54.5px'></div>
 
-#### Equipment
+#### Equipo
 Comienza con el siguiente equipo, además del que te otorga el trasfondo.
-- *(a)* mesh armor or *(b)* combat suit, blaster carbine, y two power cells
-- *(a)* a simple vibroweapon y a light or medium physical shield or *(b)* two Vibroarmas sencillas
-- *(a)* a hold-out y a power cell or *(b)* two vibrodaggers
-- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
-- A wristpad
+- *(a)* armadura de malla o *(b)* traje de combate, carabina blaster, y dos celulas de energia
+- *(a)* una vibroarma simple y un escudo físico ligero o mediano o *(b)* dos vibroarmas sencillas
+- *(a)* una pistola camuflada y una celula de energia o *(b)* dos vibrodagas
+- *(a)* un equipo de saqueador o *(b)* un equipo de explorador
+- Un pad de muñequera
 
-#### Variant: Starting Wealth 
-In lieu of the equipment granted by your class y background, you can elect to purchase your starting gear. If you do so, you receive no equipment from your class y background, y instead roll for your starting wealth using the criteria below:
+#### Variante: Riqueza inicial 
+n lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
-|	Class		|	Funds		|						
+|	Clase		|	Fondos		|						
 |	:--			|	--:			|
-|	Scout		|	1,000 + 5d4 x 100 cr|
+|	Explorador	|	1,000 + 5d4 x 100 cr|
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Swift Response
+### Respuesta Rápida
 A partir del primer nivel, se aprende a reaccionar con una acción rápida y decisiva en el combate. Obtienes los siguientes beneficios: 
 - Ignoras el terreno difícil.
 - Añades el bonificador de competencia a los rollos de iniciativa.
 - En tu primer turno durante el combate, tienes ventaja en las tiradas de ataque contra las criaturas que aún no han actuado.
 
-### Ranger's Quarry
+### Presa del Explorador
 También en el primer nivel, se aprende a leer y rastrear efectivamente a su presa. En tu turno, puedes elegir una criatura que puedas ver en un radio de 90 pies y marcarla como tu presa (no se requiere acción). Durante los siguientes 10 minutos, obtendrás los siguientes beneficios:
 - Una vez por ronda, cuando golpeas el objetivo con un ataque de arma, puedes infligirle 1d4 de daño adicional del mismo tipo que el daño del arma. Este dado cambia a medida que ganas niveles de explorador, como se muestra en la columna de Dados de Daño de Cantera de los Rangers de la tabla de clases de exploradores.
 - Tienes ventaja en cualquier chequeo de Sabiduría (Percepción) o Sabiduría (Supervivencia) que hagas para encontrarlo mientras esté en el mismo planeta que tú.
@@ -3942,48 +3942,48 @@ Puede utilizar esta característica un número de veces igual al de su modificador
 
 A partir del 9º nivel, puede utilizar dos veces esta función para extender la duración a 8 horas. A partir del 17º nivel, puede gastar tres usos para extender la duración a 24 horas.
 
-### Fighting Style
+### Estilo de Combate
 A partir del 2º nivel, adoptas un estilo particular de lucha como tu especialidad. Elige una de las opciones de estilo de lucha, detalladas en el capítulo 6. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
 
-### Techcasting
+### Invocacion Tecnologica
 También en el 2º nivel, has obtenido poderes de los esquemas con la ayuda de tu muñequera. Ver capítulo 10 para las reglas generales de la transmisión técnica y el capítulo 12 para la lista de poderes técnicos.
 
 #### Poderes tecnológicos conocidos
 Aprendes 4 poderes tecnológicos de tu elección, y aprendes más en los niveles superiores, como se muestra en la columna de Poderes Tecnológicos Conocidos de la tabla de la clase de exploradores. No puedes aprender un poder técnico de un nivel más alto que tu Nivel de Poder Máximo.
 
-#### Tech Points
+#### Puntos Tecnologicos
 Tienes un número de puntos técnicos igual a tu nivel de explorador, como se muestra en la columna de puntos técnicos de la tabla de clases de exploradores, + tu modificador de inteligencia. Usas estos puntos técnicos para lanzar poderes técnicos. Recuperas todos los puntos técnicos gastados cuando terminas un descanso corto o largo.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-#### Max Power Nivel
+#### Nivel de Poder Máximo
 Muchos poderes tecnológicos pueden ser sobrecargados, consumiendo más puntos tecnológicos para crear un mayor efecto. Puedes sobrecargar estos poderes a un nivel máximo, que aumenta en los niveles más altos, como se muestra en la columna de Nivel de Poder Máximo de la tabla de clases de exploradores.
 
 Sólo puedes lanzar poderes tecnológicos en el 4º y 5º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
-#### Techcasting Ability
+#### Habilidad de Tecnoinvocacion
 La inteligencia es su capacidad de emisión de tecnología para sus poderes tecnológicos. Utilizas tu inteligencia siempre que un poder se refiere a tu capacidad de tecnicismos. Además, usas tu modificador de inteligencia cuando estableces el tiro de salvamento DC para un poder tecnológico que lanzas y cuando haces una tirada de ataque con uno.
 
 ___
 
 <div align="center">
 
-**Tech save DC** = 8 + el bonificador de competencia + tu modificador de Inteligencia
+**CD salvacion Tecnologica** = 8 + el bonificador de competencia + tu modificador de Inteligencia
 
 ___
 
-**Modificador de ataque técnico** = el bonificador de competencia + tu modificador de inteligencia
+**Modificador de ataque tecnologico** = el bonificador de competencia + tu modificador de inteligencia
 
 </div>
 
 ___
 
-#### Techcasting Focus
+#### Foco de Tecnoinvocacion
 Usas una muñequera (que se encuentra en el capítulo 5) como un foco de difusión técnica para tus poderes tecnológicos.
 
-### Pathfinder
+### Orientación
 A partir del tercer nivel, eres hábil en la navegación por los bosques salvajes. Obtienes los siguientes beneficios cuando viajas por una hora o más:
 - El terreno difícil no ralentiza el viaje de su grupo.
 - No puedes perderte por medios no mejorados.
@@ -3992,20 +3992,20 @@ A partir del tercer nivel, eres hábil en la navegación por los bosques salvajes.
 - Cuando buscas comida, encuentras el doble de comida de lo que normalmente encontrarías.
 - Cuando haces un cheque de Sabiduría (Supervivencia), obtienes una bonificación al cheque igual a tu modificador de Inteligencia.
 
-### Scout Technique 
+### Técnica de Exploración
 También en el 3er nivel, eliges enfocarte en una técnica específica de exploración, que se detalla al final de la descripción de la clase. Tu elección te otorga características en el 3er nivel y de nuevo en el 7º, 11º y 15º nivel.
 
 ### Mejora de Puntuación de Característica 
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
-### Extra Attack
+### Ataque Extra
 A partir del 5º nivel, puedes atacar dos veces, en vez de una, siempre que tomes la acción de Ataque en tu turno.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Expertise
+### Especialidad
 En el 6º nivel, elige dos de tus habilidades, o una de las habilidades y una de tus herramientas, o dos de tus herramientas. Ganarás experiencia en esas habilidades o herramientas.
 
 En el nivel 14, puedes elegir otras dos competencias (en habilidades o herramientas) para obtener este beneficio.
@@ -4021,20 +4021,20 @@ Además, ya no puede ser rastreado por medios no mejorados, a menos que elija dej
 
 \columnbreak
 
-### Combat Tech
+### Tecnologia de Combate
 En el nivel 14, cuando usas tu acción para lanzar un poder tecnológico, puedes hacer un ataque con un arma como acción extra.
 
-### Supreme Awareness 
+### Sentidos Salvajes
 En el nivel 18, obtienes sentidos preternaturales que te ayudan a luchar contra criaturas que no puedes ver. Cuando atacas a una criatura que no puedes ver, tu incapacidad para verla no impone una desventaja en tus tiradas de ataque contra ella. 
 
 También eres consciente de la ubicación de cualquier criatura invisible a menos de 30 pies de ti, siempre y cuando la criatura no esté escondida de ti y no estés ciego o sordo.
 
-### Foe Slayer 
+### Asesino de Enemigos
 En el nivel 20, te conviertes en un cazador sin igual. Tu puntaje de Fuerza o Destreza aumenta en 2, y tu puntaje de Inteligencia aumenta en 2. Tu máximo para esos puntajes aumenta en 2.
 
 Además, una vez en cada uno de tus turnos, puedes añadir tu modificador de Inteligencia a la tirada de ataque o a la tirada de daño de un ataque que hagas. Puedes elegir usar esta característica antes o después de la tirada, pero antes de que se apliquen los efectos de la misma.
 
-## Técnicas de exploración
+## Técnicas de Exploración
 Los exploradores tienden a compartir el conocimiento entre ellos, enfocándose en técnicas específicas y perfeccionándolas. Los scouts que adoptan la misma técnica tienden a compartir una camaradería con los demás.
 
 <img src='https://www.gmbinder.com/images/s3Jkq04.png' style='position:absolute;bottom:0px;left:0px;width:840px;z-index:1000;' />
