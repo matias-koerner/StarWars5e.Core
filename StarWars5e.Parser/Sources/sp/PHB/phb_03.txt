@@ -4264,12 +4264,12 @@ Los centinelas son los maestros de la mezcla de poderes de fuerza con los ataque
 
 <div style='margin-top:212px'></div>
 
-### The Middle of the Road
+### Entre Dos Caminos
 El centinela utiliza el sigilo y el subterfugio para cumplir la voluntad de la Fuerza. Donde el consular se centra en el dominio de la Fuerza y el guardián se centra en el dominio del sable láser, el centinela se centra en la fusión de ambos. 
 
 <div style='margin-top:212px'></div>
 
-### Solitary Action
+### Acción en Solitario
 Los centinelas son notoriamente independientes, se sienten más cómodos actuando solos y sin apoyo; donde algunos usan un equipo para compensar sus debilidades, el centinela usa la Fuerza para superar las suyas. Mientras que algunos llevan esta racha de independencia al extremo, normalmente aceptan la autoridad, siempre y cuando se les permita llevar a cabo las instrucciones utilizando sus métodos preferidos.
 
 \columnbreak
@@ -4278,7 +4278,7 @@ Los centinelas son notoriamente independientes, se sienten más cómodos actuando 
 
 <img src='https://www.gmbinder.com/images/p6mjesQ.png' style='position:absolute;top:21px;right:-170px;width:758px;z-index:1000' />
 
-### Creating a Sentinel
+### Creando un Centinela
 Al crear su centinela, considere su filosofía personal con respecto a la Fuerza y sus practicantes más famosos - los Jedi y los Sith. ¿Eres miembro de una de las dos órdenes, o caminas por un camino diferente? ¿Eres un operativo que se aprovecha de una sensibilidad latente de la Fuerza? ¿Fuiste entrenado en la Fuerza desde joven, o la descubriste de adulto? ¿Cómo tratas a los más débiles que tú? ¿Cómo era tu familia? ¿Ves la Fuerza como algo claro y oscuro, o como un río imparcial de color gris?
 
 #### Creación Rápida
@@ -4291,28 +4291,28 @@ Puedes hacer un centinela rápidamente siguiendo estas sugerencias. Primero, haz 
 <div class='classTable wide'>
 
 ##### The Sentinel
-|	Nivel	|	Proficiency<br> Bonus	|	Features	|	Kinetic Combat<br> Damage Die	|	Force Powers<br> Known	|Force<br> Points  | Max Power<br> Nivel|
+|	Nivel	|	Bonificación<br> de Competencia	|	Rasgos	|	Dado de Daño<br> Cinetico	|	Podered de La Fuerza<br> Conocidos	|Puntos de <br> La Fuerza  | Nivel de Poder<br> Máximo|
 |	:--:	|	:--:	|	:--    |	:--: |	:--:	|	:--:	|	:--:	|
-|	 1st	|	+2	|	Forcecasting, Kinetic Combat				| 	d4	|	 6	|	 3	|	 1st	|
-|	 2nd	|	+2	|	Force-Empowered Self, Sentinel Ideals		|	d4	| 	 7	|	 6	|	 1st	|
-|	 3rd	|	+2	|	Sentinel Calling		    				|	d4	|	 9	|	 9	|	 2nd	|
-|	 4	|	+2	|	Mejora de Puntuación de Característica					|	d4	|	10	|	12	|	 2nd	|
-|	 5	|	+3	|   Extra Attack								|	d6	|	11	|	15	|	 2nd	|
-|	 6	|	+3	|	—											|	d6	|	13	|	18	|	 3rd	|
-|	 7	|	+3	|	Calling feature   				    		|	d6	|	14	|	21	|	 3rd	|
-|	 8	|	+3	|	Mejora de Puntuación de Característica					|	d6	|	15	|	24	|	 3rd	|
+|	 1	|	+2	|	Invocación de La Fuerza, Combate Cinetico	| 	d4	|	 6	|	 3	|	 1	|
+|	 2	|	+2	|	Empoderamiento con La Fuerza, Ideal Centinela|	d4	| 	 7	|	 6	|	 1	|
+|	 3	|	+2	|	Llamada del Centinela	    				|	d4	|	 9	|	 9	|	 2	|
+|	 4	|	+2	|	Mejora de Puntuación de Característica		|	d4	|	10	|	12	|	 2	|
+|	 5	|	+3	|   Ataque Extra								|	d6	|	11	|	15	|	 2	|
+|	 6	|	+3	|	—											|	d6	|	13	|	18	|	 3	|
+|	 7	|	+3	|	Rasgo de Llamada   				    		|	d6	|	14	|	21	|	 3	|
+|	 8	|	+3	|	Mejora de Puntuación de Característica		|	d6	|	15	|	24	|	 3	|
 |	 9	|	+4	|	—   										|	d6	|	17	|	27	|	 4	|
-|	10	|	+4	|	Battle Readiness   							|	d6	|	18	|	30	|	 4	|
+|	10	|	+4	|	Preparación de Batalla						|	d6	|	18	|	30	|	 4	|
 |	11	|	+4	|	—											|	d8	|	20	|	33	|	 5	|
-|	12	|	+4	|	Mejora de Puntuación de Característica					|	d8	|	21	|	36	|	 5	|
-|	13	|	+5	|	Calling feature			    				|	d8	|	22	|	39	|	 5	|
+|	12	|	+4	|	Mejora de Puntuación de Característica		|	d8	|	21	|	36	|	 5	|
+|	13	|	+5	|	Rasgo de Llamada		    				|	d8	|	22	|	39	|	 5	|
 |	14	|	+5	|	—           								|	d8	|	24	|	42	|	 6	|
-|	15	|	+5	|	Enlightened Evasion							|	d8	|	25	|	45	|	 6	|
-|	16	|	+5	|	Mejora de Puntuación de Característica					|	d8	|	26	|	48	|	 6	|
+|	15	|	+5	|	Evasión Ilustrada							|	d8	|	25	|	45	|	 6	|
+|	16	|	+5	|	Mejora de Puntuación de Característica		|	d8	|	26	|	48	|	 6	|
 |	17	|	+6	|	—   										|  d10	|	28	|	51	|	 7	|
-|	18	|	+6	|	Calling feature	        					|  d10	|	29	|	54	|	 7	|
-|	19	|	+6	|	Mejora de Puntuación de Característica					|  d10	|	30	|	57	|	 7	|
-|	20	|	+6	|	Center of the Force                			|  d10	|	30	|	60	|	 7	|
+|	18	|	+6	|	Rasgo de Llamada        					|  d10	|	29	|	54	|	 7	|
+|	19	|	+6	|	Mejora de Puntuación de Característica		|  d10	|	30	|	57	|	 7	|
+|	20	|	+6	|	En el Centro de La Fuerza                			|  d10	|	30	|	60	|	 7	|
 
 </div>
 
@@ -4321,18 +4321,18 @@ Como centinela, obtienes las siguientes características de clase.
 
 #### Puntos de Golpe
 ___
-- **Dados de Golpe:** 1d8 per sentinel level
-- **Puntos de Golpe at 1st Nivel:** 8 + el modificador de Constitución 
-- **Puntos de Golpe at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per sentinel level after 1st
+- **Dados de Golpe:** 1d8 por nivel de centinela
+- **Puntos de Golpe a nivel 1:** 8 + el modificador de Constitución 
+- **Puntos de Golpe a niveles superiores:** 1d8 (or 5) + el modificador de Constitución  por nivel de centinela superior a 1
 
-#### Proficiencies
+#### Competencias
 ___
 - **Armadura:** Armadura ligera
-- **Armas:** Simple vibroweapons, simple lightweapons, chakram, doubleblade, doublesaber, doubleshoto, doublesword, hidden blade, lightfoil, light ring, saberwhip, vibrorapier, vibrowhip
-- **Herramientas:** Your choice of demolitions kit, security kit, or slicer's kit
+- **Armas:** Vibroarmas sencillas, armas de luz sencillas, chakram, cuchilla doble, sable doble, shoto doble, espada doble, cuchilla oculta, espadín de luz, anillo de luz, sable látigo, vibroestoque, vibrolatigo
+- **Herramientas:** a elegir ente kit de demoliciones, kit de seguridad, o kit de hacker
 ___
 - **Tiradas de Salvación:** Destreza, Carisma
-- **Habilidades:** Elige dos de entre Acrobatics, Trato de Animales, Perspicacia, Intimidación, Percepción, Persuasión, Piloting, Stealth, y Technology
+- **Habilidades:** Elige dos de entre Acrobacia, Trato de Animales, Perspicacia, Intimidación, Percepción, Persuasión, Pilotaje, Sigilo, y Tecnologia
 
 \columnbreak
 
@@ -4340,32 +4340,32 @@ ___
 
 #### Equipment
 Comienza con el siguiente equipo, además del que te otorga el trasfondo:
-- *(a)* two simple lightweapons or vibroweapons or *(b)* one martial lightweapon or vibroweapon with which you are proficient
-- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
-- *(a)* a demolitions kit, *(b)* a security kit, or *(c)* a slicer's kit
-- a combat suit y a light physical shield
+- *(a)* dos armas de luz o vibroarmas simples o *(b)* una arma marcial de luz o vibroarma en la que seas competente
+- *(a)* un equipo de saqueador *(b)* un equipo de explorador
+- *(a)* un kit de demoliciones, *(b)* un kit de seguridad, o *(c)* un kit de hacker
+- un traje de combate y un escudo físico ligero
 
 #### Variante: Riqueza inicial 
 En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
-|	Class			|	Funds		|						
+|	Clase			|	Fondos		|						
 |	:--				|	--:			|
-|	Sentinel    	|	 1,000 + 3d4 x 100 cr|
+|	Centinela    	|	 1,000 + 3d4 x 100 cr|
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Forcasting
+### Invocación de La Fuerza
 En tus meditaciones sobre la fuerza, has aprendido poderes, fragmentos de conocimiento que te confieren una capacidad de fuerza duradera. Ver capítulo 10 para las reglas generales de previsión y el capítulo 11 para la lista de poderes de la fuerza.
 
-#### Force Powers Known
+#### Poderes de La Fuerza Conocidos
 Aprendes 6 poderes de fuerza de tu elección, y aprendes más en los niveles superiores, como se muestra en la columna Poderes de Fuerza Conocidos de la tabla de clase de los centinelas. No puedes aprender un poder de fuerza de un nivel más alto que tu Nivel de Máximo Poder, y puedes aprender un poder de fuerza al mismo tiempo que aprendes su prerrequisito.
 
-#### Force Points
+#### Puntos de La Fuerza
 Tienes un número de puntos de fuerza igual a tu nivel de centinela x 3, como se muestra en la columna de puntos de fuerza de la tabla de clases de centinela, + tu modificador de Sabiduría o Carisma (a tu elección). Utilizas estos puntos de fuerza para lanzar poderes de fuerza. Recuperas todos los puntos de fuerza gastados cuando terminas un largo descanso.
 
-#### Max Power Nivel
+#### Nivel de Poder Máximo
 Muchos poderes de fuerza pueden ser superados, consumiendo más puntos de fuerza para crear un mayor efecto. Puedes dominar estas habilidades hasta un nivel máximo, que aumenta en los niveles más altos, como se muestra en la columna de Nivel de Poder Máximo de la tabla de clases de los centinelas.
 
 Sólo puedes lanzar poderes de fuerza en el 5º, 6º y 7º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
@@ -4377,65 +4377,65 @@ ___
 
 <div align="center">
 
-**Force save DC** = 8 + el bonificador de competencia + <br>tu modificador de habilidad de previsión
+**CD Salvación de La Fuerza** = 8 + el bonificador de competencia + <br>tu modificador de habilidad de invocación de La Fuerza
 
 ___
 
-**Modificador de ataque forzado** = el bonificador de competencia + <br> el modificador de habilidad de previsión
+**Modificador de ataque forzado** = el bonificador de competencia + <br> el modificador de habilidad de invocación de La Fuerza
 
 </div>
 
 ___
 
-### Kinetic Combat
+### Combate Cinético
 En el primer nivel, eres una implacable ráfaga de golpes. Cuando tomas la acción de Ataque en tu turno, puedes hacer un ataque sin armas o un ataque con armas de combate cuerpo a cuerpo como una acción extra. Este ataque utiliza tu dado de Combate Cinético en lugar del dado de daño del arma. Este dado cambia a medida que ganas niveles de centinela, como se muestra en la columna de Combate Cinético de la tabla de clases de centinela. 
 
 Además, cuando haces este ataque de acción extra, tu velocidad de movimiento aumenta en 3 metros hasta el final de tu turno. 
 
 \columnbreak
 
-### Force-Empowered Self
+### Empoderamiento con La Fuerza
 A partir del 2º nivel, tu entrenamiento te permite aprovechar la energía mística de la Fuerza en todo tu cuerpo. Cuando golpeas un objetivo con tu ataque de Combate Cinético, puedes gastar 1 punto de fuerza para usar un efecto de Auto-impulso de la Fuerza. Comienzas con tres de estos efectos: Desviación, Doble Golpe y Tiempo Lento. Sólo puedes usar un efecto por turno.
 
-#### Deflection
+#### Desviación
 Puedes tirar un dado de Combate Cinético y añadirlo a tu AC contra un ataque antes del comienzo de tu próximo turno.
 
-#### Double Strike
+#### Doble Golpe
 Puedes lanzar un dado de Combate Cinético e infligir un daño adicional igual a la cantidad lanzada.
 
-#### Slow Time
+#### A Tiempo Lento
 Puedes tirar un dado de Combate Cinético para aumentar tu velocidad en 5 veces la cantidad tirada hasta el final de tu turno.
 
-### Sentinel Ideals
+### Ideales Centinela
 También en el 2º nivel, adoptas un ideal que ejemplifica tu vínculo con la Fuerza. Adoptas un ideal de tu elección, como se detalla al final de la descripción de la clase. Adoptas un ideal adicional en el 6º y 11º nivel. Cuando manifiestan sus ideales de centinela, eligen qué efecto crear.
 
 Puedes manifestar tus ideales dos veces. Ganarás un uso adicional en el 11º nivel. Recuperas todos los usos gastados cuando terminas un largo descanso.
 
-### Sentinel Calling
+### Llamada del Centinela
 Cuando llegas al 3er nivel, eliges una llamada de centinela, que se detalla al final de la descripción de la clase. Tu llamada te otorga características en el 3er nivel y otra vez en el 7º, 13º y 18º nivel.
 
 ### Mejora de Puntuación de Característica
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
-### Extra Attack
+### Ataque Extra
 A partir del 5º nivel, puedes atacar dos veces, en vez de una, siempre que tomes la acción de Ataque en tu turno.
 
-### Battle Readiness 
+### Preparación de Batalla 
 A partir del décimo nivel, has aprendido a fundir tu yo físico con la Fuerza. Cuando haces las acciones de Esquivar o Desenganchar, o usas tu acción para lanzar un poder de fuerza, puedes usar tu característica de Combate Cinético.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Enlightened Evasion
+### Evasión Ilustrada
 Cuando alcances el nivel 15, cuando estés sujeto a un efecto de daño que te obligue a hacer un tiro de salvamento, puedes gastar 2 puntos de fuerza para añadir tu modificador de Sabiduría o Carisma (a tu elección, mínimo uno) al tiro de salvamento si no incluye ya ese modificador. Si lo haces, no recibirás ningún daño si tienes éxito en el tiro salvador, y sólo la mitad del daño si fallas. Puedes esperar hasta después de tirar el d20 para usar esta característica, pero debes decidir antes de que el GM diga si la tirada tiene éxito o falla.
 
-### Center of the Force
+### En el Centro de La Fuerza
 En el nivel 20, estás perfectamente centrado con la Fuerza. Tus puntuaciones de Destreza y Sabiduría o Carisma (a tu elección) aumentan en 2. Tu máximo para esas puntuaciones aumenta en 2.
 
 Además, una vez por turno, cuando tiras un dado de Combate Cinético, puedes elegir el máximo.
 
-### Sentinel Ideals
+### Ideales Centinela
 Los ideales se presentan en orden alfabético. No puedes beneficiarte de una opción de Ideal Centinela más de una vez, aunque luego puedas elegir de nuevo.
 
 #### Ideal de los Ágiles
@@ -4448,7 +4448,7 @@ Elija una de sus habilidades o destrezas de herramientas. Cuando hagas una compr
 
 Además, como acción, puedes manifestar este ideal en una breve oleada de energía. Durante los próximos 10 minutos, la bonificación aumenta con el modificador de Sabiduría o Carisma, y puedes elegir una segunda habilidad o herramienta para ampliar esta característica.
 
-#### Ideal del contendiente
+#### Ideal del Contendiente
 Puedes usar la Destreza en lugar de la Fuerza para las tiradas de ataque y de daño de tus ataques desarmados, y tus ataques desarmados infligen un daño igual al de tu dado de Combate Cinético.
 
 Además, como acción extra, puedes manifestar este ideal en una breve oleada de energía. Durante el siguiente minuto, tus golpes desarmados cuentan como mejorados con el propósito de superar la resistencia e inmunidad a los ataques y daños no mejorados, y puedes usar tu modificador de Sabiduría o Carisma (a tu elección) en lugar de Fuerza para los chequeos realizados para agarrar un objetivo o escapar de un agarre.
@@ -4482,35 +4482,35 @@ Cuando tiras un dado de impacto para recuperar los puntos de impacto, puedes usa
 
 Además, como acción, puedes manifestar este ideal en una breve oleada de energía. Ganarás un número de puntos de golpe temporal igual a la mitad de tu nivel de centinela (redondeado hacia abajo) + tu modificador de Sabiduría o Carisma (a tu elección, mínimo uno).
 
-## Sentinel Callings
+## Llamadas del Centinela
 Diferentes centinelas seleccionan diferentes llamados, llamados caminos, para seguir mientras afinan sus poderes.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-## Path of Aggression
+## Camino de la Agresión
 Desde las oscuras profundidades del lado oscuro viene una furia furiosa. Los centinelas que siguen el Sendero de la Agresión cargan su arma con rayos, culminando en una descarga masiva que puede arrasar a sus oponentes.
 
-### Voltaic Slash
+### Corte Voltaico
 A partir de la elección de esta llamada en el 3er nivel, se aprende el poder de la fuerza de *carga de relámpago*, que no cuenta para el total de tus poderes conocidos. Además, puedes usar la Sabiduría o el Carisma como tu habilidad de previsión para ello, y puedes usar tu característica de Combate Cinético cuando lo lances como tu acción. Por último, cuando infliges daño por relámpago con el poder de fuerza de *carga de relámpago*, infliges un daño adicional por relámpago igual a la mitad de tu modificador de Sabiduría o Carisma (a tu elección, mínimo uno) si no incluye ya ese modificador.
 
-### Thunderous Momentum
+### Impetu Estruendoso
 También en el tercer nivel, tu zancada se vuelve casi irrompible. Eres inmune a la condición de choque, y otros efectos que reducirían tu velocidad sólo la reducen en 1,5 metros.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Entropic Rush
+### Fiebre Entropica
 En el 7º nivel, has aprendido a moverte con velocidad y precisión, descargando tu rayo en una ráfaga masiva. Cuando mueves al menos la mitad de tu velocidad antes de lanzar la *carga del relámpago*, haces la tirada de ataque con ventaja. Además, en un golpe, el rayo puede saltar una segunda vez, a una tercera criatura dentro del rango o de vuelta a la primera criatura.
 
-### Living Current
+### Corriente Viva
 En el nivel 13, has aprendido a canalizar el daño que te han hecho para mejorar tus golpes. La primera vez que infliges daño en tu turno, si recibiste daño desde el comienzo de tu último turno, puedes infligir un daño adicional por relámpago igual a tu dado de Combate Cinético + la mitad de la cantidad de daño recibido (redondeado hacia abajo).
 
 Puede utilizar esta función un número de veces igual a su modificador de Sabiduría o Carisma (a su elección, un mínimo de una vez). Recuperas todos los usos gastados cuando terminas un descanso corto o largo.
 
-### Retaliatory Strike
+### Golpe de Represalia
 En el nivel 18, cuando una criatura te golpea con un ataque mientras está a menos de 5 pies de ti, puedes usar tu reacción para lanzar el poder de la fuerza de *carga de relámpago*, apuntando a ellos.
 
 <img src='https://www.gmbinder.com/images/DSR5EWH.png' style='position:absolute;bottom:12px;left:13px;width:810px;;z-index:1000;' />
@@ -4525,46 +4525,46 @@ En el nivel 18, cuando una criatura te golpea con un ataque mientras está a meno
 
 \columnbreak
 
-## Path of Focus
+## Camino del Foco
 Los caminos de la Fuerza pueden revelarse a un centinela a través de una intensa concentración y, lo más importante, enfoque. Los centinelas que siguen el Camino del Foco usan ráfagas debilitantes de golpes de sable láser y poderes de fuerza para agotar a sus enemigos, aplastando cualquier esperanza que tuvieran de montar una defensa efectiva.
 
-### Focused Burst
+### Ráfaga Enfocada
 A partir de la elección de este llamado en el 3er nivel, se aprende el poder de la fuerza *burst*, que no cuenta para el total de tus poderes conocidos. Además, puedes usar tu característica de Combate Cinético cuando lo lances como tu acción. Finalmente, añades tu modificador de Sabiduría o Carisma (a tu elección, un mínimo de +1) a las tiradas de daño con él, y las criaturas que tienen éxito en su lanzamiento salvador reciben la mitad del daño, en lugar de ninguno.
 
-### Blade Dance
+### Hoja Danzante
 También en el 3er nivel, cuando le haces daño a una criatura a menos de 5 pies de ti, puedes moverte hasta 10 pies sin provocar ataques de oportunidad.
 
-### Blade Storm
+### Hoja Tormentosa
 En el séptimo nivel, tus estallidos se vuelven aún más abrumadores. Una vez en tu turno, cuando una criatura reciba el daño dos veces, puedes hacer inmediatamente un ataque adicional contra esa criatura (no se requiere acción). Este ataque utiliza tu dado de Combate Cinético en lugar del dado de daño del arma.
 
-### Focused Flow
+### Flujo Enfocado
 En el nivel 13, siempre que uses la función de Autoconsumo de Fuerza, puedes no gastar puntos de fuerza y tirar un d4 en lugar de tu dado de Combate Cinético.
 
-### Master Strike
+### Golpe Maestro
 En el nivel 18, tus explosiones pueden superar incluso al más feroz de los enemigos. Una vez en su turno, cuando a<br> &emsp;&emsp;&emsp;&nbsp;&nbsp;criatura recibe el daño de usted tres veces,<br> &emsp;&emsp;&emsp;&emsp;&nbsp;puede forzarla a hacer una Constitución<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;saving throw against your universal force<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;save DC. En una salvada fallida, se convierte en <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;aturdido hasta el final de su próximo <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;vuelta.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-## Path of Shadows
+## Camino de las Sombras
 En la oscuridad, hay protección. Los centinelas que siguen el Camino de las Sombras utilizan un plan calculado, convirtiéndose en maestros del sigilo y la emboscada que renuncian al ataque frontal por el flanco vulnerable.
 
-### Dead Silence
+### Silencio Sepulcrante
 A partir de la elección de esta llamada en el 3er nivel, se aprende el poder de la fuerza de la *carga psíquica*, que no cuenta para el total de tus poderes conocidos. Además, puedes usar la Sabiduría o el Carisma como tu habilidad de previsión para ello, y puedes usar tu característica de Combate Cinético cuando lo lances como tu acción. Por último, cuando golpeas a una criatura con el poder de fuerza de la *carga psíquica* y el objetivo intenta hablar, su voz no produce sonido hasta el final de tu siguiente turno.
 
-### Cloak of Shadows
+### Velo de Sombras
 También en el 3er nivel, puedes tomar la acción de Esconderse como una acción extra en tu turno. Además, puedes intentar esconderte cuando estés ligeramente oculto de la criatura de la que te escondes.
 
-### Shadow Strike
+### Golpe Sombrio
 En el 7º nivel, aprendes a golpear desde las sombras. Una vez por turno, puedes infligir un daño extra de 1d6 a una criatura que golpees con un ataque si tienes ventaja en la tirada. 
 
 El daño extra aumenta a 2d6 en el 11º nivel y 3d6 en el 17º nivel.
 
-### Shadow Step
+### Paso de la Sombra
 En el nivel 13, obtienes la habilidad de pasar de una sombra a otra. Mientras estás en la luz tenue o en la oscuridad, como acción extra puedes teletransportarte hasta 60 pies a un espacio desocupado que también está en la luz tenue o en la oscuridad. Entonces tienes ventaja en el primer ataque cuerpo a cuerpo que hagas antes del final del turno.
 
-### Shadow's Wrath
+### Ira de las Sombras
 En el nivel 18, su entrenamiento le ha enseñado técnicas avanzadas mientras maniobra en las sombras.<br> Mientras está escondido de su objetivo, el primer <br>rollo de ataque que hace cada ronda no revela auto-<br>maticamente su presencia. Haz un chequeo de Destreza<br> (Sigilo) contra el chequeo de Sabiduría<br> (Percepción) de tu objetivo. En caso de éxito, permaneces <br> escondido. Si también eres invisible, permaneces<br> invisible.
 
 <img src='https://www.gmbinder.com/images/k2IV7lG.png' style='position:absolute;bottom:15px;right:-330px;width:1080px;z-index:1000;' />
