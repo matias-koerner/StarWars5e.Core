@@ -93,7 +93,7 @@ Al crear un personaje berserker, piensa en el origen de tu personaje y su lugar 
 ¿Qué te llevó a tomar la vida de aventuras? ¿Fuiste atraído a los planetas establecidos por la promesa de riquezas? ¿Utilizasteis las fuerzas de los soldados de esas tierras para enfrentaros a una amenaza común? ¿Los monstruos o una horda invasora lo expulsaron de su tierra natal, convirtiéndolo en un refugiado desarraigado? Quizás fuiste prisionero de guerra, encadenado a tierras "civilizadas" y sólo ahora puedes ganar tu libertad. O quizás fuiste expulsado de tu pueblo por un crimen que cometiste, un tabú que violaste, o un golpe de estado que te sacó de una posición de autoridad.
 
 #### Creación Rápida
-Puedes hacer un berserker rápidamente siguiendo estas sugerencias. Primero, pon tu mayor puntuación de habilidad en Fuerza, seguido de Constitución. Segundo, elige el fondo mercenario.
+Puedes hacer un berserker rápidamente siguiendo estas sugerencias. Primero, pon tu mayor puntuación de característica en Fuerza, seguido de Constitución. Segundo, elige el fondo mercenario.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -196,7 +196,7 @@ Tienes ventaja en la destreza ahorrando lanzamientos contra efectos que puedes v
 En el tercer nivel, eliges un enfoque que moldea la naturaleza de tu rabia que se detalla al final de la descripción de la clase. Tu elección te otorga características en el 3er nivel y de nuevo en el 6º, 10º y 14º nivel.
 
 ### Mejora de Puntuación de Característica
-Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 \columnbreak
 
@@ -326,7 +326,7 @@ Muchos poderes de fuerza pueden ser superados, consumiendo más puntos de fuerza 
 Sólo puedes lanzar poderes de fuerza en el 4º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
 #### Habilidad para Invocar a La Fuerza
-Su capacidad de previsión varía según la alineación de los poderes que se le otorgan. Usas tu Sabiduría para los poderes del lado de la luz, Carisma para los del lado de la oscuridad, y Sabiduría o Carisma para los poderes universales (a tu elección). Utilizas este modificador de puntuación de habilidades siempre que un poder se refiera a tu capacidad de previsión. Además, usas este modificador de puntuación de habilidad cuando estableces el tiro salvador DC para una potencia de fuerza que lanzas y cuando haces una tirada de ataque con una.
+Su capacidad de previsión varía según la alineación de los poderes que se le otorgan. Usas tu Sabiduría para los poderes del lado de la luz, Carisma para los del lado de la oscuridad, y Sabiduría o Carisma para los poderes universales (a tu elección). Utilizas este modificador de puntuación de habilidades siempre que un poder se refiera a tu capacidad de previsión. Además, usas este modificador de puntuación de característica cuando estableces el tiro salvador DC para una potencia de fuerza que lanzas y cuando haces una tirada de ataque con una.
 
 ___
 
@@ -463,7 +463,7 @@ Los consulares que siguen el lado de la luz de la Fuerza, usando sus poderes par
 Al crear su consulado, considere su filosofía personal con respecto a la Fuerza y sus practicantes más famosos - los Jedi y los Sith. ¿Es usted miembro de una de las dos órdenes, o camina por un camino diferente? Tal vez fue expulsado de su primitivo pueblo por superstición o celos. Puede que hayas sido brutalmente entrenado desde joven en el lado oscuro, alimentando tu sed innata de poder, o quizás fuiste entrenado como padawan en uno de los templos Jedi. ¿Cómo tratas a los extraños, y cómo te tratan ellos una vez que conocen tus habilidades? ¿Cómo era tu familia, o qué tenías en lugar de una familia? ¿Ves la Fuerza como clara y oscura, o como un río imparcial de color gris? 
 
 #### Creación Rápida
-Puede hacer un consulado rápidamente siguiendo estas sugerencias. Primero, haz de la Sabiduría o el Carisma tu mayor puntuación de habilidad, seguido de la Destreza. Segundo, elija el fondo Jedi o Sith.
+Puede hacer un consulado rápidamente siguiendo estas sugerencias. Primero, haz de la Sabiduría o el Carisma tu mayor puntuación de característica, seguido de la Destreza. Segundo, elija el fondo Jedi o Sith.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -631,8 +631,8 @@ También en el 3er nivel, se aprende a ocultar el lanzamiento de sus poderes de f
 
 Puede utilizar esta función un número de veces igual a su modificador de Sabiduría o Carisma (a su elección, un mínimo de una vez). Recuperas todos los usos gastados cuando terminas un largo descanso.
 
-### Mejora de la Puntuación de Habilidad
-Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+### Mejora de la Puntuación de Característica
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Uno con La Fuerza
 En el nivel 20, su sintonía con la Fuerza es absoluta. Tu puntuación de Sabiduría o Carisma aumenta en 4, y tu máximo para esta puntuación aumenta en 4. Además, ganas maestría sobre una sola fuerza <br> poder, y puedes lanzarla con poco esfuerzo. Elige un <br> poder de fuerza de tercer nivel que conoces como tu poder de firma. Puedes lanzarlo una vez en el 3er nivel sin gastar puntos de fuerza. Cuando lo hagas, no podrás hacerlo de nuevo hasta que termines un descanso corto o largo.
@@ -779,7 +779,7 @@ Se necesita valor para que un soldado entre en el campo de batalla. Tal vez se n
 Al crear tu personaje de ingeniero, considera cuál es tu principal conjunto de habilidades y cómo lo usas. Podrías ser un mecánico de calle que aprendió a arreglar bicicletas de paseo cuando era adolescente. Tal vez seas un recién graduado de una prestigiosa facultad de medicina, o un piloto novato de la incipiente Alianza Rebelde. ¿Cuál es la habilidad número uno por la que eres conocido? ¿Por qué estás dispuesto a entrar en batallas cuando no tienes entrenamiento de combate? ¿Cómo ve a los miembros más aventureros de su grupo, y cómo le ven a usted y a su papel?
 
 #### Creación Rápida
-Puedes hacer un ingeniero rápidamente siguiendo estas sugerencias. Primero, haz de la Inteligencia tu mayor puntuación de habilidad. Su siguiente puntuación más alta debería ser <br> Constitución. Segundo, elija el científico<br> de fondo.
+Puedes hacer un ingeniero rápidamente siguiendo estas sugerencias. Primero, haz de la Inteligencia tu mayor puntuación de característica. Su siguiente puntuación más alta debería ser <br> Constitución. Segundo, elija el científico<br> de fondo.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -793,22 +793,22 @@ Puedes hacer un ingeniero rápidamente siguiendo estas sugerencias. Primero, haz 
 |	 1	|	+2	|	Tecnoinvocacion, Aptitud Potente (d6)		|	 6	|	  2	|	1°	| — |
 |	 2	|	+2	|	Infundir Objeto, Experto en Herramienta	    |	 7	|	  4	|	1°	| — |
 |	 3	|	+2	|	Disciplina de Ingeniería                    |	 9	|	  6	|	2°	| 4 |
-|	 4	|	+2	|	Mejora de Puntuación de Habilidad			|	10	|	  8	|	2°	| 4 |
+|	 4	|	+2	|	Mejora de Puntuación de Característica			|	10	|	  8	|	2°	| 4 |
 |	 5	|	+3	|	Aptitud Potente	(d8), Pensamiento Rápido   	|	11	|	 10	|	3°	| 5 |
 |	 6	|	+3	|	Rasgo de Disciplina de Ingeniería			|	12	|	 12	|	3°	| 5 |
 |	 7	|	+3	|	—                       					|	13	|	 14	|	4°	| 5 |
-|	 8	|	+3	|	Mejora de Puntuación de Habilidad           |	14	|	 16	|	4°	| 6 |
+|	 8	|	+3	|	Mejora de Puntuación de Característica           |	14	|	 16	|	4°	| 6 |
 |	 9	|	+4	|	—											|	15	|	 18	|	5°	| 6 |
 |	10	|	+4	|	Aptitud Potente	(d10)           			|	16	|	 20	|	5°	| 6 |
 |	11	|	+4	|	—                       					|	17	|	 22	|	6°	| 7 |
-|	12	|	+4	|	Mejora de Puntuación de Habilidad			|	18	|	 24	|	6°	| 7 |
+|	12	|	+4	|	Mejora de Puntuación de Característica			|	18	|	 24	|	6°	| 7 |
 |	13	|	+5	|	—											|	19	|	 26	|	7°	| 7 |
 |	14	|	+5	|	Rasgo de Disciplina de Ingeniería 			|	20	|	 28	|	7°	| 8 |
 |	15	|	+5	|	Aptitud Potente	(d12)        				|	21	|	 30	|	8°	| 8 |
-|	16	|	+5	|	Mejora de Puntuación de Habilidad			|	22	|	 32	|	8°	| 8 |
+|	16	|	+5	|	Mejora de Puntuación de Característica			|	22	|	 32	|	8°	| 8 |
 |	17	|	+6	|	—											|	23	|	 34	|	9°	| 9 |
 |	18	|	+6	|	Rasgo de Disciplina de Ingeniería			|	24	|	 36	|	9°	| 9 |
-|	19	|	+6	|   Mejora de Puntuación de Habilidad			|	25	|	 38	|	9°	| 9 |
+|	19	|	+6	|   Mejora de Puntuación de Característica			|	25	|	 38	|	9°	| 9 |
 |	20	|	+6	|	Maestria Tecnologica						|	26	|	 40	|	9°	| 9 |
 
 </div>
@@ -911,8 +911,8 @@ También en el 2º nivel, se adquiere experiencia en las habilidades de las herram
 ### Disciplina de Ingeniería
 A partir del 3er nivel, se empieza a enfocar en una disciplina específica de ingeniería, que se detalla al final de la descripción de la clase. Tu disciplina te otorga características en el 3er nivel y de nuevo en el 6º, 14º y 18º nivel.
 
-### Mejora de Puntuación de Habilidad
-Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+### Mejora de Puntuación de Característica
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Pensamiento Rápido
 Comenzando cuando llegas al 5º nivel, recuperas todos tus usos gastados de Aptitud Potencial cuando terminas un descanso corto o largo.
@@ -1344,7 +1344,7 @@ Tu droide obtiene una variedad de beneficios mientras está conectado a ti:
 - El droide obedece tus órdenes lo mejor que puede. Actúa a tu turno, y tú determinas sus acciones, decisiones, actitudes, etc. Si estás incapacitado o ausente, tu droide actúa por su cuenta.
 - El nivel de tu droide es igual al nivel de tu ingeniero, y por cada nivel de ingeniero que ganes después del 3º, tu compañero droide gana un dado de impacto adicional y aumenta sus puntos de impacto en consecuencia.
 - Tu droide tiene el bonificador de competencia de un personaje del mismo nivel.
-- Cada vez que obtienes la característica de Mejora de la Puntuación de Habilidad en esta clase, las habilidades de tu droide también mejoran. Tu droide puede aumentar una puntuación de habilidad de tu elección en 2, o puede aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, tu droide no puede aumentar una puntuación de habilidad por encima de 20 usando esta característica a menos que su descripción especifique lo contrario.
+- Cada vez que obtienes la característica de Mejora de la Puntuación de Característica en esta clase, las habilidades de tu droide también mejoran. Tu droide puede aumentar una puntuación de característica de tu elección en 2, o puede aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, tu droide no puede aumentar una puntuación de característica por encima de 20 usando esta característica a menos que su descripción especifique lo contrario.
 - Tu droide no puede llevar armadura, pero puedes tener la armadura integrada profesionalmente en su chasis. En el transcurso de un largo descanso, puedes gastar materiales equivalentes a la mitad del costo de la armadura para integrarla a tu droide. Tu droide debe dominar la armadura para poder integrarla.
 - Tu droide es un objetivo válido de la potencia tecnológica del *interfaz del droide rastreador*.
 
@@ -1743,22 +1743,22 @@ Puedes hacer un luchador rápidamente siguiendo estas sugerencias. Primero, haz q
 |	 1	|	+2	|	Estilo de Combate, Nuevas Energías	                |—|—|
 |	 2	|	+2	|	Oleada de Acción (un uso), Superioridad de Combate  |2|2|
 |	 3	|	+2	|	Especialidad Guerrera	                            |2|2|
-|	 4	|	+2	|	Mejora de Puntuación de Habilidad                   |2|2|
+|	 4	|	+2	|	Mejora de Puntuación de Característica                   |2|2|
 |	 5	|	+3	|	Ataque Extra                                    	|2|2|
-|	 6	|	+3	|	Mejora de Puntuación de Habilidad                   |2|2|
+|	 6	|	+3	|	Mejora de Puntuación de Característica                   |2|2|
 |	 7	|	+3	|	Rasgo de Especialidad Guerrera                     	|3|3|
-|	 8	|	+3	|	Mejora de Puntuación de Habilidad                   |3|3|
+|	 8	|	+3	|	Mejora de Puntuación de Característica                   |3|3|
 |	 9	|	+4	|	Indomable (un uso)                               	|3|3|
 |	10	|	+4	|	Rasgo de Especialidad Guerrera                      |3|3|
 |	11	|	+4	|	Gran Ataque Extra                               	|3|4|
-|	12	|	+4	|	Mejora de Puntuación de Habilidad                   |3|4|
+|	12	|	+4	|	Mejora de Puntuación de Característica                   |3|4|
 |	13	|	+5	|	Indomable (dos usos)                          		|3|4|
-|	14	|	+5	|	Mejora de Puntuación de Habilidad                   |3|4|
+|	14	|	+5	|	Mejora de Puntuación de Característica                   |3|4|
 |	15	|	+5	|	Rasgo de Especialidad Guerrera	                    |4|5|
-|	16	|	+5	|	Mejora de Puntuación de Habilidad                   |4|5|
+|	16	|	+5	|	Mejora de Puntuación de Característica                   |4|5|
 |	17	|	+6	|	Oleada de Acción(dos usos), Indomable (tres usos)	|4|5|
 |	18	|	+6	|	Rasgo de Especialidad Guerrera                      |4|5|
-|	19	|	+6	|	Mejora de Puntuación de Habilidad                   |4|5|
+|	19	|	+6	|	Mejora de Puntuación de Característica                   |4|5|
 |	20	|	+6	|	Maestro de Combate                                	|4|5|
 
 </div>
@@ -1905,7 +1905,7 @@ Cuando le das a una criatura con un ataque de arma, puedes gastar un dado de sup
 En el tercer nivel, eliges una especialidad que te esfuerzas por emular en tus estilos y técnicas de combate, que se detalla al final de la descripción de la clase. El arquetipo que elijas te otorgará características en el 3er nivel y de nuevo en el 7º, 10º, 15º y 18º nivel.
 
 ### Mejora de Puntuación de Característica
-Cuando alcances el 4º nivel, y de nuevo en el 6º, 8º, 12º, 14º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+Cuando alcances el 4º nivel, y de nuevo en el 6º, 8º, 12º, 14º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Extra Attack
 A partir del 5º nivel, puedes atacar dos veces, en vez de una, siempre que tomes la acción de Ataque en tu turno.
@@ -2143,7 +2143,7 @@ El mando del guardián de la Fuerza les da una presencia poderosa. Ya sea a travé
 Al crear tu guardián, considera tu atracción por la Fuerza y sus más famosos practicantes, los Jedi y los Sith. ¿Eres miembro de una de las dos órdenes, o caminas por un camino diferente? ¿Eres un soldado que se aprovecha de la sensibilidad latente de la Fuerza? ¿Fuiste entrenado en la fuerza desde joven, o la descubriste de adulto? ¿Cómo tratas a los más débiles que tú? ¿Cómo era tu familia? ¿Ves la Fuerza como algo claro y oscuro, o como un río imparcial de color gris?
 
 #### Creación Rápida
-Puedes hacer un Guardián rápidamente siguiendo estas sugerencias. Primero, haz de la Fuerza tu mayor puntuación de habilidad, seguido de la Constitución. Segundo, elige el fondo Jedi o Sith.
+Puedes hacer un Guardián rápidamente siguiendo estas sugerencias. Primero, haz de la Fuerza tu mayor puntuación de característica, seguido de la Constitución. Segundo, elige el fondo Jedi o Sith.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -2157,22 +2157,22 @@ Puedes hacer un Guardián rápidamente siguiendo estas sugerencias. Primero, haz d
 |	 1	|	+2	|	Invoción de La Fuerza, Canalizando La Fuerza| 	 4	|	 2	|	 1	|
 |	 2	|	+2	|	Golpes con La Fuerza, Aura del Guardián 	|	 5	|	 4	|	 1	|
 |	 3	|	+2	|	Foco del Guardián                        	|	 6	|	 6	|	 1	|
-|	 4	|	+2	|	Mejora de Puntuación de Habilidad			|	 7	|	 8	|	 1	|
+|	 4	|	+2	|	Mejora de Puntuación de Característica			|	 7	|	 8	|	 1	|
 |	 5	|	+3	|	Ataque Extra							|	 9	|	10	|	 2	|
 |	 6	|	+3	|	La Fuerza Pura    						|	10	|	12	|	 2	|
 |	 7	|	+3	|	Rasgo de Foco   						|	11	|	14	|	 2	|
-|	 8	|	+3	|	Mejora de Puntuación de Habilidad		|	12	|	16	|	 2	|
+|	 8	|	+3	|	Mejora de Puntuación de Característica		|	12	|	16	|	 2	|
 |	 9	|	+4	|	—										|	14	|	18	|	 3	|
 |	10	|	+4	|	Aura Adicional 	    					|	15	|	20	|	 3	|
 |	11	|	+4	|	Golpes con La Fuerza Mejorados			|	16	|	22	|	 3	|
-|	12	|	+4	|	Mejora de Puntuación de Habilidad		|	17	|	24	|	 3	|
+|	12	|	+4	|	Mejora de Puntuación de Característica		|	17	|	24	|	 3	|
 |	13	|	+5	|	—										|	19	|	26	|	 4	|
 |	14	|	+5	|	Toque Purificador						|	20	|	28	|	 4	|
 |	15	|	+5	|	Rasgo de Foco	    					|	21	|	30	|	 4	|
-|	16	|	+5	|	Mejora de Puntuación de Habilidad		|	22	|	32	|	 4	|
+|	16	|	+5	|	Mejora de Puntuación de Característica		|	22	|	32	|	 4	|
 |	17	|	+6	|	—										|	24	|	34	|	 5	|
 |	18	|	+6	|	Mejora de Aura   						|	25	|	36	|	 5	|
-|	19	|	+6	|	Mejora de Puntuación de Habilidad		|	26	|	38	|	 5	|
+|	19	|	+6	|	Mejora de Puntuación de Característica		|	26	|	38	|	 5	|
 |	20	|	+6	|	Rasgo de Foco	    					|	27	|	40	|	 5	|
 
 </div>
@@ -2275,8 +2275,8 @@ Además, en el 2º nivel, se obtiene un aura de su elección, como se describe al f
 ### Foco del Guardián
 Al llegar al 3er nivel, se comienza a enfocar los estudios en una forma específica de sable láser, que se detalla al final de la descripción de la clase. Tu enfoque te otorga características en el 3er nivel y otra vez en el 7º, 15º y 20º nivel. 
 
-### Mejora de Puntuación de Habilidad
-Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+### Mejora de Puntuación de Característica
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Ataque Extra
 A partir del 5º nivel, puedes atacar dos veces, en vez de una, siempre que tomes la acción de Ataque en tu turno.
@@ -2490,8 +2490,8 @@ Este efecto termina pronto si estás incapacitado o mueres. Una vez que has usado
 
 \pagebreakNum
 
-## Monk
-<Su vibrostaff se desdibuja al desviar una granizada de rayos, un humano salta sobre una barricada y se lanza a las filas de piratas del otro lado. Se arremolina entre ellos, aparta sus golpes y los hace tambalear, hasta que al final se queda sola.
+## Monje
+<span style="font-variant: small-caps">Su vibrostaff se desdibuja al desviar una granizada de rayos,</span> un humano salta sobre una barricada y se lanza a las filas de piratas del otro lado. Se arremolina entre ellos, aparta sus golpes y los hace tambalear, hasta que al final se queda sola.
 
 Respirando profundamente, un zabrak cubierto de tatuajes se coloca en posición de batalla. Al llegar los primeros mercenarios cargados, exhala y una ráfaga de energía negativa sale de sus manos, engullendo a sus enemigos.
 
@@ -2501,12 +2501,12 @@ Cualquiera que sea su disciplina, los monjes están unidos en su capacidad de apr
 
 <div style='margin-top:47px'></div>
 
-### The Power of Focus
+### El Poder del Enfoque
 Los monjes estudian cuidadosamente una energía mística que la mayoría de las órdenes monásticas llaman foco. Esta energía es un elemento de la potencia que impregna la galaxia, específicamente, el elemento que fluye a través de los cuerpos vivos. Los monjes aprovechan esta energía dentro de sí mismos para crear efectos poderosos y superar las capacidades físicas de sus cuerpos, y algunos de sus ataques especiales pueden obstaculizar el flujo de la concentración en sus oponentes. Usando esta energía, los monjes canalizan una velocidad y una fuerza asombrosas en sus ataques sin armas. A medida que ganan experiencia, su entrenamiento marcial y su dominio de la concentración les da más poder sobre sus cuerpos y los cuerpos de sus enemigos.
 
 <div style='margin-top:47px'></div>
 
-### Training y Asceticism
+### Entrenamiento y Ascetismo
 La mayoría de los monjes viven completamente separados de la población circundante, aislados de cualquier cosa que pueda impedir su progreso espiritual. Otros juran aislamiento, emergiendo sólo para servir como espías o asesinos a las órdenes de su líder, un noble patrón o algún otro poder.
 
 La mayoría de los monjes no rehúyen a sus vecinos, visitando frecuentemente las ciudades o pueblos cercanos e intercambiando sus servicios por comida y otros bienes. Como guerreros versátiles, los monjes a menudo terminan protegiendo a sus vecinos de monstruos o bandidos.
@@ -2519,15 +2519,15 @@ Para un monje, convertirse en aventurero significa dejar un estilo de vida estru
 
 <img src='https://www.gmbinder.com/images/gFdtzpD.png' style='position:absolute;top:69px;right:-70px;width:570px;'/>
 
-### Creating a Monk
+### Creando un Monje
 A medida que hagas tu personaje de monje, piensa en tu conexión con el monasterio donde aprendiste tus habilidades y pasaste tus años de formación. ¿Eras un huérfano o un niño abandonado en el umbral del monasterio? ¿Tus padres te prometieron al monasterio en agradecimiento por un servicio realizado por los monjes? ¿Entraste en esta vida retirada para esconderte de un crimen que cometiste? ¿O elegiste la vida monástica para ti mismo?
 
 Considera por qué te fuiste. ¿El jefe de su monasterio la eligió para una misión particularmente importante más allá del claustro? Tal vez fue expulsada por alguna violación de las reglas de la comunidad. ¿Temía irse, o estaba feliz de hacerlo? ¿Hay algo que espera lograr fuera del monasterio? ¿Está ansiosa por volver a su casa?
 
 Como resultado de la vida estructurada de una comunidad monástica y de la disciplina necesaria para aprovechar el enfoque, los monjes suelen estar alineados legalmente.
 
-#### Quick Build
-Puedes hacer un monje rápidamente siguiendo estas sugerencias. Primero, haz de la destreza tu mayor puntuación de habilidad, seguida de la sabiduría. Segundo, elige el fondo de agente.
+#### Creación Rápida
+Puedes hacer un monje rápidamente siguiendo estas sugerencias. Primero, haz de la destreza tu mayor puntuación de característica, seguida de la sabiduría. Segundo, elige el fondo de agente.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -2535,29 +2535,29 @@ Puedes hacer un monje rápidamente siguiendo estas sugerencias. Primero, haz de l
 
 <div class='classTable wide'>
 
-##### The Monk
-| Level | Proficiency<br> Bonus | Features | Martial Arts<br> Damage Die| Focus<br> Points | Unarmored<br> Movement |
+##### El Monje
+| Nivel | Bonificador<br> de <br> Competencia | Rasgos | Daño<br> de Artes<br> Marciales | Puntos de<br> Enfoque | Movimiento<br> sin<br> Armadura |
 |:-----:|:-----------------:|:------------|:---------:|:------------------:|:---------:|
-|	1st	|+2	|	Unarmored Defense, Martial Arts	|	d4	|	—	|	—			|
-|	2nd	|+2	|	Focus, Unarmored Movement	|	d4	|	2	|+10 ft.		|
-|	3rd	|+2	|	Monastic Order, Deflect Missiles	|	d4	|	3	|+10 ft.		|
-|	4th	|+2	|	Mejora de Puntuación de Habilidad, Slow Fall	|	d4	|	4	|+10 ft.	|
-|	5th	|+3	|	Extra Attack, Stunning Strike	|	d6	|	5	|+10 ft.	|
-|	6th	|+3	|	Focused Strikes, Monastic Order feature	|	d6	|	6	|+15 ft.	|
-|	7th	|+3	|	Evasion, Stillness of Mind	|	d6	|	7	|+15 ft.	|
-|	8th	|+3	|	Mejora de Puntuación de Habilidad	|	d6	|	8	|+15 ft.	|
-|	9th	|+4	|	Unarmored Movement Improvement	|	d6	|	9	|+15 ft.	|
-|	10th	|+4	|	Purity of Body	|	d6	|	10	|+20 ft.	|
-|	11th	|+4	|	Monastic Order feature	|	d8	|	11	|+20 ft.	|
-|	12th	|+4	|	Mejora de Puntuación de Habilidad	|	d8	|	12	|+20 ft.	|
-|	13th	|+5	|	Tongue of the Sun y Moon	|	d8	|	13	|+20 ft.	|
-|	14th	|+5 |	Diamond Soul	|	d8	|	14	|+25 ft.	|
-|	15th	|+5	|	Timeless Body	|	d8	|	15	|+25 ft.	|
-|	16th	|+5	|	Mejora de Puntuación de Habilidad	|	d8	|	16	|+25 ft.	|
-|	17th	|+6	|	Monastic Order feature	|	d10	|	17	|+25 ft.	|
-|	18th	|+6 |	Empty Body	|	d10	|	18	|+30 ft.	|
-|	19th	|+6	|	Mejora de Puntuación de Habilidad	|	d10	|	19	|+30 ft.	|
-|	20th	|+6	|	Perfect Self	|	d10	|	20	|+30 ft.	|
+|	1	|+2	|	Defensa sin Armadura, Artes Marciales	|	d4	|	—	|	—			|
+|	2	|+2	|	Enfoque, Movimiento sin Armadura	|	d4	|	2	|+10 ft.		|
+|	3	|+2	|	Tradición Monástica, Desviar Proyectiles	|	d4	|	3	|+10 ft.		|
+|	4	|+2	|	Mejora de Puntuación de Característica, Slow Fall	|	d4	|	4	|+10 ft.	|
+|	5	|+3	|	Ataque Extra, Golpe Aturdidor	|	d6	|	5	|+10 ft.	|
+|	6	|+3	|	Golpes Enfocados, Rasgo de Tradición Monástica	|	d6	|	6	|+15 ft.	|
+|	7	|+3	|	Evasión, Quietud de la Mente	|	d6	|	7	|+15 ft.	|
+|	8	|+3	|	Mejora de Puntuación de Característica	|	d6	|	8	|+15 ft.	|
+|	9	|+4	|	Mejora del Movimiento sin Armadura	|	d6	|	9	|+15 ft.	|
+|	10	|+4	|	Pureza del Cuerpo	|	d6	|	10	|+20 ft.	|
+|	11	|+4	|	Rasgo de Tradición Monástica	|	d8	|	11	|+20 ft.	|
+|	12	|+4	|	Mejora de Puntuación de Característica	|	d8	|	12	|+20 ft.	|
+|	13	|+5	|	Tongue of the Sun y Moon	|	d8	|	13	|+20 ft.	|
+|	14	|+5 |	Diamond Soul	|	d8	|	14	|+25 ft.	|
+|	15	|+5	|	Timeless Body	|	d8	|	15	|+25 ft.	|
+|	16	|+5	|	Mejora de Puntuación de Característica	|	d8	|	16	|+25 ft.	|
+|	17	|+6	|	Monastic Order feature	|	d10	|	17	|+25 ft.	|
+|	18	|+6 |	Empty Body	|	d10	|	18	|+30 ft.	|
+|	19	|+6	|	Mejora de Puntuación de Característica	|	d10	|	19	|+30 ft.	|
+|	20	|+6	|	Perfect Self	|	d10	|	20	|+30 ft.	|
 
 </div>
 
@@ -2656,8 +2656,8 @@ A partir del tercer nivel, puedes usar tu reacción para desviar un proyectil cua
 
 Si reduces el daño a 0, y el daño es de energía o de iones, puedes redirigirlo a otro objetivo si tienes un arma capaz de hacerlo. Puedes gastar 1 punto de enfoque para hacer un ataque a distancia mientras desvías el proyectil, como parte de la misma reacción. Haces este ataque con destreza, independientemente de la destreza de tu arma, y el proyectil cuenta como un arma de monje para el ataque.
 
-### Mejora de Puntuación de Habilidad
-Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+### Mejora de Puntuación de Característica
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Slow Fall
 A partir del 4º nivel, puedes usar tu reacción cuando caes para reducir el daño que recibes por una cantidad igual a cinco veces tu nivel de monje.
@@ -2844,7 +2844,7 @@ Los operativos no suelen empezar a buscar desafiar a la autoridad y violar la le
 Mientras crea su personaje operativo, considere cómo comenzó su camino. Tal vez te criaste en la calle y caíste en el elemento criminal como medio de supervivencia. Podrías ser un simple comerciante que decidió atacar al Imperio Sith cuando éste invadió tu negocio. ¿Cuál diría que es su mayor conjunto de habilidades? ¿Cuál es su núcleo, la verdadera esencia de usted mismo que le mantiene centrado? ¿Por qué la sociedad te trataría como un criminal, y sin embargo tus aliados te consideran un compañero leal?
 
 #### Quick Build
-Puedes hacer un operativo rápidamente siguiendo estas sugerencias. Primero, haz de la destreza tu mayor puntuación de habilidad, seguida de la inteligencia o el carisma. Segundo, elige el fondo de jugador.
+Puedes hacer un operativo rápidamente siguiendo estas sugerencias. Primero, haz de la destreza tu mayor puntuación de característica, seguida de la inteligencia o el carisma. Segundo, elige el fondo de jugador.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -2858,22 +2858,22 @@ Puedes hacer un operativo rápidamente siguiendo estas sugerencias. Primero, haz 
 |	 1st	|	+2	|   Expertise, Sneak Attack	    |   1d6 |
 |	 2nd	|	+2	|   Bad Feeling, Cunning Action	|   1d6 |
 |	 3rd	|	+2	|   Operative Practice          |   2d6 |
-|	 4th	|	+2	|   Mejora de Puntuación de Habilidad	|   2d6 |
+|	 4th	|	+2	|   Mejora de Puntuación de Característica	|   2d6 |
 |	 5th	|	+3	|   Uncanny Dodge	            |   3d6 |
 |	 6th	|	+3	|   Expertise	                |   3d6 |
 |	 7th	|	+3	|   Evasion	                    |   4d6 |
-|	 8th	|	+3	|   Mejora de Puntuación de Habilidad	|   4d6 |
+|	 8th	|	+3	|   Mejora de Puntuación de Característica	|   4d6 |
 |	 9th	|	+4	|   Practice feature        	|   5d6 |
-|	10th	|	+4	|   Mejora de Puntuación de Habilidad	|   5d6 |
+|	10th	|	+4	|   Mejora de Puntuación de Característica	|   5d6 |
 |	11th	|	+4	|   Reliable Talent         	|   6d6 |
-|	12th	|	+4	|   Mejora de Puntuación de Habilidad	|   6d6 |
+|	12th	|	+4	|   Mejora de Puntuación de Característica	|   6d6 |
 |	13th	|	+5	|   Practice feature        	|   7d6 |
 |	14th	|	+5	|   Blindsense	                |   7d6 |
 |	15th	|	+5	|   Slippery Mind	            |   8d6 |
-|	16th	|	+5	|   Mejora de Puntuación de Habilidad	|   8d6 |
+|	16th	|	+5	|   Mejora de Puntuación de Característica	|   8d6 |
 |	17th	|	+6	|   Practice feature        	|   9d6 |
 |	18th	|	+6	|   Elusive	                    |   9d6 |
-|	19th	|	+6	|   Mejora de Puntuación de Habilidad	|  10d6 |
+|	19th	|	+6	|   Mejora de Puntuación de Característica	|  10d6 |
 |	20th	|	+6	|   Stroke of Luck	            |  10d6 |
 
 </div>
@@ -2942,8 +2942,8 @@ También en el 2º nivel, tu rapidez de pensamiento y agilidad te permite moverte 
 ### Operative Practice
 En el 3er nivel, eliges una práctica que emulas en el ejercicio de tus habilidades operativas, que se detalla al final de la descripción de la clase. Su elección de la práctica le otorga características en el 3er nivel y luego otra vez en el 9º, 13º y 17º nivel.
 
-### Mejora de Puntuación de Habilidad
-Cuando alcances el 4º nivel, y de nuevo en el 8º, 10º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+### Mejora de Puntuación de Característica
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 10º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 \columnbreak
 
@@ -3065,7 +3065,7 @@ Intentas inferir detalles cruciales sobre tu enemigo. La criatura debe hacer un 
 - El lanzamiento de salvamento más débil
 
 #### Vulnerable Strike
-Intenta escalonar el objetivo. El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una parada fallida, la próxima vez que hagas una tirada de ataque contra el objetivo antes del final de tu siguiente turno, puedes forzar al objetivo a hacer una tirada de salvamento con la puntuación de habilidad que quieras. En una parada fallida, la criatura recibe el daño normal de un arma y puedes aplicar tus dados de Ataque sorpresa a la tirada.
+Intenta escalonar el objetivo. El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una parada fallida, la próxima vez que hagas una tirada de ataque contra el objetivo antes del final de tu siguiente turno, puedes forzar al objetivo a hacer una tirada de salvamento con la puntuación de característica que quieras. En una parada fallida, la criatura recibe el daño normal de un arma y puedes aplicar tus dados de Ataque sorpresa a la tirada.
 
 \columnbreak
 
@@ -3182,7 +3182,7 @@ Para los estudiosos, la vida mundana es a menudo demasiado lenta. Cuando la vida
 Al crear un erudito, es importante pensar de dónde obtuviste tu conocimiento. ¿Serviste como aprendiz bajo un maestro? ¿Asistió a la universidad o <br> otra educación formal? Tal vez lo ganaste por tu cuenta, buscando y vertiendo sobre tomos polvorientos encontrados en lugares olvidados. ¿De dónde vino tu sed de <br> conocimiento? ¿Curiosidad insaciable? ¿Siempre <br> queriendo saber la respuesta correcta? ¿O tiene <br> algo que probar? Piensa en el campo que deseas <br> perseguir y piensa en lo que te lleva en esa <br> dirección.
 
 #### Quick Build
-Puedes hacer un erudito rápidamente siguiendo estas sugerencias. Primero, haga de la Inteligencia su mayor puntuación de habilidad. Su siguiente puntuación más alta debería ser Destreza. Segundo, elija el fondo noble.
+Puedes hacer un erudito rápidamente siguiendo estas sugerencias. Primero, haga de la Inteligencia su mayor puntuación de característica. Su siguiente puntuación más alta debería ser Destreza. Segundo, elija el fondo noble.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -3196,22 +3196,22 @@ Puedes hacer un erudito rápidamente siguiendo estas sugerencias. Primero, haga d
 |  1st | +2 | Academic Superiority, Critical Analysis           |  d6  | 2 |  2 | — |
 |  2nd | +2 | Discovery, Sage Advice (long rest)                |  d6  | 2 |  2 | 2 |
 |  3rd | +2 | Expertise, Academic Pursuit                       |  d6  | 4 |  4 | 2 |
-|  4th | +2 | Mejora de Puntuación de Habilidad                         |  d6  | 4 |  4 | 2 |
+|  4th | +2 | Mejora de Puntuación de Característica                         |  d6  | 4 |  4 | 2 |
 |  5th | +3 | Multitasker                                       |  d6  | 4 |  4 | 3 |
 |  6th | +3 | Pursuit feature                                   |  d6  | 4 |  4 | 3 |
 |  7th | +3 | —                                                 |  d8  | 6 |  6 | 4 |
-|  8th | +3 | Mejora de Puntuación de Habilidad                         |  d8  | 6 |  6 | 4 |
+|  8th | +3 | Mejora de Puntuación de Característica                         |  d8  | 6 |  6 | 4 |
 |  9th | +4 | Pursuit feature                                   |  d8  | 6 |  6 | 5 |
 | 10th | +4 | Expertise                                         |  d8  | 6 |  6 | 5 |
 | 11th | +4 | —                                   				| d10  | 6 |  8 | 5 |
-| 12th | +4 | Mejora de Puntuación de Habilidad                         | d10  | 6 |  8 | 6 |
+| 12th | +4 | Mejora de Puntuación de Característica                         | d10  | 6 |  8 | 6 |
 | 13th | +5 | Sage Advice (short rest)                          | d10  | 6 |  8 | 6 |
 | 14th | +5 | Calm y Collected                                | d10  | 6 |  8 | 6 |
 | 15th | +5 | —                                                 | d12  | 8 | 10 | 7 |
-| 16th | +5 | Mejora de Puntuación de Habilidad                         | d12  | 8 | 10 | 7 |
+| 16th | +5 | Mejora de Puntuación de Característica                         | d12  | 8 | 10 | 7 |
 | 17th | +6 | Pursuit feature                                   | d12  | 8 | 10 | 7 |
 | 18th | +6 | Adaptable Intellectual                            | d12  | 8 | 10 | 8 |
-| 19th | +6 | Mejora de Puntuación de Habilidad                         | d12  | 8 | 10 | 8 |
+| 19th | +6 | Mejora de Puntuación de Característica                         | d12  | 8 | 10 | 8 |
 | 20th | +6 | Knowledge Unbound                                 | d12  | 8 | 10 | 8 |
 </div>
 
@@ -3345,8 +3345,8 @@ En el décimo nivel, puedes elegir otras dos competencias (en habilidades o herra
 ### Academic Pursuit
 En el 3er nivel, dedicas tus estudios a una persecución, que se detalla al final de la descripción de la clase. La persecución que elijas te otorga características en el 3er nivel, y de nuevo en el 6º, 9º y 17º nivel.
 
-### Mejora de Puntuación de Habilidad
-Cuando alcanzas el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta característica. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+### Mejora de Puntuación de Características
+Cuando alcanzas el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta característica. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Multitasker
 A partir del 5º nivel, puedes tomar una segunda reacción cada vez. Sólo puedes tomar una reacción por turno.
@@ -3572,7 +3572,7 @@ Esta muerte aumenta cuando se alcanzan ciertos niveles en esta clase: 1d8 en el 
 
 | d20 efectos secundarios
 |:----:|:------------- |
-| La criatura resulta ser alérgica a este tratamiento específico. Cada puntuación de habilidad se reduce en 1. |
+| La criatura resulta ser alérgica a este tratamiento específico. Cada puntuación de característica se reduce en 1. |
 | La criatura comienza a estornudar incontrolablemente. Cualquier tirada de ataque con un valor de 19 resulta en un fallo debido a un estornudo mal programado. |
 | Las piernas de la criatura se hinchan. Su velocidad de movimiento se convierte como mucho en la mitad de su velocidad de movimiento normal. |
 | La criatura se vuelve un tamaño más grande o más pequeño. |
@@ -3866,22 +3866,22 @@ Puedes hacer un explorador rápidamente siguiendo estas sugerencias. Primero, haz
 |	 1st|	+2	|	Swift Response, Ranger's Quarry 			| d4 |	 —	|	—	|	—	|
 |	 2nd|	+2	|	Fighting Style, Techcasting 				| d4 |	 4	|	 2	|	1st	|
 |	 3rd|	+2	|	Pathfinder, Scout Technique		    	    | d4 |	 5	|	 3	|	1st	|
-|	 4th|	+2	|	Mejora de Puntuación de Habilidad					| d4 |	 6	|	 4	|	1st	|
+|	 4th|	+2	|	Mejora de Puntuación de Característica					| d4 |	 6	|	 4	|	1st	|
 |	 5th|	+3	|	Extra Attack								| d6 |	 7	|	 5	|	2nd	|
 |	 6th|	+3	|	Expertise           						| d6 |	 8	|	 6 	|	2nd	|
 |	 7th|	+3	|	Technique feature				    		| d6 |	 9	|	 7	|	2nd	|
-|	 8th|	+3	|	Mejora de Puntuación de Habilidad               	| d6 |	10	|	 8	|	2nd	|
+|	 8th|	+3	|	Mejora de Puntuación de Característica               	| d6 |	10	|	 8	|	2nd	|
 |	 9th|	+4	|	—											| d8 |	11	|	 9	|	3rd	|
 |	10th|	+4	|	Commando        							| d8 |	12	|	10	|	3rd	|
 |	11th|	+4	|	Technique feature				    		| d8 |	13	|	11	|	3rd	|
-|	12th|	+4	|	Mejora de Puntuación de Habilidad					| d8 |	14	|	12	|	3rd	|
+|	12th|	+4	|	Mejora de Puntuación de Característica					| d8 |	14	|	12	|	3rd	|
 |	13th|	+5	|	—											| d10|	15	|	13	|	4th	|
 |	14th|	+5	|	Combat Tech									| d10|	16	|	14	|	4th	|
 |	15th|	+5	|	Technique feature					    	| d10|	16	|	15	|	4th	|
-|	16th|	+5	|	Mejora de Puntuación de Habilidad					| d10|	16	|	16	|	4th	|
+|	16th|	+5	|	Mejora de Puntuación de Característica					| d10|	16	|	16	|	4th	|
 |	17th|	+6	|	—											| d12|	17	|	17	|	5th	|
 |	18th|	+6	|	Supreme Awareness							| d12|	17	|	18	|	5th	|
-|	19th|	+6	|	Mejora de Puntuación de Habilidad					| d12|	17	|	19	|	5th	|
+|	19th|	+6	|	Mejora de Puntuación de Característica					| d12|	17	|	19	|	5th	|
 |	20th|	+6	|	Foe Slayer									| d12|	18	|	20	|	5th	|
 
 </div>
@@ -3995,8 +3995,8 @@ A partir del tercer nivel, eres hábil en la navegación por los bosques salvajes.
 ### Scout Technique 
 También en el 3er nivel, eliges enfocarte en una técnica específica de exploración, que se detalla al final de la descripción de la clase. Tu elección te otorga características en el 3er nivel y de nuevo en el 7º, 11º y 15º nivel.
 
-### Mejora de Puntuación de Habilidad 
-Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+### Mejora de Puntuación de Característica 
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Extra Attack
 A partir del 5º nivel, puedes atacar dos veces, en vez de una, siempre que tomes la acción de Ataque en tu turno.
@@ -4282,7 +4282,7 @@ Los centinelas son notoriamente independientes, se sienten más cómodos actuando 
 Al crear su centinela, considere su filosofía personal con respecto a la Fuerza y sus practicantes más famosos - los Jedi y los Sith. ¿Eres miembro de una de las dos órdenes, o caminas por un camino diferente? ¿Eres un operativo que se aprovecha de una sensibilidad latente de la Fuerza? ¿Fuiste entrenado en la Fuerza desde joven, o la descubriste de adulto? ¿Cómo tratas a los más débiles que tú? ¿Cómo era tu familia? ¿Ves la Fuerza como algo claro y oscuro, o como un río imparcial de color gris?
 
 #### Quick Build
-Puedes hacer un centinela rápidamente siguiendo estas sugerencias. Primero, haz de la destreza tu mayor puntuación de habilidad, seguida de la sabiduría o el carisma. Segundo, elige el fondo Jedi o Sith.
+Puedes hacer un centinela rápidamente siguiendo estas sugerencias. Primero, haz de la destreza tu mayor puntuación de característica, seguida de la sabiduría o el carisma. Segundo, elige el fondo Jedi o Sith.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -4296,22 +4296,22 @@ Puedes hacer un centinela rápidamente siguiendo estas sugerencias. Primero, haz 
 |	 1st	|	+2	|	Forcecasting, Kinetic Combat				| 	d4	|	 6	|	 3	|	 1st	|
 |	 2nd	|	+2	|	Force-Empowered Self, Sentinel Ideals		|	d4	| 	 7	|	 6	|	 1st	|
 |	 3rd	|	+2	|	Sentinel Calling		    				|	d4	|	 9	|	 9	|	 2nd	|
-|	 4th	|	+2	|	Mejora de Puntuación de Habilidad					|	d4	|	10	|	12	|	 2nd	|
+|	 4th	|	+2	|	Mejora de Puntuación de Característica					|	d4	|	10	|	12	|	 2nd	|
 |	 5th	|	+3	|   Extra Attack								|	d6	|	11	|	15	|	 2nd	|
 |	 6th	|	+3	|	—											|	d6	|	13	|	18	|	 3rd	|
 |	 7th	|	+3	|	Calling feature   				    		|	d6	|	14	|	21	|	 3rd	|
-|	 8th	|	+3	|	Mejora de Puntuación de Habilidad					|	d6	|	15	|	24	|	 3rd	|
+|	 8th	|	+3	|	Mejora de Puntuación de Característica					|	d6	|	15	|	24	|	 3rd	|
 |	 9th	|	+4	|	—   										|	d6	|	17	|	27	|	 4th	|
 |	10th	|	+4	|	Battle Readiness   							|	d6	|	18	|	30	|	 4th	|
 |	11th	|	+4	|	—											|	d8	|	20	|	33	|	 5th	|
-|	12th	|	+4	|	Mejora de Puntuación de Habilidad					|	d8	|	21	|	36	|	 5th	|
+|	12th	|	+4	|	Mejora de Puntuación de Característica					|	d8	|	21	|	36	|	 5th	|
 |	13th	|	+5	|	Calling feature			    				|	d8	|	22	|	39	|	 5th	|
 |	14th	|	+5	|	—           								|	d8	|	24	|	42	|	 6th	|
 |	15th	|	+5	|	Enlightened Evasion							|	d8	|	25	|	45	|	 6th	|
-|	16th	|	+5	|	Mejora de Puntuación de Habilidad					|	d8	|	26	|	48	|	 6th	|
+|	16th	|	+5	|	Mejora de Puntuación de Característica					|	d8	|	26	|	48	|	 6th	|
 |	17th	|	+6	|	—   										|  d10	|	28	|	51	|	 7th	|
 |	18th	|	+6	|	Calling feature	        					|  d10	|	29	|	54	|	 7th	|
-|	19th	|	+6	|	Mejora de Puntuación de Habilidad					|  d10	|	30	|	57	|	 7th	|
+|	19th	|	+6	|	Mejora de Puntuación de Característica					|  d10	|	30	|	57	|	 7th	|
 |	20th	|	+6	|	Center of the Force                			|  d10	|	30	|	60	|	 7th	|
 
 </div>
@@ -4370,7 +4370,7 @@ Muchos poderes de fuerza pueden ser superados, consumiendo más puntos de fuerza 
 
 Sólo puedes lanzar poderes de fuerza en el 5º, 6º y 7º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
-#### Forcasting Ability
+#### Habilidad para Invocar La Fuerza
 Su capacidad de previsión varía según la alineación de los poderes que se le otorgan. Usas tu Sabiduría para los poderes del lado de la luz, Carisma para los del lado de la oscuridad, y Sabiduría o Carisma para los poderes universales (a tu elección). Utilizas este modificador de puntuación de habilidades siempre que un poder se refiera a tu capacidad de previsión. Además, usas este modificador de puntuación de habilidad cuando estableces el tiro salvador DC para una potencia de fuerza que lanzas y cuando haces una tirada de ataque con una.
 
 ___
@@ -4414,8 +4414,8 @@ Puedes manifestar tus ideales dos veces. Ganarás un uso adicional en el 11º nive
 ### Sentinel Calling
 Cuando llegas al 3er nivel, eliges una llamada de centinela, que se detalla al final de la descripción de la clase. Tu llamada te otorga características en el 3er nivel y otra vez en el 7º, 13º y 18º nivel.
 
-### Mejora de Puntuación de Habilidad
-Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
+### Mejora de Puntuación de Característica
+Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Extra Attack
 A partir del 5º nivel, puedes atacar dos veces, en vez de una, siempre que tomes la acción de Ataque en tu turno.
