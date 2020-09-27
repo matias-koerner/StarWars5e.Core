@@ -4043,7 +4043,7 @@ Los exploradores tienden a compartir el conocimiento entre ellos, enfocándose en
 
 \pagebreakNum
 
-## Técnica Deadeye
+## Técnica del Ojo Muerto
 Algunos exploradores se convierten en leyendas escritas en quemaduras de explosivos. Los seguidores de la Técnica Deadeye utilizan el arte de la explosión y utilizan su increíble enfoque para hacer tomas que la mayoría consideraría imposibles. Cuando todo depende de un disparo, quieres un Deadeye apretando el gatillo.
 
 Debido a su extraño enfoque, los Deadeyes pueden hacer disparos que otros tiradores nunca se atreverían a intentar. Los Deadeyes saben cómo aprovechar al máximo las armas de distancia y pueden usarlas con mayor efecto que otros Scouts.
@@ -4052,7 +4052,7 @@ Debido a su extraño enfoque, los Deadeyes pueden hacer disparos que otros tirado
 
 <div style='margin-top:27px'></div>
 
-### Focused Superiority
+### Enfoque de Superioridad
 Cuando eliges esta técnica en el 3er nivel, aprendes maniobras que son alimentadas por dados especiales llamados dados de superioridad.
 
 #### Maniobras
@@ -4060,16 +4060,16 @@ Conoces dos maniobras de tu elección, las cuales se detallan en "Maniobras" más 
 
 Cada vez que aprendes nuevas maniobras, también puedes reemplazar una maniobra que conoces por otra diferente.
 
-#### Superiority Dice
+#### Dados de Superioridad
 Tienes dos dados de superioridad, que son d6s, y ganas más en los niveles más altos, como se muestra en la columna de Dados de Superioridad de la tabla de Superioridad Enfocada de la Técnica Deadeye. Un dado de superioridad se gasta cuando lo usas. Recuperas todos tus dados de superioridad gastados cuando terminas un descanso corto o largo.
 
-#### Saving Throws
+#### Tiradas de Salavación
 Algunas de sus maniobras requieren que su objetivo haga un tiro de salvamento para resistir los efectos de la maniobra. El tiro de salvamento DC se calcula de la siguiente manera:
 
 ___
 <div align="center">
 
-**Maniobra de salvamento DC** = 8 + el bonificador de competencia + tu modificador de Destreza
+**CD salvacion de Maniobra** = 8 + el bonificador de competencia + tu modificador de Destreza
 </div>
 
 ___
@@ -4077,13 +4077,13 @@ ___
 ### Maniobras
 Las maniobras se presentan en orden alfabético.
 
-#### Crippling Shot
+#### Disparo Paralizante
 Cuando golpeas a una criatura con un ataque de arma de fuego a distancia, puedes gastar un dado de superioridad para paralizar su movimiento. Sume el número obtenido al daño del ataque con arma de distancia. La criatura debe tener éxito en un lanzamiento de ahorro de la Constitución o su velocidad de movimiento se reducirá a la mitad. Al final de cada uno de sus turnos, el objetivo puede hacer una tirada de ahorro de Constitución para terminar el efecto.
 
-#### Daring Escape
+#### Escape Audaz
 Puedes gastar un dado de superioridad para tomar la acción de Desacoplamiento como una acción de bonificación hasta el final de tu turno. Hasta el final de este turno, tienes ventaja en todos los chequeos de Fuerza (Atletismo).
 
-#### Covering Fire
+#### Fuego de Cobertura
 Cuando golpeas a una criatura con un ataque de arma de fuego a distancia, puedes gastar un dado de superioridad para maniobrar a uno de tus camaradas en una posición más ventajosa. Añades el dado de superioridad a la tirada de daño del ataque, y eliges una criatura amiga que pueda verte o escucharte. 
 
 Esa criatura puede usar su reacción para moverse hasta la mitad de su velocidad sin provocar ataques de oportunidad desde el objetivo de su ataque.
@@ -4103,57 +4103,57 @@ Cuando golpeas a una criatura con un ataque de arma de fuego a distancia, puedes
 #### Explota la debilidad
 Cuando golpeas a una criatura con un ataque de arma, puedes gastar un dado de superioridad e infligir un daño adicional igual al número obtenido. Este daño no puede ser reducido de ninguna manera.
 
-#### Penetrante disparo
+#### Disparo de Penetración
 Cuando golpeas a una criatura con un ataque de arma de fuego a distancia, puedes gastar un dado de superioridad para intentar dañar a otra criatura con el mismo ataque. Elige hasta dos criaturas dentro de los 15 pies de distancia y directamente detrás de tu objetivo inicial. Si la tirada de ataque original golpea a la segunda criatura(s), recibe un daño igual al número que tiras en tu dado de superioridad.
 
 El daño es del mismo tipo que el del ataque original.
 
-#### Precision Attack
+#### Ataque de Precisión
 Cuando haces una tirada de ataque con arma contra una criatura, puedes gastar un dado de superioridad para añadirlo a la tirada. Puedes usar esta maniobra antes o después de hacer la tirada de ataque, pero antes de que se apliquen los efectos del ataque.
 
-#### Return Fire
+#### Devolver el Fuego
 Cuando una criatura te falla con un ataque a distancia, puedes usar tu reacción y gastar un dado de superioridad para hacer un ataque con un arma a distancia contra la criatura. Si golpeas, añades el dado de superioridad a la tirada de daño del ataque.
 
-### Mark of the Deadeye
+### Marca del Ojo Muerto
 También en el 3er nivel, el alcance de su característica Ranger's Quarry se duplica. Además, al realizar ataques con armas de largo alcance contra el objetivo de tu Ranger's Quarry, el alcance normal y el largo de tus armas de largo alcance se duplican.
 
-### Cover to Cover
+### Entre Coberturas 
 A partir del 7º nivel, las tiradas de ataque hechas contra ti en tu turno se hacen con desventaja.
 
 \columnbreak
 
 <div class='classTable'>
 
-##### Deadeye Technique Focused Superiority
-|Nivel|Focused Superiority|Superiority Dice|Maneuvers Known|
+##### Foco de Superioridad del Ojo Muerto
+|Nivel|Foco de Superioridad|Dados de Superioridad|Maniobras Conocidas|
 |:--:|:--:|:--:|:--:|
-| 3rd| d6|2|2|
-| 4th| d6|2|2|
-| 5th| d6|2|2|
-| 6th| d6|2|2|
-| 7th| d8|3|3|
-| 8th| d8|3|3|
-| 9th| d8|3|3|
-|10th| d8|3|3|
-|11th|d10|3|4|
-|12th|d10|3|4|
-|13th|d10|3|4|
-|14th|d10|3|4|
-|15th|d12|4|5|
-|16th|d12|4|5|
-|17th|d12|4|5|
-|18th|d12|4|5|
-|19th|d12|4|5|
-|20th|d12|4|5|
+| 3| d6|2|2|
+| 4| d6|2|2|
+| 5| d6|2|2|
+| 6| d6|2|2|
+| 7| d8|3|3|
+| 8| d8|3|3|
+| 9| d8|3|3|
+|10| d8|3|3|
+|11|d10|3|4|
+|12|d10|3|4|
+|13|d10|3|4|
+|14|d10|3|4|
+|15|d12|4|5|
+|16|d12|4|5|
+|17|d12|4|5|
+|18|d12|4|5|
+|19|d12|4|5|
+|20|d12|4|5|
 
 </div>
 
-### Shoot First
+### Disparar Primero
 A partir del nivel 11, has aprendido que la persona que dispara primero es a menudo la que sale con vida. Cuando haces un ataque con un arma de distancia contra una criatura que aún no ha actuado durante tu primer turno de combate y tienes ventaja en la tirada, puedes volver a tirar uno de los dados una vez.
 
 Además, en un golpe, se reparte un daño extra de 1d6 del mismo tipo que el arma.
 
-### Overwatch
+### Supervisión
 En el nivel 15, te has convertido en un maestro en la protección de tus aliados a distancia. Cuando una criatura intenta hacer un ataque de oportunidad contra una criatura aliada, o obliga a tu aliado a hacer un lanzamiento de salvación, puedes usar tu reacción para hacer una tirada de ataque contra la criatura enemiga. 
 
 Si tu ataque golpea, o bien impones una desventaja en la tirada de ataque de oportunidad de la criatura enemiga o bien concedes ventaja a los aliados que hagan el tiro de salvamento.
@@ -4162,59 +4162,59 @@ Si tu ataque golpea, o bien impones una desventaja en la tirada de ataque de opo
 
 \pagebreakNum
 
-## Técnica de caza 
+## Técnica del Cazador 
 Algunos exploradores buscan dominar las armas para proteger mejor a la civilización de los terrores de sus enemigos. Los seguidores de la Técnica de Caza aprenden técnicas de combate especializadas para usarlas contra las amenazas más graves, desde una embestida de soldados hasta imponentes caminantes.
 
-### Hunter's Prey 
+### Presa del Cazador
 Al elegir esta técnica en el 3er nivel, se obtiene una de las siguientes características de su elección. 
 
-#### Colossus Slayer
+#### Asesino Colosal
 Tu tenacidad puede desgastar a los enemigos más potentes. Cuando atacas a una criatura con un arma, la criatura recibe 1d8 de daño extra si está por debajo de su punto de ataque máximo. Puedes hacer este daño extra sólo una vez por turno, y este daño es del mismo tipo que el del arma. 
 
-#### Giant Killer
+#### Asesino de Gigantes
 Cuando una criatura grande o más grande a menos de 5 pies de ti te golpea o falla con un ataque, puedes usar tu reacción para atacar a esa criatura inmediatamente después de su ataque, siempre que puedas ver la criatura. 
 
-#### Horde Breaker
+#### Rompe Hordas
 Una vez en cada uno de sus turnos cuando haga un ataque con un arma, puede hacer otro ataque con la misma arma contra una criatura diferente que esté dentro de los 5 pies del objetivo original y dentro del rango de su arma, sin necesidad de acción.
 
-### Mark of the Hunter
+### Marca del Cazador
 También en el tercer nivel, cuando usas la función de Cantera de tu Ranger, la primera vez que hagas un ataque con tecnología o armas contra el objetivo de tu Cantera de Ranger en cada ronda, tira el dado de daño de la Cantera de tu Ranger y añádelo a la tirada.
 
 ### Tácticas defensivas 
 A partir del 7º nivel, se obtiene una de las siguientes características de su elección. 
 
-#### Escape de la Horda
+#### Escapar de la Horda
 Los ataques de oportunidad contra ti se hacen con desventaja.
 
-#### Multiattack Defense
+#### Defensa contra Ataques Múltiples
 Cuando una criatura te golpea con un ataque, ganas un bono +4 a AC contra todos los ataques subsecuentes hechos por esa criatura durante el resto del turno. 
 
 #### Steel Will
 Tienes ventaja en los lanzamientos de salvamento contra el miedo.
 
-### Multiattack 
+### Voluntad de Acero
 A partir del 11º nivel, se obtiene una de las siguientes características de su elección. 
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-#### Volley
+#### Torrente
 Puedes usar tu acción para hacer un ataque a distancia contra cualquier número de criaturas dentro de los 3 metros de un punto que puedas ver dentro del alcance de tu arma. Debes tener municiones para cada objetivo, como es normal, y haces una tirada de ataque separada para cada objetivo. 
 
-#### Whirlwind Attack
+#### Ataque de Torbellino
 Puedes usar tu acción para hacer ataques cuerpo a cuerpo contra cualquier número de criaturas a menos de 5 pies de ti, con una tirada de ataque separada para cada objetivo.
 
-### Superior de la Defensa del Cazador 
+### Defensa Superior del Cazador
 En el nivel 15, obtienes una de las siguientes características de tu elección. 
 
 #### Evasión
 Cuando se le somete a un efecto, como una *tormenta de fuerza* consular o una *explosión* de un ingeniero, que le permite hacer un tiro de ahorro de destreza para recibir sólo la mitad del daño, no recibe ningún daño si tiene éxito en un tiro de ahorro, y sólo la mitad del daño si falla.
 
-#### Stand Against the Tide
+#### Contracorriente
 Cuando una criatura hostil te falla con un ataque cuerpo a cuerpo, puedes usar tu reacción para forzar a esa criatura a repetir el mismo ataque contra otra criatura (que no sea ella misma) de tu elección. 
 
-#### Uncanny Dodge
+#### Esquiva Asombrosa
 Cuando un atacante que puedes ver te golpea con un ataque, puedes usar tu reacción para reducir a la mitad el daño del ataque contra ti.
 
 <img src='https://www.gmbinder.com/images/vyRjX3r.png' style='position:absolute;bottom:0px;right:0px;width:500px;z-index:1000;' />
@@ -4223,28 +4223,28 @@ Cuando un atacante que puedes ver te golpea con un ataque, puedes usar tu reacci
 
 \pagebreakNum
 
-## Técnica de acosador
+## Técnica del Hostigador
 Algunos exploradores se consumen por la emoción de la caza. Sólo oídos y nunca vistos se deleitan con la violencia de la batalla. Los seguidores de la Técnica del Acosador perfeccionan sus habilidades para rastrear a otros utilizando una variedad de técnicas: camuflaje, infiltración, vigilancia y adquisición de objetivos.
 
-### Accomplished Ambusher
+### Emboscador Consumado
 Cuando se elige esta técnica en el 3er nivel, al realizar la acción de Ataque contra una criatura que es sorprendida, se puede realizar un ataque adicional contra esa criatura como parte de esa acción.
 
-### Mark of the Stalker
+### Marca del Hostigador
 También en el tercer nivel, mientras estés oculto del objetivo de tu característica de Cantera del Ranger, la primera tirada de ataque que hagas en cada ronda contra esa criatura no revela automáticamente tu presencia a esa criatura. Haz un chequeo de Destreza (sigilo) que se cuestione por el chequeo de Sabiduría (percepción) de tu objetivo. Si tienes éxito, permanecerás oculto. Si estás a menos de 30 pies de tu objetivo, el chequeo de Destreza (Sigilo) se hace con desventaja.
 
-### Concealment
+### Ocultamiento
 Comenzando en el 7º nivel, te has convertido en un experto en evadir criaturas que dependen de la visión oscura. Mientras estás en la oscuridad, eres invisible para cualquier criatura que dependa de la visión oscura para verte en esa oscuridad.
 
 Además, cuando golpeas a una criatura con un ataque de arma de fuego a distancia mientras está oculta, puedes forzar a esa criatura a hacer un lanzamiento de salvamento de destreza contra tu DC de salvamento tecnológico. En una salvada fallida, la velocidad de la criatura se reduce a 0 hasta el final de tu siguiente turno. Puedes usar esta característica un número de veces igual a tu modificador de Inteligencia (mínimo de uno). Recuperas todos los usos gastados cuando terminas un descanso corto o largo.
 
-### Stalker's Flurry
+### Rafaga del Hostigador
 A partir del nivel 11, si tienes ventaja en un ataque con armas contra un objetivo en tu turno, puedes renunciar a esa ventaja para hacer inmediatamente un ataque con armas adicionales contra el mismo objetivo como una acción de bonificación.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Stalker's Dodge
+### Evasión de Hostigador
 En el nivel 15, cuando una criatura te ataca y no tiene ventaja, puedes usar tu reacción para imponer una desventaja en la tirada de ataque de la criatura contra ti. Puedes usar esta característica antes o después de que se haga la tirada de ataque, pero debe ser usada antes de que se determine el resultado de la tirada.
 
 <img src='https://www.gmbinder.com/images/2P5Z0ak.png' style='position:absolute;bottom:24px;right:-180px;width:880px;z-index:1000;' />
@@ -4253,7 +4253,7 @@ En el nivel 15, cuando una criatura te ataca y no tiene ventaja, puedes usar tu 
 
 \pagebreakNum
 
-## Sentinel
+## Centinela
 <span style="font-variant: small-caps">Caminado con túnicas negras, el rattataki tira de su capucha hacia adelante y</span> entra en la alcoba sombría, sólo para reaparecer más abajo en el pasillo. Al pasar su presa, presiona la empuñadura de su sable láser en la parte posterior de su cabeza, encendiéndola y apagándola rápidamente. Se ha ido antes de que el cadáver toque el suelo.
 
 El togruta corre a través del campo de batalla, el sable doble desviando los disparos al suelo. Se pone de pie la padawan herida y la guía lejos de la zona de guerra.
