@@ -33,8 +33,8 @@ Elija entre las siguientes opciones de clase:
 |Guerrero|Combatiente versatil que sobresale tanto a distancia como en el combate cerrado|d10|Fuerza|Fuerza y Constitución|
 |Guardián|Practicante de La Fuerza enfocado al combate cuerpo a cuerpo|d10|Fuerza|Constitución y Carisma|
 |Monje|Combatiente desarmado que usa concentración para desatar sus habilidades|d8|Destreza|Fuerza y Destreza|
-|Granuja|Regulador centrado en el sigilo y otras tecnicas|d8|Destreza|Destreza e Inteligencia|
-|Noble|Academico que usa su ingenio y aliados para controlar el campo de batalla|d8|Inteligencia|Sabiduría e Inteligencia|
+|Operativo|Regulador centrado en el sigilo y otras tecnicas|d8|Destreza|Destreza e Inteligencia|
+|Erudito|Academico que usa su ingenio y aliados para controlar el campo de batalla|d8|Inteligencia|Sabiduría e Inteligencia|
 |Explorador|Combatiente versatil que une poderes tecnologicos y las armas|d10|Destreza|Fuerza y Destreza|
 |Centinela|Practicante de La Fuerza que combina los poderes de La Fuerza y el combate cuerpo a cuerpo|d8|Destreza|Destreza y Carisma|
 </div>
@@ -1015,7 +1015,7 @@ _**Prerequisito:** Armadura.
 Mientras llevas tu armadura modificada, tienes una visión oscura a un rango de 60 pies. Si ya tienes la visión oscura, esta modificación aumenta su alcance en 30 pies.
 
 #### Resistencia Mejorada
-_**Prerequisite:**: Armadura.
+_**Prerequisito:**: Armadura.
 Cuando se te reduce a 0 puntos de golpe mientras llevas tu armadura modificada pero no mueres en el acto, puedes bajar a 1 punto de golpe en su lugar. No puedes usar esta característica de nuevo hasta que termines un largo descanso.
 
 #### Escudo Electrizante
@@ -2550,14 +2550,14 @@ Puedes hacer un monje rápidamente siguiendo estas sugerencias. Primero, haz de l
 |	10	|+4	|	Pureza del Cuerpo	|	d6	|	10	|+20 ft.	|
 |	11	|+4	|	Rasgo de Tradición Monástica	|	d8	|	11	|+20 ft.	|
 |	12	|+4	|	Mejora de Puntuación de Característica	|	d8	|	12	|+20 ft.	|
-|	13	|+5	|	Tongue of the Sun y Moon	|	d8	|	13	|+20 ft.	|
-|	14	|+5 |	Diamond Soul	|	d8	|	14	|+25 ft.	|
-|	15	|+5	|	Timeless Body	|	d8	|	15	|+25 ft.	|
+|	13	|+5	|	Lengua del Sol y la Luna	|	d8	|	13	|+20 ft.	|
+|	14	|+5 |	Alma Diamantina	|	d8	|	14	|+25 ft.	|
+|	15	|+5	|	Cuerpo Imperecedero	|	d8	|	15	|+25 ft.	|
 |	16	|+5	|	Mejora de Puntuación de Característica	|	d8	|	16	|+25 ft.	|
-|	17	|+6	|	Monastic Order feature	|	d10	|	17	|+25 ft.	|
-|	18	|+6 |	Empty Body	|	d10	|	18	|+30 ft.	|
+|	17	|+6	|	Rasgo de Tradición Monástica	|	d10	|	17	|+25 ft.	|
+|	18	|+6 |	Cuerpo Vacío	|	d10	|	18	|+30 ft.	|
 |	19	|+6	|	Mejora de Puntuación de Característica	|	d10	|	19	|+30 ft.	|
-|	20	|+6	|	Perfect Self	|	d10	|	20	|+30 ft.	|
+|	20	|+6	|	Perfección de Uno Mismo	|	d10	|	20	|+30 ft.	|
 
 </div>
 
@@ -2573,7 +2573,7 @@ ___
 #### Proficiency
 ___
 - **Blindaje:** Ninguno
-- **Armas:** simples blasters, simples vibroarmas, chakrams, techblades
+- **Armas:** blasters simples, vibroarmas simples, chakrams, tecnocuchillas
 - **Herramientas:** Ninguna
 ___
 - **Salvando tiros:** Fuerza, Destreza
@@ -2585,25 +2585,25 @@ ___
 
 #### Equipo
 Comienza con el siguiente equipo, además del que le otorgan sus antecedentes:
-- *(a)* un chakram, *(b)* una cuchilla tecnológica, *(c)* una simple arma vibratoria, o *(d)* una simple pistola y una célula de poder
-- *(a)* una manada de mazmorras o *(b)* una manada de exploradores
+- *(a)* un chakram, *(b)* una tecnocuchilla, *(c)* una vibroarma simple, o *(d)* un blaster sencillo y una célula energía
+- *(a)* un equipo de saqueador o *(b)* un equipo de explorador
 - 10 vibrodardos
 
 #### Variante: Riqueza inicial 
 En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
-|Clase		|Fondos...		|						
-	|:--			|--:			|
-|Monk...		|1	.000 + 1d4 x 100 cr.
+|Clase		|	Fondos		|						
+|	:--		|	--:			|
+|	Monje	|	1	.000 + 1d4 x 100 cr|
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Unarmored Defense
+### Defensa sin Armadura
 A partir del primer nivel, mientras no lleves armadura y no lleves un escudo, tu AC es igual a 10 + tu modificador de Destreza + tu modificador de Sabiduría o Carisma (a tu elección).
 
-### Martial Arts
+### Artes Marciales
 En el primer nivel, la práctica de las artes marciales te da el dominio de los estilos de combate que utilizan golpes sin armas y armas de monje, que son chakrams, techblades, y cualquier arma simple de vibro-arma que no tenga la propiedad de dos manos.
 
 Obtienes los siguientes beneficios mientras estés desarmado o empuñes sólo armas de monje y no lleves una armadura o un escudo:
@@ -2611,7 +2611,7 @@ Obtienes los siguientes beneficios mientras estés desarmado o empuñes sólo armas
 - Puedes rodar un d4 en lugar del daño normal de tu ataque desarmado o arma de monje. Este dado cambia a medida que ganas niveles de monje, como se muestra en la columna de Artes Marciales de la tabla de monjes.
 - Cuando usas la acción de Ataque con un ataque desarmado o un arma de monje en tu turno, puedes hacer un ataque desarmado como una acción extra. Por ejemplo, si realizas la acción Ataque y atacas con una vibroestaca, también puedes realizar un ataque desarmado como acción de bonificación, suponiendo que no hayas realizado ya una acción de bonificación en este turno.
 
-### Focus
+### Enfoque
 A partir del 2º nivel, tu entrenamiento te permite aprovechar la energía mística de la concentración. Tu acceso a esta energía está representado por un número de puntos de enfoque. Tu nivel de monje determina el número de puntos que tienes, como se muestra en la columna Puntos de enfoque de la tabla de monjes.
 
 Puedes gastar estos puntos para alimentar varias características de enfoque. Empiezas a conocer tres de esas características: Ráfaga de golpes, Defensa del paciente y Paso del viento. Aprenderás más características de enfoque a medida que ganes niveles en esta clase.
@@ -2624,34 +2624,34 @@ ___
 
 <div align="center">
 
-**Focus save DC** = 8 + el bonificador de competencia + <br> el modificador de Sabiduría o Carisma (su elección)
+**CD Salvación de Enfoque** = 8 + el bonificador de competencia + <br> el modificador de Sabiduría o Carisma (su elección)
 
 </div>
 
 ___
 
-#### Flurry of Blows
+#### Ráfaga de Golpes
 Inmediatamente después de realizar la acción de Ataque en tu turno, puedes gastar un punto de enfoque para hacer dos ataques sin armas como acción extra.
 
-#### Defensa del Paciente
+#### Defensa Paciente
 Puedes gastar 1 punto de enfoque para tomar la acción de Esquivar como una acción extra en tu turno.
 
 \columnbreak
 
 <div style='margin-top:23px'></div>
 
-#### Step of the Wind
+#### Andar del Viento
 Puedes gastar 1 punto de enfoque para realizar la acción de Desenganche o Carrera como una acción extra en tu turno, y tu distancia de salto se duplica para el turno.
 
-### Unarmored Movement
+### Movimiento sin Armadura
 Comenzando en el 2º nivel, su velocidad aumenta en 3 metros mientras no lleve una armadura o un escudo. Este bonus aumenta cuando alcanzas ciertos niveles de monje, como se muestra en la tabla de monjes.
 
 En el noveno nivel, se gana la capacidad de moverse a lo largo de las superficies verticales y a través de los líquidos en su turno sin caerse durante el movimiento.
 
-### Monastic Order
+### Tradición Monástica
 Cuando llegas al tercer nivel, te comprometes con una orden monástica, que se detalla al final de la descripción de la clase. Tu orden te otorga características en el 3er nivel y otra vez en el 6º, 11º y 17º nivel.
 
-### Desviar los misiles
+### Desviar Proyectiles
 A partir del tercer nivel, puedes usar tu reacción para desviar un proyectil cuando te golpee un ataque de arma de fuego a distancia. Cuando lo haces, el daño que recibes del ataque se reduce en 1d10 + tu modificador de Destreza + tu nivel de monje.
 
 Si reduces el daño a 0, y el daño es de energía o de iones, puedes redirigirlo a otro objetivo si tienes un arma capaz de hacerlo. Puedes gastar 1 punto de enfoque para hacer un ataque a distancia mientras desvías el proyectil, como parte de la misma reacción. Haces este ataque con destreza, independientemente de la destreza de tu arma, y el proyectil cuenta como un arma de monje para el ataque.
@@ -2659,51 +2659,51 @@ Si reduces el daño a 0, y el daño es de energía o de iones, puedes redirigirlo a
 ### Mejora de Puntuación de Característica
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
-### Slow Fall
+### Caída Lenta
 A partir del 4º nivel, puedes usar tu reacción cuando caes para reducir el daño que recibes por una cantidad igual a cinco veces tu nivel de monje.
 
-### Extra Attack
+### Ataque Extra
 A partir del 5º nivel, puedes atacar dos veces, en vez de una, siempre que tomes la acción de Ataque en tu turno.
 
-### Stunning Strike
+### Golpe Aturdidor
 A partir del 5º nivel, puedes interferir con el cuerpo de un oponente. Cuando golpeas a otra criatura con un ataque de arma de fuego cuerpo entero, puedes gastar 1 punto de enfoque para intentar un golpe impresionante. El objetivo debe tener éxito en un lanzamiento de salvamento de la Constitución o ser aturdido hasta el final de tu próximo turno.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Focused Strikes
+### Golpes Potenciados con Enfoque
 A partir del 6º nivel, tus golpes sin armas cuentan como mejorados con el propósito de superar la resistencia e inmunidad a los ataques y daños no mejorados.
 
-### Evasion
+### Evasión
 En el séptimo nivel, tu agilidad instintiva te permite esquivar los efectos de ciertas áreas. Cuando se te somete a un efecto, como una *tormenta de fuerza* consular o una *explosión* de un ingeniero, que te permite hacer un tiro de ahorro de destreza para recibir sólo la mitad del daño, no recibes ningún daño si tienes éxito en un tiro de ahorro, y sólo la mitad del daño si fallas.
 
-### Stillness of Mind
+### Quietud de la Mente
 A partir del 7º nivel, puedes usar tu acción para acabar con un efecto en ti mismo que te causa un encanto o un miedo.
 
-### Purity of Body
+### Pureza del Cuerpo
 En el décimo nivel, tu dominio del foco que fluye a través de ti te hace inmune a las enfermedades y al veneno.
 
-### Tongue of the Sun y Moon
+### Lengua del Sol y la Luna
 A partir del nivel 13, aprendes a tocar el foco de otras mentes para que entiendas todos los idiomas hablados. Además, cualquier criatura que pueda entender un idioma puede entender lo que dices.
 
-### Diamond Soul
+### Alma Diamantina
 A partir del nivel 14, tu dominio de la concentración te permite dominar todos los lanzamientos de salvamento.
 
 Además, cada vez que hagas un lanzamiento de salvamento y falles, puedes gastar un punto de enfoque para repetirlo y obtener el segundo resultado.
 
-### Timeless Body
+### Cuerpo Imperecedero
 En el nivel 15, tu enfoque te sostiene para que no sufras la fragilidad de la vejez, y no puedas envejecer anormalmente. Sin embargo, todavía puedes morir de viejo. Además, ya no necesitas comida o agua.
 
-### Emptyty Body
+### Cuerpo Vacío
 Comenzando en el nivel 18, puedes usar tu acción para pasar 4 puntos de enfoque para volverte invisible durante 1 minuto. Durante ese tiempo, también <br> tienes resistencia a todo el daño pero <br> daño de fuerza.
 
 \columnbreak
 
-### Perfect Self
+### Perfección de Uno Mismo
 En el nivel 20, has ganado un control perfecto sobre tu cuerpo. Tus puntuaciones de Destreza y Sabiduría o Carisma (a tu elección) aumentan en 2. Tu máximo para esas puntuaciones aumenta en 2. Además, cuando ruedes por iniciativa y no te queden puntos de enfoque, recuperas 2 puntos de enfoque.
 
-## Ordenes Monásticas
+## Tradiciones Monásticas
 Las tradiciones de la persecución monástica son comunes en los lugares dispersos por toda la galaxia. Cada orden se basa en una cultura específica y se excluyen mutuamente, a pesar de que se basan en las mismas técnicas básicas.
 
 <img src='https://www.gmbinder.com/images/WjNSTbI.png' style='position:absolute;bottom:11px;right:-65px;width:830px;transform:scaleX(-1);z-index:1000' />
@@ -2712,38 +2712,38 @@ Las tradiciones de la persecución monástica son comunes en los lugares dispersos
 
 \pagebreakNum
 
-## Orden de Echani
+## Tradición Echani
 Los monjes de la Orden de Echani se entrenan implacablemente con y sin sus armas, hasta que el arma se convierte en una extensión del cuerpo. Fundada en el dominio de la lucha con espadas, la tradición se ha expandido para incluir muchas armas diferentes.
 
-### Path of the Echani
+### Camino Echani
 A partir de la elección de esta orden en el 3er nivel, tu entrenamiento especial de artes marciales te lleva a dominar el uso de ciertas armas. Obtienes los siguientes beneficios.
 
-#### Echani Weapons
+#### Armas Echani
 Elija dos tipos de armas para ser sus armas de Echani: un vibro-arma y un blaster. Cada una de estas armas puede ser cualquier arma simple o marcial que carezca de la propiedad especial. Ganarás destreza con estas armas si no las tienes ya. Las armas de los tipos elegidos son las armas de los monjes para ti. Muchas de las características de esta tradición funcionan sólo con tus armas de Echani. Cuando alcances el 6º, 11º y 17º nivel en esta clase, puedes elegir otro tipo de arma para que sea un arma Echani para ti, siguiendo los criterios anteriores.
 
-#### Agile Parry
+#### Parada Ágil
 Si haces un ataque sin armas como parte de la acción de ataque en tu turno y tienes un arma Echani, puedes usarla para defenderte si es un arma de combate cuerpo a cuerpo. Ganarás un bono +2 a AC hasta el comienzo de tu próximo turno, mientras el arma esté en tu mano y no estés incapacitado.
 
-#### Echani's Shot
+#### Disparo Echani
 Puedes usar una acción extra en tu turno para hacer tus ataques a distancia con un arma Echani más mortíferos. Cuando lo haces, cualquier objetivo que golpees con un ataque a distancia con un arma Echani recibe un daño extra de 1d4 del tipo del arma. Usted retiene este beneficio hasta el final del turno actual.
 
-### One with the Blade
+### Uno con la Hoja
 En el 6º nivel, extiendes tu enfoque a tus armas de Echani, concediéndote los siguientes beneficios.
 
-#### Enhanced Echani Weapons
+#### Armas Aumentadas Echani
 Sus ataques con sus armas Echani cuentan como mejorados con el propósito de superar la resistencia e inmunidad a los ataques y daños no mejorados.
 
-#### Deft Strike
+#### Golpe Ágil
 Cuando le das a un objetivo con un arma Echani, puedes gastar 1 punto de enfoque para causar que el arma cause un daño extra al objetivo igual a tu muerte en las artes marciales. Puedes usar esta característica <br> sólo una vez en cada uno de tus giros <br>.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Sharpen the Blade
+### Afilando la Hoja
 A partir del 11º nivel, se obtiene la capacidad de aumentar las armas con la concentración. Como acción de bonificación, puedes gastar hasta 3 puntos de enfoque para conceder a un arma de Echani que toques una bonificación para atacar y tiradas de daño cuando ataques con ella. La bonificación es igual al número de puntos que has gastado. Esta bonificación dura 1 minuto o hasta que vuelvas a utilizar esta función. Esta característica no tiene ningún efecto en un arma mejorada que ya tenga una bonificación para atacar y hacer tiradas de daño.
 
-### Unerring Accuracy
+### Precisión Infalible
 En el nivel 17, su dominio de las armas le otorga una precisión extraordinaria. Si fallas con una tirada de ataque usando un arma de monje en tu turno, puedes volver a tirar. Puedes usar esta característica <br> sólo una vez en cada uno de tus turnos. 
 
 <img src='https://www.gmbinder.com/images/WActKA4.png' style='position:absolute;bottom:12px;right:-120px;width:840px;z-index:1000;' />
@@ -2752,10 +2752,10 @@ En el nivel 17, su dominio de las armas le otorga una precisión extraordinaria. 
 
 \pagebreakNum
 
-## Nightsister Order
+## Orden de Las Hermanas de la Noche
 Los monjes de la Orden de la Nightsister utilizan una sensibilidad de fuerza innata para comunicarse con la muerte. Aprenden a canalizar este poder para drenar la vida de sus enemigos para prolongar su propia existencia. Los machos que se unen a esta orden se llaman Nightbrothers.
 
-### Ichor Lightning
+### Rayo Ichor
 A partir de la elección de este orden en el 3er nivel, se obtiene una nueva opción de ataque que se puede utilizar con la acción de Ataque. Este ataque especial es un ataque de fuerza a distancia con un rango de 30 pies. Eres experto en él, y añades tu modificador de Destreza a sus tiradas de ataque y daño. Su daño es necrótico, y su dado de daño es un d4. Este dado cambia a medida que ganas niveles de monje, como se muestra en la columna de Artes Marciales de la tabla de monjes.
 
 Cuando tomas la acción de Ataque en tu turno y utilizas este ataque especial como parte de él, puedes gastar 1 punto de enfoque para hacer el ataque especial dos veces como una acción de bonificación.
@@ -2764,17 +2764,17 @@ Cuando obtienes la característica de Ataque extra, este ataque especial puede se
 
 Cuando reduces una criatura a 0 puntos de golpe con este ataque, obtienes puntos de golpe temporales iguales a tu modificador de Sabiduría o Carisma + tu nivel de monje (a tu elección, mínimo uno).
 
-### Dark Magick
+### Magia Oscura
 En el sexto nivel, puedes usar tu acción para forzar a cada criatura a menos de 30 pies de ti que pueda verte a hacer un lanzamiento de sabiduría contra tu foco o ser encantado o asustado (a tu elección) hasta el final de tu próximo turno. 
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Mastery of Death
+### Dominio de la muerte
 A partir del 11º nivel, cuando se reduce a 0 puntos de golpe, puedes gastar 1 punto de enfoque (no se requiere acción) para tener 1 punto de golpe en su lugar.
 
-### Spirit Blade Assault
+### Asalto de la Hoja Espiritual
 En el nivel 17, como acción, conjuras una hoja de energía negativa y golpeas a una criatura a menos de 1,5 metros de ti con ella, gastando de 1 a 10 puntos de enfoque. El objetivo debe hacer un lanzamiento de ahorro de la Constitución. En una salvada fallida, se necesita 2d10 de daño necrótico por cada punto de enfoque gastado, o la mitad en una salvada exitosa. 
 
 <img src='https://www.gmbinder.com/images/R0ZTJew.png' style='position:absolute;bottom:24px;right:-30px;width:700px;z-index:1000;' />
@@ -2783,16 +2783,16 @@ En el nivel 17, como acción, conjuras una hoja de energía negativa y golpeas a u
 
 \pagebreakNum
 
-## Teräs Käsi Order
+## Orden Teräs Käsi
 Los monjes de la Orden Teräs Käsi son los maestros supremos del combate de artes marciales, ya sea armados o no. Aprenden técnicas para empujar y hacer tropezar a sus oponentes, manipulan la concentración para curar los daños en sus cuerpos y practican una meditación avanzada que puede protegerlos de los daños.
 
-### Open Hand Technique
+### Tecnica de la Mano Abierta
 A partir de la elección de este orden en el 3er nivel, puedes manipular el enfoque de tu enemigo cuando aprovechas el tuyo. Cada vez que golpees a una criatura con uno de los ataques concedidos por tu Ráfaga de golpes, puedes imponer uno de los siguientes efectos a ese objetivo:
 - Debe tener éxito en un tiro de salvamento de Destreza o ser derribado.
 - Debe hacer un tiro de salvamento de la fuerza. Si falla, puedes empujarlo hasta 15 pies de distancia de ti.
 - No puede tomar reacciones hasta el final de su siguiente turno.
 
-### Wholeness of Body
+### Integridad del Cuerpo
 En el 6º nivel, obtienes la habilidad de curarte a ti mismo. Como acción, puedes recuperar puntos de golpe iguales a tres veces tu nivel de monje. 
 
 Una vez que hayas usado esta función, debes completar un largo descanso antes de poder usarla de nuevo.
@@ -2804,7 +2804,7 @@ Una vez que hayas usado esta función, debes completar un largo descanso antes de
 ### Tranquilidad
 A partir del 11º nivel, puedes entrar en una meditación especial que te rodea con un aura de paz. Al final de un largo descanso, obtienes el efecto de un poder de fuerza *santuario* que dura hasta el comienzo de tu siguiente largo descanso (el poder puede terminar antes de lo normal). El tiro de ahorro de CC para el poder es igual a tu enfoque de ahorro de CC.
 
-### Quivering Palm
+### Palma Temblorosa
 En el nivel 17, se obtiene la capacidad de establecer vibraciones letales en el cuerpo de alguien. Cuando golpeas a una criatura con un golpe sin armas, puedes gastar 3 puntos de enfoque para iniciar estas vibraciones imperceptibles, que duran un número de días igual al de tu nivel de monje. Las vibraciones son inofensivas a menos que uses tu acción para terminarlas. Para hacerlo, tú y el objetivo deben estar en el mismo planeta. Cuando usas esta acción, la criatura debe hacer un tiro de salvamento de la Constitución. Si falla, se reduce a 0 puntos de golpe. Si tiene éxito, recibe 10d10 de daño necrótico.
 
 Sólo se puede tener una criatura bajo el efecto de <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;esta característica a la vez. Puede elegir <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;terminar las vibraciones inofensivamente<br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(no se requiere ninguna acción).
@@ -2816,7 +2816,7 @@ Sólo se puede tener una criatura bajo el efecto de <br> &emsp;&emsp;&emsp;&emsp;
 \pagebreakNum
 
 ## Operativo
-<Un espía de Bothan se toma un momento para ajustar sus gafas de infrarrojos. Contando los segundos en su cabeza, ella corta la computadora central. Veinte segundos. Diez segundos. Un puñado de soldados irrumpe en la habitación, pero ella ya se ha ido - con los datos en la mano. 
+<span style="font-variant: small-caps">Un espía de Bothan se toma un momento para ajustar sus gafas de infrarrojos.</span> Contando los segundos en su cabeza, ella corta la computadora central. Veinte segundos. Diez segundos. Un puñado de soldados irrumpe en la habitación, pero ella ya se ha ido - con los datos en la mano. 
 
 Con un ojo cauteloso en la puerta, un Duros de aspecto desaliñado juega al pazaak en una sórdida cantina. Cuando dos guardias de la ciudad aparecen a la salida, sonríe y se mete debajo de la mesa. Antes de que puedan entrar, el contrabandista da la vuelta a la mesa y abre fuego. La multitud se dispersa en pánico, dándole la cobertura justa para escapar. 
 
@@ -2826,12 +2826,12 @@ Los operativos, ya sean buenos, malos o neutrales, son aquellos que se centran e
 
 <div style='margin-top:137px'></div>
 
-### Evading Danger
+### Evadiendo el Peligro
 Los operativos tienen un don para salir de los problemas. Tienen un instinto de autoconservación que los mantiene vivos, pero normalmente está templado con la necesidad de experimentar las emociones que su profesión tiene para ofrecer, y muchos operativos aventureros también están cargados con un sentido del honor que a veces les hace ir en contra de sus inclinaciones naturales. No importa cuáles sean sus preocupaciones inmediatas, la supervivencia es el nombre del juego.
 
 <div style='margin-top:137px'></div>
 
-### Outside the Law
+### Fuera de la Ley
 Los operativos no suelen empezar a buscar desafiar a la autoridad y violar la ley. Algunos son empujados a la profesión como un medio de rebelión. Otros terminan en el lado equivocado de la ley debido a la mala suerte, malas decisiones, o circunstancias fuera de su control. Las habilidades que adquieren en el camino los hacen grandes miembros de cualquier equipo de misión.
 
 \columnbreak
@@ -2840,10 +2840,10 @@ Los operativos no suelen empezar a buscar desafiar a la autoridad y violar la le
 
 <img src='https://www.gmbinder.com/images/62G6gbZ.png' style='position:absolute;top:49px;right:0px;width:460px;mix-blend-mode:darken' />
 
-### Creating an Operative
+### Creando un Operativo
 Mientras crea su personaje operativo, considere cómo comenzó su camino. Tal vez te criaste en la calle y caíste en el elemento criminal como medio de supervivencia. Podrías ser un simple comerciante que decidió atacar al Imperio Sith cuando éste invadió tu negocio. ¿Cuál diría que es su mayor conjunto de habilidades? ¿Cuál es su núcleo, la verdadera esencia de usted mismo que le mantiene centrado? ¿Por qué la sociedad te trataría como un criminal, y sin embargo tus aliados te consideran un compañero leal?
 
-#### Quick Build
+#### Creación Rápida
 Puedes hacer un operativo rápidamente siguiendo estas sugerencias. Primero, haz de la destreza tu mayor puntuación de característica, seguida de la inteligencia o el carisma. Segundo, elige el fondo de jugador.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -2852,29 +2852,29 @@ Puedes hacer un operativo rápidamente siguiendo estas sugerencias. Primero, haz 
 
 <div class='classTable wide'>
 
-##### The Operative
-|	Level	|	Proficiency<br> Bonus	|	Features	|   Sneak Attack<br> Damage Dice	|   	
+##### El Operativo
+|	Nivel	|	Bonificador<br> de<br> Competencia	|	Rasgos	|   Ataque<br> Furtivo	|   	
 |	:--:	|	:--:	|	:--	|	:--:	|
-|	 1st	|	+2	|   Expertise, Sneak Attack	    |   1d6 |
-|	 2nd	|	+2	|   Bad Feeling, Cunning Action	|   1d6 |
-|	 3rd	|	+2	|   Operative Practice          |   2d6 |
-|	 4th	|	+2	|   Mejora de Puntuación de Característica	|   2d6 |
-|	 5th	|	+3	|   Uncanny Dodge	            |   3d6 |
-|	 6th	|	+3	|   Expertise	                |   3d6 |
-|	 7th	|	+3	|   Evasion	                    |   4d6 |
-|	 8th	|	+3	|   Mejora de Puntuación de Característica	|   4d6 |
-|	 9th	|	+4	|   Practice feature        	|   5d6 |
-|	10th	|	+4	|   Mejora de Puntuación de Característica	|   5d6 |
-|	11th	|	+4	|   Reliable Talent         	|   6d6 |
-|	12th	|	+4	|   Mejora de Puntuación de Característica	|   6d6 |
-|	13th	|	+5	|   Practice feature        	|   7d6 |
-|	14th	|	+5	|   Blindsense	                |   7d6 |
-|	15th	|	+5	|   Slippery Mind	            |   8d6 |
-|	16th	|	+5	|   Mejora de Puntuación de Característica	|   8d6 |
-|	17th	|	+6	|   Practice feature        	|   9d6 |
-|	18th	|	+6	|   Elusive	                    |   9d6 |
-|	19th	|	+6	|   Mejora de Puntuación de Característica	|  10d6 |
-|	20th	|	+6	|   Stroke of Luck	            |  10d6 |
+|	 1	|	+2	|   Experto, Ataque Furtivo	    			|   1d6 |
+|	 2	|	+2	|   Mal Presentimiento, Acción Astuta		|   1d6 |
+|	 3	|	+2	|   Practica Operativa          			|   2d6 |
+|	 4	|	+2	|   Mejora de Puntuación de Característica	|   2d6 |
+|	 5	|	+3	|   Esquiva Asombrosa	            		|   3d6 |
+|	 6	|	+3	|   Pericia	                				|   3d6 |
+|	 7	|	+3	|   Evasión	                    			|   4d6 |
+|	 8	|	+3	|   Mejora de Puntuación de Característica	|   4d6 |
+|	 9	|	+4	|   Rasgo de Practica Operativa        		|   5d6 |
+|	10	|	+4	|   Mejora de Puntuación de Característica	|   5d6 |
+|	11	|	+4	|   Talento Seguro         					|   6d6 |
+|	12	|	+4	|   Mejora de Puntuación de Característica	|   6d6 |
+|	13	|	+5	|   Rasgo de Practica Operativa        		|   7d6 |
+|	14	|	+5	|   Sentido Ciego	                		|   7d6 |
+|	15	|	+5	|   Mente Escurridiza	            		|   8d6 |
+|	16	|	+5	|   Mejora de Puntuación de Característica	|   8d6 |
+|	17	|	+6	|   Rasgo de Practica Operativa        		|   9d6 |
+|	18	|	+6	|   Escurridizo	                    		|   9d6 |
+|	19	|	+6	|   Mejora de Puntuación de Característica	|  10d6 |
+|	20	|	+6	|   Golpe de Suerte	            			|  10d6 |
 
 </div>
 
@@ -2883,18 +2883,18 @@ Como operativo, tienes las siguientes características de clase.
 
 #### Puntos de Golpe
 ___
-- **Dados de Golpe:** 1d8 per operative level
-- **Puntos de Golpe at 1st Level:** 8 + el modificador de Constitución 
-- **Puntos de Golpe at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per operative level after 1st
+- **Dados de Golpe:** 1d8 por nivel de operativo
+- **Puntos de Golpe al 1er Nivel:** 8 + el modificador de Constitución 
+- **Puntos de Golpe a Niveles superiores:** 1d8 (or 5) + el modificador de Constitución por nivel de operativo superior a 1
 
-#### Proficiencies
+#### Competencias
 ___
-- **Armor:** Armadura ligera
-- **Weapons:** Blasters sencillos, Vibroarmas sencillas, blaster pistol, hidden blade, techblade, vibrorapier
-- **Tools:** Your choice of demolitions kit, disguise kit, forgery kit, poisoner's kit, security kit, or slicer's kit
+- **Armadura:** Armadura ligera
+- **Armas:** Blasters sencillos, Vibroarmas sencillas, Pistolas Blasters, Cuchilla Opculta, Tecnocuchillas, Vibroespadín
+- **Herramientas:** Uno de entre el kit de demoliciones, kit de ocultación, kit de falsificación, kit de envenenador, kit de seguridad, o kit de hacker
 ___
-- **Saving Throws:** Destreza, Inteligencia
-- **Skills:** Choose four from Acrobatics, Atletismo, Engaño, Perspicacia, Intimidación, Investigación, Percepción, Performance, Persuasión, Piloting, Sleight of Hand, Stealth, y Technology
+- **Tiradas de Salvación:** Destreza, Inteligencia
+- **Habilidades:** Elige cuatro de entre Acrobacias, Atletismo, Engaño, Perspicacia, Intimidación, Investigación, Percepción, Interpretación, Persuasión, Piloting, Juego de Manos, Sigilo, y Tecnologia
 
 \columnbreak
 
@@ -2902,44 +2902,44 @@ ___
 
 #### Equipo
 Comienza con el siguiente equipo, además del que le otorgan sus antecedentes:
-- *(a)* un vibrador, *(b)* una cuchilla oculta, *(c)* un simple blaster y una célula de poder, o *(d)* una simple arma vibratoria
+- *(a)* un vibrador, *(b)* una cuchilla oculta, *(c)* un blaster sencillo y una célula de energia, o *(d)* una simple vibroarma
 - *(a)* un simple explosivo y dos células de energía o *(b)* un simple arma vibratoria y un escudo físico ligero
-- una manada de ladrones, una manada de mazmorras, o una manada de exploradores...
+- un equipo de ladrón, un equipo de saqueador, o un equipo de explorador
 - Una herramienta con la que eres competente
 - Traje de combate y una daga vibratoria
 
 #### Variante: Riqueza inicial 
 En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
-|Clase		|Fondos...		|						
-|	:--			|	--:			|						
-|Operativo|1	.000 + 4d4 x 100 cr|
+|	Clase	|	Fondos		|						
+|	:--		|	--:			|						
+|Operativo	|	1.000 + 4d4 x 100 cr|
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Expertise
+### Experto
 En el primer nivel, elige dos de tus habilidades, o una de las habilidades y una de las habilidades de tus herramientas, o dos de las habilidades de tus herramientas. Ganarás experiencia en esas habilidades o herramientas.
 
 En el 6º nivel, puedes elegir dos más de tus competencias (en habilidades o herramientas) para obtener este beneficio.
 
-### Sneak Attack
+### Ataque Furtivo
 Desde el primer nivel, sabes cómo golpear sutilmente y explotar la distracción de un enemigo. Una vez por turno, puedes infligir un daño extra de 1d6 a una criatura que golpees con un ataque si tienes ventaja en la tirada de ataque. El ataque debe usar una finura o un arma a distancia. 
 
 No necesitas ventaja en la tirada de ataque si otro enemigo del objetivo está a menos de 5 pies de él, ese enemigo no está incapacitado, y no tienes desventaja en la tirada de ataque.
 
 La cantidad de daño extra aumenta a medida que se ganan niveles en esta clase, como se muestra en la columna de Ataque sorpresa de la tabla de la clase operativa.
 
-### Bad Feeling
+### Mal Presentimiento
 A partir del 2º nivel, tienes un ojo cauteloso, que roza la paranoia. Cuando te pones en marcha para tener iniciativa, puedes subir tu velocidad. Este movimiento ocurre antes de que se determine el orden de la iniciativa. 
 
 Una vez que hayas usado esta función, no podrás volver a usarla hasta que termines un largo descanso.
 
-### Cunning Action
+### Acción Astuta
 También en el 2º nivel, tu rapidez de pensamiento y agilidad te permite moverte y actuar rápidamente. Puedes tomar una acción extra en cada uno de tus turnos de combate. Esta acción sólo se puede utilizar para realizar la acción de Desenganchar, Desconectar o Esconder.
 
-### Operative Practice
+### Práctica Operativa
 En el 3er nivel, eliges una práctica que emulas en el ejercicio de tus habilidades operativas, que se detalla al final de la descripción de la clase. Su elección de la práctica le otorga características en el 3er nivel y luego otra vez en el 9º, 13º y 17º nivel.
 
 ### Mejora de Puntuación de Característica
@@ -2947,30 +2947,30 @@ Cuando alcances el 4º nivel, y de nuevo en el 8º, 10º, 12º, 16º y 19º nivel, pue
 
 \columnbreak
 
-### Uncanny Dodge
+### Esquiva Asombrosa
 A partir del 5º nivel, cuando un atacante que puedes ver te golpea con un ataque, puedes usar tu reacción para reducir a la mitad el daño del ataque en tu contra.
 
-### Evasion
+### Evasión
 A partir del 7º nivel, cuando se te somete a un efecto, como una *tormenta de fuerza* consular o una *explosión* de un ingeniero, que te permite hacer un tiro de ahorro de destreza para recibir sólo la mitad del daño, no recibirás ningún daño si tienes éxito en un tiro de ahorro, y sólo la mitad del daño si fallas.
 
-### Reliable Talent
+### Talento Seguro
 Para el 11º nivel, has refinado las habilidades elegidas hasta que se acercan a la perfección. Cada vez que hagas una comprobación de habilidad que te permita añadir el bonificador de competencia, puedes tratar una tirada de d20 de 9 o inferior como un 10.
 
-### Blindsense
+### Sentido Ciego
 A partir del nivel 14, si eres capaz de oír, eres consciente de la ubicación de cualquier criatura oculta o invisible a menos de 10 pies de ti.
 
-### Slippery Mind
+### Mente Escurridiza
 Para el nivel 15, has adquirido una mayor fuerza mental. Ganaste habilidad en los lanzamientos de ahorro de sabiduría. 
 
-### Elusive
+### Escurridizo
 A partir del nivel 18, eres tan evasivo que los atacantes rara vez ganan ventaja contra ti. Ninguna tirada de ataque tiene ventaja contra ti mientras no estés incapacitado.
 
-### Stroke of Luck
+### Golpe de Suerte
 En el nivel 20, tienes un extraño don para tener éxito cuando lo necesitas. Tus puntuaciones de Destreza e Inteligencia aumentan en 2. Tu máximo para esas puntuaciones aumenta en 2. Además, si tu ataque falla un objetivo dentro del rango, puedes convertir el fallo en un acierto. Alternativamente, si fallas un chequeo de habilidad, puedes tratar la tirada de d20 como un 20.
 
 Una vez que hayas usado esta función, no podrás volver a usarla hasta que termines un descanso corto o largo.
 
-## Practicas Operativas
+## Prácticas Operativas
 Los agentes tienen muchas características en común, como el énfasis en el perfeccionamiento de sus habilidades, su enfoque preciso y mortal del combate y sus reflejos cada vez más rápidos. Pero los diferentes operativos dirigen esos talentos en diversas direcciones, encarnadas por las diferentes prácticas operativas.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -2980,12 +2980,12 @@ Los agentes tienen muchas características en común, como el énfasis en el perfec
 ## Práctica de Pistoleros
 Los agentes que eligen la Práctica de Pistoleros son los maestros del tiro de truco. El Pistolero y su tirador son el equipo perfecto, utilizando el conocimiento de las vulnerabilidades de sus enemigos para aprovechar cada oportunidad.
 
-### Dive For Cover
+### Lanzarse a Cobertura
 Cuando eliges esta práctica en el tercer nivel, aprendes a ponerte rápidamente a cubierto cuando estás bajo fuego. Una vez por ronda, cuando seas el objetivo de un ataque a distancia, o estés sujeto a un efecto que te permita hacer un lanzamiento de ahorro de destreza, y haya cobertura a menos de 10 pies de ti, puedes moverte hasta 10 pies (no se requiere acción). Debes terminar este movimiento a cubierto.
 
 Puedes usar esta característica un número de veces igual a tu modificador de Destreza (un mínimo de una vez). Recuperas todos los usos gastados cuando completas un largo descanso.
 
-### Trick Shooter
+### Tiro con Truco
 También en el tercer nivel, aprendes una serie de trucos que puedes usar para debilitar a los enemigos e impresionar a los aliados. Cuando infliges un daño de ataque sorpresa a una criatura, puedes elegir renunciar a dos de tus dados de ataque sorpresa para que el ataque sea un tiro de truco. 
 
 Algunos de tus tiros de truco requieren que tu objetivo haga un tiro de salvamento para resistir los efectos del tiro de truco. El tiro de salvamento DC se calcula de la siguiente manera: 
@@ -3000,26 +3000,26 @@ ___
 
 ___
 
-#### Blinding Shot
+#### Disparo Cegador
 Intenta cegar el objetivo. El objetivo debe hacer un tiro de salvamento de la Constitución o ser cegado hasta el final de su próximo turno. 
 
-#### Brutal Shot
+#### Disparo Brutal
 Intenta golpear el objetivo en posición de riesgo. El objetivo debe hacer un lanzamiento de ahorro de fuerza o ser derribado en posición prona. 
 
-#### Hampering Shot
+#### Disparo de Cobertura
 Intentas cojear el movimiento del enemigo. El objetivo debe hacer un lanzamiento de ahorro de destreza. Si falla, su velocidad de movimiento se reduce a la mitad y hace lanzamientos de ahorro de destreza con desventaja hasta el final de su siguiente turno.
 
-### Spinning Flourish
+### Arma Encantadora
 A partir del 9º nivel puedes hacer florecer tu arma de una manera intimidante o encantadora. Como acción, puedes hacer que una criatura en un radio de 60 pies haga un lanzamiento de ahorro de Sabiduría (DC = 8 + el bonificador de competencia + tu modificador de Destreza). En una salvada fallida, el objetivo es encantado o asustado por ti (a tu elección) hasta el final de tu próximo turno. 
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Ricochet Shot
+### Disparo Ricochet
 A partir del nivel 13 se aprende a trabajar todos los ángulos. Una vez por turno, cuando haces la acción de Ataque y fallas con un ataque de arma de distancia, puedes repetir el ataque contra un objetivo diferente dentro de los 10 pies del objetivo original (no se requiere acción).
 
-### Quickdraw
+### Desenvainado Rápido
 En el nivel 17, se aprende a hacer milagros con sólo un explosivo y algo de nervio. En tu primer turno de combate, si no te sorprende, puedes usar tu acción para atacar a las criaturas que aún no han actuado. Elige hasta seis criaturas de este tipo que puedas ver, haciendo que un arma de distancia ataque contra cada una. En un golpe, infliges el daño normal del arma y puedes aplicar un solo tiro de truco a cada ataque realizado de esta manera. 
 
 Una vez que haya utilizado esta función, debe completar un corto o largo descanso antes de poder usarla de nuevo.
@@ -3030,16 +3030,16 @@ Una vez que haya utilizado esta función, debe completar un corto o largo descans
 
 \pagebreakNum
 
-## Lethality Practice
+## Practica Letal
 Los operativos que eligen la Práctica de la Letalidad usan disfraces para acercarse a sus enemigos, luego aprovechan el poder tóxico de los venenos para debilitarlos y capitalizar sus debilidades. 
 
-### Bonus Proficiency
+### Competencia Adicional
 Cuando eliges esta práctica en el 3er nivel, ganas destreza con el kit de disfraz y el kit del envenenador.
 
-### Assassinate
+### Asesinar
 También en el 3er nivel, estás en tu punto más letal cuando le das la gota que colma el vaso a tus enemigos. Tienes ventaja en las tiradas de ataque contra cualquier criatura que aún no haya tomado un turno en el combate. Además, cualquier golpe que obtengas contra una criatura que sea sorprendida es un golpe crítico.
 
-### Lethal Strikes
+### Golpes Letales
 Por último, en el tercer nivel, aprendes a leer a tus enemigos y a golpear sus puntos débiles. Cuando infliges daño de ataque sorpresa a una criatura, puedes elegir renunciar a dos de tus dados de ataque sorpresa para que el ataque sea letal. 
 
 Algunos de tus ataques letales requieren que tu objetivo haga un tiro de salvamento para resistir los efectos del ataque letal. El tiro salvador DC se calcula como sigue: 
@@ -3054,7 +3054,7 @@ ___
 
 ___
 
-#### Priming Attack
+#### Imprimacion Letal
 Intenta preparar el objetivo. El objetivo debe hacer un lanzamiento de ahorro de Destreza, Constitución o Sabiduría (a su elección). En una salvada fallida, la próxima vez que repartas el daño del Ataque sorpresa contra el objetivo antes del final de tu próximo turno, tiras cuatro dados adicionales de Ataque sorpresa.
 
 #### Evaluación del objetivo
@@ -3064,14 +3064,14 @@ Intentas inferir detalles cruciales sobre tu enemigo. La criatura debe hacer un 
 - El lanzamiento de salvamento más fuerte
 - El lanzamiento de salvamento más débil
 
-#### Vulnerable Strike
+#### Golpe Vulnerable
 Intenta escalonar el objetivo. El objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una parada fallida, la próxima vez que hagas una tirada de ataque contra el objetivo antes del final de tu siguiente turno, puedes forzar al objetivo a hacer una tirada de salvamento con la puntuación de característica que quieras. En una parada fallida, la criatura recibe el daño normal de un arma y puedes aplicar tus dados de Ataque sorpresa a la tirada.
 
 \columnbreak
 
 <div style='margin-top:28px'></div>
 
-### Poisoner
+### Envenenador
 A partir del 9º nivel, eres un maestro de los venenos. Puedes aplicar un veneno como acción extra, y tienes ventaja en los cheques de Destreza (Sleight of Hand) hechos para ocultar la aplicación de venenos. 
 
 Además, puedes mejorar la capacidad de una dosis de veneno. Para usar este beneficio, debes tener un kit de envenenamiento, y el veneno debe estar al alcance de la mano. Si el veneno se aplica antes del final de su próximo descanso corto o largo, el objetivo tiene la desventaja del tiro de salvamento hecho para resistir su veneno. Una vez que hayas usado esta característica, debes completar un largo descanso antes de que puedas usarlo de nuevo.
@@ -3081,7 +3081,7 @@ A partir del decimotercer nivel, se obtiene la capacidad de imitar infaliblement
 
 Su artimaña es imperceptible para el observador casual. Si una criatura cautelosa sospecha que algo está mal, tienes ventaja en cualquier control de Carisma (Decepción) que hagas para evitar ser detectado.
 
-### Death Strike
+### Golpe de la Muerte
 En el nivel 17, te conviertes en un maestro de la muerte instantánea. Cuando <br> reparte arma <br> daño a a<br> criatura que está <br> sorprendida, debe <br> hacer una Constitución <br> salvando lanzamiento contra <br> su golpe letal <br> salvando DC. En un <br> salvamento fallido, dobla<br> el daño de <br> tu ataque contra <br> la criatura.
 
 <img src='https://www.gmbinder.com/images/I1BaV1C.png' style='position:absolute;bottom:17px;right:-50px;width:545px;z-index:1000;' />
@@ -3098,15 +3098,15 @@ En el nivel 17, te conviertes en un maestro de la muerte instantánea. Cuando <br
 
 \pagebreak
 
-## Práctica de tiro al blanco
+## Práctica de Francotirador
 Los agentes que eligen la práctica de tiro al blanco son portadores de la muerte. Golpeando desde una distancia segura, el tirador usa la precisión de tiro para controlar el campo de batalla y derribar los objetivos rápidamente.
 
-### Assume la posición
+### Asume la posición
 Comenzando en el tercer nivel, no necesitas ventaja en tu tirada de ataque para usar tu Ataque sorpresa si tu objetivo está a más de 30 pies de ti y ningún enemigo está a menos de 5 pies de ti. Además, levantarse de la posición boca abajo ahora sólo cuesta 5 pies de movimiento.
 
 Además, se gana en destreza con dos explosiones marciales de su elección.
 
-### Place Shot
+### Poner a tiro
 También en el 3er nivel, perfeccionas el arte de hacer disparos a distancia para obtener la máxima efectividad en la debilitación y el control de tus enemigos. Cuando infliges un daño de ataque sorpresa a una criatura, puedes elegir renunciar a dos de tus dados de ataque sorpresa para que el ataque sea un tiro colocado. 
 
 Algunos de tus tiros colocados requieren que tu objetivo haga un tiro de salvamento para resistir los efectos del tiro colocado. El tiro de salvamento DC se calcula de la siguiente manera: 
@@ -3124,15 +3124,15 @@ ___
 #### Disparo de Desarme
 Intentas desarmar a una criatura con tu ataque. El objetivo debe tener éxito en un lanzamiento de ahorro de fuerza o ser forzado a dejar caer un objeto de su elección que esté sosteniendo. El objeto cae a sus pies.
 
-#### Penetrante disparo
+#### Disparo de Penetración
 Intenta dañar otro objetivo con el mismo ataque. Elige un segundo objetivo a menos de 15 pies de distancia y directamente detrás de tu objetivo inicial. Si la tirada de ataque original le da al segundo objetivo, se necesitan dos dados de daño de Ataque sorpresa.
 
 El daño es del mismo tipo que el del ataque original.
 
-#### Suppressive Shot
+#### Fuego de Supresion
 Intenta fijar el objetivo en su ubicación. El objetivo debe tener éxito en un lanzamiento de salvación de la sabiduría o temerle hasta el final de su próximo turno.
 
-### Head Shot
+### Disparo a la Cabeza
 En el 9º nivel, estás en tu peor momento cuando tus enemigos no son conscientes del peligro en el que están. Tienes ventaja en las tiradas de ataque <br> contra cualquier criatura que no haya tomado un turno en <br> combate todavía. 
 
 Además, cualquier golpe que le des a una criatura sorprendida es un golpe crítico.
@@ -3141,10 +3141,10 @@ Además, cualquier golpe que le des a una criatura sorprendida es un golpe crític
 
 <div style='margin-top:28px'></div>
 
-### Distracting Shot
+### Fuego de Distracción
 A partir del nivel 13, puedes defender a tus compatriotas desde lejos. Cuando una criatura amiga que puedes ver dentro del rango normal de tu arma es el objetivo de un ataque a distancia, o es forzada a hacer un lanzamiento de salvamento, y la fuente del efecto está dentro del rango normal de tu arma, puedes usar tu reacción para hacer un ataque a distancia contra la fuente. En un golpe, en lugar de causar daño, el objetivo de tu ataque tiene una desventaja en la tirada de ataque contra tu aliado, o tu aliado tiene ventaja en el tiro de salvamento para resistir el efecto.
 
-### Double Tap
+### Doble Tap
 En el nivel 17, has aprendido a sacar provecho cuando tienes la ventaja. Cuando tomas la acción de Ataque y haces un ataque con ventaja, puedes elegir renunciar a la ventaja. Si lo haces, puedes hacer un ataque adicional contra el objetivo u otra criatura a menos de 5 pies de él (no<br> acción requerida).<br> Ambos ataques pueden <br> beneficiarse de tu <br>Ataque de sorpresa<br> daño, en lugar de <br> sólo uno.
 
 <img src='https://www.gmbinder.com/images/PdcqYka.png' style='position:absolute;bottom:7px;right:50px;width:544px;transform:scalex(-1);z-index:1000' />
@@ -3153,7 +3153,7 @@ En el nivel 17, has aprendido a sacar provecho cuando tienes la ventaja. Cuando 
 
 \pagebreak
 
-## Scholar
+## Erudito
 <Una abrumadora horda de asaltantes de colmillos se abalanza sobre a chiss y sus compañeros aventureros. Ella da la orden y sus aliados desatan un único ataque coordinado que corta profundamente sus líneas. Bajo su mando el enemigo es rápidamente derrotado contra todas las probabilidades, todo de acuerdo al plan.
 
 En lo profundo de las ruinas abandonadas, un nautolano atiende las heridas de sus compañeros mientras descansan. Incontables y largas noches de estudio y entrenamiento lo han condicionado a seguir adelante incluso cuando todos los demás se han agotado. Él los verá a través de esto.
@@ -3164,12 +3164,12 @@ Los eruditos son maestros de las artes mundanas, usando prácticas metódicas para
 
 <div style='margin-top:167px'></div>
 
-### The Pursuit of Knowledge
+### La Carrera del Conocimiento
 Un verdadero erudito nunca está satisfecho. Siempre están buscando una nueva respuesta a una nueva pregunta. Esto a menudo va de la mano con la búsqueda de una vida de aventura, para explorar nuevas áreas ocultas, o acompañar a aquellos que lo hacen. La vida de un erudito a menudo<br> veces comienza en lo mundano, como un maestro o un sabio.<br> A veces sirven como médicos, diplomáticos, o como<br> oficiales en el ejército.
 
 <div style='margin-top:167px'></div>
 
-### To Learn, To Know
+### Para Aprender, Para Saber
 Para los estudiosos, la vida mundana es a menudo demasiado lenta. Cuando la vida se estanca o cuando no se puede encontrar una respuesta, la llamada a la aventura suena más fuerte. Los eruditos irán a menudo a lugares antiguos, olvidados y a menudo peligrosos para encontrar algo que sacie su sed de conocimiento.
 
 \columnbreak
@@ -3178,10 +3178,10 @@ Para los estudiosos, la vida mundana es a menudo demasiado lenta. Cuando la vida
 
 <img src='https://www.gmbinder.com/images/cPxvPXQ.png' style='position:absolute;top:37px;right:65px;width:330px;z-index:1000' />
 
-### Creating a Scholar
+### Creando un Erudito
 Al crear un erudito, es importante pensar de dónde obtuviste tu conocimiento. ¿Serviste como aprendiz bajo un maestro? ¿Asistió a la universidad o <br> otra educación formal? Tal vez lo ganaste por tu cuenta, buscando y vertiendo sobre tomos polvorientos encontrados en lugares olvidados. ¿De dónde vino tu sed de <br> conocimiento? ¿Curiosidad insaciable? ¿Siempre <br> queriendo saber la respuesta correcta? ¿O tiene <br> algo que probar? Piensa en el campo que deseas <br> perseguir y piensa en lo que te lleva en esa <br> dirección.
 
-#### Quick Build
+#### Creación Rápida
 Puedes hacer un erudito rápidamente siguiendo estas sugerencias. Primero, haga de la Inteligencia su mayor puntuación de característica. Su siguiente puntuación más alta debería ser Destreza. Segundo, elija el fondo noble.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -3190,29 +3190,29 @@ Puedes hacer un erudito rápidamente siguiendo estas sugerencias. Primero, haga d
 
 <div class='classTable wide'>
 
-##### The Scholar
-| Nivel: Competencia, Bonos, Características, Académico, Superioridad, Superioridad, Dados, Maniobras, Descubrimientos conocidos...
+##### El Erudito
+| Nivel | Bonificación<br> de<br> Competencia | Rasgos |  Superioridad<br> Academica | Dado de<br> Superioridad | Maniobras<br> Conocidas| Descubrimientos |
 |:---:|:---:|:---|:---:|:---:|:---:|:--:|
-|  1st | +2 | Academic Superiority, Critical Analysis           |  d6  | 2 |  2 | — |
-|  2nd | +2 | Discovery, Sage Advice (long rest)                |  d6  | 2 |  2 | 2 |
-|  3rd | +2 | Expertise, Academic Pursuit                       |  d6  | 4 |  4 | 2 |
-|  4th | +2 | Mejora de Puntuación de Característica                         |  d6  | 4 |  4 | 2 |
-|  5th | +3 | Multitasker                                       |  d6  | 4 |  4 | 3 |
-|  6th | +3 | Pursuit feature                                   |  d6  | 4 |  4 | 3 |
-|  7th | +3 | —                                                 |  d8  | 6 |  6 | 4 |
-|  8th | +3 | Mejora de Puntuación de Característica                         |  d8  | 6 |  6 | 4 |
-|  9th | +4 | Pursuit feature                                   |  d8  | 6 |  6 | 5 |
-| 10th | +4 | Expertise                                         |  d8  | 6 |  6 | 5 |
-| 11th | +4 | —                                   				| d10  | 6 |  8 | 5 |
-| 12th | +4 | Mejora de Puntuación de Característica                         | d10  | 6 |  8 | 6 |
-| 13th | +5 | Sage Advice (short rest)                          | d10  | 6 |  8 | 6 |
-| 14th | +5 | Calm y Collected                                | d10  | 6 |  8 | 6 |
-| 15th | +5 | —                                                 | d12  | 8 | 10 | 7 |
-| 16th | +5 | Mejora de Puntuación de Característica                         | d12  | 8 | 10 | 7 |
-| 17th | +6 | Pursuit feature                                   | d12  | 8 | 10 | 7 |
-| 18th | +6 | Adaptable Intellectual                            | d12  | 8 | 10 | 8 |
-| 19th | +6 | Mejora de Puntuación de Característica                         | d12  | 8 | 10 | 8 |
-| 20th | +6 | Knowledge Unbound                                 | d12  | 8 | 10 | 8 |
+|  1 | +2 | Superioridad Academica, Analisis Crítico           		|  d6  | 2 |  2 | — |
+|  2 | +2 | Descubrimiento, Consejo de Sabio (descanso prolongado)	|  d6  | 2 |  2 | 2 |
+|  3 | +2 | Especialidad, Carrera Academica						|  d6  | 4 |  4 | 2 |
+|  4 | +2 | Mejora de Puntuación de Característica					|  d6  | 4 |  4 | 2 |
+|  5 | +3 | Multitarea                                       		|  d6  | 4 |  4 | 3 |
+|  6 | +3 | Rasgo de Carrera                                   	|  d6  | 4 |  4 | 3 |
+|  7 | +3 | —                                                 		|  d8  | 6 |  6 | 4 |
+|  8 | +3 | Mejora de Puntuación de Característica					|  d8  | 6 |  6 | 4 |
+|  9 | +4 | Rasgo de Carrera										|  d8  | 6 |  6 | 5 |
+| 10 | +4 | Especialidad											|  d8  | 6 |  6 | 5 |
+| 11 | +4 | —														| d10  | 6 |  8 | 5 |
+| 12 | +4 | Mejora de Puntuación de Característica                  | d10  | 6 |  8 | 6 |
+| 13 | +5 | Consejo de Sabio (descanso corto)                       | d10  | 6 |  8 | 6 |
+| 14 | +5 | Calmado y Recogido										| d10  | 6 |  8 | 6 |
+| 15 | +5 | —														| d12  | 8 | 10 | 7 |
+| 16 | +5 | Mejora de Puntuación de Característica					| d12  | 8 | 10 | 7 |
+| 17 | +6 | Rasgo de Carrera										| d12  | 8 | 10 | 7 |
+| 18 | +6 | Intellectual Adaptable									| d12  | 8 | 10 | 8 |
+| 19 | +6 | Mejora de Puntuación de Característica					| d12  | 8 | 10 | 8 |
+| 20 | +6 | Conocimiento sin límite									| d12  | 8 | 10 | 8 |
 </div>
 
 ## Características de la clase
@@ -3220,36 +3220,36 @@ Como estudioso, obtienes las siguientes características de la clase:
 
 #### Puntos de Golpe
 ___
-- **Dados de Golpe:** 1d8 per scholar level
-- **Puntos de Golpe at 1st Level:** 8 + el modificador de Constitución 
-- **Puntos de Golpe at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per scholar level after 1st
+- **Dados de Golpe:** 1d8 por nivel de erudito
+- **Puntos de Golpe a 1er Nivel:** 8 + el modificador de Constitución 
+- **Puntos de Golpe a Niveles Superiores:** 1d8 (or 5) + el modificador de Constitución por nivel de erudito superior a 1
 
 #### Proficiency
 ___
-- **Armor:** Armadura ligera
-- **Weapons:** Blasters sencillos, Vibroarmas sencillas, techblades
-- **Tools:** Any one
+- **Armadura:** Armadura ligera
+- **Armas:** Blasters sencillos, Vibroarmas sencillas, tecnocuchillas
+- **Herramientas:** Cualquiera
 ___
-- **Saving Throws:** Sabiduría, Inteligencia
-- **Skills:** Elige tres de entre Engaño, Perspicacia, Intimidación, Investigación, Historia, Medicina, Naturaleza, Persuasión, y Supervivencia
+- **Tiradas de Salvación:** Sabiduría, Inteligencia
+- **Habilidades:** Elige tres de entre Engaño, Perspicacia, Intimidación, Investigación, Historia, Medicina, Naturaleza, Persuasión, y Supervivencia
 
 \columnbreak
 
 <div style='margin-top:54.5px'></div>
 
-#### Equipment
+#### Equipo
 Comienza con el siguiente equipo, además del que te otorga el trasfondo:
-- *(a)* una vibroarma sencilla o *(b)* un blaster sencillo y two power cells
-- *(a)* scholar's pack or *(b)* explorer's pack
-- a combat suit
-- any tool of your choice
+- *(a)* una vibroarma sencilla o *(b)* un blaster sencillo y dos celulas de energia
+- *(a)* equipo de erudito o *(b)* equipo de explorador
+- a traje de combate
+- cualquier erramienta a tu elección
 
 #### Variante: Riqueza inicial 
 En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
-|	Class		|	Funds		|						
+|	Clase		|	Fondos		|						
 |	:--			|	--:			|						
-|	Scholar 	|	1,000 + 3d4 x 100 cr|
+|	Erudito 	|	1,000 + 3d4 x 100 cr|
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -3263,17 +3263,17 @@ Conoces dos maniobras de tu elección, las cuales se detallan en "Maniobras" más 
 
 Cada vez que aprendes nuevas maniobras, también puedes reemplazar una maniobra que conoces por otra diferente.
 
-#### Superiority Dice
+#### Dados de Superioridad
 Tienes dos dados de superioridad, que son d6s, y ganas más en los niveles más altos, como se muestra en la columna de Dados de Superioridad de la tabla de la clase de estudiosos. Este dado cambia a medida que ganas niveles académicos, como se muestra en la columna de Superioridad Académica de la tabla de clases académicas. Un dado de superioridad se gasta cuando lo usas. 
 
 Recuperas todos tus dados de superioridad gastados cuando terminas un descanso corto o largo.
 
-#### Saving Throws
+#### Tiradas de Salvación
 Algunas de sus maniobras requieren que su objetivo haga un tiro de salvamento para resistir los efectos de la maniobra. El tiro de salvamento DC se calcula de la siguiente manera: 
 ___
 <div align="center">
 
-**Maniobra de salvar DC** = 8 + el bonificador de competencia + <br>tu modificador de Inteligencia
+**CD Salvación de Maniobras** = 8 + el bonificador de competencia + <br>tu modificador de Inteligencia
 
 </div>
 
@@ -3288,10 +3288,10 @@ Como acción, puedes gastar un dado de superioridad para atender a una criatura q
 #### Evaluar la situación
 Puedes gastar un dado de superioridad para hacer un chequeo de Sabiduría (Percepción) o de Inteligencia (Investigación) como una acción de bonificación, añadiendo el dado de superioridad al chequeo.
 
-#### Crippling Strike
+#### Golpe Paralizante
 Cuando golpeas a una criatura con un ataque de arma, puedes gastar un dado de superioridad para paralizar a la criatura. Añades el dado de superioridad a la tirada de daño del ataque y la velocidad de la criatura se reduce en 10 pies hasta el final de su siguiente turno.
 
-#### Deliberate Movement
+#### Movimiento Deliberado
 Puedes gastar un dado de superioridad para tomar la acción de Desenganche como una acción de bonificación e ignorar los efectos del terreno difícil estándar hasta el final de tu turno.
 
 \columnbreak
@@ -3301,22 +3301,22 @@ Puedes gastar un dado de superioridad para tomar la acción de Desenganche como u
 #### Explota la debilidad
 Cuando golpeas a una criatura con un ataque de arma, puedes gastar un dado de superioridad e infligir un daño adicional igual al número obtenido. Este daño no puede ser reducido de ninguna manera.
 
-#### Goading Attack
+#### Ataque Provocador
 Cuando golpeas a una criatura con un arma de ataque, puedes gastar un dado de superioridad para intentar incitar al objetivo a que te ataque. Añades el dado de superioridad a la tirada de daño del ataque, y el objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, el objetivo tiene desventaja en todas las tiradas de ataque contra otros objetivos que no sean tú hasta el final de tu siguiente turno.
 
-#### Heads Up
+#### Aviso
 Cuando una criatura amiga que puede verte u oírte hace un tiro de salvamento, puedes usar tu reacción y gastar un dado de superioridad, sumando el número tirado al resultado del tiro de salvamento. Puedes usar esta maniobra antes o después de hacer el tiro de salvamento, pero antes de que se determinen los efectos del tiro de salvamento.
 
 #### Acción Medida
 Como reacción cuando haces una tirada para un chequeo de habilidad disputado, puedes gastar un dado de superioridad para añadirlo a la tirada. Puedes usar esta maniobra antes o después de hacer la tirada de chequeo de habilidad disputada, pero antes de que se determinen los efectos del chequeo de habilidad disputada.
 
-#### One Step Ahead
+#### Un Paso por Delante
 Cuando tiras la iniciativa y no te sorprende, puedes gastar un dado de superioridad y añadir el número tirado a tu iniciativa.
 
-#### Targeted Strike
+#### Golpe Dirigido
 Cuando un aliado hace un ataque contra una criatura, puede usar su reacción para gastar un dado de superioridad. Suma el dado de superioridad a la tirada de ataque, y la tirada de daño si impacta. Puedes usar esta maniobra antes o después de la tirada de ataque, pero antes de que el GM determine si el ataque impacta o no.
 
-### Critical Analysis
+### Analisis Crítico
 En el primer nivel, eres capaz de analizar un objetivo, desarrollar un plan sobre cómo superar mejor cualquier obstáculo potencial, y ejecutar ese plan con una eficiencia despiadada. Como acción extra en tu turno, puedes analizar un objetivo que puedas ver a menos de 60 pies de ti. Durante el siguiente minuto, o hasta que analices otro objetivo, obtienes los siguientes beneficios:
 - Cuando analizas una criatura hostil, tus tiradas de ataque y daño hechas con armas con la propiedad de la delicadeza o armas explosivas contra ese objetivo pueden usar tu modificador de Inteligencia en lugar de Fuerza o Destreza.
 - Cuando analizas a una criatura amiga, el objetivo puede terminar tu Análisis Crítico en ellos (no se requiere acción) para añadir tu modificador de Inteligencia a una tirada de ataque, chequeo de habilidad o lanzamiento de salvamento. Una vez que una criatura amiga se ha beneficiado de esta habilidad, no puede volver a hacerlo hasta que complete un descanso corto o largo.
@@ -3325,47 +3325,47 @@ En el primer nivel, eres capaz de analizar un objetivo, desarrollar un plan sobr
 
 \pagebreakNum
 
-### Discovery
+### Descubrimiento
 A medida que te aventuras, tus estudios te han ayudado a descubrir nuevas prácticas que puedes aplicar a tus habilidades.
 
 En el 2º nivel, dominarás dos descubrimientos de tu elección. Tus opciones de descubrimiento se detallan al final de la descripción de la clase. Cuando alcanzas ciertos niveles académicos, obtienes descubrimientos adicionales de tu elección, como se muestra en la columna Descubrimientos de la tabla de clases académicas.
 
 Además, cuando ganes un nivel en esta clase, puedes elegir uno de los descubrimientos que conoces y sustituirlo por otro que puedas aprender en ese nivel.
 
-### Sage Advice
+### Consejo de Sabio
 Cuando llegues al 2º nivel, puedes pasar 1 minuto difundiendo tu conocimiento y experiencia, aconsejando a los que te rodean. Cuando lo hagas, elige una habilidad o herramienta que domines y un número de criaturas amigables hasta tu modificador de Inteligencia a menos de 30 pies de ti que puedan oírte y que puedan entenderte. Una vez dentro de la siguiente hora, la próxima vez que cada criatura haga un chequeo de habilidad con la habilidad o herramienta elegida, pueden añadir el bonificador de competencia a la tirada si no son ya competentes. Una criatura sólo puede beneficiarse de esta característica una vez. Si una criatura vuelve a ser objetivo de esta característica antes de usarla, puede elegir entre conservar el primer beneficio o sustituirlo por la nueva habilidad o herramienta.
 
 Una vez que hayas usado esta función, no podrás volver a usarla hasta que termines un largo descanso. Comenzando en el nivel 13, recuperas la habilidad de usarla después de completar un descanso corto o largo.
 
-### Expertise
+### Especialidad
 En el tercer nivel, elige dos de tus habilidades, o una de las habilidades y una de las habilidades de tus herramientas, o dos de las habilidades de tus herramientas. Ganarás experiencia en esas habilidades o herramientas.
 
 En el décimo nivel, puedes elegir otras dos competencias (en habilidades o herramientas) para obtener este beneficio.
 
-### Academic Pursuit
-En el 3er nivel, dedicas tus estudios a una persecución, que se detalla al final de la descripción de la clase. La persecución que elijas te otorga características en el 3er nivel, y de nuevo en el 6º, 9º y 17º nivel.
+### Carrera Academica
+En el 3er nivel, dedicas tus estudios a una carrera, que se detalla al final de la descripción de la clase. La carrera que elijas te otorga características en el 3er nivel, y de nuevo en el 6º, 9º y 17º nivel.
 
 ### Mejora de Puntuación de Características
 Cuando alcanzas el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de característica de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de característica por encima de 20 usando esta característica. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
-### Multitasker
+### Multitarea
 A partir del 5º nivel, puedes tomar una segunda reacción cada vez. Sólo puedes tomar una reacción por turno.
 
 \columnbreak
 
-### Calmado y recogido
+### Calmado y Recogido
 A partir del nivel 14, cuando haces una tirada salvadora de un efecto que puedes ver, puedes ganar una bonificación a la tirada salvadora igual a tu modificador de Inteligencia. 
 
 Una vez que haya utilizado esta función, debe esperar un breve o largo descanso antes de volver a utilizarla.
 
-### Adaptable Intelectual
+### Intelectual Adaptable
 En el nivel 18, es capaz de prepararse eficazmente para cualquier misión que se le presente. Al final de un largo descanso, puede elegir uno de los descubrimientos que conoce y sustituirlo por otro descubrimiento que podría aprender en ese nivel.
 
-### Knowledge Unbound
-Cuando llegas al nivel 20, eres la cima de tu búsqueda. Tu puntaje de Inteligencia aumenta en 4. Tu máximo para ese puntaje aumenta en 4. Además, puedes usar cualquier maniobra que conozcas sin gastar un dado de superioridad, <br> tirando un d4 en su lugar.
+### Conocimiento sin Límite
+Cuando llegas al nivel 20, eres la cima de tu carrera. Tu puntaje de Inteligencia aumenta en 4. Tu máximo para ese puntaje aumenta en 4. Además, puedes usar cualquier maniobra que conozcas sin gastar un dado de superioridad, <br> tirando un d4 en su lugar.
 
-## Academic Pursuits
-Su búsqueda es una representación de los campos que ha estudiado o cómo aplica prácticamente sus conocimientos.
+## Carreras Academica
+Tu carrera es una representación de los campos que ha estudiado o cómo aplica prácticamente sus conocimientos.
 
 <img src='https://www.gmbinder.com/images/oOPlRxo.png' style='position:absolute;bottom:17px;right:-170px;width:750px;transform:scaleX(-1);z-index:1000;' />
 
@@ -3393,16 +3393,16 @@ Usted gana destreza con armas improvisadas, y ellos ganan la propiedad de la del
 
 Puedes usar tu función de Consejos de Sabio para dar a criaturas amigas la habilidad de armas improvisadas si no la tienen ya, siguiendo las mismas reglas de esa función como si fuera una habilidad o herramienta. Las criaturas amigas conservan esta habilidad durante todo el tiempo.
 
-#### Mental Prowess
+#### Proeza Mental
 Cuando haces un chequeo de Fuerza (Atletismo) o Destreza (Acrobacia) para agarrar a una criatura o salir de una garra, red y otro equipo de sujeción, puedes usar tu modificador de Inteligencia en lugar de Fuerza o Destreza. 
 
-#### Hardened Mind
+#### Mente Endurecida
 *Prerrequisito: 9º nivel* 
 Tienes ventaja en el ahorro de tiros contra las ilusiones y en los controles de Inteligencia para discernirlos de la realidad.
 
 También se gana resistencia al daño psíquico.
 
-#### Lifelong Learning
+#### Aprendizaje de por Vida
 Se gana competencia en una habilidad y una herramienta, o dos herramientas.
 
 Puedes seleccionar este descubrimiento varias veces, cada vez eligiendo una nueva habilidad y una herramienta, o dos nuevas herramientas.
@@ -3415,25 +3415,25 @@ Cuando usas la función de Consejos de Sabio, las criaturas objetivo retienen el 
 
 <div style='margin-top:27px'></div>
 
-#### Master's Advice
-When you use your Sage Advice feature, the first time each targeted creature makes the chosen skill check, they gain an additional bonus to the roll equal to your Inteligencia modifier.
+#### Consejo del Maestro
+Cuando usas la función de Consejos de Sabio, la primera vez que cada criatura objetivo hace el chequeo de habilidad elegido, ganan un bono adicional a la tirada igual a tu modificador de Inteligencia.
 
-#### Perfect Maneuver
-*Prerequisite: 15th level*<br>
-When you roll a 1 on a superiority die, you can reroll the die y must use the new roll. 
+#### Maniobra Perfecta
+*Prerequisito: 15th level*<br>
+Cuando sacas un 1 en un dado de superioridad, puedes volver a tirar el dado y debes usar la nueva tirada. 
 
-#### Quick Analysis
-*Prerequisite: 9th level*<br>
-When you roll initiative y aren't surprised, you can use your reaction to use your Critical Analysis feature.
+#### Análisis Rápido
+*Prerequisito: 9th level*<br>
+Cuando se toma la iniciativa y no se sorprende, se puede usar la reacción para usar la función de Análisis Crítico.
 
-#### Reliable Sources
-*Prerequisite: 9th level*<br>
-When you make an Inteligencia (Historia) or Inteligencia (Naturaleza) skill check that lets you add el bonificador de competencia, you can treat a d20 roll of 9 or lower as a 10.
+#### Fuentes Fiables
+*Prerequisito: 9th level*<br>
+Cuando haces un chequeo de habilidades de Inteligencia (Historia) o Inteligencia (Naturaleza) que te permite añadir el bonificador de competencia, puedes tratar una tirada de d20 de 9 o menos como un 10.
 
 #### Resuelto
 Cuando haces un tiro de salvamento para resistir los efectos del encanto y el miedo, puedes añadir tu modificador de Inteligencia al rollo.
 
-#### Running on Fumes
+#### Funcionando sin Nada
 Sólo necesitas 4 horas de sueño para obtener el beneficio de un largo descanso.
 
 Además, tienes ventaja en los lanzamientos de ahorro contra el agotamiento.
@@ -3447,7 +3447,7 @@ Además, tienes ventaja en el ahorro de lanzamientos contra el veneno.
 *Prerrequisito: 5º nivel*<br>
 Sus tiradas de ataque contra el objetivo de su característica de análisis crítico no pueden sufrir desventajas.
 
-#### Tech Amateur
+#### Aficionado Tecnologico
 Elija un poder tecnológico de primer nivel. Aprendes ese poder y puedes lanzarlo a su nivel más bajo sin gastar puntos técnicos. Una vez que lo lanzas de esta manera, debes terminar un largo descanso antes de que puedas lanzarlo de nuevo. Tu habilidad para lanzar este poder es la Inteligencia.
 
 Puede seleccionar este descubrimiento varias veces. Cada vez que lo hagas, debes elegir un poder diferente.
@@ -3459,28 +3459,28 @@ Puedes comunicar ideas simples con cualquier criatura con una puntuación de inte
 
 \pagebreakNum
 
-## Physician Pursuit
-Los médicos estudian las ciencias médicas, anatómicas y biológicas. Los eruditos que eligen el Physician Pursuit usan sus conocimientos para reparar a sus aliados en el campo y repartir golpes paralizantes con precisión quirúrgica.
+## Carrera de Medicina
+Los médicos estudian las ciencias médicas, anatómicas y biológicas. Los eruditos que eligen el Estudios Médicos usan sus conocimientos para reparar a sus aliados en el campo y repartir golpes paralizantes con precisión quirúrgica.
 
-### Medical Practitioner
+### Médico
 Cuando eliges esta actividad en el 3er nivel, ganas competencia con los kits de bioquímica y tu elección de las habilidades de Medicina o Naturaleza. Además, cuando haces un cheque de Sabiduría (Medicina), ganas una bonificación al cheque igual a tu modificador de Inteligencia.
 
-### Remote Healer
+### Sanador a Distancia
 También en el tercer nivel, has aprendido a desplegar la medicina desde un rango. Cuando usas una maniobra dirigida a un aliado que es el objetivo de tu característica de Análisis Crítico, el alcance de esa maniobra se convierte en 30 pies.
 
 ### Maniobras adicionales
 Por último, en el tercer nivel, se accede a nuevas maniobras que reflejan el progreso de sus estudios en las artes médicas. Cada vez que aprendas una nueva maniobra, también puedes elegir una de las siguientes. Las maniobras están listadas en orden alfabético.
 
-#### Adrenaline Hit
+#### Golpe de Adrenalina
 Se puede utilizar una acción y gastar un dado de superioridad para inyectar a una criatura con una medicación regenerativa que mejora temporalmente su agilidad. Cuando lo haces, una criatura que puedes tocar recupera puntos de impacto iguales a la tirada de superioridad. Además, hasta el comienzo de tu próximo turno, cuando esa criatura reciba el daño, la cantidad se reduce en una cantidad igual a tu modificador de Inteligencia.
 
 #### Prescripción de emergencia
 Como acción, puedes gastar un dado de superioridad y tocar a una criatura. Esa criatura recupera puntos de impacto iguales al resultado del dado + tu modificador de inteligencia, y cuando esa criatura hace su primer chequeo de habilidad, tirada de ataque o lanzamiento de salvamento antes del comienzo de tu siguiente turno, tira el dado de superioridad y lo añade a la tirada.
 
-#### Enhancement Injection
+#### Inyección de Aumento
 Como acción, puedes gastar un dado de superioridad para inyectar a una criatura que puedas tocar con mejoras, concediéndole puntos de impacto temporales iguales a la tirada de superioridad + tu modificador de Inteligencia, que duran 1 minuto. Además, cuando el objetivo hace un chequeo de Fuerza o Constitución o una tirada de ahorro mientras tiene estos puntos de golpe temporales, gana una bonificación igual a tu modificador de Inteligencia.
 
-#### Neuroblock
+#### Neurobloqueador
 Cuando haces una tirada de ataque, puedes gastar un dado de superioridad y añadirlo a la tirada de ataque. En un golpe, el siguiente ataque de la criatura tiene una desventaja y no puede recuperar los puntos de golpe hasta el comienzo de tu siguiente turno.
 
 <img src='https://www.gmbinder.com/images/AUdzKBb.png' style='position:absolute;bottom:28px;right:0px;width:430px;z-index:1000;' />
@@ -3489,10 +3489,10 @@ Cuando haces una tirada de ataque, puedes gastar un dado de superioridad y añadi
 
 \pagebreakNum
 
-#### Reassure
+#### Tranquilizante
 Como acción, puedes gastar un dado de superioridad y llamar a una criatura dentro de 60 pies que puede verte o escucharte que está encantada, asustada o aturdida. Cuando lo haces, esa criatura inmediatamente hace otro tiro de salvamento, añadiendo la cantidad tirada al salvamento.
 
-#### Remove Toxins
+#### Neutralizar Toxinas
 Como acción, puedes gastar un dado de superioridad para purgar las toxinas de una criatura que puedes tocar. El objetivo recupera puntos de impacto iguales al número obtenido y, si está envenenado o enfermo, se neutraliza el veneno o la enfermedad. Si más de un veneno o enfermedad aflige al objetivo, se neutraliza un veneno o enfermedad que se sabe que está presente, o se neutraliza uno al azar.
 
 #### Sales olfativas
@@ -3505,10 +3505,10 @@ Una vez por turno cuando golpeas a una criatura con un arma de combate cuerpo a 
 
 Puedes ser la criatura golpeada con el ataque siempre y cuando haya un aliado con 5 pies de ti, en el que puedas dejar que golpee sin lanzar un ataque y debas elegir un aliado para curarte con la transfusión.
 
-#### Weak Point Strike
+#### Golpe en el Punto Débil
 Cuando se ataca a una criatura con un arma, se puede gastar un dado de superioridad para aturdir temporalmente a la criatura. Sume el número obtenido al daño del ataque con arma y la criatura debe tener éxito en un lanzamiento de ahorro de la Constitución o ser aturdida hasta el final de su próximo turno.
 
-### Field Surgeon
+### Cirujano de Campo
 A partir del 6º nivel, siempre que gastes los dados de superioridad para restaurar los puntos de impacto o conceder puntos de impacto temporales a una criatura, puedes tirar un dado adicional d6 y añadirlo a la tirada. Este dado aumenta cuando alcanzas ciertos niveles en esta clase: 1d8 en el 7º nivel, 1d10 en el 11º nivel y hasta 1d12 en el 15º nivel.
 
 Además, siempre que gaste los dados de superioridad para restaurar los puntos de golpe o conceder puntos de golpe temporales a una criatura, si ésta es el objetivo de su Análisis Crítico, puede elegir en su lugar el máximo en ambos dados. Una vez que hayas usado esta característica, debes terminar un descanso corto o largo antes de poder usarla de nuevo. A partir del nivel 11, puedes usarla dos veces antes de un descanso, pero sólo una vez en el mismo turno.
@@ -3531,11 +3531,11 @@ Una vez que creas una panacea, no puedes crear otra hasta que termines un largo 
 
 \pagebreakNum
 
-### Discoveries (Physician)
+### Descubrimientos (Médico)
 Al seleccionar esta búsqueda, se accede a nuevos descubrimientos que reflejan el progreso de sus estudios en las artes médicas. Cada vez que aprendas un nuevo descubrimiento, puedes elegir también cualquiera de los siguientes. Los descubrimientos están listados en orden alfabético.
 
-#### Advanced Remote Healer
-*Prerrequisito: 12º nivel, Physician Pursuit*<br>
+#### Sanador a Distancia Avanzado
+*Prerrequisito: 12º nivel, Carrera de Medicina*<br>
 El alcance de su función de Curador Remoto aumenta a 60 pies.
 
 #### Tratamientos experimentales
@@ -3544,16 +3544,16 @@ Se sabe que sus medicamentos y tratamientos no están probados y son inestables. 
 
 Puedes usar esta característica un número de veces igual al de tu modificador de Inteligencia. Recuperas todos los usos gastados cuando terminas un descanso corto o largo.
 
-#### From the Brink
-*Prerrequisito: 7º nivel, Physician Pursuit*<br>
+#### Desde el Umbral
+*Prerrequisito: 7º nivel, Carrera de Medicina*<br>
 Si el objetivo de su característica de Análisis Crítico se reduce a 0 hp, puede utilizar su reacción y terminar su característica de Análisis Crítico para que se reduzcan a 1 hp en su lugar. Una vez que una criatura se ha beneficiado de esta característica, debe completar un largo descanso antes de poder hacerlo de nuevo.
 
 #### Consejero de Salud
-*Prerrequisito: Physician Pursuit*<br>
+*Prerrequisito: Carrera de Medicina*<br>
 Cada vez que una criatura que es un objetivo de tu característica de Análisis Crítico comienza su turno, puedes usar tu reacción para darle puntos de golpe temporales iguales a una cuarta parte de tu nivel de estudios (redondeado hacia abajo) + tu modificador de Inteligencia (mínimo de uno) que duran hasta el comienzo de su siguiente turno.
 
-#### Patient Protector
-*Prerrequisito: 5º nivel, Physician Pursuit*<br>
+#### Protector del Paciente
+*Prerrequisito: 5º nivel, Carrera de Medicina*<br>
 Cuando atacas a criaturas que están a menos de 5 pies de un aliado que es el objetivo de tu característica de Análisis Crítico, las tiradas de ataque y las tiradas de daño hechas sobre ellas con un arma de precisión o a distancia pueden usar tu modificador de Inteligencia en lugar de Fuerza de Destreza.
 
 #### Precisión quirúrgica
@@ -3561,7 +3561,7 @@ Cuando atacas a criaturas que están a menos de 5 pies de un aliado que es el obj
 Cuando golpeas a una criatura que es el objetivo de tu característica de Análisis Crítico con un ataque de arma, recibe un daño adicional igual a tu modificador de Destreza.
 
 #### Tendremos que atender a los heridos
-*Prerrequisito: Physician Pursuit* <br>
+*Prerrequisito: Carrera de Medicina* <br>
 Si tú o cualquier criatura amiga que puedas tocar recupera puntos de golpe gastando uno o más dados de golpe al final de un breve descanso, cada una de esas criaturas recupera 1d6 puntos de golpe extra.
 
 Esta muerte aumenta cuando se alcanzan ciertos niveles en esta clase: 1d8 en el 7º nivel, 1d10 en el 11º nivel y hasta 1d12 en el 15º nivel.
@@ -3572,50 +3572,50 @@ Esta muerte aumenta cuando se alcanzan ciertos niveles en esta clase: 1d8 en el 
 
 | d20 efectos secundarios
 |:----:|:------------- |
-| La criatura resulta ser alérgica a este tratamiento específico. Cada puntuación de característica se reduce en 1. |
-| La criatura comienza a estornudar incontrolablemente. Cualquier tirada de ataque con un valor de 19 resulta en un fallo debido a un estornudo mal programado. |
-| Las piernas de la criatura se hinchan. Su velocidad de movimiento se convierte como mucho en la mitad de su velocidad de movimiento normal. |
-| La criatura se vuelve un tamaño más grande o más pequeño. |
-| La piel de sus articulaciones se convierte en un material de madera, dándoles un bonus de +2 a AC. |
-| El cuerpo de la criatura comienza a producir un poderoso ácido estomacal en grandes cantidades. La criatura puede usar una acción para arrojar ácido estomacal en un cono de 15 pies. El DC para este lanzamiento de ahorro es igual a 8 + tu modificador de constitución + el bonificador de competencia. La criatura recibe 2d6 de daño por el ácido en una salvada fallida, y la mitad de daño en una exitosa. El daño aumenta a 3d6 en el 6º nivel, 4d6 en el 11º nivel y 5d6 en el 16º nivel. | 
-| La criatura se vuelve muda y tiene un gas incontrolable. Tienen desventajas en los controles de destreza (sigilo) que se basan en el olfato.
-| Los ojos de la criatura brillan con un rojo intenso. La criatura también gana visión oscura, pero si ya tiene visión oscura, tiene un ligero dolor de cabeza. |
-| La criatura gana +4 a los controles de percepción basados en el oído, pero todo les parece incómodamente ruidoso. Ganan vulnerabilidad a los daños sónicos. |
-| El tratamiento retrasa su función cerebral, reduciendo su inteligencia en un 4.
-| La piel de la criatura se vuelve púrpura oscuro. Si ya están moradas, se vuelven de color rosa brillante. |
-| La criatura se cubre de pústulas verdes y enfermizas. Cuando la criatura es golpeada por un ataque cuerpo a cuerpo, el atacante recibe 1d4 de daño por veneno. |
-| La piel de la criatura comienza a hincharse seriamente por la acumulación de presión interna, y un fuerte impacto puede hacerla explotar. Cada vez que la criatura recibe un daño, tiene que pasar un control de concentración o la criatura recibe un daño cinético igual a la mitad de sus puntos de impacto máximos. Otras criaturas a menos de 3 metros de la explosión también reciben una cuarta parte del daño. Una vez que ocurre esta explosión, su piel se vuelve muy suave. |
-| La criatura crece rápidamente pelo corporal en todo el cuerpo, incluyendo la cara, hasta que se parecen a un wookiee. Si ya son un wookiee, se produce el efecto inverso; todo el pelo se cae inmediatamente, dejando la piel desnuda. |
-| La temperatura corporal de la criatura fluctúa hasta los extremos. Ganan resistencia al frío y al fuego.
-| La criatura se vuelve hambrienta. Cada hora que no han comido una comida ganan un nivel de agotamiento. |
-| La criatura cree que es la elegida. |
-| La criatura tiene dificultades para descansar. La cantidad que se curan con los dados de caza se ha reducido a la mitad. |
-| La velocidad de movimiento de la criatura se incrementa en 15 pies, y los ataques de oportunidad sobre ellos tienen una desventaja. |
+| 1 | La criatura resulta ser alérgica a este tratamiento específico. Cada puntuación de característica se reduce en 1. |
+| 2 | La criatura comienza a estornudar incontrolablemente. Cualquier tirada de ataque con un valor de 19 resulta en un fallo debido a un estornudo mal programado. |
+| 3 | Las piernas de la criatura se hinchan. Su velocidad de movimiento se convierte como mucho en la mitad de su velocidad de movimiento normal. |
+| 4 | La criatura se vuelve un tamaño más grande o más pequeño. |
+| 5 | La piel de sus articulaciones se convierte en un material de madera, dándoles un bonus de +2 a AC. |
+| 6 | El cuerpo de la criatura comienza a producir un poderoso ácido estomacal en grandes cantidades. La criatura puede usar una acción para arrojar ácido estomacal en un cono de 15 pies. El DC para este lanzamiento de ahorro es igual a 8 + tu modificador de constitución + el bonificador de competencia. La criatura recibe 2d6 de daño por el ácido en una salvada fallida, y la mitad de daño en una exitosa. El daño aumenta a 3d6 en el 6º nivel, 4d6 en el 11º nivel y 5d6 en el 16º nivel. | 
+| 7 | La criatura se vuelve muda y tiene un gas incontrolable. Tienen desventajas en los controles de destreza (sigilo) que se basan en el olfato.
+| 8 | Los ojos de la criatura brillan con un rojo intenso. La criatura también gana visión oscura, pero si ya tiene visión oscura, tiene un ligero dolor de cabeza. |
+| 9 | La criatura gana +4 a los controles de percepción basados en el oído, pero todo les parece incómodamente ruidoso. Ganan vulnerabilidad a los daños sónicos. |
+| 10 | El tratamiento retrasa su función cerebral, reduciendo su inteligencia en un 4.
+| 11 | La piel de la criatura se vuelve púrpura oscuro. Si ya están moradas, se vuelven de color rosa brillante. |
+| 12 | La criatura se cubre de pústulas verdes y enfermizas. Cuando la criatura es golpeada por un ataque cuerpo a cuerpo, el atacante recibe 1d4 de daño por veneno. |
+| 13 | La piel de la criatura comienza a hincharse seriamente por la acumulación de presión interna, y un fuerte impacto puede hacerla explotar. Cada vez que la criatura recibe un daño, tiene que pasar un control de concentración o la criatura recibe un daño cinético igual a la mitad de sus puntos de impacto máximos. Otras criaturas a menos de 3 metros de la explosión también reciben una cuarta parte del daño. Una vez que ocurre esta explosión, su piel se vuelve muy suave. |
+| 14 | La criatura crece rápidamente pelo corporal en todo el cuerpo, incluyendo la cara, hasta que se parecen a un wookiee. Si ya son un wookiee, se produce el efecto inverso; todo el pelo se cae inmediatamente, dejando la piel desnuda. |
+| 15 | La temperatura corporal de la criatura fluctúa hasta los extremos. Ganan resistencia al frío y al fuego.
+| 16 | La criatura se vuelve hambrienta. Cada hora que no han comido una comida ganan un nivel de agotamiento. |
+| 17 | La criatura cree que es la elegida. |
+| 18 | La criatura tiene dificultades para descansar. La cantidad que se curan con los dados de caza se ha reducido a la mitad. |
+| 19 | La velocidad de movimiento de la criatura se incrementa en 15 pies, y los ataques de oportunidad sobre ellos tienen una desventaja. |
 | 20 | La criatura gana 10d10 puntos de golpe, y se sienten felices y despreocupados. |
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-## Politician Pursuit
+## Carrera Política
 Los políticos estudian ciencias sociales y políticas. Los estudiosos que eligen la búsqueda de políticos saben cómo presentarse mejor para manipular a las masas para que hagan su voluntad o permitirles a ellos y a sus aliados llevar a cabo sus negocios sin impedimentos. También entienden la importancia de la autopreservación para una figura política.
 
-### Silver Tongue
+### Lengua de Plata
 Cuando eliges esta persecución en el 3er nivel, aprendes un idioma de tu elección. Además, obtienes un bono a tu elección de Engaño, Intimidación, Desempeño o Persuasión igual a tu modificador de Inteligencia.
 
-### Motivating Diplomat
+### Diplomatico Motivador
 También en el 3er nivel, cuando usted es el objetivo de su característica de Análisis Crítico, usted y todos los aliados a menos de 10 pies de usted ganan una bonificación a su AC igual a la mitad de su modificador de Inteligencia (redondeado hacia abajo).
 
 ### Maniobras adicionales
 Por último, en el tercer nivel, se accede a nuevas maniobras que reflejan el progreso de sus estudios en el mundo político. Cada vez que aprendas una nueva maniobra, también puedes elegir una de las siguientes. Las maniobras están listadas en orden alfabético.
 
-#### Call to Arms
+#### Llamada a las Armas
 Si se sorprende al inicio del combate y no está incapacitado, puede gastar un dado de superioridad para actuar normalmente. Además, en tu primer turno de combate, como acción extra puedes hacer una llamada a las armas. Cuando lo hagas, un número de criaturas igual a la cantidad tirada en el dado de superioridad que elijas dentro de los 30 pies que puedan verte u oírte podrán actuar normalmente en su primer turno.
 
-#### Call the Guards
+#### Llamar a los Guardias
 Cuando una criatura hace una tirada de ataque contra ti, puedes usar tu reacción y gastar un dado de superioridad y ordenar a un aliado dispuesto a menos de 5 pies de esa criatura que use su reacción para interceder. La criatura se ve entonces obligada a hacer un ataque al aliado en su lugar. Si el ataque falla, el aliado puede inmediatamente hacer un ataque con un arma contra esa criatura como parte de esa misma reacción. Lanza el dado de superioridad, y añade el resultado a la tirada de ataque del aliado.
 
-#### Charge
+#### Carga
 Como acción extra en tu turno, puedes gastar un dado de superioridad para rechazar a tus aliados para que se muevan. Hasta el comienzo de tu próximo turno, las criaturas que elijas dentro de un radio de 3 metros de ti que puedan verte u oírte, pueden moverse una distancia adicional igual a 5 veces el dado de superioridad tirado en su turno e ignorar el terreno difícil no mejorado.
 
 \columnbreak
@@ -3625,13 +3625,13 @@ Como acción extra en tu turno, puedes gastar un dado de superioridad para rechaz
 #### Discurso alentador
 Puedes gastar una muerte de superioridad para dar un discurso de aliento, pasar el siguiente minuto reuniendo a tus aliados. Otorgas un número de criaturas hasta tu modificador de Inteligencia puntos de golpe temporales igual a la cantidad tirada en el dado de superioridad + tu modificador de Inteligencia.
 
-#### Incita
+#### Incitar
 En tu turno, puedes usar una acción y gastar un dado de superioridad para reforzar la resolución de uno de los aliados. Cuando lo hagas, elige un aliado que pueda verte u oírte a menos de 30 pies de ti. El aliado puede añadir tu modificador de inteligencia a cada tirada de daño que haga hasta el comienzo de tu próximo turno. 
 
-#### Overwhelming Presence
+#### Presencia Abrumadora
 Como acción, puedes hacer una comprobación de habilidades de Carisma (Persuasión) o Carisma (Intimidación) y gastar un dado de superioridad para intentar encantar o asustar a una criatura humanoide que puede verte o escucharte a menos de 60 pies. Suma el dado de superioridad a la tirada. El objetivo hace un chequeo de Sabiduría (Perspicacia) disputado. Si el chequeo tiene éxito, el objetivo es encantado por ti si usas Persuasión, o asustado de ti si usas Intimidación, hasta el final de tu próximo turno.
 
-#### Self-Preservation
+#### Autopreservación
 Como reacción cuando haces un lanzamiento de ahorro contra un efecto, puedes ver que puedes gastar un dado de superioridad y sumar el resultado. Puedes usar esta maniobra <br> antes o <br> después de hacer el <br> tiro salvador,<br> pero antes de que cualquier <br> efecto del <br> tiro salvador <br> sea det-<br>erminado.
 
 <img src='https://www.gmbinder.com/images/ZA5SjCf.png' style='position:absolute;bottom:14px;right:-80px;width:630px;transform:scaleX(-1);z-index:1000;' />
@@ -3642,15 +3642,15 @@ Como reacción cuando haces un lanzamiento de ahorro contra un efecto, puedes ver
 
 <div style='margin-top:23px'></div>
 
-#### Steady the Nerves
+#### Calmar los Animos
 Como acción, puedes gastar un dado de superioridad para fortalecer las defensas de tus aliados. Lanza un dado de superioridad. Hasta el final de tu próximo turno, tú y todos los aliados que estén dentro de un radio de 5 pies de ti cuando utilices esta acción tienen un bonus a cualquier lanzamiento de ahorro que hagan igual a la cantidad tirada.
 
-#### Tyrannical Strike
+#### Golpe Tiránico
 Cuando golpeas a una criatura con un ataque de arma, puedes gastar un dado de superioridad y usar tu reacción para dar una orden de una palabra a una criatura que pueda verte o escucharte. Añades el dado de superioridad a la tirada de daño del ataque, y el objetivo debe tener éxito en un lanzamiento de ahorro de sabiduría. En una salvada fallida, el objetivo debe seguir la orden en su siguiente turno. 
 
 El objetivo tiene éxito automáticamente si es inmune al encanto, si no entiende su idioma o si su comando es directamente dañino para él.
 
-### Force of Personality
+### Fuerza de Personalidad
 Comenzando en el 6º nivel, como acción, sugieres un curso de actividad (limitado a una o dos frases) para influenciar a una criatura que puedas ver dentro de un rango que pueda oírte y entenderte. Las criaturas que no pueden ser encantadas son inmunes a este efecto. La sugerencia debe ser redactada de tal manera que el curso de acción suene razonable. Pedirle a la criatura que se apuñale a sí misma, que se lance a una lanza, que se inmoleste, o que haga algún otro acto obviamente dañino termina con el efecto.
 
 El objetivo debe hacer un lanzamiento de ahorro de sabiduría contra su maniobra de ahorro de DC. En una salvada fallida, el objetivo es encantado por ti, y sigue el curso de acción que describiste lo mejor posible. El curso de acción sugerido puede continuar por hasta 24 horas. Si la actividad sugerida puede ser completada en un tiempo más corto, el efecto termina cuando el sujeto termina lo que se le pidió que hiciera.
@@ -3661,29 +3661,29 @@ Si usted o alguno de sus compañeros dañan el objetivo, el efecto termina.
 
 Puede utilizar esta característica un número de veces igual al de su modificador de Inteligencia (un mínimo de una vez). Recuperas todos los usos gastados cuando terminas un largo descanso.
 
-### Reassemble
+### Reagruparse
 A partir del 9º nivel, puedes usar una acción de bonificación para llamar a tus aliados hacia ti. Cuando lo hagas, escoge un número de criaturas que puedas ver dentro de 60 pies de ti igual a tu modificador de Inteligencia (mínimo de uno). Pueden usar su reacción para moverse inmediatamente directamente hacia ti hasta su velocidad de movimiento. Este movimiento no provoca ataques de oportunidad.
 
 Una vez que haya utilizado esta función, debe completar un corto o largo descanso antes de poder usarla de nuevo. 
 
 \columnbreak
 
-### Beguiling Presence
+### Presencia Vigilante
 Una vez que llegas al nivel 17, los humanoides dentro de los 60 pies son particularmente susceptibles a tu presencia. Los humanoides dentro del rango tienen la desventaja de evitar cualquier efecto de encanto o miedo de ti. 
 
-### Discoveries (Politician)
+### Descubrimientos (Político)
 Al seleccionar esta búsqueda, se accede a nuevos descubrimientos que reflejan el progreso de sus estudios en el mundo político. Cada vez que aprendas un nuevo descubrimiento, puedes elegir también cualquiera de los siguientes. Los descubrimientos están listados en orden alfabético.
 
-#### Charming Feint
-*Prerrequisito: Persecución política*<br>
+#### Finta Encantadora
+*Prerrequisito: Carrera política*<br>
 Los aliados que se encuentren dentro del rango de tu característica de Diplomático Motivador también ganan un bono a su tirada de daño igual a la mitad de tu modificador de Inteligencia (redondeado hacia abajo).
 
 #### Líder exigente
-*Prerrequisito: 5º nivel, Persecución política*<br> 
+*Prerrequisito: 5º nivel, Carrera política*<br> 
 El alcance de cada una de sus maniobras se incrementa en 10 pies. Si el rango es de contacto, se convierte en 10 pies.
 
-#### Dominating Presence
-*Prerrequisito: Nivel 15, Persecución política*<br>
+#### Presencia Dominante
+*Prerrequisito: Nivel 15, Carrera política*<br>
 Como acción extra, puedes llamar a un humanoide que te entienda y que esté encantado o asustado de ti para que dirija su próxima acción. El objetivo debe lograr un lanzamiento de ahorro de sabiduría contra tu maniobra de ahorro de DC. En una salvada fallida, hasta el final de tu siguiente turno, la criatura sólo realiza las acciones que tú elijas, y no hace nada que tú no le permitas hacer.
 
 Durante este tiempo puedes usar tu reacción para forzar a la criatura a usar su reacción.
@@ -3691,31 +3691,31 @@ Durante este tiempo puedes usar tu reacción para forzar a la criatura a usar su 
 Una vez que haya utilizado esta función, debe completar un corto o largo descanso antes de poder usarla de nuevo.
 
 #### Influenciador
-*Prerrequisito: 5º nivel, Persecución política*<br>
+*Prerrequisito: 5º nivel, Carrera política*<br>
 El alcance de su función de "Motivating Diplomat" se ha incrementado hasta los 15 pies. 
 
 #### Palabras confiables
-*Prerrequisito: 9º nivel, Persecución política*<br>
+*Prerrequisito: 9º nivel, Carrera política*<br>
 Cuando haces un chequeo de habilidad de Engaño, Intimidación o Persuasión, puedes tratar cualquier tirada 9 o inferior como si hubieras tirado un 10.
 
-#### Social Opportunist
+#### Oportunista Social
 Puedes añadir la mitad de tu bonificador de competencia (redondeado hacia abajo) a cualquier cheque de Carisma que hagas que no incluya ya el bonificador de competencia.
 
-#### Tyrant's Ferocity
-*Prerrequisito: Persecución política*<br>
+#### Ferocidad del Tirano
+*Prerrequisito: Carrera política*<br>
 Tienes ventaja en cualquier ataque contra una criatura que esté encantada o asustada de ti.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-## Tactician Pursuit
+## Carrera de Táctica
 Los tácticos estudian la estrategia y las formas de la guerra. Los estudiosos que eligen la Persecución Táctica se entrenan a sí mismos y a sus aliados en maniobras de combate para eliminar hábilmente a sus enemigos a través de un posicionamiento inteligente, y ataques feroces y oportunos.
 
-### Battle Proficiencies
+### Competencias de la Batalla
 Cuando eliges esta persecución en el 3er nivel, ganas habilidad en los blasters marciales y en las vibroarmas marciales. 
 
-### Tactical Mastery
+### Maestria Táctica
 También en el tercer nivel, aprendes a dirigir mejor a tus aliados a la victoria desde lejos. El alcance de tu Análisis Crítico se incrementa a 90 pies. 
 
 \columnbreak
@@ -3725,24 +3725,24 @@ También en el tercer nivel, aprendes a dirigir mejor a tus aliados a la victoria
 ### Maniobras adicionales
 Por último, en el 3er nivel, accederá a nuevas maniobras que reflejan su dominio en el campo del combate. Cada vez que aprendas una nueva maniobra, puedes elegir también cualquiera de las siguientes. Las maniobras están listadas en orden alfabético.
 
-#### Bolster
+#### Apoyar
 En tu turno, puedes usar una acción de bonificación y gastar un dado de superioridad para reforzar la resolución de uno de tus compañeros. Cuando lo hagas, elige una criatura amistosa que pueda verte o escucharte. Esa criatura gana puntos de impacto temporales iguales a la tirada de superioridad + tu modificador de inteligencia.
 
-#### Commander's Strike
+#### Ordenar Ataque
 Cuando haces la acción de Ataque en tu turno, puedes renunciar a uno de tus ataques y usar una acción de bonificación para dirigir a uno de tus compañeros a atacar. Cuando lo hagas, escoge una criatura amistosa dentro de los 60 pies que pueda verte u oírte y gasta un dado de superioridad. Esa criatura puede usar inmediatamente su reacción para hacer que un arma ataque, añadiendo tu dado de superioridad a la tirada de daño del ataque.
 
 #### Ataque de Desarme
 Cuando golpeas a una criatura con un ataque de arma, puedes gastar un dado de superioridad para intentar desarmar al objetivo, forzándolo a soltar un objeto de tu elección que esté sosteniendo. Añades el dado de superioridad a la tirada de daño del ataque, y el objetivo debe hacer un lanzamiento de ahorro de fuerza. En una salvada fallida, deja caer el objeto que elijas. El objeto cae a sus pies.
 
-#### Distracción de la huelga
+#### Golpe de Distracción
 Cuando atacas a una criatura con un arma, puedes gastar un dado de superioridad para distraer a la criatura, dando a tus aliados una apertura. Añades el dado de superioridad a la tirada de daño del ataque. La siguiente tirada de ataque contra el objetivo por un atacante que no seas tú tiene ventaja si el ataque se hace antes del comienzo de tu próximo turno.
 
-#### Maniobras de ataque
+#### Ataque Táctico
 Cuando golpeas a una criatura con un arma de ataque, puedes gastar un dado de superioridad para maniobrar a uno de tus aliados en una posición más ventajosa. Añades el dado de superioridad a la tirada de daño del ataque, y eliges una criatura amiga que pueda verte o escucharte.
 
 Esa criatura puede usar su reacción para moverse hasta la mitad de su velocidad sin provocar ataques de oportunidad desde el objetivo de su ataque.
 
-#### Pushing Attack
+#### Ataque de Empujón
 Cuando le das a una criatura con un ataque de arma, puedes gastar un dado de superioridad para intentar hacer retroceder al objetivo. Añades el dado de superioridad a la tirada de daño del ataque, y si el objetivo es grande o pequeño, debe hacer un lanzamiento de ahorro de fuerza. En una salvada fallida, empujas al objetivo hasta 15 pies de distancia de ti.
 
 <img src='https://www.gmbinder.com/images/Nx2laNk.png' style='position:absolute;bottom:14px;left:-170px;width:790px;transform:scaleX(-1);z-index:1000;' />
@@ -3751,25 +3751,25 @@ Cuando le das a una criatura con un ataque de arma, puedes gastar un dado de sup
 
 \pagebreakNum
 
-#### Riposte
+#### Contraataque
 Cuando una criatura te falla con un ataque cuerpo a cuerpo, puedes usar tu reacción y gastar un dado de superioridad para hacer un ataque con arma de cuerpo a cuerpo contra la criatura. Si golpeas, añades el dado de superioridad a la tirada de daño del ataque.
 
-#### Scholar's Parry
+#### Parada del Erudito
 Cuando una criatura te daña con un ataque de arma, puedes usar tu reacción y gastar un dado de superioridad para reducir el daño en el número que tiras en tu dado de superioridad + tu modificador de Inteligencia.
 
 #### Ataque dirigido
 Cuando haces una tirada de ataque con arma, puedes gastar un dado de superioridad para añadirlo a la tirada. Puedes usar esta maniobra antes o después de hacer la tirada de ataque, pero antes de que se apliquen los efectos del ataque.
 
-#### Trip Attack
+#### Ataque de Derribo
 Cuando le das a una criatura con un ataque de arma, puedes gastar un dado de superioridad para intentar derribar el objetivo. Añades el dado de superioridad a la tirada de daño del ataque, y si el objetivo es grande o pequeño, debe hacer un lanzamiento de ahorro de fuerza. En una parada fallida, derribas al objetivo propenso.
 
-### Fire as One
+### Disparar como Unidad
 A partir del 6º nivel, puedes enfocar tu objetivo hacia abajo con la ayuda de un aliado. Una vez por ronda, siempre que la criatura que es el objetivo de tu característica de Análisis Crítico sea atacada por alguien que no seas tú, puedes usar tu reacción para hacer que un arma ataque contra ellos. 
 
-### Battlefield Survey
+### Estudio de Batalla
 A partir del 9º nivel, te convertirás en un maestro en guiar a tus aliados en el campo de batalla que has estudiado. Cuando pasas 10 minutos observando un área que está a 120 pies de ti, o usando un mapa detallado, selecciona un número de criaturas hasta tu modificador de Inteligencia. Tú y esos aliados seleccionados ignoran el terreno difícil no mejorado, y tienen ventaja en los chequeos de Destreza (Stealth) en esa área. 
 
-### All-Out Attack
+### Fuego a Discreción
 Una vez que hayas alcanzado el nivel 17, puedes usar tu acción para iniciar un ataque total. Elige un número de aliados hasta tu modificador de Inteligencia dentro de los 60 pies que puedan verte u oírte. Los aliados elegidos pueden entonces usar inmediatamente su reacción para hacer un ataque con un arma contra un objetivo de su elección. Usted puede elegir el objetivo de cada ataque por separado.
 
 Una vez que use esta función, no podrá volver a usarla hasta que termine un descanso corto o largo.
@@ -3780,35 +3780,35 @@ Una vez que use esta función, no podrá volver a usarla hasta que termine un desc
 Cuando seleccionas esta persecución, accedes a nuevos descubrimientos que reflejan tu maestría en el campo del combate. Cada vez que aprendas un nuevo descubrimiento, también puedes elegir entre cualquiera de los siguientes. Los descubrimientos están listados en orden alfabético.
 
 #### Armadura del Comandante
-*Prerrequisito: 5º nivel, Táctica de persecución*<br>
+*Prerrequisito: 5º nivel, Carrera de Táctica*<br>
 Se gana destreza en la armadura media.
 
 #### Plan de Contingencia
-*Prerrequisito: 9º nivel, Persecución Táctica*<br>
+*Prerrequisito: 9º nivel, Carrera de Táctica*<br>
 Cuando el objetivo de su característica de Análisis Crítico obtiene un golpe crítico, puede usar su reacción y gastar un dado de superioridad para tratar el ataque como un golpe normal en su lugar.
 
-#### Fighting Style
-*Prerrequisito: Táctica de persecución*<br>
+#### Estilo de Lucha
+*Prerrequisito: Carrera de Táctica*<br>
 Adoptas un estilo particular de lucha como tu especialidad. Elige una de las opciones de estilo de lucha, detalladas en el capítulo 6. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
 
-#### Comando de disparo
-*Prerrequisito: Táctica de persecución*<br>
+#### Orden de disparo
+*Prerrequisito: Carrera de Táctica*<br>
 Como una acción extra, puedes tomar la acción de ayuda. Además, cuando tomas la acción de ayuda, tiene un alcance de 30 pies.
 
 #### Líder Observador
-*Prerrequisito: Táctica de persecución* 
+*Prerrequisito: Carrera de Táctica* 
 Puedes añadir tu modificador de Inteligencia a cualquier comprobación de habilidades de Sabiduría (Percepción) que hagas.
 
-#### Studied Commander
-*Prerrequisito: Táctica de persecución* 
+#### Comandante Formado
+*Prerrequisito: Carrera de Táctica* 
 Cuando haces un chequeo de Inteligencia (Historia) o Inteligencia (Tecnología) relacionado con batallas, tácticas o armamento, puedes gastar un dado de superioridad y añadirlo a la tirada.
 
-#### Retiro Táctico
-*Prerrequisito: Táctica de persecución* 
+#### Retirada Táctica
+*Prerrequisito: Carrera de Táctica* 
 Cuando tomas la acción de Dash, los ataques de oportunidad hechos contra ti se hacen en desventaja.
 
-#### Unbound Commander
-*Prerrequisito: 12º nivel, Táctica de persecución*<br>
+#### Comandante Desatado
+*Prerrequisito: 12º nivel, Carrera de Táctica*<br>
 Aprendes a mandar a tus aliados a la victoria desde lejos. Su rango de análisis crítico se incrementa a 120 pies. 
 
 <img src='https://www.gmbinder.com/images/N4eG6QM.png' style='position:absolute;bottom:0px;right:15px;width:320px;z-index:1000;' />
@@ -3817,7 +3817,7 @@ Aprendes a mandar a tus aliados a la victoria desde lejos. Su rango de análisis 
 
 \pagebreakNum
 
-## Scout
+## Explorador
 <span style="font-variant: small-caps">Mirada áspera y canosa, un humano acecha solo a través de las sombras de los árboles, cazando la cantera que sabe que está planeando una incursión en un asentamiento cercano. Agarrando una cuchilla técnica en cada mano, se convierte en un torbellino de acero, cortando un enemigo tras otro.
 
 Después de caerse de la metralla de la explosión de un misil, un bothan encuentra sus pies y dispara dos tiros de su carabina al tanque que se aproxima. Encogiéndose de hombros ante la ola de miedo que amenaza con impregnar todo su ser, dispara alrededor de su enemigo, disparando un tiro tras otro para intentar penetrar la gruesa armadura del tanque.
@@ -3851,7 +3851,7 @@ Al crear tu personaje de explorador, considera la naturaleza del entrenamiento q
 
 ¿Qué te hizo unirte a una banda de aventureros? ¿Encuentras un reto enseñar a los nuevos aliados los caminos de la naturaleza, o te gusta el alivio de la soledad que ofrecen?
 
-#### Quick Build
+#### Creación Rápida
 Puedes hacer un explorador rápidamente siguiendo estas sugerencias. Primero, haz que la Fuerza o la Destreza sea tu modificador de mayor habilidad, dependiendo de si quieres centrarte en el combate cuerpo a cuerpo o en las armas de distancia (o en las armas de delicadeza). Tu siguiente puntuación más alta debería ser la de Inteligencia. Segundo, elige el fondo de cazarrecompensas.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -3875,14 +3875,14 @@ Puedes hacer un explorador rápidamente siguiendo estas sugerencias. Primero, haz
 |	10th|	+4	|	Commando        							| d8 |	12	|	10	|	3rd	|
 |	11th|	+4	|	Technique feature				    		| d8 |	13	|	11	|	3rd	|
 |	12th|	+4	|	Mejora de Puntuación de Característica					| d8 |	14	|	12	|	3rd	|
-|	13th|	+5	|	—											| d10|	15	|	13	|	4th	|
-|	14th|	+5	|	Combat Tech									| d10|	16	|	14	|	4th	|
-|	15th|	+5	|	Technique feature					    	| d10|	16	|	15	|	4th	|
-|	16th|	+5	|	Mejora de Puntuación de Característica					| d10|	16	|	16	|	4th	|
-|	17th|	+6	|	—											| d12|	17	|	17	|	5th	|
-|	18th|	+6	|	Supreme Awareness							| d12|	17	|	18	|	5th	|
-|	19th|	+6	|	Mejora de Puntuación de Característica					| d12|	17	|	19	|	5th	|
-|	20th|	+6	|	Foe Slayer									| d12|	18	|	20	|	5th	|
+|	13th|	+5	|	—											| d10|	15	|	13	|	4	|
+|	14th|	+5	|	Combat Tech									| d10|	16	|	14	|	4	|
+|	15th|	+5	|	Technique feature					    	| d10|	16	|	15	|	4	|
+|	16th|	+5	|	Mejora de Puntuación de Característica					| d10|	16	|	16	|	4	|
+|	17th|	+6	|	—											| d12|	17	|	17	|	5	|
+|	18th|	+6	|	Supreme Awareness							| d12|	17	|	18	|	5	|
+|	19th|	+6	|	Mejora de Puntuación de Característica					| d12|	17	|	19	|	5	|
+|	20th|	+6	|	Foe Slayer									| d12|	18	|	20	|	5	|
 
 </div>
 
@@ -3892,17 +3892,17 @@ Como explorador, obtienes las siguientes características de la clase.
 #### Puntos de Golpe
 ___
 - **Dados de Golpe:** 1d10 per scout level
-- **Puntos de Golpe at 1st Level:** 10 + el modificador de Constitución 
+- **Puntos de Golpe at 1st Nivel:** 10 + el modificador de Constitución 
 - **Puntos de Golpe at Higher Levels:** 1d10 (or 6) + el modificador de Constitución  per scout level after 1st
 
 #### Proficiency
 ___
-- **Armor:** Armadura ligera, armadura media
-- **Weapons:** All blasters, all vibroweapons
-- **Tools:** Ninguna
+- **Armadura:** Armadura ligera, armadura media
+- **Armas:** All blasters, all vibroweapons
+- **Herramientas:** Ninguna
 ___
-- **Saving Throws:** Fuerza, Destreza
-- **Skills:** Elige tres de entre Trato de Animales, Atletismo, Perspicacia, Investigación, Percepción, Piloting, Stealth, Supervivencia, y Technology
+- **Tiradas de Salvación:** Fuerza, Destreza
+- **Habilidades:** Elige tres de entre Trato de Animales, Atletismo, Perspicacia, Investigación, Percepción, Piloting, Stealth, Supervivencia, y Technology
 
 \columnbreak
 
@@ -3958,7 +3958,7 @@ Tienes un número de puntos técnicos igual a tu nivel de explorador, como se mues
 
 <div style='margin-top:23px'></div>
 
-#### Max Power Level
+#### Max Power Nivel
 Muchos poderes tecnológicos pueden ser sobrecargados, consumiendo más puntos tecnológicos para crear un mayor efecto. Puedes sobrecargar estos poderes a un nivel máximo, que aumenta en los niveles más altos, como se muestra en la columna de Nivel de Poder Máximo de la tabla de clases de exploradores.
 
 Sólo puedes lanzar poderes tecnológicos en el 4º y 5º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
@@ -4125,7 +4125,7 @@ A partir del 7º nivel, las tiradas de ataque hechas contra ti en tu turno se hac
 <div class='classTable'>
 
 ##### Deadeye Technique Focused Superiority
-|Level|Focused Superiority|Superiority Dice|Maneuvers Known|
+|Nivel|Focused Superiority|Superiority Dice|Maneuvers Known|
 |:--:|:--:|:--:|:--:|
 | 3rd| d6|2|2|
 | 4th| d6|2|2|
@@ -4281,7 +4281,7 @@ Los centinelas son notoriamente independientes, se sienten más cómodos actuando 
 ### Creating a Sentinel
 Al crear su centinela, considere su filosofía personal con respecto a la Fuerza y sus practicantes más famosos - los Jedi y los Sith. ¿Eres miembro de una de las dos órdenes, o caminas por un camino diferente? ¿Eres un operativo que se aprovecha de una sensibilidad latente de la Fuerza? ¿Fuiste entrenado en la Fuerza desde joven, o la descubriste de adulto? ¿Cómo tratas a los más débiles que tú? ¿Cómo era tu familia? ¿Ves la Fuerza como algo claro y oscuro, o como un río imparcial de color gris?
 
-#### Quick Build
+#### Creación Rápida
 Puedes hacer un centinela rápidamente siguiendo estas sugerencias. Primero, haz de la destreza tu mayor puntuación de característica, seguida de la sabiduría o el carisma. Segundo, elige el fondo Jedi o Sith.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -4291,28 +4291,28 @@ Puedes hacer un centinela rápidamente siguiendo estas sugerencias. Primero, haz 
 <div class='classTable wide'>
 
 ##### The Sentinel
-|	Level	|	Proficiency<br> Bonus	|	Features	|	Kinetic Combat<br> Damage Die	|	Force Powers<br> Known	|Force<br> Points  | Max Power<br> Level|
+|	Nivel	|	Proficiency<br> Bonus	|	Features	|	Kinetic Combat<br> Damage Die	|	Force Powers<br> Known	|Force<br> Points  | Max Power<br> Nivel|
 |	:--:	|	:--:	|	:--    |	:--: |	:--:	|	:--:	|	:--:	|
 |	 1st	|	+2	|	Forcecasting, Kinetic Combat				| 	d4	|	 6	|	 3	|	 1st	|
 |	 2nd	|	+2	|	Force-Empowered Self, Sentinel Ideals		|	d4	| 	 7	|	 6	|	 1st	|
 |	 3rd	|	+2	|	Sentinel Calling		    				|	d4	|	 9	|	 9	|	 2nd	|
-|	 4th	|	+2	|	Mejora de Puntuación de Característica					|	d4	|	10	|	12	|	 2nd	|
-|	 5th	|	+3	|   Extra Attack								|	d6	|	11	|	15	|	 2nd	|
-|	 6th	|	+3	|	—											|	d6	|	13	|	18	|	 3rd	|
-|	 7th	|	+3	|	Calling feature   				    		|	d6	|	14	|	21	|	 3rd	|
-|	 8th	|	+3	|	Mejora de Puntuación de Característica					|	d6	|	15	|	24	|	 3rd	|
-|	 9th	|	+4	|	—   										|	d6	|	17	|	27	|	 4th	|
-|	10th	|	+4	|	Battle Readiness   							|	d6	|	18	|	30	|	 4th	|
-|	11th	|	+4	|	—											|	d8	|	20	|	33	|	 5th	|
-|	12th	|	+4	|	Mejora de Puntuación de Característica					|	d8	|	21	|	36	|	 5th	|
-|	13th	|	+5	|	Calling feature			    				|	d8	|	22	|	39	|	 5th	|
-|	14th	|	+5	|	—           								|	d8	|	24	|	42	|	 6th	|
-|	15th	|	+5	|	Enlightened Evasion							|	d8	|	25	|	45	|	 6th	|
-|	16th	|	+5	|	Mejora de Puntuación de Característica					|	d8	|	26	|	48	|	 6th	|
-|	17th	|	+6	|	—   										|  d10	|	28	|	51	|	 7th	|
-|	18th	|	+6	|	Calling feature	        					|  d10	|	29	|	54	|	 7th	|
-|	19th	|	+6	|	Mejora de Puntuación de Característica					|  d10	|	30	|	57	|	 7th	|
-|	20th	|	+6	|	Center of the Force                			|  d10	|	30	|	60	|	 7th	|
+|	 4	|	+2	|	Mejora de Puntuación de Característica					|	d4	|	10	|	12	|	 2nd	|
+|	 5	|	+3	|   Extra Attack								|	d6	|	11	|	15	|	 2nd	|
+|	 6	|	+3	|	—											|	d6	|	13	|	18	|	 3rd	|
+|	 7	|	+3	|	Calling feature   				    		|	d6	|	14	|	21	|	 3rd	|
+|	 8	|	+3	|	Mejora de Puntuación de Característica					|	d6	|	15	|	24	|	 3rd	|
+|	 9	|	+4	|	—   										|	d6	|	17	|	27	|	 4	|
+|	10	|	+4	|	Battle Readiness   							|	d6	|	18	|	30	|	 4	|
+|	11	|	+4	|	—											|	d8	|	20	|	33	|	 5	|
+|	12	|	+4	|	Mejora de Puntuación de Característica					|	d8	|	21	|	36	|	 5	|
+|	13	|	+5	|	Calling feature			    				|	d8	|	22	|	39	|	 5	|
+|	14	|	+5	|	—           								|	d8	|	24	|	42	|	 6	|
+|	15	|	+5	|	Enlightened Evasion							|	d8	|	25	|	45	|	 6	|
+|	16	|	+5	|	Mejora de Puntuación de Característica					|	d8	|	26	|	48	|	 6	|
+|	17	|	+6	|	—   										|  d10	|	28	|	51	|	 7	|
+|	18	|	+6	|	Calling feature	        					|  d10	|	29	|	54	|	 7	|
+|	19	|	+6	|	Mejora de Puntuación de Característica					|  d10	|	30	|	57	|	 7	|
+|	20	|	+6	|	Center of the Force                			|  d10	|	30	|	60	|	 7	|
 
 </div>
 
@@ -4322,17 +4322,17 @@ Como centinela, obtienes las siguientes características de clase.
 #### Puntos de Golpe
 ___
 - **Dados de Golpe:** 1d8 per sentinel level
-- **Puntos de Golpe at 1st Level:** 8 + el modificador de Constitución 
+- **Puntos de Golpe at 1st Nivel:** 8 + el modificador de Constitución 
 - **Puntos de Golpe at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per sentinel level after 1st
 
 #### Proficiencies
 ___
-- **Armor:** Armadura ligera
-- **Weapons:** Simple vibroweapons, simple lightweapons, chakram, doubleblade, doublesaber, doubleshoto, doublesword, hidden blade, lightfoil, light ring, saberwhip, vibrorapier, vibrowhip
-- **Tools:** Your choice of demolitions kit, security kit, or slicer's kit
+- **Armadura:** Armadura ligera
+- **Armas:** Simple vibroweapons, simple lightweapons, chakram, doubleblade, doublesaber, doubleshoto, doublesword, hidden blade, lightfoil, light ring, saberwhip, vibrorapier, vibrowhip
+- **Herramientas:** Your choice of demolitions kit, security kit, or slicer's kit
 ___
-- **Saving Throws:** Destreza, Carisma
-- **Skills:** Elige dos de entre Acrobatics, Trato de Animales, Perspicacia, Intimidación, Percepción, Persuasión, Piloting, Stealth, y Technology
+- **Tiradas de Salvación:** Destreza, Carisma
+- **Habilidades:** Elige dos de entre Acrobatics, Trato de Animales, Perspicacia, Intimidación, Percepción, Persuasión, Piloting, Stealth, y Technology
 
 \columnbreak
 
@@ -4365,7 +4365,7 @@ Aprendes 6 poderes de fuerza de tu elección, y aprendes más en los niveles super
 #### Force Points
 Tienes un número de puntos de fuerza igual a tu nivel de centinela x 3, como se muestra en la columna de puntos de fuerza de la tabla de clases de centinela, + tu modificador de Sabiduría o Carisma (a tu elección). Utilizas estos puntos de fuerza para lanzar poderes de fuerza. Recuperas todos los puntos de fuerza gastados cuando terminas un largo descanso.
 
-#### Max Power Level
+#### Max Power Nivel
 Muchos poderes de fuerza pueden ser superados, consumiendo más puntos de fuerza para crear un mayor efecto. Puedes dominar estas habilidades hasta un nivel máximo, que aumenta en los niveles más altos, como se muestra en la columna de Nivel de Poder Máximo de la tabla de clases de los centinelas.
 
 Sólo puedes lanzar poderes de fuerza en el 5º, 6º y 7º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
