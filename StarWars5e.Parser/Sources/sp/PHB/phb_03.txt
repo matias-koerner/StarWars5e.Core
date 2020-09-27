@@ -474,9 +474,9 @@ Puede hacer un consulado rápidamente siguiendo estas sugerencias. Primero, haz d
 ##### El Cónsul
 |	Nivel	|	Bonificación<br> de<br> Competencia	|	Rasgos	|	Poderes de<br> La Fuerza<br> conocidos	|Puntos de<br> La Fuerza| Nivel de<br> Poder Máximo|
 |:--:|:--:|:--|:--:|:--:|:--:|
-|	1	|	+2	|	Invocacion de La Fuerza, Recuperación de Fuerza	|	 8	|	 4	|	 1	|
-|	2	|	+2	|	Invocacion de Fuerza, Escudo de Fuerza			|	 9	|	 8	|	 1	|
-|	3	|	+2	|	Tradición de Cónsul, Fuerza oculta				|	11	|	12	|	 2	|
+|	1	|	+2	|	Invocar La Fuerza, Recuperación de Fuerza	|	 8	|	 4	|	 1	|
+|	2	|	+2	|	Invocacion Empoderada de La Fuerza, Escudo de Fuerza			|	 9	|	 8	|	 1	|
+|	3	|	+2	|	Tradición de Cónsul, Fuerza Oculta				|	11	|	12	|	 2	|
 |	4	|	+2	|	Mejora de Puntuación de Característica	    	|	12	|	16	|	 2	|
 |	1	|	+3	|	—								    			|	14	|	20	|	 3	|
 |	6	|	+3	|	Rasgo de Tradición					    		|	15	|	24	|	 3	|
@@ -549,7 +549,7 @@ Muchos poderes de fuerza pueden ser superados, consumiendo más puntos de fuerza 
 
 Sólo puedes lanzar poderes de fuerza en el 6º, 7º, 8º y 9º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
-#### Invocar La Fuerza
+#### Habilidad para Invocar La Fuerza
 Su capacidad de previsión varía según la alineación de los poderes que se le otorgan. Usas tu Sabiduría para los poderes del lado de la luz, Carisma para los del lado de la oscuridad, y Sabiduría o Carisma para los poderes universales (a tu elección). Utilizas este modificador de puntuación de habilidades siempre que un poder se refiera a tu capacidad de previsión. Además, usas este modificador de puntuación de habilidad cuando estableces el tiro salvador DC para una potencia de fuerza que lanzas y cuando haces una tirada de ataque con una.
 
 ___
