@@ -12,13 +12,13 @@ Tu clase te da una variedad de características especiales, como el dominio de la
 
 \columnbreak
 
-Los aventureros a veces avanzan en más de una clase. Un operativo puede cambiar de dirección en la vida y convertirse en un ingeniero. Un berserker puede descubrir la sensibilidad de la fuerza latente y hacer incursiones en la clase de los guardianes mientras continúa avanzando como un berserker. Se sabe que los Sith purasangre combinan la maestría marcial con el entrenamiento de fuerza y avanzan como luchadores y consulares simultáneamente. Las reglas opcionales para combinar las clases de esta manera, llamadas multiclases, aparecen en el capítulo 6.
+Los aventureros a veces avanzan en más de una clase. Un operativo puede cambiar de dirección en la vida y convertirse en un ingeniero. Un berserker puede descubrir la sensibilidad de la fuerza latente y hacer incursiones en la clase de los guardianes mientras continúa avanzando como un berserker. Se sabe que los Sith purasangre combinan la maestría marcial con el entrenamiento de fuerza y avanzan como guerreros y consulares simultáneamente. Las reglas opcionales para combinar las clases de esta manera, llamadas multiclases, aparecen en el capítulo 6.
 
 > Muchas clases y arquetipos agregan costos de material para obtener características integrales de la clase mientras que la mayoría de los otros no lo hacen. Su GM puede elegir renunciar al componente de tiempo y costo si así lo decide.
 >
 > Además, ciertas clases y subclases se encontrarán a menudo con una fuerza o punto técnico singular, con el que no pueden hacer nada. Cualquier personaje con la característica de fuerza o punto técnico también obtiene la siguiente característica:
 > 
-> Cuando fallas un chequeo de habilidad, si agregas tu bono de habilidad al chequeo y no tienes ventaja o desventaja, puedes gastar 1 punto de fuerza o tecnología para volver a lanzar el dado. Sólo puedes usar esta característica una vez por chequeo de habilidad, y debes usar la nueva tirada.
+> Cuando fallas un chequeo de habilidad, si agregas el bonificador de competencia al chequeo y no tienes ventaja o desventaja, puedes gastar 1 punto de fuerza o tecnología para volver a lanzar el dado. Sólo puedes usar esta característica una vez por chequeo de habilidad, y debes usar la nueva tirada.
 
 Elija entre las siguientes opciones de clase:
 
@@ -30,7 +30,7 @@ Elija entre las siguientes opciones de clase:
 |Berserker|Luchador cuerpo a cuerpo que utilza furia para aumentar su proeza|d12|Fuerza|Fuerza y Constitución|
 |Cónsul|Practicante de La Fuerza enfocado a usar sus poderes|d6|Sabiduría|Sabiduría y Carisma|
 |Ingeniero|Especialista tecnológico que aumenta objetos para beneficiar a sus aliados|d8|Inteligencia|Constitución y Inteligencia|
-|Soldado|Combatiente versatil que sobresale tanto a distancia como en el combate cerrado|d10|Fuerza|Fuerza y Constitución|
+|Guerrero|Combatiente versatil que sobresale tanto a distancia como en el combate cerrado|d10|Fuerza|Fuerza y Constitución|
 |Guardián|Practicante de La Fuerza enfocado al combate cuerpo a cuerpo|d10|Fuerza|Constitución y Carisma|
 |Monje|Combatiente desarmado que usa concentración para desatar sus habilidades|d8|Destreza|Fuerza y Destreza|
 |Granuja|Regulador centrado en el sigilo y otras tecnicas|d8|Destreza|Destreza e Inteligencia|
@@ -332,11 +332,11 @@ ___
 
 <div align="center">
 
-**DC Salvación de La Fuerza** = 8 + Bonificación de competencia + <br>modificador de habilidad para invocar La Fuerza
+**DC Salvación de La Fuerza** = 8 + el bonificador de competencia + <br>modificador de habilidad para invocar La Fuerza
 
 ___
 
-**Modificador de ataque con La Fuerza** = Bonificador de competencia + <br>modificador de habilidad para invocar La Fuerza
+**Modificador de ataque con La Fuerza** = el bonificador de competencia + <br>modificador de habilidad para invocar La Fuerza
 
 </div>
 
@@ -667,7 +667,7 @@ En el 6º nivel, cuando una criatura que puedes ver a menos de 30 pies de ti reci
 A partir del 10º nivel, tus poderes universales a voluntad dan un pequeño impulso a tu Barrera de la Fuerza. Cuando lanzas un poder universal a voluntad, la barrera recupera 1 punto de golpe.
 
 ### Supresion Mejorada
-En el nivel 14, cuando lanzas un poder de fuerza que requiere que hagas un chequeo de habilidad como parte del lanzamiento de ese poder (como en *sever force* y *force suppression*), añades tu bono de habilidad a ese chequeo de habilidad.
+En el nivel 14, cuando lanzas un poder de fuerza que requiere que hagas un chequeo de habilidad como parte del lanzamiento de ese poder (como en *sever force* y *force suppression*), añades el bonificador de competencia a ese chequeo de habilidad.
 
 \columnbreak
 
@@ -873,11 +873,11 @@ ___
 
 <div align="center">
 
-**CD Salvación Tecnologica** = 8 + tu bonificación de habilidad + <br>tu modificador de Inteligencia
+**CD Salvación Tecnologica** = 8 + el bonificador de competencia + <br>tu modificador de Inteligencia
 
 ___
 
-**Modificador de ataque técnologico** = tu bonificación de habilidad + <br>tu modificador de inteligencia
+**Modificador de ataque técnologico** = el bonificador de competencia + <br>tu modificador de inteligencia
 
 </div>
 
@@ -1343,7 +1343,7 @@ Si tu droide es destruido irreparablemente, o quieres interactuar con otro droid
 Tu droide obtiene una variedad de beneficios mientras está conectado a ti:
 - El droide obedece tus órdenes lo mejor que puede. Actúa a tu turno, y tú determinas sus acciones, decisiones, actitudes, etc. Si estás incapacitado o ausente, tu droide actúa por su cuenta.
 - El nivel de tu droide es igual al nivel de tu ingeniero, y por cada nivel de ingeniero que ganes después del 3º, tu compañero droide gana un dado de impacto adicional y aumenta sus puntos de impacto en consecuencia.
-- Tu droide tiene el bono de habilidad de un personaje del mismo nivel.
+- Tu droide tiene el bonificador de competencia de un personaje del mismo nivel.
 - Cada vez que obtienes la característica de Mejora de la Puntuación de Habilidad en esta clase, las habilidades de tu droide también mejoran. Tu droide puede aumentar una puntuación de habilidad de tu elección en 2, o puede aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, tu droide no puede aumentar una puntuación de habilidad por encima de 20 usando esta característica a menos que su descripción especifique lo contrario.
 - Tu droide no puede llevar armadura, pero puedes tener la armadura integrada profesionalmente en su chasis. En el transcurso de un largo descanso, puedes gastar materiales equivalentes a la mitad del costo de la armadura para integrarla a tu droide. Tu droide debe dominar la armadura para poder integrarla.
 - Tu droide es un objetivo válido de la potencia tecnológica del *interfaz del droide rastreador*.
@@ -1551,7 +1551,7 @@ Tu droide puede analizar un objetivo, desarrollar un plan sobre cómo superar mej
 - Cuando analiza una criatura amiga, el objetivo puede terminar el Protocolo de Análisis de tu droide en ellos (no se requiere ninguna acción) para añadir la mitad del modificador de Inteligencia de tu droide (redondeado hacia abajo, mínimo de +1) a una tirada de ataque, chequeo de habilidad o lanzamiento de salvamento. Una vez que una criatura amiga se ha beneficiado de esta habilidad, no puede volver a hacerlo hasta que complete un descanso corto o largo.
 
 #### Brazos-Cañón
-Instalas cañones de doble brazo en tu droide. Los cañones de brazo tienen dos cargas. Como acción, tu droide puede usar cargas para lanzar la potencia tecnológica de la *sobrecarga*, usando una carga por nivel. El lanzamiento de salvamento se hace contra el DC de salvamento tecnológico de tu droide (8 + el bono de habilidad de tu droide + el modificador de Inteligencia de tu droide).
+Instalas cañones de doble brazo en tu droide. Los cañones de brazo tienen dos cargas. Como acción, tu droide puede usar cargas para lanzar la potencia tecnológica de la *sobrecarga*, usando una carga por nivel. El lanzamiento de salvamento se hace contra el DC de salvamento tecnológico de tu droide (8 + el bonificador de competencia de tu droide + el modificador de Inteligencia de tu droide).
 
 Puedes elegir esta modificación varias veces. Cada vez que lo haces, los cañones de brazo ganan otra carga, hasta un máximo de 4. Los cañones de brazo recuperan todas las cargas después de un largo descanso.
 
@@ -1595,7 +1595,7 @@ Instalas un protocolo en tu droide que le otorga experiencia en una herramienta 
 
 #### Falsa Combustión
 Pre-requisito: droide de clase II.
-Instalas un protocolo de pánico en tu droide. Como reacción a la toma de daños, tu droide puede fingir una explosión. Durante un minuto, tu droide parece ser destruido en toda la inspección exterior. Una criatura puede usar su acción para inspeccionar el droide y hacer una comprobación de Inteligencia (Investigación) contra la tecnología de tu droide, salvo el DC (8 + el bono de habilidad de tu droide + el modificador de Inteligencia de tu droide). Si tiene éxito, se da cuenta de que tu droide sigue funcionando.
+Instalas un protocolo de pánico en tu droide. Como reacción a la toma de daños, tu droide puede fingir una explosión. Durante un minuto, tu droide parece ser destruido en toda la inspección exterior. Una criatura puede usar su acción para inspeccionar el droide y hacer una comprobación de Inteligencia (Investigación) contra la tecnología de tu droide, salvo el DC (8 + el bonificador de competencia de tu droide + el modificador de Inteligencia de tu droide). Si tiene éxito, se da cuenta de que tu droide sigue funcionando.
 
 \columnbreak
 
@@ -1603,7 +1603,7 @@ Instalas un protocolo de pánico en tu droide. Como reacción a la toma de daños, 
 Tu droide adopta un estilo particular de lucha como su especialidad. Elige una de las opciones de estilo de lucha, detalladas en el capítulo 6. Tu droide no puede tomar una opción de Estilo de lucha más de una vez, incluso si más tarde tiene que elegir de nuevo.
 
 #### Lanzallamas
-Instalas un lanzallamas en tu droide. El lanzallamas tiene una carga. Como acción, tu droide puede lanzar el *chorro de llama* potencia tecnológica o usar 1 carga para lanzar el *barrido de llama* potencia tecnológica en el 1er nivel. El lanzamiento de salvamento se hace contra el DC de salvamento tecnológico de tu droide (8 + el bono de habilidad de tu droide + el modificador de Inteligencia de tu droide).
+Instalas un lanzallamas en tu droide. El lanzallamas tiene una carga. Como acción, tu droide puede lanzar el *chorro de llama* potencia tecnológica o usar 1 carga para lanzar el *barrido de llama* potencia tecnológica en el 1er nivel. El lanzamiento de salvamento se hace contra el DC de salvamento tecnológico de tu droide (8 + el bonificador de competencia de tu droide + el modificador de Inteligencia de tu droide).
 
 Puedes elegir esta modificación varias veces. Cada vez que lo haces, el lanzallamas gana otra carga, hasta un máximo de 3. Si el lanzallamas tiene varias cargas, puedes usar varias cargas para lanzar el *barrido de llamas* a un nivel más alto, 1 punto por carga. El lanzallamas recupera todas las cargas gastadas después de un largo descanso.
 
@@ -1623,7 +1623,7 @@ Tu droide gana destreza en la armadura ligera. Si tu droide ya es competente en 
 #### Protocolo Marcial
 Requisito: 7º nivel, droide de clase IV.
 Tu droide tiene un entrenamiento marcial que le permite realizar maniobras especiales de combate. Obtiene los siguientes beneficios:
-- Aprende dos maniobras de su elección de entre las disponibles para la clase de combate. Si una maniobra que utiliza requiere que su objetivo haga un tiro de salvamento para resistir los efectos de la maniobra, el tiro de salvamento DC es igual a 8 + el bono de habilidad de tu droide + el modificador de Fuerza o Destreza de tu droide (a tu elección).
+- Aprende dos maniobras de su elección de entre las disponibles para la clase de combate. Si una maniobra que utiliza requiere que su objetivo haga un tiro de salvamento para resistir los efectos de la maniobra, el tiro de salvamento DC es igual a 8 + el bonificador de competencia de tu droide + el modificador de Fuerza o Destreza de tu droide (a tu elección).
 - Tu droide tiene dos dados de superioridad, que son d4s. Estos dados se usan para alimentar sus maniobras. Un dado de superioridad se gasta cuando tu droide lo usa. Recupera todos sus dados de superioridad gastados cuando terminas un descanso corto o largo.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -1683,7 +1683,7 @@ Aumenta tu droide con un sensor avanzado, otorgando los siguientes beneficios:
 - Tu droide puede buscar trampas mientras viaja a un ritmo normal, en lugar de sólo a un ritmo lento.
 
 #### Rayo Paralizador
-Instalas un rayo aturdidor en tu droide. El rayo aturdidor tiene una carga. Como acción, tu droide puede usar 1 carga para lanzar el *droide de retención* o *paralizar el poder tecnológico humanoide*. El lanzamiento de salvamento se hace contra el DC de salvamento tecnológico de tu droide (8 + el bono de habilidad de tu droide + el modificador de Inteligencia de tu droide).
+Instalas un rayo aturdidor en tu droide. El rayo aturdidor tiene una carga. Como acción, tu droide puede usar 1 carga para lanzar el *droide de retención* o *paralizar el poder tecnológico humanoide*. El lanzamiento de salvamento se hace contra el DC de salvamento tecnológico de tu droide (8 + el bonificador de competencia de tu droide + el modificador de Inteligencia de tu droide).
 
 Puedes elegir esta modificación varias veces. Cada vez que lo haces, el rayo aturdidor gana otra carga, hasta un máximo de 3. El rayo aturdidor recupera todas las cargas gastadas después de un largo descanso.
 
@@ -1701,14 +1701,14 @@ Modificas el módulo de durabilidad de tu droide, otorgando el siguiente benefici
 
 \pagebreakNum
 
-## Fighter
-<span style="font-variant: small-caps">A Trandoshan runs frantically across rooftops, constantly</span> looking over his shoulder. As he prepares to leap a gap, a blaster bolt hits him in the back y renders<br> him unconscious. His blurry vision barely<br> makes out the figure of a masked woman<br> who casually approaches, ready to collect her<br> bounty.
+## Guerrero
+<span style="font-variant: small-caps">Un Trandoshan corre frenéticamente por los tejados,</span>  constantemente mirando por encima del hombro. Mientras se prepara para saltar un hueco, un rayo le golpea en la espalda<br> y lo deja inconsciente. Su visión borrosa apenas distingue la figura de una mujer enmascarada que se acerca casualmente, lista para recoger su recompensa.
 
 Con sus musculosos brazos abiertos, un Wookiee de aspecto canoso sonríe a su sedienta multitud. Se vuelve a <br> su oponente de la arena justo a tiempo para <br> ver al Besalisco dar un golpe. Él<br> se agacha, golpeando al luchador de cuatro brazos<br> en las tripas. Dos salvajes <br> herreros después, y él se para <br> solo como el <br> gladiador <br> campeón. 
 
 Respirando profundamente, un soldado de la República mira la zona de guerra que se extiende por la superficie congelada de Ilum. Agarra con fuerza su rifle blaster, y con un guiño a la docena de compañeros de escuadrón que tiene a su lado, carga contra el campo de batalla. 
 
-Los luchadores combinan la disciplina con habilidades marciales para convertirse en los mejores guerreros puros de la galaxia. Los luchadores<br> pueden ser defensores incondicionales de los in<br> necesidad, crueles merodeadores, o valientes aventureros. Luchan por la gloria, el honor, para corregir los errores, ganar poder, adquirir riqueza, o simplemente por la emoción de la batalla.
+Los guerreros combinan la disciplina con habilidades marciales para convertirse en los mejores guerreros puros de la galaxia. Los guerreros<br> pueden ser defensores incondicionales de los in<br> necesidad, crueles merodeadores, o valientes aventureros. Luchan por la gloria, el honor, para corregir los errores, ganar poder, adquirir riqueza, o simplemente por la emoción de la batalla.
 
 <div style='margin-top:122px'></div>
 
@@ -1716,16 +1716,16 @@ Los luchadores combinan la disciplina con habilidades marciales para convertirse
 Muchos combatientes ven las aventuras, las incursiones en las fortalezas enemigas y las misiones peligrosas como su trabajo. Algunos quieren defender a los que no pueden defenderse, mientras que otros buscan usar su músculo para labrarse su propio lugar de importancia en la galaxia. Los combatientes pueden ser guardias, campeones, cazarrecompensas, matones, mercenarios, luchadores por la libertad o simplemente exploradores armados.
 
 ### Code Red
-La mayoría de los combatientes llegan a la profesión después de recibir al menos algún tipo de entrenamiento formal de una organización militar. Algunos asisten a academias formales; otros son autodidactas y están bien probados. Un combatiente puede haber tomado su arma para escapar de una vida mundana mientras que otro puede estar siguiendo una orgullosa tradición familiar. Independientemente de sus orígenes, la mayoría de los combatientes comparten una lealtad inquebrantable. Los luchadores siguen las órdenes con poca vacilación, ya que el fracaso a menudo puede significar la muerte.
+La mayoría de los combatientes llegan a la profesión después de recibir al menos algún tipo de entrenamiento formal de una organización militar. Algunos asisten a academias formales; otros son autodidactas y están bien probados. Un combatiente puede haber tomado su arma para escapar de una vida mundana mientras que otro puede estar siguiendo una orgullosa tradición familiar. Independientemente de sus orígenes, la mayoría de los combatientes comparten una lealtad inquebrantable. Los guerreros siguen las órdenes con poca vacilación, ya que el fracaso a menudo puede significar la muerte.
 
 \columnbreak
 
 <div style='margin-top:676px'></div>
 
-### Creating a Fighter
-Mientras creas tu personaje de luchador, considera dónde están tus lealtades. Podrías ser parte de un ejército formal,<br> uno de los incontables soldados que luchan por tu empresa.<br> Tal vez eres un arma de alquiler, viajando por la galaxia en<br> búsqueda de tu próximo trabajo. ¿En qué armas prefiere <br> y se especializa? ¿Por quién o por qué luchas? ¿Tienes aspiraciones de una vida más allá del campo de batalla, o has estado en guerra tanto tiempo que no sabes nada más?
+### Creando un Guerrero
+Mientras creas tu guerrero, considera dónde están tus lealtades. Podrías ser parte de un ejército formal,<br> uno de los incontables soldados que luchan por la causa.<br> Tal vez eres un arma de alquiler, viajando por la galaxia en<br> búsqueda de tu próximo trabajo. ¿En qué armas prefiere <br> y se especializa? ¿Por quién o por qué luchas? ¿Tienes aspiraciones de una vida más allá del campo de batalla, o has estado en guerra tanto tiempo que no sabes nada más?
 
-#### Quick Build
+#### Creación Rápida
 Puedes hacer un luchador rápidamente siguiendo estas sugerencias. Primero, haz que Fuerza o Destreza sea tu<br> modificador de mayor habilidad, dependiendo de si quieres enfocarte en el combate cuerpo a cuerpo o en las armas de distancia<br> (o armas de delicadeza). Tu siguiente puntuación más alta debería <br> ser Constitución. En segundo lugar, elija el soldado<br> de fondo.
 
 <img src='https://www.gmbinder.com/images/8KgLf2V.png' style='position:absolute;top:92px;right:10px;width:665px;z-index:1000' />
@@ -1737,49 +1737,49 @@ Puedes hacer un luchador rápidamente siguiendo estas sugerencias. Primero, haz q
 
 <div class='classTable wide'>
 
-##### The Fighter
-|	Level	|	Proficiency Bonus	|	Features	|   Superiority<br> Dice    | Maneuvers<br> Known |	
+##### El Guerrero
+|	Nivel	|	Bonificador de<br> Competencia	|	Rasgos	|   Dados de<br> Superioridad    | Maniobras<br> Conocidas |	
 |	:--:	|	:--:	|	:--	|   :--:    |   :--:    |
-|	 1st	|	+2	|	Fighting Style, Second Wind	                        |—|—|
-|	 2nd	|	+2	|	Action Surge (one use), Combat Superiority        	|2|2|
-|	 3rd	|	+2	|	Fighter Specialty	                                |2|2|
-|	 4th	|	+2	|	Mejora de Puntuación de Habilidad                       	|2|2|
-|	 5th	|	+3	|	Extra Attack                                    	|2|2|
-|	 6th	|	+3	|	Mejora de Puntuación de Habilidad                       	|2|2|
-|	 7th	|	+3	|	Fighter Specialty feature                       	|3|3|
-|	 8th	|	+3	|	Mejora de Puntuación de Habilidad                       	|3|3|
-|	 9th	|	+4	|	Indomitable (one use)                               |3|3|
-|	10th	|	+4	|	Fighter Specialty feature                       	|3|3|
-|	11th	|	+4	|	Greater Extra Attack                               	|3|4|
-|	12th	|	+4	|	Mejora de Puntuación de Habilidad                       	|3|4|
-|	13th	|	+5	|	Indomitable (two uses)                          	|3|4|
-|	14th	|	+5	|	Mejora de Puntuación de Habilidad                       	|3|4|
-|	15th	|	+5	|	Fighter Specialty feature	                        |4|5|
-|	16th	|	+5	|	Mejora de Puntuación de Habilidad                       	|4|5|
-|	17th	|	+6	|	Action Surge (two uses), Indomitable (three uses)	|4|5|
-|	18th	|	+6	|	Fighter Specialty feature                       	|4|5|
-|	19th	|	+6	|	Mejora de Puntuación de Habilidad                       	|4|5|
-|	20th	|	+6	|	Master of Combat                                	|4|5|
+|	 1	|	+2	|	Estilo de Combate, Nuevas Energías	                |—|—|
+|	 2	|	+2	|	Oleada de Acción (un uso), Superioridad de Combate  |2|2|
+|	 3	|	+2	|	Especialidad Guerrera	                            |2|2|
+|	 4	|	+2	|	Mejora de Puntuación de Habilidad                   |2|2|
+|	 5	|	+3	|	Ataque Extra                                    	|2|2|
+|	 6	|	+3	|	Mejora de Puntuación de Habilidad                   |2|2|
+|	 7	|	+3	|	Rasgo de Especialidad Guerrera                     	|3|3|
+|	 8	|	+3	|	Mejora de Puntuación de Habilidad                   |3|3|
+|	 9	|	+4	|	Indomable (un uso)                               	|3|3|
+|	10	|	+4	|	Rasgo de Especialidad Guerrera                      |3|3|
+|	11	|	+4	|	Gran Ataque Extra                               	|3|4|
+|	12	|	+4	|	Mejora de Puntuación de Habilidad                   |3|4|
+|	13	|	+5	|	Indomable (dos usos)                          		|3|4|
+|	14	|	+5	|	Mejora de Puntuación de Habilidad                   |3|4|
+|	15	|	+5	|	Rasgo de Especialidad Guerrera	                    |4|5|
+|	16	|	+5	|	Mejora de Puntuación de Habilidad                   |4|5|
+|	17	|	+6	|	Oleada de Acción(dos usos), Indomable (tres usos)	|4|5|
+|	18	|	+6	|	Rasgo de Especialidad Guerrera                      |4|5|
+|	19	|	+6	|	Mejora de Puntuación de Habilidad                   |4|5|
+|	20	|	+6	|	Maestro de Combate                                	|4|5|
 
 </div>
 
 ## Características de la clase
 Como combatiente, obtienes las siguientes características de clase.
 
-#### Hit Points
+#### Puntos de Golpe
 ___
-- **Hit Dice:** 1d10 por nivel de combate
+- **Dados de Golpe:** 1d10 por nivel de combate
 - **Puntos de golpe en el 1er nivel:** 10 + tu modificador de la Constitución
 - **Puntos de golpe en niveles superiores:** 1d10 (o 6) + tu modificador de Constitución por nivel de combate después del 1er
 
-#### Proficiency
+#### Competencias
 ___
-- **Armadura:** Toda la armadura
+- **Armadura:** Todas la armadura
 - **Armas:** Todos los explosivos, todas las armas de fuego
 - **Herramientas:** Ninguna
 ___
-- **Salvando Lanzamientos:** Fuerza, Constitución
-- **Habilidades:** Escoge dos habilidades de Acrobacia, Manejo de Animales, Atletismo, Conocimiento, Intimidación, Percepción y Supervivencia
+- **Tiradas de Salvación:** Fuerza, Constitución
+- **Habilidades:** Escoge dos habilidades de Acrobacia, Trato con Animales, Atletismo, Historia, Intimidación, Percepción y Supervivencia
 
 \columnbreak
 
@@ -1795,28 +1795,28 @@ Comienza con el siguiente equipo, además del que le otorgan sus antecedentes:
 #### Variante: Riqueza inicial 
 En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
-|Clase		|Fondos...		|						
-|	:--			|--:			|							
-|Fighter		|1	.000 + 5d4 x 100 cr.
+|Clase			|	Fondos		|						
+|	:--			|	--:			|							
+|Guerrero		|	1	.000 + 5d4 x 100 cr|
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Fighting Style
+### Estilo de Combate
 Comenzando en el primer nivel, adoptas un estilo particular de lucha como tu especialidad. Elige una de las opciones de estilo de lucha, detalladas en el capítulo 6. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
 
-### Second Wind
+### Nuevas Energías
 Tienes un pozo de resistencia limitado al que puedes recurrir para protegerte de los daños. En tu turno, puedes usar una acción de bonificación para recuperar puntos de golpe iguales a 1d10 + tu nivel de luchador.
 
 Una vez que haya utilizado esta función, debe terminar un corto o largo descanso antes de poder usarla de nuevo.
 
-### Action Surge
+### Oleada de Acción
 A partir del 2º nivel, puedes empujarte a ti mismo más allá de tus límites normales por un momento. En tu turno, puedes hacer una acción adicional además de tu acción normal y una posible acción extra.
 
 Una vez que haya utilizado esta función, debe terminar un corto o largo descanso antes de poder usarla de nuevo. A partir del nivel 17, puedes usarla dos veces antes de un descanso, pero sólo una vez en el mismo turno.
 
-### Combata la superioridad
+### Superioridad de Combate
 También en el 2º nivel, aprendes maniobras que se alimentan de dados especiales llamados dados de superioridad.
 
 #### Maniobras
@@ -1824,17 +1824,17 @@ Aprendes dos maniobras de tu elección, que se detallan en "Maniobras" más abajo,
 
 Cada vez que aprendes nuevas maniobras, también puedes reemplazar una maniobra que conoces por otra diferente.
 
-#### Superiority Dice
+#### Dados de Superioridad
 Tienes dos dados de superioridad, que son d4s, y ganas más en los niveles más altos, como se muestra en la columna de Dados de Superioridad de la tabla de clases de combate. Un dado de superioridad se gasta cuando lo usas. Recuperas todos tus dados de superioridad gastados cuando terminas un descanso corto o largo.
 
-#### Saving Throws
+#### Tiradas de Salvación
 Algunas de sus maniobras requieren que su objetivo haga un tiro de salvamento para resistir los efectos de la maniobra. El tiro de salvamento DC se calcula de la siguiente manera:
 
 ___
 
 <div align="center">
 
-**Maniobra de salvar DC** = 8 + su bono de habilidad + <br> su modificador de Fuerza o Destreza (a su elección)
+**CD de salvación de Maniobra** = 8 + el bonificador de competencia + <br> el modificador de Fuerza o Destreza (a su elección)
 
 </div>
 
@@ -1845,28 +1845,28 @@ Las maniobras se presentan en orden alfabético.
 
 \columnbreak
 
-#### Commander's Strike
+#### Ordenar Ataque
 Cuando haces la acción de Ataque en tu turno, puedes renunciar a uno de tus ataques y usar una acción de bonificación para dirigir a uno de tus compañeros a atacar. Cuando lo hagas, elige una criatura amiga que pueda verte u oírte y gasta un dado de superioridad. Esa criatura puede usar inmediatamente su reacción para hacer que un arma ataque, añadiendo el dado de superioridad a la tirada de daño del ataque.
 
 #### Ataque de Desarme
 Cuando golpeas a una criatura con un ataque de arma, puedes gastar un dado de superioridad para intentar desarmar al objetivo, forzándolo a soltar un objeto de tu elección que esté sosteniendo. Añades el dado de superioridad a la tirada de daño del ataque, y el objetivo debe hacer un lanzamiento de ahorro de fuerza. En una salvada fallida, deja caer el objeto que elijas. El objeto cae a sus pies.
 
-#### Distracción de la huelga
+#### Golpe de Distracción
 Cuando atacas a una criatura con un arma, puedes gastar un dado de superioridad para distraer a la criatura, dando a tus aliados una apertura. Añades el dado de superioridad a la tirada de daño del ataque. La siguiente tirada de ataque contra el objetivo por un atacante que no seas tú tiene ventaja si el ataque se hace antes del comienzo de tu próximo turno.
 
-#### Evasive Footwork
+#### Juego de Piernas Evasivo
 Cuando te mueves, puedes gastar un dado de superioridad, tirando el dado y sumando el número tirado a tu AC hasta que dejes de moverte.
 
-#### Feinting Attack
+#### Ataque en Finta
 Puedes gastar un dado de superioridad y usar una acción extra en tu turno para fingir, eligiendo una criatura a menos de 5 pies de ti como tu objetivo. Tienes ventaja en tu próxima tirada de ataque contra esa criatura. Si ese ataque impacta, añade el dado de superioridad a la tirada de daño del ataque.
 
-#### Goading Attack
+#### Ataque de Provocación
 Cuando golpeas a una criatura con un arma de ataque, puedes gastar un dado de superioridad para intentar incitar al objetivo a que te ataque. Añades el dado de superioridad a la tirada de daño del ataque, y el objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, el objetivo tiene desventaja en todas las tiradas de ataque contra otros objetivos que no sean tú hasta el final de tu siguiente turno.
 
-#### Lunging Attack
+#### Ataque de Arremetida
 Cuando haces un ataque con un arma de combate cuerpo a cuerpo en tu turno, puedes gastar un dado de superioridad para aumentar tu alcance para ese ataque en 5 pies. Si golpeas, añades el dado de superioridad a la tirada de daño del ataque.
 
-#### Maniobras de ataque
+#### Ataque Táctico
 Cuando golpeas a una criatura con un ataque de arma, puedes gastar un dado de superioridad para maniobrar a uno de tus camaradas en una posición más ventajosa. Añades el dado de superioridad a la tirada de daño del ataque, y eliges una criatura amiga que pueda verte o escucharte. 
 
 Esa criatura puede usar su reacción para moverse hasta la mitad de su velocidad sin provocar ataques de oportunidad desde el objetivo de su ataque.
@@ -1875,36 +1875,36 @@ Esa criatura puede usar su reacción para moverse hasta la mitad de su velocidad 
 
 \pagebreakNum
 
-#### Ataque amenazante 
+#### Ataque Amenazante 
 Cuando le das a una criatura con un ataque de arma, puedes gastar un dado de superioridad para intentar asustar al objetivo. Añades el dado de superioridad a la tirada de daño del ataque, y el objetivo debe hacer un lanzamiento de ahorro de sabiduría. En una salvada fallida, te asusta hasta el final de tu siguiente turno.
 
-#### Parry
+#### Parada
 Cuando otra criatura te daña con un ataque cuerpo a cuerpo, puedes usar tu reacción y gastar un dado de superioridad para reducir el daño en el número que tiras en tu dado de superioridad + tu modificador de Destreza.
 
-#### Precision Attack
+#### Ataque de Precisión
 Cuando haces una tirada de ataque con arma contra una criatura, puedes gastar un dado de superioridad para añadirlo a la tirada. Puedes usar esta maniobra antes o después de hacer la tirada de ataque, pero antes de que se apliquen los efectos del ataque.
 
-#### Pushing Attack
+#### Ataque de Empujón
 Cuando le das a una criatura con un ataque de arma, puedes gastar un dado de superioridad para intentar hacer retroceder al objetivo. Añades el dado de superioridad a la tirada de daño del ataque, y si el objetivo es grande o pequeño, debe hacer un lanzamiento de ahorro de fuerza. En una salvada fallida, empujas al objetivo hasta 15 pies de distancia de ti.
 
-#### Rally
+#### Alentar
 En tu turno, puedes usar una acción de bonificación y gastar un dado de superioridad para reforzar la resolución de uno de tus compañeros. Cuando lo hagas, elige una criatura amistosa que pueda verte o escucharte. Esa criatura gana puntos de impacto temporales iguales a la tirada de superioridad + tu modificador de carisma.
 
-#### Riposte
+#### Contraataque
 Cuando una criatura te falla con un ataque cuerpo a cuerpo, puedes usar tu reacción y gastar un dado de superioridad para hacer un ataque con arma de cuerpo a cuerpo contra la criatura. Si golpeas, añades el dado de superioridad a la tirada de daño del ataque.
 
-#### Ataque de barrido
+#### Ataque de Barrido
 Cuando golpeas a una criatura con un ataque de arma de fuego cuerpo a cuerpo, puedes gastar un dado de superioridad para intentar dañar a otra criatura con el mismo ataque. Elige otra criatura que esté a menos de 5 pies del objetivo original y a tu alcance. Si la tirada de ataque original golpea a la segunda criatura, recibe un daño igual al número que tiras en tu dado de superioridad. El daño es del mismo tipo que el del ataque original.
 
-#### Trip Attack
+#### ataque de Derribo
 Cuando le das a una criatura con un ataque de arma, puedes gastar un dado de superioridad para intentar derribar el objetivo. Añades el dado de superioridad a la tirada de daño del ataque, y si el objetivo es grande o pequeño, debe hacer un lanzamiento de ahorro de fuerza. En una parada fallida, derribas al objetivo propenso.
 
 \columnbreak
 
-### Fighter Specialty
+### Especialidad Guerrera
 En el tercer nivel, eliges una especialidad que te esfuerzas por emular en tus estilos y técnicas de combate, que se detalla al final de la descripción de la clase. El arquetipo que elijas te otorgará características en el 3er nivel y de nuevo en el 7º, 10º, 15º y 18º nivel.
 
-### Mejora de Puntuación de Habilidad
+### Mejora de Puntuación de Característica
 Cuando alcances el 4º nivel, y de nuevo en el 6º, 8º, 12º, 14º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
 ### Extra Attack
@@ -1915,18 +1915,18 @@ A partir del 9º nivel, puedes volver a lanzar un tiro de salvamento que falles. 
 
 Puedes usar esta función dos veces entre los descansos largos a partir del nivel 13 y tres veces entre los descansos largos a partir del nivel 17.
 
-### Greater Extra Attack
+### Gran Ataque Extra
 A partir del nivel 11, puedes atacar tres veces, en lugar de una, cada vez que tomes la acción de Ataque en tu turno.
 
 Además, cuando usas una acción extra para participar en un combate con dos armas, puedes hacer dos ataques en lugar de uno.
 
-### Master of Combat
+### Maestro de combate
 En el nivel 20, eres el maestro del combate. Tu puntuación de Fuerza o Destreza aumenta en 2, y tu puntuación de Constitución aumenta en 2. Tu máximo para esas puntuaciones aumenta en 2.
 
 Además, puedes atacar cuatro veces, en vez de una, cada vez que tomes la acción de Ataque en tu turno.
 
-## Especialidades de combate
-Diferentes luchadores eligen diferentes enfoques para perfeccionar su destreza en la lucha. La especialidad de combate que eliges emular refleja tu enfoque.
+## Especialidades Guerreras
+Diferentes guerreros eligen diferentes enfoques para perfeccionar su destreza en la lucha. La especialidad de combate que eliges emular refleja tu enfoque.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -1935,27 +1935,27 @@ Diferentes luchadores eligen diferentes enfoques para perfeccionar su destreza e
 ## Especialista en asalto
 Los combatientes que eligen convertirse en Especialistas en Asalto se centran en el desarrollo de la fuerza física bruta perfeccionada hasta la perfección mortal. Los Especialistas en Asalto combinan un riguroso entrenamiento con la excelencia física para asestar golpes devastadores.
 
-### Brute Force
+### Fuerza Bruta
 Cuando eliges esta especialidad en el 3er nivel, cada vez que golpeas con un arma con la que eres competente y que inflige daño, el daño del arma aumenta en una cantidad basada en tu nivel en esta clase, como se muestra en la tabla de Daño de Bono de Asalto.
 
-##### Daño de Bono de Asalto
-| Nivel... Daño extra...
+##### Bonificador de Daño de Asalto
+| Nivel| Daño Adicional |
 |:---:|:---:|
 |   3rd | 1d4 |  
 |  10th | 1d6 |  
 |  16th | 1d8 |  
 |  20th | 1d10|  
 
-### Brutish Durability
+### Durabilidad Brutal
 A partir del 7º nivel, cada vez que hagas un tiro de salvamento, tira 1d6 y añade el dado a tu total de tiros de salvamento. Si al aplicar este bonus a una tirada de ahorro de muerte se incrementa el total a 20 o más, obtienes los beneficios de tirar un 20 en el d20.
 
-### Additional Fighting Style
+### Estilo de Combate Adicional
 En el décimo nivel, puedes elegir una segunda opción de estilo de lucha.
 
-### Devastating Critical
+### Crítico Devastador
 A partir del nivel 15, cuando consigues un golpe crítico con un ataque de arma, obtienes una bonificación a la tirada de daño de esa arma igual a tu nivel de luchador.
 
-### Survivor
+### Superviviente
 En el nivel 18, se alcanza la cima de la resistencia en la batalla. Al comienzo de cada uno de tus turnos, recuperas puntos de golpe iguales a 5 + tu modificador de constitución si no te queda más de la mitad de tus puntos de golpe. No obtienes este beneficio si te quedan 0 puntos de golpe.
 
 <img src='https://www.gmbinder.com/images/erxRoFA.png' style='position:absolute;bottom:12px;right:-285px;width:1020px;z-index:1000;' />
@@ -1964,80 +1964,80 @@ En el nivel 18, se alcanza la cima de la resistencia en la batalla. Al comienzo 
 
 \pagebreakNum
 
-## Especialista en escudos
-Los luchadores que eligen ser Especialistas en Escudos se entrenan para reforzar a los que les rodean. Pueden inspirar a sus aliados con un vigor renovado, elevándolos a nuevas alturas, mientras que al mismo tiempo los protegen del daño.
+## Especialista en Escudos
+Los guerreros que eligen ser Especialistas en Escudos se entrenan para reforzar a los que les rodean. Pueden inspirar a sus aliados con un vigor renovado, elevándolos a nuevas alturas, mientras que al mismo tiempo los protegen del daño.
 
-### Techcasting
+### Tecnoinvocación
 Cuando eliges esta especialidad en el 3er nivel, has obtenido poderes de los esquemas con la ayuda de tu muñequera. Ver el capítulo 10 para las reglas generales de la proyección técnica y el capítulo 12 para la lista de poderes técnicos.
 
-#### Poderes tecnológicos conocidos
+#### Poderes Tecnológicos Conocidos
 Aprendes 4 poderes tecnológicos de tu elección, y aprendes más en los niveles superiores, como se muestra en la columna de Poderes Tecnológicos Conocidos de la tabla de Techcasting de Especialistas en Escudos. No puedes aprender un poder técnico de un nivel más alto que tu nivel de Máximo Poder.
 
-#### Tech Points
+#### Puntos Tecnologicos
 Tienes un número de puntos tecnológicos igual a la mitad de tu nivel de combate (redondeado hacia arriba), como se muestra en la columna de puntos tecnológicos de la tabla de Techcasting del especialista en escudos, + tu modificador de inteligencia. Utilizas estos puntos técnicos para lanzar poderes tecnológicos. Recuperas todos los puntos técnicos gastados cuando terminas un descanso corto o largo.
 
-#### Max Power Level
+#### Nivel de Poder Máximo
 Muchos poderes tecnológicos pueden ser sobrecargados, consumiendo más puntos tecnológicos para crear un mayor efecto. Puedes sobrecargar estos poderes hasta un nivel máximo, que aumenta en los niveles más altos, como se muestra en la columna de Nivel de Poder Máximo de la tabla de Proyección Técnica Especializada en Escudos.
 
 Sólo puedes lanzar poderes tecnológicos en el 4º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
-#### Techcasting Ability
+#### Habilidad de Tecnoinvocación
 La inteligencia es su capacidad de emisión de tecnología para sus poderes tecnológicos. Utilizas tu inteligencia siempre que un poder se refiere a tu capacidad de tecnicismos. Además, usas tu modificador de inteligencia cuando estableces el tiro de salvamento DC para un poder tecnológico que lanzas y cuando haces una tirada de ataque con uno.
 
 ___
 
 <div align="center">
 
-**Tech save DC** = 8 + tu bono de habilidad + <br>tu modificador de Inteligencia
+**CD Salvación Tecnologica** = 8 + el bonificador de competencia + <br>tu modificador de Inteligencia
 
 ___
 
-**Modificador de ataque técnico** = tu bono de habilidad + <br>tu modificador de inteligencia
+**Modificador de ataque técnico** = el bonificador de competencia + <br>tu modificador de inteligencia
 </div>
 
 ___
 
-#### Techcasting Focus
-Usas una muñequera (que se encuentra en el capítulo 5) como un foco de difusión técnica para tus poderes tecnológicos.
+#### Enfoque a la Tecnoinvocacion
+Usas una muñequera (que se encuentra en el capítulo 5) como foco para la tecnoinvocación de tus poderes tecnológicos.
 
-### Rallying Cry
+### Grito Alentador 
 A partir del 7º nivel, aprenderás a inspirar a tus aliados a luchar por sus heridas. Cuando uses la función "Segundo Viento", podrás elegir hasta tres criaturas a 60 pies de ti que estén aliadas contigo. Cada una de ellas recupera puntos de golpe iguales a los de tu nivel de combate, siempre que la criatura pueda verte o escucharte.
 
 \columnbreak
 
 <div class='classTable'>
 
-##### Shield Specialist Techcasting
-| Level | Tech Powers<br> Known | Tech<br> Points | Max Power<br> Level |
+##### Tecnoinvocación del Especialista en Escudos
+| Nivel | Poderes Tecnologicos<br> Conocidos | Puntos<br> Tecnologicos | Nivel de Poder<br> Máximo |
 |:---:|:---:|:---:|:---:|
-|  3rd |  4 |  2 | 1st |
-|  4th |  4 |  2 | 1st |
-|  5th |  5 |  3 | 1st |
-|  6th |  5 |  3 | 1st |
-|  7th |  6 |  4 | 2nd |
-|  8th |  6 |  4 | 2nd |
-|  9th |  7 |  5 | 2nd |
-| 10th |  7 |  5 | 2nd |
-| 11th |  8 |  6 | 2nd |
-| 12th |  8 |  6 | 2nd |
-| 13th |  9 |  7 | 3rd |
-| 14th |  9 |  7 | 3rd |
-| 15th | 10 |  8 | 3rd |
-| 16th | 10 |  8 | 3rd |
-| 17th | 11 |  9 | 4th |
-| 18th | 11 |  9 | 4th |
-| 19th | 12 | 10 | 4th |
-| 20th | 12 | 10 | 4th |
+|  3 |  4 |  2 | 1 |
+|  4 |  4 |  2 | 1 |
+|  5 |  5 |  3 | 1 |
+|  6 |  5 |  3 | 1 |
+|  7 |  6 |  4 | 2 |
+|  8 |  6 |  4 | 2 |
+|  9 |  7 |  5 | 2 |
+| 10 |  7 |  5 | 2 |
+| 11 |  8 |  6 | 2 |
+| 12 |  8 |  6 | 2 |
+| 13 |  9 |  7 | 3 |
+| 14 |  9 |  7 | 3 |
+| 15 | 10 |  8 | 3 |
+| 16 | 10 |  8 | 3 |
+| 17 | 11 |  9 | 4 |
+| 18 | 11 |  9 | 4 |
+| 19 | 12 | 10 | 4 |
+| 20 | 12 | 10 | 4 |
 
 </div>
 
-### Inspiring Surge
+### Oleada de Inspiración
 En el décimo nivel, al usar la función de oleada de acción, puedes elegir una criatura a menos de 60 pies de ti que esté aliada contigo. Esa criatura puede hacer un ataque cuerpo a cuerpo o con un arma a distancia con su reacción, siempre que pueda verte o escucharte.
 
-### Bulwark
+### Baluarte
 A partir del nivel 15, puedes extender el beneficio de tu característica de Indomable a un aliado. Cuando decidas usar Indomable para volver a lanzar una Inteligencia, una Sabiduría o un Carisma y no estés incapacitado, puedes elegir un aliado a menos de 60 pies de ti que también haya fallado su lanzamiento de salvamento contra el mismo efecto. Si esa criatura puede verte u oírte, puede volver a lanzar su tiro de salvación y debe usar el nuevo lanzamiento.
 
-### Greater Inspiring Surge
+### Gran Oleada de Inspiración
 En el nivel 18, puedes elegir dos aliados a menos de 60 pies de ti, en lugar de uno, cuando uses la función de la Onda inspiradora.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
@@ -2045,23 +2045,23 @@ En el nivel 18, puedes elegir dos aliados a menos de 60 pies de ti, en lugar de 
 \pagebreakNum
 
 ## Especialista Táctico
-Los combatientes que eligen convertirse en Especialistas Tácticos emplean técnicas marciales transmitidas de generación en generación. Para un Especialista Táctico, el combate es un campo académico, que a veces incluye temas más allá de la batalla como la tecnología de armas o la armamentismo. No todos los luchadores absorben las lecciones de historia, teoría y arte que se reflejan en la Especialidad Táctica, pero aquellos que lo hacen son luchadores bien formados de gran habilidad y conocimiento.
+Los combatientes que eligen convertirse en Especialistas Tácticos emplean técnicas marciales transmitidas de generación en generación. Para un Especialista Táctico, el combate es un campo académico, que a veces incluye temas más allá de la batalla como la tecnología de armas o la armamentismo. No todos los guerreros absorben las lecciones de historia, teoría y arte que se reflejan en la Especialidad Táctica, pero aquellos que lo hacen son luchadores bien formados de gran habilidad y conocimiento.
 
-### Improved Combat Superiority
+### Superioridad de Combate Mejorada
 Cuando eliges esta especialidad en el 3er nivel, tu destreza táctica en el combate mejora, otorgando bonificaciones a tu Superioridad en el Combate.
 
 #### Maniobras adicionales 
 Aprendes dos maniobras adicionales de tu elección, y ganas más en los niveles superiores, como se muestra en la columna de Maniobras conocidas de la tabla de Superioridad en el Combate de Especialistas Tácticos.
 
-#### Additional Superiority Dice
+#### Dados de Superioridad Adicionales
 Tienes dos dados de superioridad adicionales, y ganas más en los niveles superiores, como se muestra en la columna de Dados de Superioridad de la tabla de Superioridad en el Combate de Especialistas Tácticos.
 
 Además, sus dados de superioridad se convierten en d6s. Este dado cambia a medida que ganas niveles de combate, como se muestra en la columna de Superioridad de Combate de la tabla de Superioridad de Combate de Especialistas Tácticos.
 
-### Student of War
+### Estudiante de Guerra
 También en el 3er nivel, se gana destreza con un tipo de herramientas artesanales de su elección.
 
-### Know Your Enemy
+### Conoce a tu Enemigo
 A partir del 7º nivel, si pasas al menos 1 minuto observando o interactuando con otra criatura fuera de combate, puedes aprender cierta información sobre sus capacidades en comparación con las tuyas. El GM te dice si la criatura es tu igual, superior o inferior con respecto a dos de las siguientes características de tu elección:
 - Puntuación de fuerza
 - Puntuación de destreza
@@ -2071,42 +2071,42 @@ A partir del 7º nivel, si pasas al menos 1 minuto observando o interactuando con
 - Total de niveles de clase (si los hay)
 - Niveles de clase de los combatientes (si los hay)
 
-### Signature Maneuver
-En el décimo nivel, eliges una maniobra como tu firma de maniobra. Cuando uses esa maniobra, puedes tirar un d4 y usarlo en lugar de gastar un dado de superioridad. Sólo puedes usar esta característica una vez por turno.
+### Maniobra Personal
+En el décimo nivel, eliges una maniobra como tu maniobra personal. Cuando uses esa maniobra, puedes tirar un d4 y usarlo en lugar de gastar un dado de superioridad. Sólo puedes usar esta característica una vez por turno.
 
 \columnbreak
 
 <div class='classTable'>
 
-##### Especialista Táctico<br> Superioridad en el combate
-| Nivel | Combate<br> Superioridad | Superioridad<br> Dados | Maniobras<br> Conocidas |
+##### Superioridad en Combate<br> del Especialista Táctico
+| Nivel | Superioridad<br> en Combate | Dados de<br> Superioridad | Maniobras<br> Conocidas |
 |:---:|:---:|:---:|:---:|
-|  3rd |  d6 | 2 | 2 |
-|  4th |  d6 | 2 | 2 | 
-|  5th |  d6 | 2 | 2 |
-|  6th |  d6 | 2 | 2 | 
-|  7th |  d8 | 3 | 3 | 
-|  8th |  d8 | 3 | 3 | 
-|  9th |  d8 | 3 | 3 | 
-| 10th |  d8 | 3 | 3 |
-| 11th | d10 | 3 | 4 | 
-| 12th | d10 | 3 | 4 | 
-| 13th | d10 | 3 | 4 | 
-| 14th | d10 | 3 | 4 | 
-| 15th | d12 | 4 | 5 | 
-| 16th | d12 | 4 | 5 | 
-| 17th | d12 | 4 | 5 | 
-| 18th | d12 | 4 | 5 | 
-| 19th | d12 | 4 | 5 | 
-| 20th | d12 | 4 | 5 | 
+|  3 |  d6 | 2 | 2 |
+|  4 |  d6 | 2 | 2 | 
+|  5 |  d6 | 2 | 2 |
+|  6 |  d6 | 2 | 2 | 
+|  7 |  d8 | 3 | 3 | 
+|  8 |  d8 | 3 | 3 | 
+|  9 |  d8 | 3 | 3 | 
+| 10 |  d8 | 3 | 3 |
+| 11 | d10 | 3 | 4 | 
+| 12 | d10 | 3 | 4 | 
+| 13 | d10 | 3 | 4 | 
+| 14 | d10 | 3 | 4 | 
+| 15 | d12 | 4 | 5 | 
+| 16 | d12 | 4 | 5 | 
+| 17 | d12 | 4 | 5 | 
+| 18 | d12 | 4 | 5 | 
+| 19 | d12 | 4 | 5 | 
+| 20 | d12 | 4 | 5 | 
 
 </div>
 
 ### Implacable
 A partir del nivel 15, cuando tiras la iniciativa y no te quedan dados de superioridad, recuperas 1 dado de superioridad.
 
-### Greater Signature Maneuver
-En el nivel 18, puedes elegir una segunda firma o una maniobra. Además,<br> cuando usas tu maniobra de firma,<br> puedes rodar un d6<br> en lugar de un d4.
+### Gran Maniobra Personal
+En el nivel 18, puedes elegir una segunda maniobra personal. Además,<br> cuando usas tu maniobra personal,<br> puedes rodar un d6<br> en lugar de un d4.
 
 <img src='https://www.gmbinder.com/images/iIVXSKe.png' style='position:absolute;bottom:0px;right:-15px;width:445px;transform:scaleX(-1);z-index:1000;' />
 
@@ -2237,11 +2237,11 @@ ___
 
 <div align="center">
 
-**Force save DC** = 8 + tu bono de habilidad + <br>tu modificador de habilidad de previsión
+**Force save DC** = 8 + el bonificador de competencia + <br>tu modificador de habilidad de previsión
 
 ___
 
-**Modificador de ataque forzado** = su bono de habilidad + <br> su modificador de habilidad de previsión
+**Modificador de ataque forzado** = el bonificador de competencia + <br> el modificador de habilidad de previsión
 
 </div>
 
@@ -2357,7 +2357,7 @@ La Forma I, también conocida como Forma de Determinación, utiliza ataques salvaj
 Cuando eliges esta forma como tu foco de atención en el 3er nivel, adoptas un estilo de lucha como tu especialidad. Elige una de las opciones de Estilo de lucha de duelo, equilibrio o lucha con dos armas, detalladas en el capítulo 6. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
 
 ### The Way of the Sarlaac
-También en el 3er nivel, como acción extra, puedes entrar en una postura frenética durante un minuto. Mientras que en esta postura, la primera vez que golpeas a una criatura con un arma de ataque cuerpo a cuerpo en tu turno, tiene una desventaja en la siguiente tirada de ataque cuerpo a cuerpo que hace contra ti antes del comienzo de tu siguiente turno. Además, si esa criatura está a menos de 5 pies de ti, debe hacer una tirada de ahorro de fuerza (DC = 8 + tu bono de habilidad + tu modificador de fuerza o destreza). En una salvada fallida, es empujada hacia atrás 5 pies, y puedes moverte inmediatamente al espacio que acaba de desocupar sin provocar ataques de oportunidad.
+También en el 3er nivel, como acción extra, puedes entrar en una postura frenética durante un minuto. Mientras que en esta postura, la primera vez que golpeas a una criatura con un arma de ataque cuerpo a cuerpo en tu turno, tiene una desventaja en la siguiente tirada de ataque cuerpo a cuerpo que hace contra ti antes del comienzo de tu siguiente turno. Además, si esa criatura está a menos de 5 pies de ti, debe hacer una tirada de ahorro de fuerza (DC = 8 + el bonificador de competencia + tu modificador de fuerza o destreza). En una salvada fallida, es empujada hacia atrás 5 pies, y puedes moverte inmediatamente al espacio que acaba de desocupar sin provocar ataques de oportunidad.
 
 Este efecto termina pronto si estás incapacitado o mueres. Una vez que has usado esta función, no puedes volver a usarla hasta que termines un largo descanso.
 
@@ -2454,7 +2454,7 @@ Se gana destreza en armaduras pesadas.
 Cuando eliges esta forma como tu foco de atención en el 3er nivel, adoptas un estilo de lucha como tu especialidad. Elige una de las opciones de estilo de lucha de Defensa, Escudo o Centinela, detalladas en el capítulo 6. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
 
 ### The Way of the Mynock
-También en el 3er nivel, como acción extra, puedes entrar en una posición defensiva durante un minuto. Como parte de esta acción de bonificación, y como acción de bonificación en cada uno de tus turnos, puedes lanzar el poder de *saber ward*. Cuando lo haces, tienes un número de reacciones especiales igual a tu bono de habilidad que sólo puedes usar para lanzar el poder de la fuerza *saber reflect*. Sólo puedes tomar una reacción por turno.
+También en el 3er nivel, como acción extra, puedes entrar en una posición defensiva durante un minuto. Como parte de esta acción de bonificación, y como acción de bonificación en cada uno de tus turnos, puedes lanzar el poder de *saber ward*. Cuando lo haces, tienes un número de reacciones especiales igual a el bonificador de competencia que sólo puedes usar para lanzar el poder de la fuerza *saber reflect*. Sólo puedes tomar una reacción por turno.
 
 Este efecto termina pronto si estás incapacitado o mueres. Una vez que haya utilizado esta función, no podrá volver a usarla hasta que termine un largo descanso.
 
@@ -2624,7 +2624,7 @@ ___
 
 <div align="center">
 
-**Focus save DC** = 8 + su bono de habilidad + <br> su modificador de Sabiduría o Carisma (su elección)
+**Focus save DC** = 8 + el bonificador de competencia + <br> el modificador de Sabiduría o Carisma (su elección)
 
 </div>
 
@@ -2954,7 +2954,7 @@ A partir del 5º nivel, cuando un atacante que puedes ver te golpea con un ataque
 A partir del 7º nivel, cuando se te somete a un efecto, como una *tormenta de fuerza* consular o una *explosión* de un ingeniero, que te permite hacer un tiro de ahorro de destreza para recibir sólo la mitad del daño, no recibirás ningún daño si tienes éxito en un tiro de ahorro, y sólo la mitad del daño si fallas.
 
 ### Reliable Talent
-Para el 11º nivel, has refinado las habilidades elegidas hasta que se acercan a la perfección. Cada vez que hagas una comprobación de habilidad que te permita añadir tu bonificación de habilidad, puedes tratar una tirada de d20 de 9 o inferior como un 10.
+Para el 11º nivel, has refinado las habilidades elegidas hasta que se acercan a la perfección. Cada vez que hagas una comprobación de habilidad que te permita añadir el bonificador de competencia, puedes tratar una tirada de d20 de 9 o inferior como un 10.
 
 ### Blindsense
 A partir del nivel 14, si eres capaz de oír, eres consciente de la ubicación de cualquier criatura oculta o invisible a menos de 10 pies de ti.
@@ -2994,7 +2994,7 @@ ___
 
 <div align="center">
 
-**Trick Shot save DC** = 8 + tu bono de habilidad + <br>tu modificador de Destreza
+**Trick Shot save DC** = 8 + el bonificador de competencia + <br>tu modificador de Destreza
 
 </div>
 
@@ -3010,7 +3010,7 @@ Intenta golpear el objetivo en posición de riesgo. El objetivo debe hacer un lan
 Intentas cojear el movimiento del enemigo. El objetivo debe hacer un lanzamiento de ahorro de destreza. Si falla, su velocidad de movimiento se reduce a la mitad y hace lanzamientos de ahorro de destreza con desventaja hasta el final de su siguiente turno.
 
 ### Spinning Flourish
-A partir del 9º nivel puedes hacer florecer tu arma de una manera intimidante o encantadora. Como acción, puedes hacer que una criatura en un radio de 60 pies haga un lanzamiento de ahorro de Sabiduría (DC = 8 + tu bono de habilidad + tu modificador de Destreza). En una salvada fallida, el objetivo es encantado o asustado por ti (a tu elección) hasta el final de tu próximo turno. 
+A partir del 9º nivel puedes hacer florecer tu arma de una manera intimidante o encantadora. Como acción, puedes hacer que una criatura en un radio de 60 pies haga un lanzamiento de ahorro de Sabiduría (DC = 8 + el bonificador de competencia + tu modificador de Destreza). En una salvada fallida, el objetivo es encantado o asustado por ti (a tu elección) hasta el final de tu próximo turno. 
 
 \columnbreak
 
@@ -3048,7 +3048,7 @@ ___
 
 <div align="center">
 
-**Lethal Strike save DC** = 8 + tu bono de habilidad + <br>tu modificador de Destreza
+**Lethal Strike save DC** = 8 + el bonificador de competencia + <br>tu modificador de Destreza
 
 </div>
 
@@ -3273,7 +3273,7 @@ Algunas de sus maniobras requieren que su objetivo haga un tiro de salvamento pa
 ___
 <div align="center">
 
-**Maniobra de salvar DC** = 8 + tu bono de habilidad + <br>tu modificador de Inteligencia
+**Maniobra de salvar DC** = 8 + el bonificador de competencia + <br>tu modificador de Inteligencia
 
 </div>
 
@@ -3333,7 +3333,7 @@ En el 2º nivel, dominarás dos descubrimientos de tu elección. Tus opciones de de
 Además, cuando ganes un nivel en esta clase, puedes elegir uno de los descubrimientos que conoces y sustituirlo por otro que puedas aprender en ese nivel.
 
 ### Sage Advice
-Cuando llegues al 2º nivel, puedes pasar 1 minuto difundiendo tu conocimiento y experiencia, aconsejando a los que te rodean. Cuando lo hagas, elige una habilidad o herramienta que domines y un número de criaturas amigables hasta tu modificador de Inteligencia a menos de 30 pies de ti que puedan oírte y que puedan entenderte. Una vez dentro de la siguiente hora, la próxima vez que cada criatura haga un chequeo de habilidad con la habilidad o herramienta elegida, pueden añadir su bono de habilidad a la tirada si no son ya competentes. Una criatura sólo puede beneficiarse de esta característica una vez. Si una criatura vuelve a ser objetivo de esta característica antes de usarla, puede elegir entre conservar el primer beneficio o sustituirlo por la nueva habilidad o herramienta.
+Cuando llegues al 2º nivel, puedes pasar 1 minuto difundiendo tu conocimiento y experiencia, aconsejando a los que te rodean. Cuando lo hagas, elige una habilidad o herramienta que domines y un número de criaturas amigables hasta tu modificador de Inteligencia a menos de 30 pies de ti que puedan oírte y que puedan entenderte. Una vez dentro de la siguiente hora, la próxima vez que cada criatura haga un chequeo de habilidad con la habilidad o herramienta elegida, pueden añadir el bonificador de competencia a la tirada si no son ya competentes. Una criatura sólo puede beneficiarse de esta característica una vez. Si una criatura vuelve a ser objetivo de esta característica antes de usarla, puede elegir entre conservar el primer beneficio o sustituirlo por la nueva habilidad o herramienta.
 
 Una vez que hayas usado esta función, no podrás volver a usarla hasta que termines un largo descanso. Comenzando en el nivel 13, recuperas la habilidad de usarla después de completar un descanso corto o largo.
 
@@ -3577,7 +3577,7 @@ Esta muerte aumenta cuando se alcanzan ciertos niveles en esta clase: 1d8 en el 
 | Las piernas de la criatura se hinchan. Su velocidad de movimiento se convierte como mucho en la mitad de su velocidad de movimiento normal. |
 | La criatura se vuelve un tamaño más grande o más pequeño. |
 | La piel de sus articulaciones se convierte en un material de madera, dándoles un bonus de +2 a AC. |
-| El cuerpo de la criatura comienza a producir un poderoso ácido estomacal en grandes cantidades. La criatura puede usar una acción para arrojar ácido estomacal en un cono de 15 pies. El DC para este lanzamiento de ahorro es igual a 8 + tu modificador de constitución + tu bono de habilidad. La criatura recibe 2d6 de daño por el ácido en una salvada fallida, y la mitad de daño en una exitosa. El daño aumenta a 3d6 en el 6º nivel, 4d6 en el 11º nivel y 5d6 en el 16º nivel. | 
+| El cuerpo de la criatura comienza a producir un poderoso ácido estomacal en grandes cantidades. La criatura puede usar una acción para arrojar ácido estomacal en un cono de 15 pies. El DC para este lanzamiento de ahorro es igual a 8 + tu modificador de constitución + el bonificador de competencia. La criatura recibe 2d6 de daño por el ácido en una salvada fallida, y la mitad de daño en una exitosa. El daño aumenta a 3d6 en el 6º nivel, 4d6 en el 11º nivel y 5d6 en el 16º nivel. | 
 | La criatura se vuelve muda y tiene un gas incontrolable. Tienen desventajas en los controles de destreza (sigilo) que se basan en el olfato.
 | Los ojos de la criatura brillan con un rojo intenso. La criatura también gana visión oscura, pero si ya tiene visión oscura, tiene un ligero dolor de cabeza. |
 | La criatura gana +4 a los controles de percepción basados en el oído, pero todo les parece incómodamente ruidoso. Ganan vulnerabilidad a los daños sónicos. |
@@ -3699,7 +3699,7 @@ El alcance de su función de "Motivating Diplomat" se ha incrementado hasta los 1
 Cuando haces un chequeo de habilidad de Engaño, Intimidación o Persuasión, puedes tratar cualquier tirada 9 o inferior como si hubieras tirado un 10.
 
 #### Social Opportunist
-Puedes añadir la mitad de tu bono de habilidad (redondeado hacia abajo) a cualquier cheque de Carisma que hagas que no incluya ya tu bono de habilidad.
+Puedes añadir la mitad de tu bonificador de competencia (redondeado hacia abajo) a cualquier cheque de Carisma que hagas que no incluya ya el bonificador de competencia.
 
 #### Tyrant's Ferocity
 *Prerrequisito: Persecución política*<br>
@@ -3930,7 +3930,7 @@ In lieu of the equipment granted by your class y background, you can elect to pu
 ### Swift Response
 A partir del primer nivel, se aprende a reaccionar con una acción rápida y decisiva en el combate. Obtienes los siguientes beneficios: 
 - Ignoras el terreno difícil.
-- Añades tu bono de habilidad a los rollos de iniciativa.
+- Añades el bonificador de competencia a los rollos de iniciativa.
 - En tu primer turno durante el combate, tienes ventaja en las tiradas de ataque contra las criaturas que aún no han actuado.
 
 ### Ranger's Quarry
@@ -3970,11 +3970,11 @@ ___
 
 <div align="center">
 
-**Tech save DC** = 8 + tu bono de habilidad + tu modificador de Inteligencia
+**Tech save DC** = 8 + el bonificador de competencia + tu modificador de Inteligencia
 
 ___
 
-**Modificador de ataque técnico** = tu bono de habilidad + tu modificador de inteligencia
+**Modificador de ataque técnico** = el bonificador de competencia + tu modificador de inteligencia
 
 </div>
 
@@ -4069,7 +4069,7 @@ Algunas de sus maniobras requieren que su objetivo haga un tiro de salvamento pa
 ___
 <div align="center">
 
-**Maniobra de salvamento DC** = 8 + tu bono de habilidad + tu modificador de Destreza
+**Maniobra de salvamento DC** = 8 + el bonificador de competencia + tu modificador de Destreza
 </div>
 
 ___
@@ -4377,11 +4377,11 @@ ___
 
 <div align="center">
 
-**Force save DC** = 8 + tu bono de habilidad + <br>tu modificador de habilidad de previsión
+**Force save DC** = 8 + el bonificador de competencia + <br>tu modificador de habilidad de previsión
 
 ___
 
-**Modificador de ataque forzado** = su bono de habilidad + <br> su modificador de habilidad de previsión
+**Modificador de ataque forzado** = el bonificador de competencia + <br> el modificador de habilidad de previsión
 
 </div>
 
@@ -4463,7 +4463,7 @@ Se obtiene una visión oscura a un rango de 60 pies. Si ya tienes una visión oscu
 Además, como acción extra, puedes manifestar este ideal en una breve oleada de energía. Durante el siguiente minuto, puedes ver normalmente en la oscuridad aumentada, y ganarás visión ciega a 3 metros.
 
 #### Ideal de los firmes
-Cuando haces una tirada de ataque con arma de cuerpo entero, puedes forzar al objetivo a hacer una tirada de ahorro de destreza (DC = 8 + tu bono de habilidad + tu modificador de fuerza o destreza + cualquier bono de tiradas de ataque con arma de cuerpo entero). Si tienes ventaja en tu tirada de ataque, la criatura tiene una desventaja en su tiro salvador. En una salvada fallida, el objetivo recibe el daño normal de un arma y está sujeto a cualquier efecto adicional que pudiera ocurrir en un golpe.
+Cuando haces una tirada de ataque con arma de cuerpo entero, puedes forzar al objetivo a hacer una tirada de ahorro de destreza (DC = 8 + el bonificador de competencia + tu modificador de fuerza o destreza + cualquier bono de tiradas de ataque con arma de cuerpo entero). Si tienes ventaja en tu tirada de ataque, la criatura tiene una desventaja en su tiro salvador. En una salvada fallida, el objetivo recibe el daño normal de un arma y está sujeto a cualquier efecto adicional que pudiera ocurrir en un golpe.
 
 Además, como acción extra, puedes manifestar este ideal en una breve oleada de energía. Durante el siguiente minuto, cuando una criatura tiene éxito en el lanzamiento de salvamento, recibe la mitad del daño normal del arma, y cuando una criatura saca un 1 en el lanzamiento de salvamento, recibe el daño como si sufriera un golpe crítico.
 
