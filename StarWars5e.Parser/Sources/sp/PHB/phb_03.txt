@@ -932,7 +932,7 @@ La amplia gama de aplicaciones de las herramientas da lugar a distinciones bien 
 ## Ingeniería de armamento
 Los ingenieros que eligen la disciplina de ingeniería armamentística se centran en la capacidad de trabajar con metales duros y blindaje electrónico para construir y mejorar todo tipo de armaduras personales.
 
-### Competencia Adiccional
+### Competencia Adicional
 Al elegir esta disciplina en el 3er nivel, se gana en destreza en las herramientas de armamento, en la armadura media y en la armadura pesada. Además, cuando te dedicas a la artesanía con herramientas de armadura, la velocidad a la que lo haces se duplica.
 
 ### Armadura Modificada
@@ -2114,8 +2114,8 @@ En el nivel 18, puedes elegir una segunda maniobra personal. Además,<br> cuando 
 
 \pagebreakNum
 
-## Guardian
-<span style="font-variant: small-caps">A dark-skinned human quickly runs down a corridor, the</span> metal armor under his grey cloak clanking with each step. He rounds the corner into the prison while the lights y power are still out, urging the weakened prisoners to escape. Just then a handful of slavers arrive y ready their blasters. The man draws y ignites a white-bladed lightsaber, ready to die for the strangers behind him. 
+## Guardián
+<span style="font-variant: small-caps">Un humano de piel oscura corre rápidamente por un pasillo, la</span> armadura de metal bajo su capa gris tintineando a cada paso. Da la vuelta a la esquina de la prisión mientras las luces están apagadas, instando a los prisioneros debilitados a escapar. En ese momento, un puñado de esclavistas llega y prepara sus armas. El hombre saca y enciende un sable de luz de hoja blanca, listo para morir por los extraños que están detrás de él. 
 
 Un sith de sangre pura, vestido de pies a cabeza con armadura negra y roja, carga hacia una línea de soldados. Disparo tras disparo se desvía de su armadura hasta que llega a su presa, donde desata su furia en una serie de devastadores barridos de sable láser. 
 
@@ -2130,7 +2130,7 @@ Un agente imparable de la Fuerza, el guardián canaliza el poder que fluye a trav
 
 <div style='margin-top:205px'></div>
 
-### Natural Leaders
+### Líder por Naturelza
 El mando del guardián de la Fuerza les da una presencia poderosa. Ya sea a través del miedo y la intimidación o el respeto y la admiración, el guardián es uno de los más grandes generales en el campo de batalla. Son un símbolo de poder para sus seguidores.
 
 \columnbreak
@@ -2139,11 +2139,11 @@ El mando del guardián de la Fuerza les da una presencia poderosa. Ya sea a travé
 
 <img src='https://www.gmbinder.com/images/Seb0L2R.png' style='position:absolute;top:33px;right:-195px;width:761px;z-index:1000' />
 
-### Creating a Guardian
+### Creando un Guardián
 Al crear tu guardián, considera tu atracción por la Fuerza y sus más famosos practicantes, los Jedi y los Sith. ¿Eres miembro de una de las dos órdenes, o caminas por un camino diferente? ¿Eres un soldado que se aprovecha de la sensibilidad latente de la Fuerza? ¿Fuiste entrenado en la fuerza desde joven, o la descubriste de adulto? ¿Cómo tratas a los más débiles que tú? ¿Cómo era tu familia? ¿Ves la Fuerza como algo claro y oscuro, o como un río imparcial de color gris?
 
-#### Quick Build
-Puedes hacer un tutor rápidamente siguiendo estas sugerencias. Primero, haz de la Fuerza tu mayor puntuación de habilidad, seguido de la Constitución. Segundo, elige el fondo Jedi o Sith.
+#### Creación Rápida
+Puedes hacer un Guardián rápidamente siguiendo estas sugerencias. Primero, haz de la Fuerza tu mayor puntuación de habilidad, seguido de la Constitución. Segundo, elige el fondo Jedi o Sith.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
@@ -2151,38 +2151,38 @@ Puedes hacer un tutor rápidamente siguiendo estas sugerencias. Primero, haz de l
 
 <div class='classTable wide'>
 
-##### The Guardian
-|	Level	|	Proficiency<br> Bonus	|	Features	|	Force Powers<br> Known	|Force<br> Points| Max Power<br> Level|
+##### El Guardián
+|	Nivel	|	Bonificador de<br> Competencia	|	Rasgos	|	Poderes de La Fuerza<br> Conocidos	| Puntos de<br> Fuerza | Nivel de Poder<br> Máximo|
 |	:--:	|	:--:	|	:--	|	:--:	|	:--:	|	:--:	|
-|	 1st	|	+2	|	Forcecasting, Channel the Force	    		| 	 4	|	 2	|	 1st	|
-|	 2nd	|	+2	|	Force-Empowered Strikes, Guardian Aura		|	 5	|	 4	|	 1st	|
-|	 3rd	|	+2	|	Guardian Focus                        		|	 6	|	 6	|	 1st	|
-|	 4th	|	+2	|	Mejora de Puntuación de Habilidad					|	 7	|	 8	|	 1st	|
-|	 5th	|	+3	|	Extra Attack								|	 9	|	10	|	 2nd	|
-|	 6th	|	+3	|	Force Purity    							|	10	|	12	|	 2nd	|
-|	 7th	|	+3	|	Focus feature   							|	11	|	14	|	 2nd	|
-|	 8th	|	+3	|	Mejora de Puntuación de Habilidad					|	12	|	16	|	 2nd	|
-|	 9th	|	+4	|	—											|	14	|	18	|	 3rd	|
-|	10th	|	+4	|	Additional Aura 	    					|	15	|	20	|	 3rd	|
-|	11th	|	+4	|	Improved Force-Empowered Strikes			|	16	|	22	|	 3rd	|
-|	12th	|	+4	|	Mejora de Puntuación de Habilidad					|	17	|	24	|	 3rd	|
-|	13th	|	+5	|	—											|	19	|	26	|	 4th	|
-|	14th	|	+5	|	Cleansing Touch								|	20	|	28	|	 4th	|
-|	15th	|	+5	|	Focus feature	    						|	21	|	30	|	 4th	|
-|	16th	|	+5	|	Mejora de Puntuación de Habilidad					|	22	|	32	|	 4th	|
-|	17th	|	+6	|	—											|	24	|	34	|	 5th	|
-|	18th	|	+6	|	Aura Improvements   						|	25	|	36	|	 5th	|
-|	19th	|	+6	|	Mejora de Puntuación de Habilidad					|	26	|	38	|	 5th	|
-|	20th	|	+6	|	Focus feature	    						|	27	|	40	|	 5th	|
+|	 1	|	+2	|	Invoción de La Fuerza, Canalizando La Fuerza| 	 4	|	 2	|	 1	|
+|	 2	|	+2	|	Golpes con La Fuerza, Aura del Guardián 	|	 5	|	 4	|	 1	|
+|	 3	|	+2	|	Foco del Guardián                        	|	 6	|	 6	|	 1	|
+|	 4	|	+2	|	Mejora de Puntuación de Habilidad			|	 7	|	 8	|	 1	|
+|	 5	|	+3	|	Ataque Extra							|	 9	|	10	|	 2	|
+|	 6	|	+3	|	La Fuerza Pura    						|	10	|	12	|	 2	|
+|	 7	|	+3	|	Rasgo de Foco   						|	11	|	14	|	 2	|
+|	 8	|	+3	|	Mejora de Puntuación de Habilidad		|	12	|	16	|	 2	|
+|	 9	|	+4	|	—										|	14	|	18	|	 3	|
+|	10	|	+4	|	Aura Adicional 	    					|	15	|	20	|	 3	|
+|	11	|	+4	|	Golpes con La Fuerza Mejorados			|	16	|	22	|	 3	|
+|	12	|	+4	|	Mejora de Puntuación de Habilidad		|	17	|	24	|	 3	|
+|	13	|	+5	|	—										|	19	|	26	|	 4	|
+|	14	|	+5	|	Toque Purificador						|	20	|	28	|	 4	|
+|	15	|	+5	|	Rasgo de Foco	    					|	21	|	30	|	 4	|
+|	16	|	+5	|	Mejora de Puntuación de Habilidad		|	22	|	32	|	 4	|
+|	17	|	+6	|	—										|	24	|	34	|	 5	|
+|	18	|	+6	|	Mejora de Aura   						|	25	|	36	|	 5	|
+|	19	|	+6	|	Mejora de Puntuación de Habilidad		|	26	|	38	|	 5	|
+|	20	|	+6	|	Rasgo de Foco	    					|	27	|	40	|	 5	|
 
 </div>
 
 ## Características de la clase
 Como guardián, obtienes las siguientes características de clase.
 
-#### Hit Points
+#### Puntos de Golpe
 ___
-- **Hit Dice:** 1d10 por nivel de guardián
+- **Dados de Golpe:** 1d10 por nivel de guardián
 - **Puntos de golpe en el 1er nivel:** 10 + tu modificador de la Constitución
 - **Puntos de golpe en niveles superiores:** 1d10 (o 6) + tu modificador de Constitución por nivel de guardián después del primero.
 
@@ -2208,46 +2208,46 @@ Comienza con el siguiente equipo, además del que le otorgan sus antecedentes:
 #### Variante: Riqueza inicial 
 En lugar del equipo otorgado por su clase y antecedentes, puede optar por comprar su equipo de arranque. Si lo haces, no recibirás ningún equipo de tu clase y procedencia, y en su lugar te darás el lujo de empezar con los criterios que se indican a continuación:
 
-|Clase		|Fondos...		|						
-|	:--			|--:			|							
-|1	.000 + 5d4 x 100 cr.
+|	Clase		|	Fondos		|						
+|	:--			|	--:			|							
+|	Guardián	|	1.000 + 5d4 x 100 cr.|
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Forcasting
+### Invocación de La Fuerza
 En tus meditaciones sobre la fuerza, has aprendido poderes, fragmentos de conocimiento que te confieren una capacidad de fuerza duradera. Ver capítulo 10 para las reglas generales de previsión y el capítulo 11 para la lista de poderes de la fuerza.
 
-#### Force Powers Known
+#### Poderes de La Fuerza Conocidos
 Aprendes 4 poderes de fuerza de tu elección, y aprendes más en los niveles superiores, como se muestra en la columna de Poderes de Fuerza Conocidos de la tabla de la clase de guardianes. No puedes aprender un poder de fuerza de un nivel más alto que tu Nivel de Máximo Poder, y puedes aprender un poder de fuerza al mismo tiempo que aprendes su prerrequisito.
 
-#### Force Points
+#### Puntos de La Fuerza
 Tienes un número de puntos de fuerza igual a tu nivel de guardián x 2, como se muestra en la columna de puntos de fuerza de la tabla de clases de guardianes, + tu modificador de Sabiduría o Carisma (a tu elección). Utilizas estos puntos de fuerza para lanzar poderes de fuerza. Recuperas todos los puntos de fuerza gastados cuando terminas un largo descanso.
 
-#### Max Power Level
+#### Nivel de Poder Máximo
 Muchos poderes de fuerza pueden ser superados, consumiendo más puntos de fuerza para crear un mayor efecto. Puedes dominar estas habilidades hasta un nivel máximo, que aumenta en los niveles superiores, como se muestra en la columna de Nivel de poder máximo de la tabla de clases de guardianes.
 
 Sólo puedes lanzar poderes de fuerza en el 5º nivel una vez. Recuperas la habilidad de hacerlo después de un largo descanso.
 
-#### Forcasting Ability
+#### Habilidad de Invocacion de La Fuerza
 Su capacidad de previsión varía según la alineación de los poderes que se le otorgan. Usas tu Sabiduría para los poderes del lado de la luz, Carisma para los del lado de la oscuridad, y Sabiduría o Carisma para los poderes universales (a tu elección). Utilizas este modificador de puntuación de habilidades siempre que un poder se refiera a tu capacidad de previsión. Además, usas este modificador de puntuación de habilidad cuando estableces el tiro salvador DC para una potencia de fuerza que lanzas y cuando haces una tirada de ataque con una.
 
 ___
 
 <div align="center">
 
-**Force save DC** = 8 + el bonificador de competencia + <br>tu modificador de habilidad de previsión
+**CD Salvación de La Fuerza** = 8 + el bonificador de competencia + <br>tu modificador de habilidad de invocación de La Fuerza
 
 ___
 
-**Modificador de ataque forzado** = el bonificador de competencia + <br> el modificador de habilidad de previsión
+**Modificador de Ataque de La Fuerza** = el bonificador de competencia + <br> el modificador de habilidad de invocación de La Fuerza
 
 </div>
 
 ___
 
-### Channel the Force
+### Canalizando La Fuerza
 Sabes cómo canalizar la Fuerza para crear un efecto único. Comienzas con la elección de dos de esos efectos: Causar daño y prestar ayuda. En el tercer nivel, tu Foco de Guardián te concede un efecto adicional. Cuando usas tu Canalización de la Fuerza, eliges qué efecto crear.
 
 Algunos efectos de Channel the Force requieren tiros de salvamento. Cuando se utiliza un efecto de esta clase, la DC es igual a su fuerza universal de ahorro de DC.
@@ -2258,43 +2258,43 @@ Puede utilizar esta función un número de veces igual a su modificador de Sabidur
 
 <div style='margin-top:23px'></div>
 
-#### Cause Harm
+#### Causar Daño
 Como una acción, puedes gastar un uso de tu Canal la Fuerza para quitarle la vida a una criatura hostil que puedas ver a menos de 30 pies. Esa criatura debe hacer un lanzamiento de salvación de la Constitución. En una salvada fallida, la criatura recibe un daño necrótico igual a tu nivel de guardián + tu modificador de carisma (mínimo de uno), o la mitad de uno exitoso.
 
-#### Lend Aid
+#### Prestar Ayuda
 Como acción extra, puedes usar tu Canal de la Fuerza y tocar una criatura a menos de 1 metro de ti. Esa criatura recupera puntos de golpe iguales a tu nivel de guardián + tu modificador de Sabiduría (mínimo de uno). Alternativamente, si la criatura está envenenada o enferma, neutralizas el veneno o la enfermedad. Si más de un veneno o enfermedad aflige al objetivo, neutralizas un veneno o enfermedad que sabes que está presente, o neutralizas uno al azar.
 
-### Force-Empowered Strikes
+### Golpes con La Fuerza
 A partir del 2º nivel, cuando golpees a una criatura con un ataque de arma de fuego cuerpo a cuerpo, podrás gastar puntos de fuerza para infligir daño adicional al objetivo. El daño adicional es de 2d8 por un slot de fuerza de 1er nivel, más 1d8 por cada nivel de slot superior al 1er, hasta un máximo de 5d8. El daño es del mismo tipo que el del arma.
 
 No puedes usar una ranura de fuerza de mayor nivel que tu Nivel de Potencia Máxima.
 
-### Guardian Aura
+### Aurda del Guardián
 Además, en el 2º nivel, se obtiene un aura de su elección, como se describe al final de la descripción de la clase. Cuando alcanzas el 10º nivel puedes seleccionar un segundo aura.
 
-### Guardian Focus
+### Foco del Guardián
 Al llegar al 3er nivel, se comienza a enfocar los estudios en una forma específica de sable láser, que se detalla al final de la descripción de la clase. Tu enfoque te otorga características en el 3er nivel y otra vez en el 7º, 15º y 20º nivel. 
 
 ### Mejora de Puntuación de Habilidad
 Cuando alcances el 4º nivel, y de nuevo en el 8º, 12º, 16º y 19º nivel, puedes aumentar una puntuación de habilidad de tu elección en 2, o puedes aumentar dos puntuaciones de habilidad de tu elección en 1. Como es normal, no puedes aumentar una puntuación de habilidad por encima de 20 usando esta función. También puedes elegir una hazaña (consulta el capítulo 6 para ver una lista de las mismas).
 
-### Extra Attack
+### Ataque Extra
 A partir del 5º nivel, puedes atacar dos veces, en vez de una, siempre que tomes la acción de Ataque en tu turno.
 
-### Force Purity
+### La Fuerza Pura
 En el sexto nivel, la fuerza que fluye a través de ti te hace inmune al veneno y a la enfermedad.
 
 <div class='footnote'>CAPITULO 3 | CLASES</div>
 
 \pagebreakNum
 
-### Improved Force-Empowered Strikes
+### Golpes con La Fuerza Mejorados
 En el nivel 11, estás tan sintonizado con la Fuerza que todos tus golpes con armas de combate cuerpo a cuerpo llevan el poder de la Fuerza con ellos. Cada vez que golpeas a una criatura con un arma cuerpo a cuerpo, la criatura recibe un daño extra de 1d8. Si también utilizas tus Golpes con fuerza con un ataque, añades este daño al daño extra de tus Golpes con fuerza. El daño es del mismo tipo que el del arma.
 
-### Cleansing Touch
+### Toque Purificador
 Comenzando en el nivel 14, puedes usar tu acción y gastar un uso de tu canal la habilidad de la Fuerza para acabar con un poder de fuerza en ti mismo o en una criatura dispuesta que toques.
 
-### Guardian Auras
+### Auras del Guardián
 Las auras se presentan en orden alfabético. Si varios guardianes conceden el mismo aura, las criaturas afectadas sólo pueden beneficiarse de ella una vez. Debes ser consciente de conceder los beneficios de tus auras.
 
 #### Aura de Conquista
@@ -2312,7 +2312,7 @@ Tú y las criaturas amigas a menos de 1 metro de ti no pueden ser encantadas.
 
 En el décimo nivel, el alcance de esta aura aumenta a 15 pies, y en el decimoctavo nivel, el alcance de esta aura aumenta a 30 pies.
 
-#### Aura de odio
+#### Aura de Odio
 Tú y las criaturas amigas que se encuentren a menos de 1 metro de ti ganan una bonificación a las primeras tiradas de daño de arma cuerpo a cuerpo que hagas cada ronda igual a tu modificador de Carisma (mínimo de +1). 
 
 En el décimo nivel, el alcance de esta aura aumenta a 15 pies, y en el decimoctavo nivel, el alcance de esta aura aumenta a 30 pies.
@@ -2336,12 +2336,12 @@ Cada vez que una criatura amiga comienza su turno a menos de 5 pies de ti, esa c
 
 En el décimo nivel, el alcance de esta aura aumenta a 15 pies, y en el decimoctavo nivel, el alcance de esta aura aumenta a 30 pies.
 
-#### Aura de Warding
+#### Aura de Protección
 Tú y las criaturas amigas a menos de 5 pies de ti tienen resistencia a los daños de los poderes de la fuerza.
 
 En el décimo nivel, el alcance de esta aura aumenta a 15 pies, y en el decimoctavo nivel, el alcance de esta aura aumenta a 30 pies.
 
-## Guardian Foci
+## Focos del Guardián
 Diferentes guardianes se centran en diferentes estilos de lucha con sables láser, llamados formas, mientras afinan sus poderes.
 
 <img src='https://www.gmbinder.com/images/F1iR9gg.png' style='position:absolute;bottom:23px;right:0px;width:380px;z-index:1000;' />
@@ -2350,34 +2350,34 @@ Diferentes guardianes se centran en diferentes estilos de lucha con sables láser
 
 \pagebreakNum
 
-## Form I: Shii-Cho
+## Forma I: Shii-Cho
 La Forma I, también conocida como Forma de Determinación, utiliza ataques salvajes e impredecibles diseñados para distraer y desarmar a sus enemigos. Los guardianes que se centran en la Forma Shii-Cho hacen ataques aparentemente aleatorios, pero deliberados, para desequilibrar a sus oponentes.
 
-### Fighting Style
+### Estilo de Combate
 Cuando eliges esta forma como tu foco de atención en el 3er nivel, adoptas un estilo de lucha como tu especialidad. Elige una de las opciones de Estilo de lucha de duelo, equilibrio o lucha con dos armas, detalladas en el capítulo 6. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
 
-### The Way of the Sarlaac
+### El Camino del Sarlaac
 También en el 3er nivel, como acción extra, puedes entrar en una postura frenética durante un minuto. Mientras que en esta postura, la primera vez que golpeas a una criatura con un arma de ataque cuerpo a cuerpo en tu turno, tiene una desventaja en la siguiente tirada de ataque cuerpo a cuerpo que hace contra ti antes del comienzo de tu siguiente turno. Además, si esa criatura está a menos de 5 pies de ti, debe hacer una tirada de ahorro de fuerza (DC = 8 + el bonificador de competencia + tu modificador de fuerza o destreza). En una salvada fallida, es empujada hacia atrás 5 pies, y puedes moverte inmediatamente al espacio que acaba de desocupar sin provocar ataques de oportunidad.
 
 Este efecto termina pronto si estás incapacitado o mueres. Una vez que has usado esta función, no puedes volver a usarla hasta que termines un largo descanso.
 
-### Channel the Force
+### Canalizar La Fuerza
 Por último, en el tercer nivel, se obtiene la siguiente opción: canalizar la fuerza.
 
-#### Disarming Slash
+#### Corte Desarmador
 Cuando golpeas a una criatura con un ataque de arma de fuego cuerpo a cuerpo, puedes gastar un uso de tu Canal la Fuerza (no se requiere acción) para intentar desarmar al objetivo, forzándolo a soltar un objeto de tu elección que esté sosteniendo. La criatura debe hacer un lanzamiento de ahorro de fuerza. En una salvada fallida, deja caer el objeto que elijas. Si estás a menos de 5 pies del objetivo, y tienes una mano libre, puedes atrapar el objeto. De lo contrario, el objeto cae a sus pies.
 
-### Unpredictable Motion
+### Movimiento Impredecible
 A partir del 7º nivel, mientras que usted está blandiendo un arma de combate cuerpo a cuerpo, los ataques de oportunidad contra usted se hacen en desventaja.
 
-### Sarlaac Sweep
+### Barrido Sarlaac
 A partir del nivel 15, cuando una criatura se mueve a menos de 5 pies de ti, puedes usar tu reacción para hacer un ataque con un arma de combate cuerpo a cuerpo contra esa criatura. Si el ataque golpea, puedes intentar dañar a otra criatura a menos de 5 pies del objetivo original y a tu alcance. Si la tirada de ataque original golpea a la segunda criatura, recibe un daño igual a tu modificador de Fuerza o Destreza (a tu elección). El daño es del mismo tipo que el del ataque original.
 
 \columnbreak
 
 <div style='margin-top:26px'></div>
 
-### Master of Determination
+### Maestro de la Determinación
 En el nivel 20, la errática fluidez de su movimiento confunde incluso al más decidido de los enemigos. Sus puntuaciones de Fuerza o Destreza y Sabiduría o Carisma (a su elección) aumentan en 2. Su máximo para estas puntuaciones aumenta en 2. Además, puede utilizar su acción para obtener los siguientes beneficios durante 1 minuto:
 - Tienes resistencia a los daños cinéticos y energéticos de las armas no mejoradas.
 - Los rollos de ataque hechos contra ti no pueden tener ventaja.
@@ -2395,23 +2395,23 @@ Este efecto termina pronto si estás incapacitado o mueres. Una vez que has usado
 ## Forma II: Makashi 
 La Forma II, también conocida como Forma de Contención, fomenta la precisión y la eficiencia por encima de la potencia, usando golpes, paradas y cortes ligeros sobre barras, bloques y chuletas. Los guardianes que se centran en la Forma Makashi utilizan una calculada manipulación de la hoja, una intensa concentración y una experta sincronización para confundir y atrapar a sus oponentes.
 
-### Fighting Style
+### Estilo de Combate
 Cuando eliges esta forma como tu foco de atención en el 3er nivel, adoptas un estilo de lucha como tu especialidad. Elige una de las opciones de Estilo de lucha de Duelo, Equilibrio o Centinela, detalladas en el capítulo 6. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
 
-### The Way of the Ysalamiri 
+### El Camino del Ysalamiri 
 También en el 3er nivel, como acción extra, puedes entrar en una posición ofensiva durante un minuto. Mientras estás en esta posición, añades tu modificador de Sabiduría o Carisma (a tu elección) al primer ataque de arma cuerpo a cuerpo y las tiradas de daño que haces en cada turno.
 
 Este efecto termina pronto si estás incapacitado o mueres. Una vez que has usado esta función, no puedes volver a usarla hasta que termines un largo descanso.
 
-### Channel the Force
+### Canalizando La Fuerza
 Por último, en el 3er nivel, se obtiene el siguiente canal la opción Fuerza.
 
-#### Makashi Riposte
+#### Contraataque Makashi
 Cuando otra criatura te daña con un ataque cuerpo a cuerpo, puedes usar tu canal de la fuerza y usar tu reacción para intentar desviar el ataque. Cuando lo haces, el daño que recibes del ataque se reduce en 1d10 + tu modificador de Destreza + tu nivel de guardián.
 
 Si reduces el daño a 0, puedes hacer inmediatamente un ataque con un solo arma de combate cuerpo a cuerpo contra esa criatura como parte de la reacción.
 
-### Shatterpoint
+### Punto de Rotura
 A partir del 7º nivel, si pasas al menos 1<br> minuto observando o interactuando con<br> otra criatura fuera de combate,<br> puedes usar tu conexión<br> con la Fuerza para sentir sus<br> fortalezas y debilidades, y aprender<br> cierta información sobre sus capacidades comparadas con las tuyas. El GM te dice si la criatura es tu igual, superior o inferior con respecto a dos de las siguientes características de tu elección:
 
 - Puntuación de fuerza
@@ -2427,10 +2427,10 @@ A partir del 7º nivel, si pasas al menos 1<br> minuto observando o interactuando
 
 <div style='margin-top:27px'></div>
 
-### Glancing Blow
+### Golpe de Refilón
 A partir del nivel 15, cuando un atacante que puedes ver te golpea con un ataque, puedes usar tu reacción para reducir a la mitad el daño del ataque en tu contra.
 
-### Master of Contest
+### Maestro de la Conquista
 En el nivel 20, eres un duelista del más alto calibre. Tus puntuaciones de Destreza y Sabiduría o Carisma (a tu elección) aumentan en 2. Tu máximo para esas puntuaciones aumenta en 2. Además, puedes usar tu acción para obtener los siguientes beneficios durante 1 minuto:
 - Tienes resistencia a los daños cinéticos y energéticos, e ignoras la resistencia a los daños cinéticos y energéticos.
 - Todos los ataques cuerpo a cuerpo tienen una desventaja contra ti.
@@ -2447,36 +2447,36 @@ Este efecto termina pronto si estás incapacitado o mueres. Una vez que has usado
 ## Forma III: Soresu
 La Forma III, también conocida como Forma de Resistencia, se basa en un trabajo de cuchillas apretadas y esquivas sutiles para proporcionar una máxima cobertura defensiva, minimizando la exposición a las armas de alcance. Los guardianes que se concentran en la Forma Soresu usan un amplio juego de pies para moverse por el campo de juego, haciendo amplios y cortos movimientos de barrido que protegen el cuerpo.
 
-### Bonus Proficiency
+### Competencia Adicional
 Se gana destreza en armaduras pesadas.
 
-### Fighting Style
+### Estilo de Combate
 Cuando eliges esta forma como tu foco de atención en el 3er nivel, adoptas un estilo de lucha como tu especialidad. Elige una de las opciones de estilo de lucha de Defensa, Escudo o Centinela, detalladas en el capítulo 6. No puedes tomar una opción de Estilo de lucha más de una vez, aunque más tarde puedas elegir de nuevo.
 
-### The Way of the Mynock
+### El Camino del Mynock
 También en el 3er nivel, como acción extra, puedes entrar en una posición defensiva durante un minuto. Como parte de esta acción de bonificación, y como acción de bonificación en cada uno de tus turnos, puedes lanzar el poder de *saber ward*. Cuando lo haces, tienes un número de reacciones especiales igual a el bonificador de competencia que sólo puedes usar para lanzar el poder de la fuerza *saber reflect*. Sólo puedes tomar una reacción por turno.
 
 Este efecto termina pronto si estás incapacitado o mueres. Una vez que haya utilizado esta función, no podrá volver a usarla hasta que termine un largo descanso.
 
-### Channel the Force
+### Canalizando La Fuerza
 Por último, en el 3er nivel, se obtiene el siguiente canal la opción Fuerza.
 
-#### Advancing Defender
+#### Defensor Avanzante
 Cuando lanzas el poder de *saber reflejar*, puedes gastar un uso de tu Canal la Fuerza para moverte hasta 10 pies como parte de esa misma reacción. Este movimiento no provoca ataques de oportunidad.
 
-### Circle of Shelter
+### Circulo de Protección
 En el 7º nivel, aprendes a defenderte de los ataques dirigidos a ti, a tu montura o a otras criaturas cercanas. Si tú o una criatura que puedas ver a menos de 5 pies de ti es golpeada por un ataque, puedes usar tu reacción para proteger a la criatura si estás empuñando un arma de combate cuerpo a cuerpo o un escudo. Rueda 1d8 y añade el número que ha rodado al AC del objetivo contra ese ataque. Si el ataque aún golpea, el objetivo tiene resistencia contra el daño del ataque. 
 
 Puedes usar esta característica un número de veces igual al de tu modificador de la Constitución (un mínimo de una vez), y recuperas todos los usos gastados cuando terminas un largo descanso.
 
-### Stand Against the Tide
+### Contra la Marea
 A partir del nivel 15, cuando una criatura hostil te falla con un ataque cuerpo a cuerpo, puedes usar tu reacción para forzar a esa criatura a repetir el mismo ataque contra otra criatura (que no sea ella misma) de tu elección.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-### Master of Resilience
+### Maestro de la Resiliencia
 En el nivel 20, su presencia en el campo de batalla es una inspiración para sus aliados. Tus puntuaciones de Constitución y Sabiduría o Carisma (a tu elección) aumentan en 2. Tu máximo para esas puntuaciones aumenta en 2. Además, puedes usar tu acción para obtener los siguientes beneficios durante 1 minuto:
 - Tienes resistencia a los daños cinéticos y energéticos de las armas no mejoradas.
 - Cuando usas el poder de la fuerza de *saber reflect*, puedes hacer un único ataque cuerpo a cuerpo contra un enemigo a menos de 5 pies de ti como parte de esa misma reacción.
@@ -2564,9 +2564,9 @@ Puedes hacer un monje rápidamente siguiendo estas sugerencias. Primero, haz de l
 ## Características de la clase
 Como monje, obtienes las siguientes características de clase.
 
-#### Hit Points
+#### Puntos de Golpe
 ___
-- **Hit Dice:** 1d8 por nivel de monje
+- **Dados de Golpe:** 1d8 por nivel de monje
 - **Puntos de golpe en el 1er nivel:** 8 + tu modificador de la Constitución
 - **Puntos de golpe en niveles superiores:** 1d8 (o 5) + tu modificador de Constitución por nivel de monje después del 1er
 
@@ -2881,11 +2881,11 @@ Puedes hacer un operativo rápidamente siguiendo estas sugerencias. Primero, haz 
 ## Características de la clase
 Como operativo, tienes las siguientes características de clase.
 
-#### Hit Points
+#### Puntos de Golpe
 ___
-- **Hit Dice:** 1d8 per operative level
-- **Hit Points at 1st Level:** 8 + el modificador de Constitución 
-- **Hit Points at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per operative level after 1st
+- **Dados de Golpe:** 1d8 per operative level
+- **Puntos de Golpe at 1st Level:** 8 + el modificador de Constitución 
+- **Puntos de Golpe at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per operative level after 1st
 
 #### Proficiencies
 ___
@@ -3218,11 +3218,11 @@ Puedes hacer un erudito rápidamente siguiendo estas sugerencias. Primero, haga d
 ## Características de la clase
 Como estudioso, obtienes las siguientes características de la clase:
 
-#### Hit Points
+#### Puntos de Golpe
 ___
-- **Hit Dice:** 1d8 per scholar level
-- **Hit Points at 1st Level:** 8 + el modificador de Constitución 
-- **Hit Points at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per scholar level after 1st
+- **Dados de Golpe:** 1d8 per scholar level
+- **Puntos de Golpe at 1st Level:** 8 + el modificador de Constitución 
+- **Puntos de Golpe at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per scholar level after 1st
 
 #### Proficiency
 ___
@@ -3889,11 +3889,11 @@ Puedes hacer un explorador rápidamente siguiendo estas sugerencias. Primero, haz
 ## Características de la clase
 Como explorador, obtienes las siguientes características de la clase.
 
-#### Hit Points
+#### Puntos de Golpe
 ___
-- **Hit Dice:** 1d10 per scout level
-- **Hit Points at 1st Level:** 10 + el modificador de Constitución 
-- **Hit Points at Higher Levels:** 1d10 (or 6) + el modificador de Constitución  per scout level after 1st
+- **Dados de Golpe:** 1d10 per scout level
+- **Puntos de Golpe at 1st Level:** 10 + el modificador de Constitución 
+- **Puntos de Golpe at Higher Levels:** 1d10 (or 6) + el modificador de Constitución  per scout level after 1st
 
 #### Proficiency
 ___
@@ -4319,11 +4319,11 @@ Puedes hacer un centinela rápidamente siguiendo estas sugerencias. Primero, haz 
 ## Características de la clase
 Como centinela, obtienes las siguientes características de clase.
 
-#### Hit Points
+#### Puntos de Golpe
 ___
-- **Hit Dice:** 1d8 per sentinel level
-- **Hit Points at 1st Level:** 8 + el modificador de Constitución 
-- **Hit Points at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per sentinel level after 1st
+- **Dados de Golpe:** 1d8 per sentinel level
+- **Puntos de Golpe at 1st Level:** 8 + el modificador de Constitución 
+- **Puntos de Golpe at Higher Levels:** 1d8 (or 5) + el modificador de Constitución  per sentinel level after 1st
 
 #### Proficiencies
 ___
