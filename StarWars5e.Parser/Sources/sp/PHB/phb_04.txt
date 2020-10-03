@@ -1,23 +1,23 @@
 
 
-# Capítulo 4: Personalidad y antecedentes
+# Capítulo 4: Personalidad y Trasfondo
 
-<img src='https://www.gmbinder.com/images/4mYR4C0.png' style='position:absolute;top:90px;left:75px;width:30px' />
+ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-variant: small-caps">caracteres se definen por mucho más que su especie</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y clase. Son individuos con sus propias historias, intereses, conexiones y capacidades más allá de las que definen la clase y la especie. Esta sección expone los detalles que distinguen a los personajes entre sí, incluyendo los fundamentos del nombre y la descripción física, las reglas de los fondos y los idiomas, y los puntos más sutiles de la personalidad y la alineación.
+<span style="font-variant: small-caps">caracteres se definen por mucho más que su especie</span><br> y clase. Son individuos con sus propias historias, intereses, conexiones y capacidades más allá de las que definen la clase y la especie. Esta sección expone los detalles que distinguen a los personajes entre sí, incluyendo los fundamentos del nombre y la descripción física, las reglas de los fondos y los idiomas, y los puntos más sutiles de la personalidad y la alineamiento.
 
 ## Detalles del personaje
 El nombre y la descripción física de tu personaje puede ser lo primero que los demás jugadores de la mesa aprendan de ti. Vale la pena pensar en cómo estas características reflejan el personaje que tienes en mente.
 
-### Name
+### Nombre
 La descripción de la especie de tu personaje incluye ejemplos de nombres de miembros de esa especie. Piensa un poco en tu nombre, incluso si sólo estás eligiendo uno de una lista.
 
-### Sex
+### Sexo
 Puedes interpretar a un personaje masculino o femenino sin obtener ningún beneficio u obstáculo especial. Piensa en cómo tu personaje se ajusta o no a las expectativas de la cultura más amplia en cuanto a sexo, género y comportamiento sexual.
 
 No necesitas estar confinado a las nociones binarias de sexo y género. Algunas especies creen en el compañerismo que no tiene en cuenta el género. También puedes interpretar un personaje femenino que se presenta como un hombre o un hombre que se siente atrapado en un cuerpo femenino. De la misma manera, la orientación sexual de tu personaje es algo que debes decidir tú.
 
-### Height and Weight
+### Altura y Peso
 Puedes decidir la altura y el peso de tu personaje, usando la información proporcionada en la descripción de tu especie. Piensa en lo que las puntuaciones de habilidad de tu personaje podrían decir sobre su altura y peso. Un personaje débil pero ágil podría ser delgado. Un personaje fuerte y duradero podría ser alto o pesado.
 
 También puedes rodar al azar por la altura y el peso de tu personaje usando la tabla de Características Físicas de esa especie, como se muestra arriba. La primera tirada de dados dada en la segunda columna determina la altura extra del personaje (en pulgadas) más allá de la altura base. Ese mismo número multiplicado por la segunda tirada de dados o la cantidad dada en la segunda columna determina el peso extra del personaje (en libras) más allá del peso base.
@@ -37,43 +37,43 @@ ___
 > |***Altura***|&nbsp;&nbsp;|4'8"|+2d10"|
 > |***Peso***||&nbsp;&nbsp;|110 lb.|x(2d4) lb.|
 
-### Other Physical Characteristics
+### Otras Características Físicas
 Usted elige la edad de su personaje y el color de su pelo, ojos y piel. Para añadir un toque de distinción, puede que quieras darle a tu personaje una característica física inusual o memorable, como una cicatriz, una cojera o un tatuaje.
 
-### Alineación
-Una criatura típica de la galaxia tiene una alineación, que describe ampliamente sus actitudes morales y personales. El alineamiento es una combinación de dos factores: uno identifica la moralidad, y se define típicamente en términos de la Fuerza: (claro, oscuro o equilibrado), y el otro describe las actitudes hacia la sociedad y el orden (legal, caótico o neutral). Así pues, nueve alineaciones distintas definen las posibles combinaciones.
+### Alineamiento
+Una criatura típica de la galaxia tiene una alineamiento, que describe ampliamente sus actitudes morales y personales. El alineamiento es una combinación de dos factores: uno identifica la moralidad, y se define típicamente en términos de la Fuerza: (claro, oscuro o equilibrado), y el otro describe las actitudes hacia la sociedad y el orden (legal, caótico o neutral). Así pues, nueve alineaciones distintas definen las posibles combinaciones.
 
-Estos breves resúmenes describen el comportamiento típico de una criatura con esa alineación. Los individuos pueden variar significativamente de ese comportamiento típico, y pocas personas son perfecta y consistentemente fieles a los preceptos de su alineación. 
+Estos breves resúmenes describen el comportamiento típico de una criatura con esa alineamiento. Los individuos pueden variar significativamente de ese comportamiento típico, y pocas personas son perfecta y consistentemente fieles a los preceptos de su alineamiento. 
 
-Puedes elegir tu alineación o rodar para determinarla al azar. Rodar por separado para la moral y la sociedad.
+Puedes elegir tu alineamiento o rodar para determinarla al azar. Rodar por separado para la moral y la actitud social.
 
 |d6|Moralidad|
 |:--:|:--|
-|1-2|**Light:** Usually the needs of others outweigh my own, (...)|
-|3-4|**Dark:** Usually my needs outweigh others', (...)|
-|5-6|**Balanced:** Usually circumstances dictate whose needs are more important, (...)
+|1-2|**Light:** Normalmente las necesidades de los demás son más importantes que las mías.|
+|3-4|**Dark:** Normalmente mis necesidades superan a las de los demás...|
+|5-6|**Balanced:** Por lo general las circunstancias dictan cuáles son las necesidades más importantes, (...)
 
-|d6|Sociedad|
+|d6|Actitud Social|
 |:--:|:--|
-|1-2|**Lawful:** (...) but the means are as important as the end.|
-|3-4|**Chaotic:** (...) but the ends justify the means.|
-|5-6|**Neutral:** (...) but either the ends or the means may be more important, depending.|
+|1-2|**Legal:** (...) ...pero los medios son tan importantes como el fin.|
+|3-4|**Caotico:** (...) pero el fin justifica los medios.|
+|5-6|**Neutral:** (...) pero los fines o los medios pueden ser más importantes, dependiendo.|
 
-#### Alineación en la Galaxia
-Para muchas criaturas pensantes, la alineación es una elección moral. Los humanos y los ugnaughts pueden elegir entre seguir los caminos de la oscuridad o de la luz, de la ley o del caos. Los Lanniks tienden a seguir el lado de la luz, mientras que los Sith puros tienden hacia la oscuridad. Los chiss son legales, mientras que los aqualish son a menudo caóticos.
+#### Alineamiento en la Galaxia
+Para muchas criaturas pensantes, la alineamiento es una elección moral. Los humanos y los ugnaughts pueden elegir entre seguir los caminos de la oscuridad o de la luz, de la ley o del caos. Los Lanniks tienden a seguir el lado de la luz, mientras que los Sith puros tienden hacia la oscuridad. Los chiss son legales, mientras que los aqualish son a menudo caóticos.
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ### Idiomas
-Tu especie indica los idiomas que tu personaje puede hablar por defecto, y tus antecedentes pueden darte acceso a uno o más idiomas adicionales de tu elección. Anota estos idiomas en tu hoja de personaje.
+Tu especie indica los idiomas que tu personaje puede hablar por defecto, y tus trasfondo pueden darte acceso a uno o más idiomas adicionales de tu elección. Anota estos idiomas en tu hoja de personaje.
 
 Elija sus idiomas en función de las especies con las que suele interactuar. Si tienes un compañero wookiee, podrías entender, si no hablar, el idioma de los sirios. Alternativamente, si comúnmente comercias con Jawas, podrías hablar Jawaese.
 
 Una lista de los idiomas más comúnmente hablados de *Star Wars* se puede encontrar más abajo en la tabla de Idiomas Comunes.
 
-##### Lenguas comunes
+##### Idiomas comunes
 
 <div style='column-count:2'>
 
@@ -83,7 +83,7 @@ Una lista de los idiomas más comúnmente hablados de *Star Wars* se puede encontr
 |	Bothese	|
 |	Cheunh	|
 |	Durese	|
-|	Galactic Basic	|
+|	Basico Galactico|
 |	Huttese	|
 |	Jawaese	|
 |	Kel Dor	|
@@ -101,10 +101,10 @@ Una lista de los idiomas más comúnmente hablados de *Star Wars* se puede encontr
 
 </div>
 
-### Personal Characteristics
+### Características Personales
 Desplegar la personalidad de tu personaje, el conjunto de rasgos, manierismos, hábitos, creencias y defectos que dan a una persona una identidad única, te ayudará a darle vida mientras juegas el juego. Aquí se presentan cuatro categorías de características: rasgos de personalidad, ideales, vínculos y defectos. Más allá de esas categorías, piensa en las palabras o frases favoritas de tu personaje, tics y gestos habituales, vicios y manías de mascotas, y cualquier otra cosa que puedas imaginar.
 
-Cada uno de los antecedentes presentados más adelante en este capítulo incluye sugerencias de características que puede utilizar para estimular su imaginación. No estás obligado a esas opciones, pero son un buen punto de partida.
+Cada uno de los trasfondo presentados más adelante en este capítulo incluye sugerencias de características que puede utilizar para estimular su imaginación. No estás obligado a esas opciones, pero son un buen punto de partida.
 
 #### Rasgos de Personalidad
 Dale a tu personaje dos rasgos de personalidad. Los rasgos de personalidad son formas pequeñas y simples de ayudarte a diferenciar tu personaje de los demás. Los rasgos de personalidad deberían decirte algo interesante y divertido sobre tu personaje. Deben ser autodescripciones que sean específicas sobre lo que hace que tu personaje se destaque. "Soy inteligente" no es un buen rasgo, porque describe muchos personajes. "He leído todos los libros que he podido conseguir" te dice algo específico sobre los intereses y la disposición de tu personaje.
@@ -122,9 +122,9 @@ Describe un ideal que impulse tu personaje. Tus ideales son las cosas en las que
 
 Los ideales podrían responder a cualquiera de estas preguntas: ¿Cuáles son los principios que nunca traicionarán? ¿Qué te impulsaría a hacer sacrificios? ¿Qué te impulsa a actuar y guía tus metas y ambiciones? ¿Qué es lo más importante por lo que te esfuerzas?
 
-Puedes elegir los ideales que quieras, pero la alineación de tu personaje es un buen lugar para empezar a definirlos. Cada fondo de este capítulo incluye seis ideales sugeridos. Cinco de ellos están vinculados a aspectos de la alineación: oscuro, claro o neutro. El último tiene más que ver con el fondo particular que con perspectivas morales o éticas.
+Puedes elegir los ideales que quieras, pero la alineamiento de tu personaje es un buen lugar para empezar a definirlos. Cada fondo de este capítulo incluye seis ideales sugeridos. Cinco de ellos están vinculados a aspectos de la alineamiento: oscuro, claro o neutro. El último tiene más que ver con el fondo particular que con perspectivas morales o éticas.
 
-#### Bonds
+#### Vínculos
 Crea un vínculo para tu personaje. Los vínculos representan las conexiones de un personaje con la gente, los lugares y los eventos del mundo. Te atan a cosas de tu pasado. Pueden inspirarte a alturas de heroísmo, o llevarte a actuar en contra de tus propios intereses si se ven amenazados. Pueden trabajar muy parecido a los ideales, impulsando las motivaciones y objetivos de un personaje.
 
 Los bonos podrían responder a cualquiera de estas preguntas: ¿Por quién te preocupas más? ¿A qué lugar sientes una conexión especial? ¿Cuál es su posesión más preciada?
@@ -136,33 +136,33 @@ Finalmente, elige un defecto para tu personaje. El defecto de tu personaje repre
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Inspiración
 La inspiración es una regla que el maestro del juego puede utilizar para recompensarte por jugar con tu personaje de una forma que sea fiel a sus rasgos de personalidad, ideal, vínculo y defecto. Al usar la inspiración, puedes recurrir a tu rasgo de personalidad de compasión por los oprimidos para darte una ventaja en la negociación con el Príncipe Mendigo. O la inspiración puede permitirte recurrir a tu vínculo con la defensa de tu pueblo natal para superar el efecto de un poder que se te ha impuesto.
 
-### Gaining Inspiration
+### Ganando Inspiración
 Tu GM puede elegir darte inspiración por una variedad de razones. Típicamente, los GMs lo premian cuando juegas tus rasgos de personalidad, cedes a los inconvenientes que presenta un defecto o un vínculo, y por lo demás retratas tu personaje de una manera convincente. El GM te dirá cómo puedes inspirarte en el juego.
 
 O tienes inspiración o no la tienes - no puedes almacenar múltiples "inspiraciones" para usarlas más tarde.
 
-### Using Inspiration
+### Usando Inspiración
 Si tienes inspiración, puedes gastarla cuando hagas una tirada de ataque, un lanzamiento de salvamento o un chequeo de habilidad. Gastar tu inspiración te da ventaja en esa tirada.
 
 Además, si tienes inspiración, puedes recompensar a otro jugador por su buen juego de rol, su pensamiento inteligente o simplemente por hacer algo emocionante en el juego. Cuando el personaje de otro jugador hace algo que realmente contribuye a la historia de una forma divertida e interesante, puedes renunciar a tu inspiración para darle inspiración a ese personaje.
 
-## Backgrounds
-Cada historia tiene un principio. Los antecedentes de tu personaje revelan de dónde vienes, cómo te convertiste en aventurero y tu lugar en el mundo. Tu luchador podría haber sido un luchador de la mina o un soldado canoso. Tu consular podría haber sido un estudiante o un enviado. Tu operativo podría haber sobrevivido como Edadnte del gobierno o haber comandado audiencias como animador.
+## Trasfondos
+Cada historia tiene un principio. Los trasfondos de tu personaje revelan de dónde vienes, cómo te convertiste en aventurero y tu lugar en el mundo. Tu luchador podría haber sido un luchador de la mina o un soldado canoso. Tu consular podría haber sido un estudiante o un enviado. Tu operativo podría haber sobrevivido como agente del gobierno o haber comandado audiencias como animador.
 
 Elegir un fondo te proporciona importantes pistas de historia sobre la identidad de tu personaje. La pregunta más importante que debes hacerte sobre tu trasfondo es ¿qué ha cambiado? ¿Por qué dejaste de hacer lo que sea que describe tu pasado y empezaste a aventurarte? ¿De dónde sacaste el dinero para comprar tu equipo de arranque, o, si vienes de un entorno rico, por qué no tienes más dinero? ¿Cómo aprendiste las habilidades de tu clase? ¿Qué te diferencia de la gente común y corriente que comparte tus antecedentes?
 
-Los ejemplos de antecedentes de este capítulo ofrecen tanto beneficios concretos (características, aptitudes e idiomas) como sugerencias para la realización de juegos de rol.
+Los ejemplos de trasfondos de este capítulo ofrecen tanto beneficios concretos (características, aptitudes e idiomas) como sugerencias para la realización de juegos de rol.
 
 \columnbreak
 
 <div style='margin-top:27px'></div>
 
-#### Proficiency
+#### Competencias
 Cada fondo le da a un personaje el dominio de dos habilidades. Las habilidades se describen en el capítulo 7.
 
 Además, la mayoría de los fondos dan a un personaje competencia con una o más herramientas. Las herramientas y el dominio de las mismas se detallan en el capítulo 5.
@@ -172,55 +172,55 @@ Si un personaje obtendría la misma competencia de dos fuentes diferentes, puede 
 #### Idiomas
 Algunos fondos también permiten que los personajes aprendan idiomas adicionales a los dados por las especies. Véase el apartado "Lenguas", más arriba en este capítulo.
 
-#### Equipo
+#### Equipamiento
 Cada fondo proporciona un paquete de equipo de arranque. Si utiliza la regla opcional del capítulo 5 para gastar monedas en equipo, no recibirá el equipo de arranque de su fondo.
 
-#### Background Feat
-Cada fondo le da a un personaje una hazaña inicial. Las hazañas se describen en el capítulo 6. 
+#### Dotes de Trasfondo
+Cada trasfondo le da a un personaje una dote inicial. Las dotes se describen en el capítulo 6. 
 
-#### Características sugeridas
-Un fondo contiene características personales sugeridas basadas en sus antecedentes. Puedes elegir características, tirar los dados para determinarlas al azar, o usar las sugerencias como inspiración para las características de tu propia creación.
+#### Características Sugeridas
+Un fondo contiene características personales sugeridas basadas en sus trasfondos. Puedes elegir características, tirar los dados para determinarlas al azar, o usar las sugerencias como inspiración para las características de tu propia creación.
 
-### Personalizar un fondo
+### Personalizar un Trasfondo
 Puede que quieras retocar algunas de las características de un fondo para que se ajuste mejor a tu personaje o al escenario de la campaña. Para personalizar un fondo, puedes reemplazar una característica por cualquier otra, elegir dos habilidades cualesquiera y elegir un total de dos habilidades o idiomas de las herramientas de los fondos de muestra. Puede utilizar el paquete de equipo de su fondo o gastar monedas en equipo como se describe en el capítulo 5. (Si gasta créditos, no puede llevar también el paquete de equipo sugerido para su clase). Por último, elija dos rasgos de personalidad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; un ideal, un vínculo y un defecto. Si no puede encontrar una&nbsp;&nbsp;&nbsp; característica que coincida con su fondo deseado, trabaje&nbsp;&nbsp; con su GM para crear<br> uno.
 
 <img src='https://www.gmbinder.com/images/fCleZ2B.png' style='position:absolute;bottom:-30px;right:0px;width:855px;transform:scaleX(-1);z-index:1000;' />
 
-\pEdadbreakNum
+\pagebreakNum
 
-## Edadnte
-Muchas organizaciones activas en la galaxia no están sujetas a las restricciones de la geografía. Estas facciones llevan a cabo sus programas sin tener en cuenta las fronteras políticas, y sus miembros operan en cualquier lugar que la organización considere necesario. Estos grupos emplean a oyentes, rumiantes, contrabandistas, mercenarios, guardianes de alijos (personas que custodian alijos de riqueza o artículos para uso de los operativos de la facción), guardianes de refugios, y cuidadores de mensajes, por nombrar algunos. En el centro de cada facción están aquellos que no sólo cumplen una pequeña función para esa organización, sino que sirven como sus manos, cabeza y corazón. Como preludio a su carrera aventurera (y en preparación para ella), usted sirvió como Edadnte de una facción en particular. Podrías haber operado abiertamente o en secreto, dependiendo de la facción y sus objetivos, así como de cómo esos objetivos encajan con los tuyos. Convertirse en un aventurero no requiere necesariamente que renuncies a ser miembro de tu facción (aunque puedes elegir hacerlo), y puede mejorar tu estatus en la facción.
+## Agente
+Muchas organizaciones activas en la galaxia no están sujetas a las restricciones de la geografía. Estas facciones llevan a cabo sus programas sin tener en cuenta las fronteras políticas, y sus miembros operan en cualquier lugar que la organización considere necesario. Estos grupos emplean a oyentes, rumiantes, contrabandistas, mercenarios, guardianes de alijos (personas que custodian alijos de riqueza o artículos para uso de los operativos de la facción), guardianes de refugios, y cuidadores de mensajes, por nombrar algunos. En el centro de cada facción están aquellos que no sólo cumplen una pequeña función para esa organización, sino que sirven como sus manos, cabeza y corazón. Como preludio a su carrera aventurera (y en preparación para ella), usted sirvió como agente de una facción en particular. Podrías haber operado abiertamente o en secreto, dependiendo de la facción y sus objetivos, así como de cómo esos objetivos encajan con los tuyos. Convertirse en un aventurero no requiere necesariamente que renuncies a ser miembro de tu facción (aunque puedes elegir hacerlo), y puede mejorar tu estatus en la facción.
 ___
 - **Skill Proficiencies:** Elija dos de Decepción, Investigación, Conocimiento y Persuasión
 - **Idiomas:** Dos de tu elección
 - **Equipamiento:** Placa o emblema de su facción, una copia de un texto seminal de la facción (o un libro de códigos para una facción encubierta), un conjunto de ropa común, y una bolsa que contiene 150 cr
 
-### Feature: Refugio seguro
-Como Edadnte de una facción, tienes acceso a una red secreta de partidarios y operativos que pueden ayudarte en tus aventuras. Conoces un conjunto de señales y contraseñas secretas que puedes usar para identificar a dichos operativos, que pueden proporcionarte acceso a una casa segura oculta, alojamiento y comida gratis, o ayuda para encontrar información. Estos Edadntes nunca arriesgan sus vidas por ti o se arriesgan a revelar sus verdaderas identidades.
+### Rasgo: Refugio seguro
+Como agente de una facción, tienes acceso a una red secreta de partidarios y operativos que pueden ayudarte en tus aventuras. Conoces un conjunto de señales y contraseñas secretas que puedes usar para identificar a dichos operativos, que pueden proporcionarte acceso a una casa segura oculta, alojamiento y comida gratis, o ayuda para encontrar información. Estos agentes nunca arriesgan sus vidas por ti o se arriesgan a revelar sus verdaderas identidades.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
-|1|Silver-Tongued|
-|2|Investigator|
+|1|lengua de plata|
+|2|Investigador|
 |3|Loremaster|
 |4|Charmer|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
-|5|Linguist|
-|6|Alert|
-|7|Observant|
-|8|Practiced|
+|5|Lingüista|
+|6|Alerta|
+|7|Observador|
+|8|Practicado|
 
 </div>
 
 #### Características sugeridas
-Los Edadntes están formados por su experiencia en las comunidades de su facción. Su estudio de la historia y los principios de su facción y sus relaciones con ella afectan a sus manierismos e ideales. Sus defectos pueden ser una hipocresía oculta o una idea herética, o un ideal o un vínculo llevado al extremo.
+Los agentes están formados por su experiencia en las comunidades de su facción. Su estudio de la historia y los principios de su facción y sus relaciones con ella afectan a sus manierismos e ideales. Sus defectos pueden ser una hipocresía oculta o una idea herética, o un ideal o un vínculo llevado al extremo.
 
 \columnbreak
 
@@ -228,77 +228,77 @@ Los Edadntes están formados por su experiencia en las comunidades de su facción.
 
 |d8|Personality Trait|
 |:---:|:----------|
-|1|I idolize a particular hero of my faction, and constantly refer to that person's deeds and example.|
-|2|I can find common ground between the fiercest enemies, empathizing with them and always working towards peace.|
-|3|I see omens in every event and action.|
-|4|Nothing can shake my optimistic attitude.|
-|5|I quote (or misquote) sacred texts and proverbs in almost every situation.|
-|6|I am tolerant (or intolerant) of other factions and respect (or condemn) them.|
-|7|I've enjoyed fine food, drink, and high society among my faction's elite. Rough living grates on me.|
-|8| I have little practical experience dealing with people in the  world.|
+|1|Idolatro a un héroe particular de mi facción, y constantemente me refiero a los hechos y el ejemplo de esa persona.|
+|2|Puedo encontrar un punto en común entre los enemigos más feroces, empatizando con ellos y siempre trabajando por la paz.|
+|3|Veo presagios en cada evento y acción.|
+|4|Nada puede sacudir mi actitud optimista.|
+|5|Cito (o cito mal) textos sagrados y proverbios en casi todas las situaciones.|
+|6|Soy tolerante (o intolerante) con otras facciones y las respeto (o condeno).|
+|7|He disfrutado de buena comida, bebida y alta sociedad entre la élite de mi facción. La vida es dura para mí.|
+|8| Tengo poca experiencia práctica en tratar con gente del mundo.|
 
 |d6|Ideal|
 |:---:|:----------|
-|1|**Tradition**. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)|
-|2|**Charity**. I always try to help those in need, no matter what the personal cost. (Light)|
-|3|**Change**. We must help bring about the changes the gods are constantly working in the world. (Chaotic)|
-|4|**Power**. I hope to one day rise to the top of my faith's religious hierarchy. (Lawful)|
-|5|**Faith**. I trust that my leader will guide my actions, I have faith that if I work hard, things will go well. (Lawful)|
-|6|**Aspiration**. I seek to prove myself worthy of my leader's favor by matching my actions against his or her teachings. (Any)|
+|1|**Tradición**. Las antiguas tradiciones de culto y sacrificio deben ser preservadas y mantenidas. (Legal)|
+|2|**Charity**. Siempre trato de ayudar a los necesitados, sin importar el costo personal. (Luz)|
+|3|**Cambio**. Debemos ayudar a que se produzcan los cambios que los dioses trabajan constantemente en el mundo. (Caótico)|
+|4|**Poder**. Espero algún día llegar a la cima de la jerarquía religiosa de mi fe. (Legal)|
+|5|**Fe**. Confío en que mi líder guiará mis acciones, tengo fe en que si trabajo duro, las cosas irán bien. (Legal)|
+|6|**Aspiration**. Busco probar que soy digno del favor de mi líder comparando mis acciones con sus enseñanzas. (Cualquier)|
 
 |d6|Bond|
 |:---:|:----------|
-|1|I would die to recover an artifact of my faction that was lost long ago.|
-|2|I will someday get revenge on the corrupt faction hierarchy who branded me a heretic.|
-|3|I owe my life to the faction member who took me in when my parents died.|
-|4|Everything I do is for the common people.|
-|5|I will do anything to protect the faction where I served.|
-|6|I seek to preserve a sacred text that my enemies consider heretical and seek to destroy.|
+|1|Moriría por recuperar un artefacto de mi facción que se perdió hace mucho tiempo.|
+|2|Algún día me vengaré de la jerarquía de la facción corrupta que me marcó como hereje.|
+|3|Le debo mi vida al miembro de la facción que me acogió cuando mis padres murieron.|
+|4|Todo lo que hago es para la gente común.|
+|5|Haré lo que sea para proteger a la facción en la que serví.|
+|6|Busco preservar un texto sagrado que mis enemigos consideran herético y buscan destruir.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|I judge others harshly, and myself even more severely.|
-|2|I put too much trust in those who wield power within my faction's hierarchy.|
-|3|My piety sometimes leads me to blindly trust those that profess faith in my faction.|
-|4|I am inflexible in my thinking.|
-|5|I am suspicious of strangers and expect the worst of them.|
-|6|Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.|
+|1|Juzgo a los demás con dureza, y a mí mismo con más severidad.|
+|2|Confío demasiado en aquellos que ejercen el poder dentro de la jerarquía de mi facción.|
+|3|Mi piedad a veces me lleva a confiar ciegamente en aquellos que profesan fe en mi facción.|
+|4|Soy inflexible en mi pensamiento.|
+|5|Sospecho de los extraños y espero lo peor de ellos.|
+|6|Una vez que escojo un objetivo, me obsesiono con él en detrimento de todo lo demás en mi vida.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Cazador de recompensas 
 Antes de convertirse en aventurero, su vida ya estaba llena de conflictos y emociones, porque se ganaba la vida rastreando gente por dinero. A diferencia de algunas personas que recogen recompensas, sin embargo, no eres un salvaje que sigue a la cantera en o a través de la naturaleza. Estás involucrado en un lucrativo negocio, en el lugar donde vives, que rutinariamente pone a prueba tus habilidades e instintos de supervivencia. Además, no estás solo, como lo estaría un cazarrecompensas en la naturaleza: interactúas rutinariamente tanto con la subcultura criminal como con otros cazarrecompensas, manteniendo contactos en ambas áreas para ayudarte a tener éxito.
 
-Podrías ser un astuto cazador de ladrones, merodeando por los tejados para atrapar a uno de los innumerables ladrones de la ciudad. Quizás eres alguien que tiene el oído en la calle, consciente de las acciones de las bandas callejeras. Puede que seas un cazarrecompensas de "máscara de terciopelo", uno que se mezcla con la alta sociedad y los círculos nobles para atrapar a los criminales que se aprovechan de los ricos, ya sean carteristas o estafadores. Como miembro de un grupo de aventureros, puede que le resulte más difícil seguir una Edadnda personal que no encaje con los objetivos del grupo, pero por otro lado, puede derribar objetivos mucho más formidables con la ayuda de sus compañeros.
+Podrías ser un astuto cazador de ladrones, merodeando por los tejados para atrapar a uno de los innumerables ladrones de la ciudad. Quizás eres alguien que tiene el oído en la calle, consciente de las acciones de las bandas callejeras. Puede que seas un cazarrecompensas de "máscara de terciopelo", uno que se mezcla con la alta sociedad y los círculos nobles para atrapar a los criminales que se aprovechan de los ricos, ya sean carteristas o estafadores. Como miembro de un grupo de aventureros, puede que le resulte más difícil seguir una agenda personal que no encaje con los objetivos del grupo, pero por otro lado, puede derribar objetivos mucho más formidables con la ayuda de sus compañeros.
 ___
 - **Skill Proficiencies:** Choose two from Deception, Insight, Persuasion, and Stealth
-- **Tool Proficiencies:** Your choice of demolitions kit, security kit, or slicer's kit
-- **Idiomas:** One of your choice
-- **Equipment:** A set of clothes appropriate to your duties, a set of binders, and a pouch containing 200 cr
+- **Tool Proficiencies:** Su elección de kit de demolición, kit de seguridad, o kit de rebanadora
+- **Idiomas:**  Uno de tu elección
+- **Equipment:** Un juego de ropa apropiada para sus deberes, un juego de carpetas, y una bolsa que contiene 200 cr.
 
-### Feature: Oído a la tierra
+### Rasgo: Oído a la tierra
 Usted está en contacto frecuente con la gente del segmento de la sociedad por el que se mueven sus canteras elegidas. Estas personas pueden estar asociadas con el submundo criminal, la gente tosca de las calles, o miembros de la alta sociedad. Esta conexión viene en forma de un contacto en cualquier ciudad que visites, una persona que provee información sobre la gente y los lugares del área local.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
-|1|Silver-Tongued|
-|2|Empathic|
+|1|lengua de plata|
+|2|Empático|
 |3|Charmer|
 |4|Stealthy|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Demolitionist|
 |6|Bypasser|
 |7|Slicer|
-|8|Linguist|
+|8|Lingüista|
 
 </div>
 
@@ -311,52 +311,52 @@ Su vínculo puede involucrar a otros cazadores de recompensas o a las organizacio
 
 |d8|Personality Trait|
 |:---:|:----------|
-|1|I always have a plan for what to do when things go wrong.|
-|2|I am always calm, no matter what the situation. I never raise my voice or let my emotions control me.|
-|3|The first thing I do in a new place is note the locations of everything valuable – or where such things could be hidden.|
-|4|I would rather make a new friend than a new enemy.|
-|5|I am incredibly slow to trust. Those who seem the fairest often have the most to hide.|
-|6|I don't pay attention to the risks in a situation. Never tell me the odds.|
-|7|The best way to get me to do something is to tell me I can't do it.|
-|8|I blow up at the slightest insult.|
+|1|Siempre tengo un plan de qué hacer cuando las cosas van mal.|
+|2|Siempre estoy tranquilo, no importa la situación. Nunca levanto la voz ni dejo que mis emociones me controlen.|
+|3|Lo primero que hago en un lugar nuevo es anotar la ubicación de todo lo valioso...|
+|4|Prefiero hacer un nuevo amigo que un nuevo enemigo.|
+|5|Soy increíblemente lento para confiar. Los que parecen más justos a menudo tienen más que esconder.|
+|6|No presto atención a los riesgos de una situación. Nunca me digas las probabilidades.|
+|7|La mejor manera de conseguir que haga algo es decirme que no puedo hacerlo.|
+|8|exploto al más mínimo insulto.|
 
 |d6|Ideal|
 |:---:|:----------|
-|1|**Honor**. I don't steal from others in the trade. (Lawful)|
-|2|**Freedom**. Chains are meant to be broken, as are those who would forge them. (Chaotic)|
-|3|**Charity**. I steal from the wealthy so that I can help people in need. (Light)|
-|4|**Greed**. I will do whatever it takes to become wealthy. (Dark)|
-|5|**People**. I'm loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral)|
-|6|**Redemption**. There's a spark of good in everyone. (Light)|
+|1|**Honor**. No robo a otros en el negocio. (Legal)|
+|2|**Libertad**. Las cadenas están destinadas a romperse, como lo están aquellos que las forjan. (Caótico)|
+|3|**Charity**. Robo a los ricos para poder ayudar a la gente necesitada. (Luz)|
+|4|**Greed**. Haré lo que sea necesario para hacerme rico. (Dark)|
+|5|**Gente**. Soy leal a mis amigos, no a ningún ideal, y todos los demás pueden hacer un viaje a la Estigia por lo que me importa. (Neutral)|
+|6|**redención**. Hay una chispa de bien en todos. (Luz)|
 
 |d6|Bond|
 |:---:|:----------|
-|1|I'm trying to pay off an old debt I owe to a generous benefactor.|
-|2|My ill-gotten gains go to support my family.|
-|3|Something important was taken from me, and I aim to steal it back.|
-|4|I will become the greatest thief that ever lived.|
-|5|I'm guilty of a terrible crime. I hope I can redeem myself for it.|
-|6|Someone I loved died because of a mistake I made. That will never happen again.|
+|1|Estoy tratando de pagar una vieja deuda que le debo a un generoso benefactor.|
+|2|Mis ganancias mal habidas van para mantener a mi familia.|
+|3|Me quitaron algo importante, y quiero recuperarlo.|
+|4|Me convertiré en el mayor ladrón que haya existido.|
+|5|Soy culpable de un crimen terrible. Espero poder redimirme por ello.|
+|6|Alguien a quien amaba murió por un error que cometí. Eso no volverá a suceder.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|When I see something valuable, I can't think about anything but how to steal it.|
-|2|When faced with a choice between money and my friends, I usually choose the money.|
-|3|If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.|
-|4|I have a “tell” that reveals when I'm lying.|
-|5|I turn tail and run when things look bad.|
-|6|An innocent person is in prison for a crime that I committed. I'm okay with that.|
+|1|Cuando veo algo valioso, no puedo pensar en nada más que en cómo robarlo.|
+|2|Cuando me enfrento a una elección entre el dinero y mis amigos, normalmente elijo el dinero.|
+|3|Si hay un plan, lo olvidaré. Si no lo olvido, lo ignoraré.|
+|4|Tengo un "tell" que revela cuando estoy mintiendo.|
+|5|Me doy la vuelta y corro cuando las cosas se ven mal.|
+|6|Una persona inocente está en prisión por un crimen que yo cometí. Estoy de acuerdo con eso.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Criminal
 Usted es un criminal experimentado con un historial de violación de la ley. Has pasado mucho tiempo entre otros criminales y aún tienes contactos dentro del submundo criminal. Estás mucho más cerca que la mayoría de la gente del mundo del asesinato, el robo y la violencia que impregna los bajos fondos de la civilización, y has sobrevivido hasta este punto burlándote de las reglas y regulaciones de la sociedad.
 ___
-- **Skill Proficiencies:** Choose two from Deception, Intimidation, Sleight of Hand, and Stealth
-- **Tool Proficiencies:** One type of gaming set, your choice of demolitions kit, security kit, or slicer's kit
-- **Equipment:** A set of common clothes with a hood, a gaming set (one of your choice), and a belt pouch containing 150 cr
+- **Skill Proficiencies:** Elija dos de Decepción, Intimidación, Juego de manos y sigilo
+- **Tool Proficiencies:** Un tipo de juego, su elección de kit de demolición, kit de seguridad, o kit de rebanadora.
+- **Equipment:** Un juego de ropa común con capucha, un juego de juegos (uno de su elección), y una bolsa de cinturón que contiene 150 cr
 
 #### Especialidad Criminal
 Los delincuentes individuales suelen tener especialidades particulares, ya sea como parte de una organización o en solitario. Elija el papel que desempeñó en su vida criminal, o pase a la siguiente tabla.
@@ -366,7 +366,7 @@ Los delincuentes individuales suelen tener especialidades particulares, ya sea c
 |d8|Specialty|
 |:---:|:----------:|
 |1|Blackmailer|
-|2|Burglar|
+|2|Ladrón|
 |3|Enforcer|
 |4|Fence|
 
@@ -375,26 +375,26 @@ Los delincuentes individuales suelen tener especialidades particulares, ya sea c
 |5|Highway robber|
 |6|Hired killer|
 |7|Pickpocket|
-|8|Thug|
+|8|Matón|
 
 </div>
 
-### Feature: Contacto criminal
+### Rasgo: Contacto criminal
 Tiene un contacto fiable y de confianza que actúa como su enlace con una red de otros criminales. Usted sabe cómo hacer llegar los mensajes a y desde su contacto, incluso a grandes distancias; específicamente, usted conoce a los mensajeros locales, a los jefes de caravana corruptos y a los marineros sórdidos que pueden entregar los mensajes por usted.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Silver-Tongued|
 |2|Threatening|
 |3|Quick-Fingered|
 |4|Stealthy|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Entertainer|
 |6|Demolitionist|
@@ -412,52 +412,52 @@ Los criminales pueden parecer villanos en la superficie, y muchos de ellos son v
 
 |d8|Personality Trait|
 |:---:|:---------|
-|1|I always have a plan for what to do when things go wrong.|
-|2|I am always calm, no matter what the situation. I never raise my voice or let me emotions control me.|
-|3|The first thing I do in a new place is note the locations of everything valuable – or where such things could be hidden.|
-|4|I would rather make a new friend than a new enemy.|
-|5|I am incredibly slow to trust. Those who seem the fairest often have the most to hide.|
-|6|I don't pay attention to the risks in a situation. Never tell me the odds.|
-|7|The best way to get me to do something is to tell me I can't do it.|
-|8|I blow up at the slightest insult.|
+|1|Siempre tengo un plan de qué hacer cuando las cosas van mal.|
+|2|Siempre estoy tranquilo, no importa la situación. Nunca levanto la voz ni dejo que las emociones me controlen.|
+|3|Lo primero que hago en un lugar nuevo es anotar la ubicación de todo lo valioso...|
+|4|Prefiero hacer un nuevo amigo que un nuevo enemigo.|
+|5|oy increíblemente lento para confiar. Los que parecen más justos a menudo tienen más que esconder.|
+|6|No presto atención a los riesgos de una situación. Nunca me digas las probabilidades.|
+|7|La mejor manera de conseguir que haga algo es decirme que no puedo hacerlo.|
+|8|exploto al más mínimo insulto|
 
 |d6|Ideal|
 |:---:|:---------|
-|1|**Honor**. I don't steal from others in the trade. (Lawful)|
-|2|**Freedom**. Chains are meant to be broken, as are those who would forge them. (Chaotic)|
-|3|**Charity**. I steal from the wealthy so that I can help people in need. (Light)|
-|4|**Greed**. I will do whatever it takes to become wealthy. (Dark)|
-|5|**People**. I'm loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral)|
-|6|**Redemption**. There's a spark of good in everyone. (Light)|
+|1|**Honor**. Es un honor. No robo a otros en el negocio. (Legal)|
+|2|**Libertad**. Las cadenas están destinadas a romperse, como lo están aquellos que las forjan. (Caótico)|
+|3|**Charity**. Robo a los ricos para poder ayudar a la gente necesitada. (Luz)|
+|4|**Greed**. Haré lo que sea necesario para hacerme rico. (Dark)|
+|5|**People**. Soy leal a mis amigos, no a ningún ideal, y todos los demás pueden hacer un viaje a la Estigia por lo que me importa. (Neutral)|
+|6|**Redemption**. Hay una chispa de bien en todos. (Luz)|
 
 |d6|Bond|
 |:---:|:----------|
-|1|I'm trying to pay off an old debt I owe to a generous benefactor.|
-|2|My ill-gotten gains go to support my family.|
-|3|Something important was taken from me, and I aim to steal it back.|
-|4|I will become the greatest thief that ever lived.|
-|5|I'm guilty of a terrible crime. I hope I can redeem myself for it.|
-|6|Someone I loved died because of a mistake I made. That will never happen again.|
+|1|Estoy tratando de pagar una vieja deuda que le debo a un generoso benefactor.|
+|2|Mis ganancias mal habidas van para mantener a mi familia.|
+|3|Me quitaron algo importante, y quiero recuperarlo.|
+|4|Me convertiré en el mayor ladrón que haya existido.|
+|5|Soy culpable de un crimen terrible. Espero poder redimirme por ello.|
+|6|Alguien a quien amaba murió por un error que cometí. Eso no volverá a suceder.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|When I see something valuable, I can't think about anything but how to steal it.|
-|2|When faced with a choice between money and my friends, I usually choose the money.|
-|3|If there's a plan, I'll forget it. If I don't forget it, I'll ignore it.|
-|4|I have a “tell” that reveals when I'm lying.|
-|5|I turn tail and run when things look bad.|
-|6|An innocent person is in prison for a crime that I committed. I'm okay with that.|
+|1|Cuando veo algo valioso, no puedo pensar en nada más que en cómo robarlo.|
+|2|Cuando me enfrento a una elección entre el dinero y mis amigos, normalmente elijo el dinero.|
+|3|Si hay un plan, lo olvidaré. Si no lo olvido, lo ignoraré.|
+|4|Tengo un "tell" que revela cuando estoy mintiendo.|
+|5|Me doy la vuelta y corro cuando las cosas se ven mal.|
+|6|Una persona inocente está en prisión por un crimen que yo cometí. Estoy de acuerdo con eso.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Entertainer
 Uno prospera frente a un público, sabiendo cómo entrar en él, entretenerlo e incluso inspirarlo. Tu poética puede conmover los corazones de los que te escuchan, despertando la pena o la alegría, la risa o la ira. Tu música eleva sus espíritus o captura su dolor. Tus pasos de baile cautivan, tu humor corta a lo rápido. Cualquiera que sea la técnica que uses, tu arte es tu vida.
 ___
-- **Skill Proficiencies:** Choose two from Acrobatics, Insight, Performance, and Sleight of Hand
-- **Tool Proficiencies:** Disguise kit, one type of musical instrument
-- **Equipment:** A musical instrument (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), a costume, and a belt pouch containing 150 cr
+- **Skill Proficiencies:** Elija dos de Acrobacia, Insight, Performance, y Sleight of Hand
+- **Tool Proficiencies:** Equipo de disfraz, un tipo de instrumento musical...
+- **Equipment:** Un instrumento musical (uno de su elección), el favor de un admirador (carta de amor, mechón de pelo, o baratija), un disfraz, y una bolsa para el cinturón que contiene 150 cr
 
 #### Entertainer Routines
 Un buen animador es versátil, condimentando cada actuación con una variedad de rutinas diferentes. Elija de una a tres rutinas o ruede en la tabla de abajo para definir su experiencia como animador.
@@ -467,7 +467,7 @@ Un buen animador es versátil, condimentando cada actuación con una variedad de r
 |d10|Entertainer Routine|
 |:---:|:----------:|
 |1|Actor|
-|2|Dancer|
+|2|Bailarina|
 |3|Fire-eater|
 |4|Jester|
 |5|Juggler|
@@ -482,22 +482,22 @@ Un buen animador es versátil, condimentando cada actuación con una variedad de r
 
 </div>
 
-### Feature: Por demanda popular
+### Rasgo: Por demanda popular
 Siempre se puede encontrar un lugar para actuar, normalmente en una posada o cantina pero posiblemente con un circo, en un teatro, o incluso en una corte nobiliaria. En tal lugar, usted recibe alojamiento y comida gratis de un nivel modesto o confortable (dependiendo de la calidad del establecimiento), siempre que actúe cada noche. Además, su actuación le convierte en una especie de figura local. Cuando los extraños te reconocen en un pueblo donde has actuado, normalmente se aficionan a ti.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Acrobat|
 |2|Empathic|
 |3|Performer|
 |4|Quick-Fingered|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Master of Disguise|
 |6|Entertainer|
@@ -515,45 +515,45 @@ Los artistas de éxito tienen que ser capaces de captar y mantener la atención de
 
 |d8|Personality Trait|
 |:---:|:----------|
-|1|I know a story relevant to almost every situation.|
-|2|Whenever I come to a new place, I collect local rumors and spread gossip.|
-|3|I'm a hopeless romantic, always searching for that “special someone.”|
-|4|Nobody stays angry at me or around me for long, since I can defuse any amount of tension.|
-|5|I love a good insult, even one directed at me.|
-|6|I get bitter if I'm not the center of attention.|
-|7|I'll settle for nothing less than perfection.|
-|8|I change my mood or my mind as quickly as I change key in a song.|
+|1|Conozco una historia relevante para casi todas las situaciones.|
+|2|Cada vez que vengo a un nuevo lugar, colecciono rumores locales y esparzo chismes.|
+|3|Soy una romántica sin remedio, siempre buscando a ese "alguien especial".|
+|4|Nadie se queda enojado conmigo o a mi alrededor por mucho tiempo, ya que puedo calmar cualquier cantidad de tensión.|
+|5|Me encantan los insultos, incluso los dirigidos a mí.|
+|6|Me amargo si no soy el centro de atención.|
+|7|Me conformaré con nada menos que la perfección.|
+|8|Cambiaré mi humor o mi mente tan rápido como cambie de tono en una canción.|
 
 |d6|Ideal|
 |:---:|:----------|
-|1|**Beauty**. When I perform, I make the world better than it was. (Light)|
-|2|**Tradition**. The stories, legends, and songs of the past must never be forgotten, for they teach us who we are. (Lawful)|
-|3|**Creativity**. The world is in need of new ideas and bold action. (Chaotic)|
-|4|**Greed**. I'm only in it for the money and fame. (Dark)|
-|5|**People**. I like seeing the smiles on people's faces when I perform. That's all that matters. (Neutral)|
-|6|**Honesty**. Art should reflect the soul; it should come from within and reveal who we really are. (Any)|
+|1|**belleza**. Cuando actúo, hago que el mundo sea mejor de lo que era. (Luz)|
+|2|**Tradición**. Las historias, leyendas y canciones del pasado nunca deben ser olvidadas, porque nos enseñan quiénes somos. (Legal)|
+|3|**Creatividad**. El mundo necesita nuevas ideas y acciones audaces. (Caótico)|
+|4|**Greed**. Sólo estoy en esto por el dinero y la fama. (Dark|
+|5|**Gente**. Me gusta ver las sonrisas en las caras de la gente cuando actúo. Eso es todo lo que importa. (Neutral)|
+|6|**Honestidad**. El arte debería reflejar el alma, debería venir de dentro y revelar quiénes somos realmente. (Any)|
 
 |d6|Bond|
 |:---:|:---------|
-|1|My instrument is my most treasured possession, and it reminds me of someone I love.|
-|2|Someone stole my precious instrument, and someday I'll get it back.|
-|3|I want to be famous, whatever it takes.|
-|4|I idolize a hero of the old tales and measure my deeds against that person's.|
-|5|I will do anything to prove myself superior to my hated rival.|
-|6|I would do anything for the other members of my old troupe.|
+|1|Mi instrumento es mi posesión más preciada, y me recuerda a alguien que amo.|
+|2|Alguien robó mi precioso instrumento, y algún día lo recuperaré.|
+|3|Quiero ser famosa, cueste lo que cueste.|
+|4|Idolatro a un héroe de los viejos cuentos y mido mis acciones con las de esa persona.|
+|5|Haré lo que sea para probar que soy superior a mi odioso rival.|
+|6|Haría cualquier cosa por los otros miembros de mi antigua compañía.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|I'll do anything to win fame and renown.|
-|2|I'm a sucker for a pretty face.|
-|3|A scandal prevents me from ever going home again. That kind of trouble seems to follow me around.|
-|4|I once satirized a noble who still wants my head. It was a mistake that I will likely repeat.|
-|5|I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.|
-|6|Despite my best efforts, I am unreliable to my friends.
+|1|Haré lo que sea para ganar fama y renombre.|
+|2|Soy un tonto por una cara bonita.|
+|3|Un escándalo me impide volver a casa. Ese tipo de problemas parece seguirme.|
+|4|Una vez satiricé a un noble que aún quiere mi cabeza. Fue un error que probablemente repetiré.|
+|5|Tengo problemas para mantener mis verdaderos sentimientos ocultos. Mi lengua afilada me mete en problemas.|
+|6|A pesar de mis esfuerzos, no soy confiable para mis amigos.
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Gambler
 Eres un hábil jugador que pasa la mayor parte de su tiempo en casinos, bares y salas de juego. ¿Sus actividades son legales, o infringe la ley? ¿Alguna vez has hecho trampa en un juego, o juegas según las reglas? No importa lo que pase, su vida ha sido una de excitación, azar y peligro.
@@ -562,27 +562,27 @@ ___
 - **Conocimientos de herramientas:** Dos tipos de juegos de azar
 - **Equipamiento:** Un conjunto de ropa común, un juego de dados, una baraja de cartas, un amuleto de la suerte, y una bolsa de cinturón que contiene 100 cr.
 
-### Feature: Hagámoslo interesante
+### Rasgo: Hagámoslo interesante
 Puedes convencer a casi todos de que pongan algo de lo que normalmente no están dispuestos a desprenderse (propiedad o información) en un juego de azar. Tu GM puede decidir que sólo aceptará un juego de su elección, y sólo puede aceptar si siente que las probabilidades están a su favor.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Silver-Tongued|
-|2|Empathic|
-|3|Threatening|
+|2|Empático|
+|3|Amenazante|
 |4|Quick-Fingered|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Entertainer|
 |6|Keen Mind|
-|7|Observant|
-|8|Practiced|
+|7|Observador|
+|8|Practicado|
 
 </div>
 
@@ -595,56 +595,56 @@ El juego es tu pasión, para bien o para mal. La mayoría de los jugadores ven sus
 
 |d8|Personality Trait|
 |:---:|:----------|
-|1|I like to impress everyone I meet with a simple trick or a quick joke.|
-|2|I constantly make side bets on everything that happens around me.|
-|3|No matter how high the stakes, I always appear calm.|
-|4|I try to be unpredictable, so no one will know when I'm bluffing.|
-|5|I never back down from a challenge.|
-|6|I can't get satisfaction out of something if the stakes are too low.|
-|7|I tend to make friends out of enemies, and enemies out of friends.|
-|8|I prefer one game above all others.|
+|1|Me gusta impresionar a todos los que conozco con un simple truco o una broma rápida.|
+|2|Constantemente hago apuestas sobre todo lo que pasa a mi alrededor.|
+|3|No importa lo que esté en juego, siempre parezco tranquilo.|
+|4|Intento ser impredecible, así nadie sabrá cuando estoy fanfarroneando.|
+|5|Nunca me echo atrás en un desafío.|
+|6|No puedo obtener satisfacción de algo si las apuestas son muy bajas.|
+|7|Tiendo a hacer amigos de los enemigos, y enemigos de los amigos.|
+|8|Prefiero un juego por encima de todos los demás.|
 
 |d6|Ideal|
 |:---:|:----------|
-|1|**Risk**. Nothing worth doing is ever a sure thing. (Chaotic)|
-|2|**Victory**. Never make a bet unless you're sure you can win. (Lawful)|
-|3|**Greed**. Anything that isn't mine soon will be. (Dark)|
-|4|**Charity**. I share my winnings with the less fortunate. (Light)|
-|5|**Surprise**. Life is a game worth playing, because you never know how the dice will land. (Any)|
-|6|**Laziness**. Working is for chumps. (Any)|
+|1|**Risk**. Nada que valga la pena hacer es algo seguro. (Caótico)|
+|2|**Victory**.Nunca hagas una apuesta a menos que estés seguro de que puedes ganar. (Legal)|
+|3|**Greed**. Todo lo que no sea mío pronto lo será. (Dark)|
+|4|**Charity**. Comparto mis ganancias con los menos afortunados. (Luz)|
+|5|**Surprise**. La vida es un juego que vale la pena jugar, porque nunca sabes cómo caerán los dados. (Any)|
+|6|**Laziness**. Trabajar es para los tontos. (Cualquier)|
 
 |d6|Bond|
 |:---:|:----------|
-|1|I owe a lot of money to the wrong kind of people.|
-|2|I still keep the first coin I ever won. It's my good luck charm.|
-|3|Most of my winnings go to my home.|
-|4|Someday I will own my own casino.|
-|5|I lost a large sum of money to a con artist; I seek to get it back.|
-|6|I hide my gambling behind a normal life. My friends have no idea who I really am.|
+|1|Le debo mucho dinero a la gente equivocada.|
+|2|Todavía guardo la primera moneda que gané. Es mi amuleto de la buena suerte.|
+|3|La mayoría de mis ganancias van a mi casa.|
+|4|Algún día tendré mi propio casino.|
+|5|Perdí una gran suma de dinero por un estafador, y quiero recuperarla.|
+|6|Escondo mi juego detrás de una vida normal. Mis amigos no tienen ni idea de quién soy realmente.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|I can't step away from the table when I'm losing.|
-|2|I spend money faster than I can make it.|
-|3|Everyone has a price. Mine happens to be pretty low.|
-|4|I assume everyone is hiding something from me.|
-|5|I tend to value money more than people.|
-|6|I like to think I could drink anyone under the table, but I'm really a lightweight.|
+|1|No puedo alejarme de la mesa cuando estoy perdiendo.|
+|2|Gasto el dinero más rápido de lo que puedo hacerlo.|
+|3|Todo el mundo tiene un precio. El mío es bastante bajo.|
+|4|Supongo que todos me están ocultando algo.|
+|5|Tiendo a valorar el dinero más que la gente.|
+|6|Me gusta pensar que podría beber a cualquiera bajo la mesa, pero en realidad soy un peso ligero.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Jedi
 Eres un devoto seguidor de la Orden Jedi: una antigua organización monástica de mantenimiento de la paz unida en su observancia del lado de la luz de la Fuerza. Una noble orden de protectores conocidos por su habilidad para aprovechar el poder de la Fuerza, los Jedi sirven como guardianes de la paz y la justicia en la República Galáctica. Siguen el Código Jedi:
 
 <div align="center">
 
-*"There is no emotion, there is peace.<br>
-There is no ignorance, there is knowledge.<br>
-There is no passion, there is serenity.<br>
-There is no chaos, there is harmony.<br>
-There is no death, there is the Force."*
+*"No hay emoción, hay paz.<br>
+No hay ignorancia, hay conocimiento.<br>
+No hay pasión, hay serenidad.<br>
+No hay caos, hay armonía.<br>
+No existe la muerte, existe la Fuerza."*
 
 </div>
 
@@ -654,26 +654,26 @@ ___
 - **Idiomas:** Uno de tu elección
 - **Equipamiento:** Una copia del código Jedi, un conjunto de ropa común incluyendo una bata, y una bolsa de cinturón que contiene 150 cr
 
-### Feature: Refugio de los Fieles
+### Rasgo: Refugio de los Fieles
 Como Jedi, tienes el respeto de los que son leales a la Orden Jedi. Tú y tus compañeros de aventuras pueden esperar recibir curación y cuidados gratuitos en cualquier templo Jedi, y aquellos que apoyan tu religión te apoyarán (pero sólo a ti) con un estilo de vida modesto.
 
 También podrías tener lazos con un templo Jedi específico y tener una residencia allí. Este podría ser el templo donde te entrenaste, o un templo donde has encontrado un nuevo hogar. Mientras estés cerca de tu templo, puedes pedir ayuda a los Jedi, siempre y cuando la ayuda que pidas no sea peligrosa y permanezcas en buena posición con tu templo.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Empático|
 |2|Investigador|
 |3|Loremaster|
 |4|Charmer|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
-|5|Linguist|
+|5|Lingüista|
 |6|Crafter|
 |7|Healer|
 |8|Force Sensitive|
@@ -689,45 +689,45 @@ Los Jedi se forman por su experiencia en su templo. Su estudio de la historia y 
 
 |d8|Personality Trait|
 |:---:|:----------|
-|1|I idolize a particular Jedi, and constantly refer to that person's deeds and example.|
-|2|I can find common ground between the fiercest enemies, empathizing with them and always working towards peace.|
-|3|I see omens in every event and action. The Force tries to speak to us, we just need to listen|
-|4|Nothing can shake my optimistic attitude.|
-|5|I quote (or misquote) sacred Jedi texts and proverbs in almost every situation.|
-|6|I am tolerant (or intolerant) of those who don't support the Jedi.|
-|7|I've enjoyed fine food, drink, and high society. Rough living grates on me.|
-|8|I've spent so long in the Jedi temple that I have little practical experience dealing with people in the  world.|
+|1|Idolatro a un Jedi en particular, y constantemente me refiero a los actos y el ejemplo de esa persona.|
+|2|Puedo encontrar un punto en común entre los enemigos más feroces, empatizando con ellos y siempre trabajando por la paz.|
+|3|Veo presagios en cada evento y acción. La Fuerza intenta hablarnos, sólo tenemos que escuchar.|
+|4|Nada puede sacudir mi actitud optimista.|
+|5|Cito (o cito mal) textos sagrados Jedi y proverbios en casi todas las situaciones.|
+|6|Soy tolerante (o intolerante) con aquellos que no apoyan a los Jedi.|
+|7|He disfrutado de la buena comida, la bebida y la alta sociedad. La vida es dura para mí.|
+|8|He pasado tanto tiempo en el templo Jedi que tengo poca experiencia práctica en tratar con gente del mundo.|
 
 |d6|Ideal|
 |:---:|:----------|
-|1|**Tradition**. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)|
-|2|**Charity**. I always try to help those in need, no matter what the personal cost. (Light)|
-|3|**Change**. We must help bring about the changes the Force is constantly working in the world. (Chaotic)|
-|4|**Power**. I hope to one day rise to the rank of Jedi Master. (Lawful)|
-|5|**Faith**. I trust that the Force will guide my actions; I have faith that if I work hard, things will go well. (Lawful)|
-|6|**Aspiration**. I seek to prove myself worthy of the Force by matching my actions against the Jedi teachings. (Any)|
+|1|**Tradition**. Las antiguas tradiciones de culto y sacrificio deben ser preservadas y mantenidas. (Listo)|
+|2|**Charity**. Siempre trato de ayudar a los necesitados, sin importar el costo personal. (Luz)|
+|3|**Change**. Debemos ayudar a que se produzcan los cambios que la Fuerza trabaja constantemente en el mundo. (Caótico))|
+|4|**Power**. Espero que algún día ascienda al rango de Maestro Jedi. (Legal)|
+|5|**Faith**. Confío en que la Fuerza guiará mis acciones; tengo fe en que si trabajo duro, las cosas irán bien. (Legal)|
+|6|**Aspiration**. Busco probar que soy digno de la Fuerza comparando mis acciones con las enseñanzas de los Jedi. (Cualquier)|
 
 |d6|Bond|
 |:---:|:---------|
-|1|I would die to recover an ancient Jedi relic that was lost long ago.|
-|2|I will someday get revenge on those who razed my temple.|
-|3|I owe my life to the Jedi who took me in when my parents died.|
-|4|Everything I do is for the common people.|
-|5|I will do anything to protect the temple where I served.|
-|6|I seek to preserve a sacred text that my enemies seek to destroy.|
+|1|Moriría por recuperar una antigua reliquia Jedi que se perdió hace mucho tiempo.|
+|2|Algún día me vengaré de los que arrasaron mi templo.|
+|3|Le debo mi vida al Jedi que me acogió cuando mis padres murieron.|
+|4|Todo lo que hago es para la gente común.|
+|5|Haré lo que sea para proteger el templo donde serví.|
+|6|Busco preservar un texto sagrado que mis enemigos buscan destruir.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|I judge others harshly, and myself even more severely.|
-|2|I put too much trust in those who wield power within my temple's hierarchy.|
-|3|My piety sometimes leads me to blindly trust those that profess faith in the Force.|
-|4|I am inflexible in my thinking.|
-|5|I am suspicious of strangers and expect the worst of them.|
-|6|Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.|
+|1|Juzgo a los demás con dureza, y a mí mismo con más severidad.|
+|2|Confío demasiado en aquellos que ejercen el poder dentro de la jerarquía de mi templo.|
+|3|Mi piedad a veces me lleva a confiar ciegamente en aquellos que profesan la fe en la Fuerza.|
+|4|Soy inflexible en mi pensamiento.|
+|5|Sospecho de los extraños y espero lo peor de ellos.|
+|6|Una vez que escojo un objetivo, me obsesiono con él en detrimento de todo lo demás en mi vida.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Mandalorian
 Eres un hijo de Mandalore. Como miembro de la cultura guerrera más renombrada de la historia, tu pueblo es conocido por ser fuerte y resistente. La cultura mandaloriana se construye alrededor del honor y la gloria que se obtienen de la victoria en la batalla.
@@ -758,22 +758,22 @@ La cultura mandaloriana está construida sobre la columna vertebral de varios cla
 
 </div>
 
-### Feature: El hijo de Mandalore
+### Rasgo: El hijo de Mandalore
 Otros mandalorianos lo saben y te cuidarán. Si alguna vez necesitas un lugar donde quedarte, o una comida para comer, los otros mandalorianos te ayudarán mientras tus clanes no se peleen. Esto podría ser en forma de refugios, comidas, incluso curación. Si los mandorrianos son de tu clan o de un clan amigo tuyo, pueden estar dispuestos a ayudarte incluso a costa de ellos mismos.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 | 1 | Brawny |
 | 2 | Threatening |
 | 3 | Ace Pilot|
 | 4 | Survivalist |
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 | 5 | Crafter |
 | 6 | Durable |
@@ -791,73 +791,73 @@ Los mandalorianos son una meritocracia donde el lugar de nacimiento, el rango, e
 
 | d8| Personality Trait |
 |:----:|:-------------|
-| 1 | I try and bring my culture to outsiders.|
-| 2 | I always put my clan first. |
-| 3 | I follow the Resol'nare to the letter.|
-| 4 | I love a good spar. |
-| 5 | I enjoy traveling the galaxy. |
-| 6 | I keep a small trophy on me to remind me of a past victory. 
-| 7 | I view the force as dishonorable in combat. |
-| 8 | I've seen the horrors of battle and try to prevent it. |
+| 1 | Intento llevar mi cultura a los extranjeros. |
+| 2 | Siempre pongo a mi clan en primer lugar. |
+| 3 | sigo el Resol'nare al pie de la letra.|
+| 4 | Me encanta una buena pelea. |
+| 5 | Me gusta viajar por la galaxia. |
+| 6 | Llevo un pequeño trofeo para recordarme una victoria pasada. 
+| 7 | Considero que la fuerza es deshonrosa en combate. |
+| 8 | He visto los horrores de la batalla e intento prevenirlos. |
 
 
 | d6| Ideal |
 |:----:|:-------------|
-| 1 | **Tradition** I live by my clan's ways, and will continue to do so. (Lawful) |
-| 2 | **Power** I strive to be the best warrior, no matter who stands in my way. (Dark) |
-| 3 | **Respect** I have earned the respect of many, and I intend to keep it. (Light) |
-| 4 | **Freedom** I enjoy having the ability to do whatever I want. (Chaotic)|
-| 5 | **Comradery** I'll put everything on the line for those dear to me. (Any) |
-| 6 | **Aspiration** I'll succeed in my goals, it just takes time and effort. (Any)
+| 1 | **Tradition** Vivo por los caminos de mi clan, y continuaré haciéndolo. (Legal) |
+| 2 | **Power** Me esfuerzo por ser el mejor guerrero, sin importar quién se interponga en mi camino. (Dark) |
+| 3 | **Respect** Me he ganado el respeto de muchos, y tengo la intención de mantenerlo. (Luz) |
+| 4 | **Freedom** Disfruto de tener la capacidad de hacer lo que quiera. (Caótico)|
+| 5 | **Comradery** Pondré todo en juego para los que me son queridos. (Any) |
+| 6 | **Aspiration** Tendré éxito en mis objetivos, sólo se necesita tiempo y esfuerzo. (Cualquier)|
 
 | d6| Bond |
 |:----:|:-------------|
-| 1 | I lost someone dear to me in battle, I will always honor them.|
-| 2 | Honor is everything to me.|
-| 3 | I will lay down my life for those beside me.|
-| 4 | I must keep the traditions of my ancestors alive.|
-| 5 | No matter where I go, Mandalore is my home. |
-| 6 | In death, I will find glory. |
+| 1 | Perdí a alguien querido en la batalla, siempre lo honraré.|
+| 2 | El honor lo es todo para mí.|
+| 3 | Daré mi vida por los que están a mi lado.|
+| 4 | Debo mantener vivas las tradiciones de mis ancestros.|
+| 5 | No importa dónde vaya, Mandalore es mi hogar. |
+| 6 | En la muerte, encontraré la gloria. |
 
 | d6| Flaw |
 |:----:|:-------------|
-| 1 | I look down on outsiders. |
-| 2 | I have no respect for anyone who flees. Cowardice is unacceptable. |
-| 3 | I don't see much use in talking, a blaster is all I need to make my point.|
-| 4 | I stick to my traditions no matter what, even at the cost of others.|
-| 5 | I retreated once, and I've regretted it ever since. |
-| 6 | I value a victory regardless of the ethics behind the victory.|
+| 1 | Yo desprecio a los forasteros. |
+| 2 | No tengo respeto por nadie que huya. La cobardía es inaceptable. |
+| 3 | No le veo mucho sentido a hablar, una explosión es todo lo que necesito para demostrar mi punto. |
+| 4 | Me mantengo en mis tradiciones sin importar lo que pase, incluso a costa de otros. |
+| 5 | Me retiré una vez, y me he arrepentido desde entonces. |
+| 6 | Valoro una victoria sin importar la ética que hay detrás de la victoria. |
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Mercenario
 Como un vendedor de espadas que luchó en batallas por monedas, estás bien familiarizado con arriesgar la vida y la integridad física por una oportunidad de compartir un tesoro. Ahora, espera luchar contra los enemigos y cosechar mayores recompensas como aventurero. Tu experiencia te hace familiar con los entresijos de la vida de mercenario, y probablemente tengas historias horribles de eventos en el campo de batalla. Puede que hayas servido con un gran equipo o con un grupo más pequeño de espadas de venta, tal vez incluso más de uno. 
 
-Ahora estás buscando algo más, quizás una mayor recompensa por los riesgos que tomas, o la libertad de elegir tus propias actividades. Por cualquier razón, estás dejando atrás la vida de un soldado de alquiler, pero tus habilidades son innegablemente adecuadas para la batalla, así que ahora luchas de una manera diferente.
+Ahora estás buscando algo más, quizás una mayor recompensa por los riesgos que tomas, o la libertad Studienfach gewechseltde elegir tus propias actividades. Por cualquier razón, estás dejando atrás la vida de un soldado de alquiler, pero tus habilidades son innegablemente adecuadas para la batalla, así que ahora luchas de una manera diferente.
 ___
 - **Skill Proficiencies:** Elija dos de Atletismo, Investigación, Persuasión y Pilotaje
 - **Conocimiento de herramientas:** Un tipo de juego
 - **Idiomas:** Uno de tu elección
 - **Equipamiento:** Un uniforme de su compañía (ropa de viaje de calidad), una insignia de su rango, un juego de azar (uno de su elección), y una bolsa con el resto de su último salario (100 cr)
 
-### Feature: Vida Mercenaria
+### Rasgo: Vida Mercenaria
 Conoces la vida de los mercenarios como sólo puede hacerlo alguien que la ha experimentado. Eres capaz de identificar las compañías de mercenarios por sus emblemas, y sabes un poco sobre cualquier compañía de este tipo, incluyendo los nombres y reputaciones de sus comandantes y líderes, y quién los ha contratado recientemente. Puedes encontrar las cantinas y fiestas donde los mercenarios habitan en cualquier área, siempre y cuando hables el idioma, y si pasas al menos una hora en tal lugar puedes encontrar uno de los siguientes datos: una oferta de trabajo, un rumor significativo, una referencia a un comerciante experto, un herrero, etc., o un indicio hacia la continuación de tu búsqueda actual. Además, puedes encontrar trabajo de mercenario entre aventuras suficiente para mantener un estilo de vida confortable (ver "Practicando una profesión" en "Actividades de ocio" en el capítulo 8 del Manual del Jugador).
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Brawny|
-|2|Investigator|
+|2|Investigador|
 |3|Charmer|
 |4|Ace Pilot|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Entertainer|
 |6|Linguist|
@@ -875,45 +875,45 @@ Los mercenarios están formados por su naturaleza vivaz, para bien y para mal. Ti
 
 |d8|Personality Trait|
 |:--:|:--|
-|1|I do not fear death, but accept it as part of life.|
-|2|I have a crude sense of humor.|
-|3|I face problems head-on. A simple, direct solution is the best path to success.|
-|4|I find it good luck to have a flask of ale on me even when the most of my other belongings are gone.|
-|5|I ask a lot of questions.|
-|6|I never pass up a friendly wEdadr.|
-|7|I am always polite and respectful when speaking to those above my station.|
-|8|I like a job well done, especially if I'm not the one doing it.|
+|1|No le temo a la muerte, pero la acepto como parte de la vida.|
+|2|Tengo un crudo sentido del humor.|
+|3|Me enfrento a los problemas de frente. Una solución simple y directa es el mejor camino al éxito.|
+|4|Me da buena suerte tener una botella de cerveza encima, incluso cuando la mayoría de mis otras pertenencias no están.|
+|5|Hago muchas preguntas.|
+|6|Nunca dejo pasar una apuesta amistosa.|
+|7|Siempre soy educado y respetuoso cuando hablo con los que están por encima de mi posición.|
+|8|Me gusta el trabajo bien hecho, especialmente si no soy yo quien lo hace.|
 
 |d6|Ideal|
 |:--:|:--|
-|1|**Greed.** I'm only doing it for the money. (Dark)|
-|2|**Fairness.** We all did the work. it is only right that everyone gets a share of the reward. (Lawful)|
-|3|**Live and Let Live.** You may not have a family left, but your enemy may. A little compassion goes a long way. (Light)|
-|4|**Measure of Last Resort.** Sometimes we have to do things that we REALLY don't want to do, but we must remember that we only do them because we have to. (Chaotic)|
-|5|**Debts.** I never leave a favor left undone and nor will I leave those whom owe me favors on the hook. (Neutral)
-|6|**Aspiration.** I have heard a tale of a legendary person of my class. I strive to be more like them. (Any)|
+|1|**Greed.** Sólo lo hago por el dinero. (Dark)|
+|2|**Fairness.** Todos hicimos el trabajo. Es justo que todos reciban una parte de la recompensa. (Listo)|
+|3|**Live and Let Live.** Puede que no te quede familia, pero tu enemigo sí. Un poco de compasión llega muy lejos. (Luz)|
+|4|**Measure of Last Resort.** A veces tenemos que hacer cosas que REALMENTE no queremos hacer, pero debemos recordar que sólo las hacemos porque tenemos que hacerlo. (Caótico)|
+|5|**Debts.**Nunca dejo un favor sin hacer y tampoco dejaré a los que me deben favores en el anzuelo. (Neutral)
+|6|**Aspiration.** He escuchado un cuento de una persona legendaria de mi clase. Me esfuerzo por ser más como ellos. (Cualquier)|
 
 |d6|Bond|
 |:--:|:--|
-|1|I have a personal debt that must be paid.|
-|2|I am with friends whom I trust with my life as they should trust me with theirs.|
-|3|I come from a family that dislikes weaknesses, so I push myself to know my weaknesses.|
-|4|My life is my honor. I shall, until death, shape my life to what I want it to be.|
-|5|Without a purpose in the world, I find myself to be broken which I do not like.|
-|6|I secretly pursue a love interest that is forbidden by a family whether it is my own or my love's family.|
+|1|Tengo una deuda personal que debe ser pagada.|
+|2|Estoy con amigos a los que les confío mi vida como ellos deberían confiarme la suya.|
+|3|Vengo de una familia a la que le disgustan las debilidades, así que me esfuerzo por conocer mis debilidades.|
+|4|Mi vida es mi honor. Hasta la muerte, moldearé mi vida a lo que yo quiera que sea.|
+|5|Sin un propósito en el mundo, me encuentro roto y no me gusta.|
+|6|Persigo en secreto un interés amoroso prohibido por una familia, ya sea la mía o la de mi amor.|
 
 |d6|Flaw|
 |:--:|:--|
-|1|I am always looking for the bigger pay.|
-|2|I can't tell a lie for the life of me.|
-|3|I judge too easily by special appearance and pride.|
-|4|I am almost always carrying some ale in with my gear.|
-|5|I believe that I am the only skilled person of the group and am even open about it.|
-|6|I will never let a comrade stand alone, even if it gets me killed.|
+|1|Siempre estoy buscando la mejor paga.|
+|2|No puedo decir una mentira por mi vida.|
+|3|Juzgo demasiado fácilmente por la apariencia especial y el orgullo.|
+|4|Casi siempre llevo algo de cerveza con mi equipo.|
+|5|Creo que soy la única persona capacitada del grupo e incluso soy abierta al respecto.|
+|6|Nunca dejaré a un camarada solo, incluso si eso hace que me maten.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Noble
 Entiendes la riqueza, el poder y los privilegios. Tienes un título de nobleza, y tu familia posee tierras, recauda impuestos y ejerce una importante influencia política. Puedes ser un aristócrata mimado que no está familiarizado con el trabajo manual, un antiguo comerciante recién elevado a la nobleza, o un honesto y trabajador terrateniente que se preocupa profundamente por la gente que vive y trabaja en tu tierra.
@@ -933,22 +933,22 @@ ___
 - **Idiomas:** Uno de tu elección
 - Un juego de ropa fina, un anillo de sello, una carta de pedigrí, y un bolso que contiene 250 cr.
 
-### Feature: Posición de privilegio
+### Rasgo: Posición de privilegio
 Gracias a tu noble nacimiento, la gente se inclina a pensar lo mejor de ti. Eres bienvenido en la alta sociedad, y la gente asume que tienes el derecho de estar donde quiera que estés. La gente común hace todos los esfuerzos para acomodarte y evitar tu disgusto, y otras personas de alta cuna te tratan como un miembro de la misma esfera social. Puedes asegurarte una audiencia con un noble local si lo necesitas.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Silver-Tongued|
 |2|Empathic|
 |3|Loremaster|
 |4|Charmer|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Entertainer|
 |6|Linguist|
@@ -966,45 +966,45 @@ Los nobles nacen y se crían con un estilo de vida muy diferente al que la mayorí
 
 |d8|Personality Trait|
 |:---:|:----------|
-|1|My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.|
-|2|The common folk love me for my kindness and generosity.|
-|3|No one could doubt by looking at my regal bearing that I am a cut above the unwashed masses.|
-|4|I take great pains to always look my best and follow the latest fashions.|
-|5|I don't like to get my hands dirty, and I won't be caught dead in unsuitable accommodations. |
-|6|Despite my noble birth, I do not place myself above other folk. We all have the same blood.|
-|7|My favor, once lost, is lost forever.|
-|8|If you do me an injury, I will crush you, ruin your name, and salt your fields.|
+|1|Mi elocuente adulación hace que todos con los que hablo se sientan como la persona más maravillosa e importante del mundo.|
+|2|La gente común me ama por mi amabilidad y generosidad.|
+|3Nadie podría dudar, mirando mi porte real, que soy un corte por encima de las masas sin lavar.|
+|4|Me esfuerzo por estar siempre guapa y seguir la última moda.|
+|5|No me gusta ensuciarme las manos, y no me pillarán muerto en un alojamiento inadecuado. |
+|6|A pesar de mi noble nacimiento, no me pongo por encima de los demás. Todos tenemos la misma sangre.|
+|7|Mi favor, una vez perdido, se pierde para siempre.|
+|8|Si me haces una herida, te aplastaré, arruinaré tu nombre y salaré tus campos.|
 
 |d6|Ideal|
 |:---:|:----------|
-|1|**Respect**. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Light)|
-|2|**Responsibility**. It is my duty to respect the authority of those above me, just as those below me must respect mine. (Lawful)|
-|3|**Independence**. I must prove that I can handle myself without the coddling of my family. (Chaotic)|
-|4|**Power**. If I can attain more power, no one will tell me what to do. (Dark)|
-|5|**Family**. Blood runs thicker than water. (Any)|
-|6|**Noble Obligation**. It is my duty to protect and care for the people beneath me. (Light)|
+|1|**Respect**. El respeto se me debe por mi posición, pero todas las personas, independientemente de su posición, merecen ser tratadas con dignidad. (Luz)|
+|2|**Responsibility**. Es mi deber respetar la autoridad de los que están por encima de mí, así como los que están por debajo deben respetar la mía. (Legal)|
+|3|**Independence**. Debo probar que puedo manejarme sin los mimos de mi familia. (Caótico)|
+|4|**Power**. Si puedo conseguir más poder, nadie me dirá qué hacer. (Oscuridad)|
+|5|**Family**. La sangre es más espesa que el agua. (Cualquier)|
+|6|**Noble Obligation**. Es mi deber proteger y cuidar a la gente que está debajo de mí. (Luz)|
 
 |d6|Bond|
 |:---:|:----------|
-|1|I will face any challenge to win the approval of my family.|
-|2|My house's alliance with another noble family must be sustained at all costs.|
-|3|Nothing is more important than the other members of my family.|
-|4|I am in love with the heir of a family that my family despises.|
-|5|My loyalty to my sovereign is unwavering.|
-|6|The common folk must see me as a hero of the people.|
+|1|Me enfrentaré a cualquier desafío para ganar la aprobación de mi familia.|
+|2|La alianza de mi casa con otra familia noble debe mantenerse a toda costa.|
+|3|Nada es más importante que los otros miembros de mi familia.|
+|4|Estoy enamorada del heredero de una familia que mi familia desprecia.|
+|5|Mi lealtad a mi soberano es inquebrantable.|
+|6|La gente común debe verme como un héroe del pueblo.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|I secretly believe that everyone is beneath me.|
-|2|I hide a truly scandalous secret that could ruin my family forever.|
-|3|I too often hear veiled insults and threats in every word addressed to me, and I'm quick to anger.|
-|4|I have an insatiable desire for carnal pleasures.|
-|5|In fact, the world does revolve around me.|
-|6|By my words and actions, I often bring shame to my family.|
+|1|Creo secretamente que todo el mundo está por debajo de mí.|
+|2|Escondo un secreto escandaloso que podría arruinar a mi familia para siempre.|
+|3|A menudo escucho insultos y amenazas veladas en cada palabra dirigida a mí, y me enojo rápidamente.|
+|4|Tengo un deseo insaciable de placeres carnales.|
+|5|De hecho, el mundo gira a mi alrededor.|
+|6|Por mis palabras y acciones, a menudo avergüenzo a mi familia.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Científico
 Nada te excita más que empujar los límites del conocimiento científico. La mayor parte del tiempo se pasa en un laboratorio realizando experimentos para fomentar sus intereses. Pocas personas entienden el trabajo que haces. Puedes resolver problemas complejos que la mayoría de la gente no puede empezar a entender, y puedes resolver problemas simples de maneras inesperadas que sorprenden a la mayoría de la gente. 
@@ -1022,38 +1022,38 @@ Mientras que los científicos están ampliamente informados, también eligen un enf
 
 <div style='column-count:2'>
 
-| d10 | Field of Research  |
+| d10 | Campo de Investigación  |
 |:----:|:-------------|
-| 1  | Biology |
-| 2  | Artificial Intelligence |
-| 3 | Chemistry |
-| 4 | Geology |
+| 1  | Biología |
+| 2  | Inteligencia Artificial |
+| 3 | Química |
+| 4 | Geología |
 
-| d10 | Field of Research  |
+| d10 | Campo de Investigación  |
 |:----:|:-------------|
-| 5 | Physics |
-| 6 | the Force |
-| 7 | Astrogation |
-| 8 | Medicine |
+| 5 | Física |
+| 6 | la Fuerza |
+| 7 | Astronavegación |
+| 8 | Medicina |
 
 </div>
 
-### Feature: Método científico
+### Rasgo: Método científico
 Usted conoce bien su campo de investigación por haber leído numerosas revistas o haber asistido a conferencias científicas. Los conceptos que son complicados, que implican una jerga técnica que normalmente pasa por encima de la cabeza de la mayoría de la gente, son sencillos para usted. Usted comprende plenamente los conceptos, puede recordar información clave y sabe cómo utilizar el equipo relacionado con su campo, a menos que la investigación se haya ocultado al público, en el que puede que sólo comprenda parcialmente. También reconoces a figuras conocidas en tu campo.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 | 1 | Loremaster |
 | 2 | Medic |
 | 3 | Naturalist |
 | 4 | Techie |
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 | 5 | Crafter |
 | 6 | Linguist |
@@ -1071,45 +1071,45 @@ Los científicos se interesan por cosas que a la mayoría no les importan. Su inve
 
 | d8 | Personality Trait  |
 |:----:|:-------------|
-| 1 | I look up to a renowned scientist in my field, and often talk about their work.  |
-| 2 | I constantly compare my current situation to my past experiments, many of which went terrifyingly wrong.  |
-| 3 | I believe scientific results always comes first. |
-| 4 | I only speak in short incomplete and concise sentences, as they are optimized for efficient communication.  |
-| 5 | I often get lost in my own thoughts and contemplation, becoming oblivious to my surroundings. |
-| 6 | I am unable to think logically under great stress, and begin to shout random scientific words. |
-| 7 | I do not believe in etiquette and disregard social expectations. |
-| 8 | I was, in fact, grown and raised in a laboratory.  |
+| 1 | Miro a un científico de renombre en mi campo, y a menudo hablo de su trabajo. |
+| 2 | Constantemente comparo mi situación actual con mis experimentos pasados, muchos de los cuales salieron terriblemente mal. |
+| 3 | Creo que los resultados científicos siempre son lo primero. |
+| 4 | Sólo hablo en frases cortas, incompletas y concisas, ya que están optimizadas para una comunicación eficiente. |
+| 5 | A menudo me pierdo en mis propios pensamientos y contemplaciones, olvidándome de lo que me rodea. |
+| 6 | No puedo pensar lógicamente bajo un gran estrés y empiezo a gritar palabras científicas al azar. |
+| 7 | No creo en la etiqueta y no tengo en cuenta las expectativas sociales. |
+| 8 | De hecho, crecí y me crié en un laboratorio. |
 
 | d6 | Ideal |
 |:----:|:-------------|
-| 1 | **Transparency.** All discoveries should be open to everyone. (Light) |
-| 2 | **Logic.** Emotions must not cloud our sense of what is right and true, or our logical thinking. (Lawful) |
-| 3 | **Greed.** I'm only in it for the money and fame. (Dark) |
-| 4 | **Free Thinking.** Inquiry and curiosity are the pillars of progress. (Chaotic) |
-| 5 | **Live and Let Live.** Meddling in the affairs of others only causes trouble. (Balanced) |
-| 6 | **Aspiration.** I work hard to be the best there is at my craft. (Any) |
+| 1 | **Transparency.** Todos los descubrimientos deben estar abiertos a todos. (Luz) |
+| 2 | **Logic.** Las emociones no deben nublar nuestro sentido de lo que es correcto y verdadero, o nuestro pensamiento lógico. (Legal) |
+| 3 | **Greed.** Sólo estoy en esto por el dinero y la fama. (Dark) |
+| 4 | **Free Thinking.** La investigación y la curiosidad son los pilares del progreso. (Caótico)  |
+| 5 | **Live and Let Live.**Entrometerse en los asuntos de los demás sólo causa problemas. (Equilibrado) |
+| 6 | **Aspiration.** Trabajo duro para ser el mejor en mi oficio. (Cualquier) |
 
 | d6 | Bond |
 |:----:|:-------------|
-| 1 |  My research is also my best companion.  |
-| 2 |  I will get revenge on the criminals that stole my research. |
-| 3 | The school I studied at is the most important place in the world to me. |
-| 4 | One day I will return to my home planet and prove that I am the greatest scientist of them all. |
-| 5 | I believe my research will be the key to saving the life of a loved one. |
-| 6 | I owe my instructor a great debt for forging me into the person I am today. |
+| 1 |  Mi investigación es también mi mejor compañera. |
+| 2 |  Me vengaré de los criminales que robaron mi investigación. |
+| 3 | La escuela en la que estudié es el lugar más importante del mundo para mí. |
+| 4 | Un día volveré a mi planeta natal y demostraré que soy el mejor científico de todos. |
+| 5 | Creo que mi investigación será la clave para salvar la vida de un ser querido. |
+| 6 | Tengo una gran deuda con mi instructor por haberme convertido en la persona que soy hoy. |
 
 | d6 | Flaw |
 |:----:|:-------------|
-| 1 | I believe only other scientists deserve my respect.  |
-| 2 | I fail to understand why people don't understand my technical jargon.  |
-| 3 | I experiment on myself without thinking about the long term consequences. |
-| 4 | I am paranoid that people are out to steal my research. |
-| 5 | I believe I work better when under the influence of intoxicants. |
-| 6 | I work on my research to the point where I ignore my own bodily needs. |
+| 1 | Creo que sólo otros científicos merecen mi respeto. |
+| 2 | No entiendo por qué la gente no entiende mi jerga técnica. |
+| 3 | Experimento conmigo mismo sin pensar en las consecuencias a largo plazo. |
+| 4 | Estoy paranoico de que la gente salga a robar mi investigación. |
+| 5 | Creo que trabajo mejor cuando estoy bajo la influencia de intoxicantes. |
+| 6 | Trabajo en mi investigación hasta el punto de ignorar mis propias necesidades corporales. |
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Sinvergüenza
 Siempre has tenido una forma de tratar a la gente. Puedes sacar los deseos de su corazón después de unos minutos de conversación, y con unas cuantas preguntas guía puedes leerlos como si fueran libros para niños. Es un talento útil, y uno que estás perfectamente dispuesto a usar para tu beneficio. Sabes lo que la gente quiere y prometes cumplirlo, persuadiendo a la gente para que tome decisiones tontas. Haces que lo improbable suene plausible, y te adelantas a cada trato.
@@ -1125,31 +1125,31 @@ Cada sinvergüenza tiene un ángulo que utiliza en preferencia a otros esquemas. E
 
 |d6|Scam|
 |:--:|:--:|
-|1|I cheat at games involving chance.|
-|2|I shave creds or forge documents.|
-|3|I insinuate myself into people's lives to prey on their weakness and secure their fortunes.|
-|4|I put on new identities like clothes.|
-|5|I run sleight-of-hand cons on street corners.|
-|6|I convince people that worthless junk is worth their hard-earned money.|
+|1|Hago trampas en los juegos de azar.|
+|2|Falsifico creditos y documentos.|
+|3|Me insinúo en la vida de la gente para aprovecharme de sus debilidades y asegurar sus fortunas.|
+|4|Me pongo nuevas identidades como la ropa.|
+|5|Hago estafas en las esquinas de las calles.|
+|6|Convenzo a la gente de que la basura sin valor vale su dinero ganado con esfuerzo.|
 
-### Feature: Identidad falsa 
+### Rasgo: Identidad falsa 
 Ha creado una segunda identidad que incluye documentación, conocidos establecidos y disfraces que le permiten asumir esa persona.
 
 Además, puede falsificar documentos, incluyendo papeles oficiales y cartas personales, siempre y cuando haya visto un ejemplo del tipo de documento o de la letra que está tratando de copiar.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Silver-Tongued|
 |2|Empathic|
 |3|Performer|
 |4|Quick-Fingered|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Master of Disguise|
 |6|Force of Personality|
@@ -1167,57 +1167,57 @@ Los sinvergüenzas son personajes coloridos que ocultan su verdadero ser detrás d
 
 |d8|Personality Trait|
 |:--:|:--|
-|1|I fall in and out of love easily, and am always pursuing someone.|
-|2|I have a joke for every occasion, especially occasions where humor is inappropriate.|
-|3|Flattery is my preferred trick for getting what I want.|
-|4|I'm a born gambler who can't resist taking a risk for a potential payoff.|
-|5|I lie about almost everything, even when there's no good reason to.|
-|6|Sarcasm and insults are my weapons of choice.|
-|7|I keep multiple symbols on me and invoke whatever power might come in useful at any given moment.|
-|8|I pocket anything I see that might have some value.|
+|1|Me enamoro y desenamoro fácilmente, y siempre estoy persiguiendo a alguien.|
+|2|Tengo un chiste para cada ocasión, especialmente para las ocasiones en que el humor es inapropiado.|
+|3|La halterofilia es mi truco preferido para conseguir lo que quiero.|
+|4|Soy un jugador nato que no puede resistirse a arriesgarse por una potencial recompensa.|
+|5|Miento sobre casi todo, incluso cuando no hay una buena razón para hacerlo.|
+|6|El sarcasmo y los insultos son mis armas preferidas.|
+|7|Mantengo múltiples símbolos sobre mí e invoco cualquier poder que pueda ser útil en un momento dado.|
+|8|Me guardo todo lo que veo que pueda tener algún valor.|
 
 |d6|Ideal|
 |:--:|:--|
-|1|**Independence.** I am a free spirit— no one tells me what to do. (Chaotic)|
-|2|**Fairness.** I never target people who can't afford to lose a few creds. (Lawful)|
-|3|**Charity.** I distribute the money I acquire to the people who really need it. (Light)|
-|4|**Creativity.** I never run the same con twice. (Any)|
-|5|**Friendship.** Material goods come and go. Bonds of friendship last forever. (Light)|
-|6|**Aspiration.** I'm determined to make something of myself. (Any)|
+|1|**Independence.** Soy un espíritu libre, nadie me dice qué hacer. (Caótico)|
+|2|**Fairness.** Nunca me dirijo a la gente que no puede permitirse perder unas cuantas credenciales. (Legal)|
+|3|**Charity.** Distribuyo el dinero que adquiero a la gente que realmente lo necesita. (Luz)|
+|4|**Creativity.**Creatividad. Nunca hago la misma estafa dos veces. (Cualquier)|
+|5|**Friendship.**  Los bienes materiales van y vienen. Los lazos de amistad duran para siempre. (Luz)|
+|6|**Aspiration.** Estoy decidido a hacer algo de mí mismo. (Cualquier)|
 
 |d6|Bond|
 |:--:|:--|
-|1|I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about.|
-|2|I owe everything to my mentor—a horrible person who's probably rotting in jail somewhere.|
-|3|Somewhere out there, I have a child who doesn't know me. I'm making the world better for him or her.|
-|4|I come from a noble family, and one day I'll reclaim my lands and title from those who stole them from me.|
-|5|A powerful person killed someone I love. Some day soon, I'll have my revenge.|
-|6|I swindled and ruined a person who didn't deserve it, and I seek to atone for my misdeeds.|
+|1|Desplumé a la persona equivocada y debo trabajar para asegurarme de que este individuo nunca se cruce conmigo o con los que me importan.|
+|2|Le debo todo a mi mentor, una persona horrible que probablemente se esté pudriendo en la cárcel.|
+|3|En algún lugar allá afuera, tengo un hijo que no me conoce. Estoy haciendo el mundo mejor para él o ella.|
+|4|Vengo de una familia noble, y un día reclamaré mis tierras y el título de aquellos que me las robaron.|
+|5|Una persona poderosa mató a alguien que amo. Algún día pronto, tendré mi venganza.|
+|6|Estafé y arruiné a una persona que no se lo merecía, y busco expiar mis fechorías.|
 
 |d6|Flaw|
 |:--:|:--|
-|1|I can't resist a pretty face.|
-|2|I'm always in debt. I spend my ill-gotten gains on decadent luxuries faster than I bring them in.|
-|3|I'm convinced that no one could ever fool me the way I fool others.|
-|4|I'm too greedy for my own good. I can't resist taking a risk if there's money involved.|
-|5|I can't resist swindling people who are more powerful than me.|
-|6|I hate to admit it and will hate myself for it, but I'll run and preserve my own hide if the going gets tough.|
+|1|No puedo resistirme a una cara bonita.|
+|2|Siempre estoy en deuda. Gasto mis ganancias mal habidas en lujos decadentes más rápido de lo que las traigo.|
+|3|Estoy convencido de que nadie podría engañarme como yo engaño a los demás.|
+|4|Soy demasiado codicioso para mi propio bien. No puedo resistirme a arriesgarme si hay dinero de por medio.|
+|5|No puedo resistirme a estafar a gente que es más poderosa que yo.|
+|6|Odio admitirlo y me odiaré a mí mismo por ello, pero correré y preservaré mi propio pellejo si las cosas se ponen difíciles.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Sith
 Eres un acólito de la Orden Sith: una antigua orden de guerreros dedicados al lado oscuro de la Fuerza. Emergiendo como una facción divergente de la Orden Jedi, los Sith son enemigos mortales de los Jedi y luchan contra ellos. Impulsados por emociones como el odio, la ira y la codicia, los Sith son engañosos y están obsesionados con acumular poder a cualquier precio. Sigues el Código Sith:
 
 <div align="center">
 
-*"Peace is a lie. There is only passion.<br>
-Through passion I gain strength.<br>
-Through strength I gain power.<br>
-Through power I gain victory.<br>
-Through victory my chains are broken.<br>
-The Force shall free me."*
+*"La paz es una mentira. Sólo hay pasión.<br>
+A través de la pasión gano fuerza.<br>
+A través de la fuerza gano poder.<br>
+A través del poder gano la victoria.<br>
+A través de la victoria mis cadenas se rompen.<br>
+La Fuerza me liberará."*
 
 </div>
 
@@ -1227,24 +1227,24 @@ ___
 - **Idiomas:** Uno de tu elección
 - **Equipamiento:** Una copia del código Sith, un conjunto de ropa común incluyendo una bata, y una bolsa de cinturón que contiene 150 cr
 
-### Feature: Asilo de los Temerosos
+### Rasgo: Asilo de los Temerosos
 Como Sith, infundes miedo a aquellos que son conscientes de tu posición. Usted y sus compañeros de aventura pueden esperar recibir curación y cuidados gratuitos en cualquier templo Sith, y aquellos que son conscientes de su naturaleza le apoyarán (pero sólo a usted) en un estilo de vida modesto.
 
 También puede tener vínculos con un templo Sith específico y tener una residencia allí. Este podría ser el templo en el que te has entrenado, o un templo en el que has encontrado un nuevo hogar. Mientras estés cerca de tu templo, puedes pedir ayuda a los Sith, siempre y cuando les pidas beneficios y te mantengas en buena posición con tu templo.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Silver-Tongued|
 |2|Empathic|
 |3|Threatening|
 |4|Loremaster|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Linguist|
 |6|Crafter|
@@ -1262,45 +1262,45 @@ Los Sith están formados por su entrenamiento. Estudian el código Sith y lo usan 
 
 |d8|Personality Trait|
 |:---:|:----------|
-|1|I idolize a particular Sith, and constantly refer to that person's deeds and example.|
-|2|I can find common ground between the fiercest enemies, empathizing with them and always working towards peace.|
-|3|I see omens in every event and action. The Force tries to speak to us, we just need to listen|
-|4|Nothing can shake my optimistic attitude.|
-|5|I quote (or misquote) sacred Sith texts and proverbs in almost every situation.|
-|6|I am tolerant (or intolerant) of those who don't support the Sith.|
-|7|I've enjoyed fine food, drink, and high society. Rough living grates on me.|
-|8|I've spent so long in the Sith temple that I have little practical experience dealing with people in the  world.|
+|1|Idolatro a un Sith en particular, y constantemente me refiero a los actos y el ejemplo de esa persona.|
+|2|Puedo encontrar un punto en común entre los enemigos más feroces, empatizando con ellos y siempre trabajando por la paz.|
+|3|Veo presagios en cada evento y acción. La Fuerza intenta hablarnos, sólo tenemos que escuchar.|
+|4|Nada puede sacudir mi actitud optimista.|
+|5|Cito (o cito mal) textos sagrados Sith y proverbios en casi todas las situaciones.|
+|6|Soy tolerante (o intolerante) con los que no apoyan a los Sith.|
+|7|He disfrutado de la buena comida, la bebida y la alta sociedad. La vida es dura para mí.|
+|8|He pasado tanto tiempo en el templo Sith que tengo poca experiencia práctica en tratar con gente del mundo.|
 
 |d6|Ideal|
 |:---:|:----------|
-|1|**Tradition**. The ancient traditions of worship and sacrifice must be preserved and upheld. (Any)|
-|2|**Disdain**. I never try to help those in need, regardless of how simple it would be. (Dark)|
-|3|**Change**. We must help bring about the changes the Force is constantly working in the world. (Any)|
-|4|**Power**. I hope to one day rise to the rank of Dark Lord of the Sith. (Any)|
-|5|**Faith**. I trust that the Force will guide my actions; I have faith that if I work hard, things will go well. (Any)|
-|6|**Aspiration**. I seek to prove myself worthy of the Force by matching my actions against the Sith teachings. (Any)|
+|1|**Tradition**. Las antiguas tradiciones de culto y sacrificio deben ser preservadas y mantenidas. (Cualquier)|
+|2|**Disdain**.  Nunca trato de ayudar a los necesitados, por muy simple que sea. (Oscuridad)|
+|3|**Change**. Debemos ayudar a que se produzcan los cambios que la Fuerza trabaja constantemente en el mundo. (Cualquier)|
+|4|**Power**. Espero que algún día ascienda al rango de Señor Oscuro de los Sith. (Cualquier)|
+|5|**Faith**. Confío en que la Fuerza guiará mis acciones; tengo fe en que si trabajo duro, las cosas irán bien. (Cualquier)|
+|6|**Aspiration**.  Busco probar que soy digno de la Fuerza comparando mis acciones con las enseñanzas de los Sith. (Cualquier)|
 
 |d6|Bond|
 |:---:|:---------|
-|1|I would die to recover an ancient Sith relic that was lost long ago.|
-|2|I will someday get revenge on those who razed my temple.|
-|3|I owe my life to the Sith who took me in when my parents died.|
-|4|Everything I do is for the common people.|
-|5|I will do anything to protect the temple where I served.|
-|6|I seek to preserve a sacred text that my enemies seek to destroy.|
+|1|Moriría por recuperar una antigua reliquia Sith que se perdió hace mucho tiempo.|
+|2|Algún día me vengaré de los que arrasaron mi templo.|
+|3|Le debo mi vida a los Sith que me acogieron cuando mis padres murieron.|
+|4|Todo lo que hago es para la gente común.|
+|5|Haré lo que sea para proteger el templo donde serví.|
+|6|Busco preservar un texto sagrado que mis enemigos buscan destruir.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|I judge others harshly, and myself even more severely.|
-|2|I put too much trust in those who wield power within my temple's hierarchy.|
-|3|My piety sometimes leads me to blindly trust those that profess faith in the Force.|
-|4|I am inflexible in my thinking.|
-|5|I am suspicious of strangers and expect the worst of them.|
-|6|Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.|
+|1|Juzgo a los demás con dureza, y a mí mismo con más severidad.|
+|2|Confío demasiado en aquellos que ejercen el poder dentro de la jerarquía de mi templo.|
+|3|Mi piedad a veces me lleva a confiar ciegamente en aquellos que profesan la fe en la Fuerza.|
+|4|Soy inflexible en mi pensamiento.|
+|5|Sospecho de los extraños y espero lo peor de ellos.|
+|6|Una vez que escojo un objetivo, me obsesiono con él en detrimento de todo lo demás en mi vida.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Contrabandista
 Has pasado tu vida escondiéndote en la oscuridad, haciendo tratos turbios a puerta cerrada. ¿Qué te llevó a comprometerte en una vida de crimen? ¿Anhela la emoción de violar la ley, o entró en la profesión para pagar una deuda, arriesgando su pellejo en nombre de un noble menos honorable? Un contrabandista es un individuo entrenado en el arte de la adquisición, un matón profesional que puede entregar cualquier cosa... por un precio. Los contrabandistas tienden a ser criminales más audaces que la mayoría, prefiriendo el soborno o la distracción al subterfugio y el sigilo.
@@ -1309,22 +1309,22 @@ ___
 - **Tool Proficiencies:** One type of gaming set and your choice of demolitions kit, security kit, or slicer's kit
 - **Equipment:** A fusion cutter, a set of dark common clothes including a hood, and a belt pouch containing 150 cr
 
-### Feature: Selección cuidadosa
+### Rasgo: Selección cuidadosa
 Algunos roces con la ley le han enseñado que no todos los guardias de la ciudad pueden ser sobornados, y algunas personas son simplemente demasiado entusiastas para perderse las diminutas discrepancias. Esta característica te permite estudiar a una persona y comprender si aceptaría o no un soborno, o captar si es excepcionalmente más perspicaz que tú. Sin embargo, no revela lo caro que puede ser un soborno para una situación determinada.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Silver-Tongued|
 |2|Ace Pilot|
 |3|Quick-Fingered|
 |4|Stealthy|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Entertainer|
 |6|Demolitionist|
@@ -1342,50 +1342,50 @@ Los contrabandistas pueden parecer villanos en la superficie, y muchos de ellos 
 
 |d8|Personality Trait|
 |:---:|:----------|
-|1|I am extremely sociable, especially over a mug of ale.|
-|2|I always keep my wares close to me, you never know who might stumble across them otherwise.|
-|3|The best way to hide is out in the open.|
-|4|I'm a terrible gossip.|
-|5|Being seen with any unsavory figures is a sure way to undermine my work, which is why I work out of sight.|
-|6|Deflecting questions has become second nature to me, so I rarely answer straight.|
-|7|I have dozens of identities and live in constant fear of answering to the wrong name.|
-|8|I act irrationally confident in the face of danger, nobody suspects anything when you seem like you're in charge.|
+|1|Soy extremadamente sociable, especialmente con una taza de cerveza.|
+|2|Siempre mantengo mi mercancía cerca de mí, nunca se sabe quién podría tropezar con ella de otra manera.|
+|3|La mejor manera de esconderse es a la intemperie.|
+|4|Soy un terrible chismoso.|
+|5|Ser visto con cualquier figura desagradable es una forma segura de socavar mi trabajo, por eso trabajo fuera de la vista.|
+|6|Desviar las preguntas se ha convertido en algo natural para mí, así que raramente respondo directamente.|
+|7|Tengo docenas de identidades y vivo con el miedo constante de responder al nombre equivocado.|
+|8|Actúo irracionalmente confiado ante el peligro, nadie sospecha nada cuando pareces estar a cargo.|
 
 |d6|Ideal|
 |:---:|:----------|
-|1|**Morals.** I only smuggle things to improve the lives of the common folk. (Light)|
-|2|**Ruthless.** I will rise to the top of the heap by any means necessary. (Dark)|
-|3|**Friendship.** My associates are dear to me, and I want them to rise with me when I hit it big. (Lawful)|
-|4|**Dauntless.** No border crossing or bribe is too difficult- that's just the coward's way of saying exciting! (Chaotic)|
-|5|**Greater.** Good I work for a greater cause, and ply my trade only in service to it. (Any)|
-|6|**Unperturbed.** I only want to make a living for myself, and smuggling is just an edge I can use to do so. (Neutral)|
+|1|**Morals.** Sólo hago contrabando para mejorar la vida de la gente común. (Luz)|
+|2|**Ruthless.** Subiré a la cima del montón por cualquier medio necesario. (Dark)|
+|3|**Friendship.** Mis socios son muy queridos para mí, y quiero que se levanten conmigo cuando llegue a lo más alto. (Legal)|
+|4|**Dauntless.** No cruzar la frontera o sobornar es muy difícil, ¡es la forma cobarde de decir "emocionante"! (Caótico)|
+|5|**Greater.** Bien, trabajo por una causa mayor, y sólo me dedico a servirla. (Cualquier)|
+|6|**Unperturbed.** Sólo quiero ganarme la vida, y el contrabando es sólo una ventaja que puedo usar para hacerlo. (Neutral)|
 
 |d6|Bond|
 |:---:|:----------|
-|1|A corrupt official shut me down back in my honest days. I aim to show him a thing or two about recovery.|
-|2|I never wanted to be a criminal, but it pays the bills.|
-|3|A bloodthirsty pirate stole a shipment from me and killed a dear friend of mine. I will have my vengeance.|
-|4|Someone I cared about discovered my profession and has publicly denounced me, and I am caught between protecting my reputation and restoring our relationship.|
-|5|My love interest is someone who once stole from right under my nose- but they have no idea who I am or how much I admire them for their accomplishment.|
-|6|My business partners are closer to me than my family.|
+|1| Un funcionario corrupto me cerró en mis días honestos. Quiero mostrarle un par de cosas sobre la recuperación.|
+|2|Nunca quise ser un criminal, pero eso paga las cuentas.|
+|3|Un pirata sediento de sangre me robó un cargamento y mató a un querido amigo mío. Tendré mi venganza.|
+|4|Alguien que me importaba descubrió mi profesión y me ha denunciado públicamente, y estoy atrapada entre proteger mi reputación y restaurar nuestra relación.|
+|5|Mi interés amoroso es alguien que una vez robó delante de mis narices... pero no tienen ni idea de quién soy o cuánto los admiro por sus logros.|
+|6|Mis socios están más cerca de mí que mi familia.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|"Trust nobody, not even yourself." I am plagued by paranoia.|
-|2|I'm so charismatic that sometimes I woo myself. Who am I, Narcissus?|
-|3|Money is my greatest motivator. I'll do almost anything given enough of it, even if I'll regret it later.|
-|4|I would betray anyone to save my own skin.|
-|5|I detach myself from the results of my actions in order to sleep better at night.|
-|6|Someone who knows me well might call me "two-faced" but those who don't have no idea what hit 'em.|
+|1|"No confíes en nadie, ni siquiera en ti mismo". Estoy plagado de paranoia.|
+|2|Soy tan carismático que a veces me cortejo a mí mismo. ¿Quién soy, Narciso?|
+|3|El dinero es mi mayor motivación. Haré casi todo lo que sea necesario, incluso si me arrepiento después.|
+|4|Traicionaría a cualquiera para salvar mi propio pellejo.|
+|5|Me separo de los resultados de mis acciones para dormir mejor por la noche.|
+|6|Alguien que me conoce bien podría llamarme "dos caras", pero los que no tienen ni idea de lo que les golpeó.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Soldado
 La guerra ha sido tu vida desde que te preocupas por recordar. Te entrenaste de joven, estudiaste el uso de armas y armaduras, aprendiste técnicas básicas de supervivencia, incluyendo cómo mantenerte vivo en el campo de batalla. Puede que hayas formado parte de un ejército nacional permanente, una compañía de mercenarios, o quizás un miembro de una milicia local que se hizo famosa durante una guerra reciente.
 
-Cuando elijas estos antecedentes, trabaja con tu GM para determinar de qué organización militar formaste parte, cuánto progresaste en sus filas y qué tipo de experiencias tuviste durante tu carrera militar. ¿Fue un ejército permanente, una guardia de pueblo, una milicia de pueblo, o tal vez una empresa privada.
+Cuando elijas estos trasfondos, trabaja con tu GM para determinar de qué organización militar formaste parte, cuánto progresaste en sus filas y qué tipo de experiencias tuviste durante tu carrera militar. ¿Fue un ejército permanente, una guardia de pueblo, una milicia de pueblo, o tal vez una empresa privada.
 
 ___
 
@@ -1415,22 +1415,22 @@ Durante su tiempo como soldado, tuvo un papel específico que desempeñar en su un
 
 </div>
 
-### Feature: Rango militar
+### Rasgo: Rango militar
 Tienes un rango militar de tu carrera como soldado. Los soldados leales a su antigua organización militar aún reconocen su autoridad e influencia, y le dan preferencia si son de un rango inferior. Puedes invocar tu rango para ejercer influencia sobre otros soldados y requisar equipo simple para uso temporal. También puedes acceder a campamentos militares amigos donde se reconoce tu rango.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Brawny|
 |2|Threatening|
 |3|Charmer|
 |4|Ace Pilot|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Entertainer|
 |6|Linguist|
@@ -1448,45 +1448,45 @@ Los horrores de la guerra combinados con la rígida disciplina del servicio milit
 
 |d8|Personality Trait|
 |:---:|:----------|
-|1|I'm always polite and respectful.|
-|2|I'm haunted by memories of war. I can't get the imagess of violence out of my mind.|
-|3|I've lost too many friends, and I'm slow to make new ones.|
-|4|I'm full of inspiring and cautionary tales from my military experience relevant to almost every combat situation.|
-|5|I can stare down a hell hound without flinching.|
-|6|I enjoy being strong and like breaking things.|
-|7|I have a crude sense of humor. |
-|8|I face problems head-on. A simple, direct solution is the best path to success.|
+|1|Siempre soy educada y respetuosa.|
+|2|Me persiguen los recuerdos de la guerra. No puedo sacar las imágenes de la violencia de mi mente.|
+|3|He perdido demasiados amigos, y soy lenta para hacer nuevos.|
+|4|Estoy lleno de historias inspiradoras y cautelosas de mi experiencia militar, relevantes para casi todas las situaciones de combate.|
+|5|Puedo mirar fijamente a un perro del infierno sin pestañear.|
+|6|Me gusta ser fuerte y me gusta romper cosas.|
+|7|Tengo un sentido del humor burdo. |
+|8|Me enfrento a los problemas de frente. Una solución simple y directa es el mejor camino al éxito.|
 
 |d6|Ideal|
 |:---:|:----------|
-|1|**Greater Good**. Our lot is to lay down our lives in defense of others. (Light)|
-|2|**Responsibility**. I do what I must and obey just authority. (Lawful)|
-|3|**Independence**. When people follow orders blindly, they embrace a kind of tyranny. (Chaotic)|
-|4|**Might**. In life as in war, the stronger force wins. (Dark)|
-|5|**Live and Let Live**. Ideals aren't worth killing over or going to war for. (Neutral)|
-|6|**Nation**. My city, nation, or people are all that matter. (Any)|
+|1|**Greater Good**. Nuestra suerte es dar nuestras vidas en defensa de los demás. (Luz)|
+|2|**Responsibility**. Hago lo que debo y obedezco a la autoridad justa. (Legal)|
+|3|**Independence**. Cuando la gente sigue órdenes ciegamente, abrazan una especie de tiranía. (Caótico)|
+|4|**Might**. En la vida como en la guerra, la fuerza más fuerte gana. (Oscuridad)|
+|5|**Live and Let Live**. No vale la pena matar por los ideales o ir a la guerra por ellos. (Neutral|
+|6|**Nation**. Mi ciudad, mi nación o mi gente es todo lo que importa. (Cualquier)|
 
 |d6|Bond|
 |:---:|:----------|
-|1|I would still lay down my life for the people I served with.|
-|2|Someone saved my life on the battlefield. To this day, I will never leave a friend behind.|
-|3|My honor is my life.|
-|4|I'll never forget the crushing defeat my company suffered or the enemies who dealt it.|
-|5|Those who fight beside me are those worth dying for.|
-|6|I fight for those who cannot fight for themselves.|
+|1|Todavía daría mi vida por la gente con la que serví.|
+|2|Alguien me salvó la vida en el campo de batalla. Hasta hoy, nunca dejaré a un amigo atrás.|
+|3|Mi honor es mi vida.|
+|4|Nunca olvidaré la aplastante derrota que sufrió mi compañía o los enemigos que la trataron.|
+|5|Los que luchan a mi lado son aquellos por los que vale la pena morir.|
+|6|Peleo por aquellos que no pueden pelear por sí mismos.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|The monstrous enemy we faced in battle still leaves me quivering with fear.|
-|2|I have little respect for anyone who is not a proven warrior.|
-|3|I made a terrible mistake in battle cost many lives— and I would do anything to keep that mistake secret.|
-|4|My hatred of my enemies is blind and unreasoning.|
-|5|I obey the law, even if the law causes misery.|
-|6|I'd rather eat my armor than admit when I'm wrong.|
+|1|El monstruoso enemigo que enfrentamos en la batalla aún me deja temblando de miedo.|
+|2|Tengo poco respeto por cualquiera que no sea un guerrero probado.|
+|3|Cometí un terrible error en la batalla que costó muchas vidas... y haría cualquier cosa para mantener ese error en secreto.|
+|4|Mi odio hacia mis enemigos es ciego e irracional.|
+|5|Obedezco la ley, incluso si la ley causa miseria.|
+|6|Prefiero comerme mi armadura que admitir cuando me equivoco.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
 
 ## Spacer
 A bordo de una nave estelar en el frío vacío del espacio es donde te sientes más a gusto. Has pasado la mayor parte de tu vida viajando por las estrellas. La vida a bordo de las naves te ha dado una buena comprensión de su funcionamiento interno. Puede ser especialmente hábil como mecánico de naves, piloto o personal de apoyo.
@@ -1517,22 +1517,22 @@ Durante tu tiempo como espaciador, tuviste un papel específico que desempeñar a 
 
 </div>
 
-### Feature: Bien viajado
+### Rasgo: Bien viajado
 Como espaciador, has estado de un extremo a otro de la galaxia. Has viajado a lo largo de muchas de las rutas comerciales, y conoces las rutas más seguras. Tienes un conocimiento experto de los diversos hiperlanes. Además, conoces un gran número de los modelos y diseños de naves espaciales comunes que se encuentran en la galaxia.
 
-### Background Feat
-Como una encarnación más de la experiencia y el entrenamiento de sus antecedentes, puede elegir entre las siguientes hazañas:
+### Dote de Trasfondo
+Como una encarnación más de la experiencia y el entrenamiento de sus trasfondos, puede elegir entre las siguientes hazañas:
 
 <div style='column-count:2'>
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |1|Empathic|
 |2|Investigator|
 |3|Ace Pilot|
 |4|Techie|
 
-|d8|Feat|
+|d8|Dote|
 |:--:|:--:|
 |5|Gourmand|
 |6|Genius Mechanic|
@@ -1550,42 +1550,42 @@ Los espaciadores provienen de todas las clases sociales, y las responsabilidades
 
 |d8|Personality Trait|
 |:---:|:---------|
-|1|My crewmates know they can rely on me, no matter what.|
-|2|I work hard so that I can play hard when the work is done.|
-|3|I enjoy traveling into new systems and making new friends over a drink.|
-|4|I stretch the truth for the sake of a good story.|
-|5|To me, a bar brawl is a nice way to get to know a new city.|
-|6|I never pass up a friendly wEdadr.|
-|7|The best way to get me to do something is to tell me I can't do it.|
-|8|I like a job well done, especially if I can convince someone else to do it.|
+|1|Mis compañeros de tripulación saben que pueden confiar en mí, sin importar lo que pase.|
+|2|Trabajo duro para poder jugar duro cuando el trabajo esté hecho.|
+|3|Disfruto viajando a nuevos sistemas y haciendo nuevos amigos con un trago.|
+|4|Estiro la verdad por el bien de una buena historia.|
+|5|Para mí, una pelea en un bar es una buena manera de conocer una nueva ciudad.|
+|6|Nunca dejo pasar una apuesta amistosa.|
+|7|La mejor manera de conseguir que haga algo es decirme que no puedo hacerlo.|
+|8|Me gusta el trabajo bien hecho, especialmente si puedo convencer a alguien más de que lo haga.|
 
 |d6|Ideal|
 |:---:|:---------|
-|1|**Respect**. The thing that keeps a ship together is mutual respect between captain and crew. (Light)|
-|2|**Fairness**. We all do the work, so we all share in the rewards. (Lawful)|
-|3|**Freedom**. Space is freedom — the freedom to go anywhere and do anything. (Chaotic)|
-|4|**Mastery**. I'm a predator, and the other ships we come across are my prey. (Dark)|
-|5|**People**. I'm committed to my crewmates, not to ideals. (Neutral)|
-|6|**Aspiration**. Someday, I'll own my own ship and chart my own destiny. (Any)|
+|1|**Respect**. Lo que mantiene un barco unido es el respeto mutuo entre el capitán y la tripulación. (Luz)|
+|2|**Fairness**. Todos hacemos el trabajo, así que todos compartimos las recompensas. (Legal)|
+|3|**Freedom**. El espacio es libertad, la libertad de ir a cualquier lugar y hacer cualquier cosa. (Caótico)|
+|4|**Mastery**. Soy un depredador, y las otras naves que nos encontramos son mi presa. (Oscuridad)|
+|5|**People**. Estoy comprometido con mis compañeros de tripulación, no con los ideales. (Neutral)|
+|6|**Aspiration**. Algún día, seré dueño de mi propia nave y trazaré mi propio destino. (Cualquier)|
 
 |d6|Bond|
 |:---:|:----------|
-|1|I'm loyal to my captain first, everything else second.|
-|2|The ship is most important—crewmates and captains come and go.|
-|3|I'll always remember my first ship.|
-|4|I will become the greatest captain that ever lived.|
-|5|I was cheated out of my fair share of the profits, and I want to get my due.|
-|6|Ruthless space pirates murdered my captain and crewmates, stole all we owned, and left me lo die. Vengeance will be mine.|
+|1|Primero soy leal a mi capitán, todo lo demás es secundario.|
+|2|El barco es lo más importante, los compañeros de tripulación y los capitanes van y vienen.|
+|3|Siempre recordaré mi primer barco.|
+|4|Me convertiré en el más grande capitán que jamás haya existido.|
+|5|Me engañaron con mi parte de las ganancias, y quiero recibir lo que me corresponde.|
+|6|Despiadados piratas espaciales asesinaron a mi capitán y compañeros, robaron todo lo que teníamos y me dejaron morir. La venganza será mía.|
 
 |d6|Flaw|
 |:---:|:----------|
-|1|	I follow orders, even if I think they're wrong.|
-|2|	I'll say anything to avoid having to do extra work.|
-|3|Once someone questions my courEdad, I never back down no matter how dangerous the situation.|
-|4|	Once I start drinking, it's hard for me to stop.|
-|5|	I can't help but pocket loose coins and other trinkets I come across.|
-|6|My pride will probably lead to my destruction.|
+|1|	Sigo órdenes, incluso si creo que están equivocadas.|
+|2| Diré cualquier cosa para evitar tener que hacer trabajo extra.|
+|3| Una vez que alguien cuestiona mi valor, nunca me echo atrás, no importa lo peligrosa que sea la situación.|
+|4|	Una vez que empiezo a beber, es difícil para mí parar.|
+|5|	No puedo dejar de guardar monedas sueltas y otras baratijas que encuentro.|
+|6| Mi orgullo probablemente me lleve a la destrucción.|
 
 <div class='footnote'>CAPITULO 4 | PERSONALIDAD Y TRASFONDO</div>
 
-\pEdadbreakNum
+\pagebreakNum
